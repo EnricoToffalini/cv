@@ -1,0 +1,58 @@
+schema_version: "1.0.0"
+allowed_modes:
+  - all
+  - selected
+  - summary
+  - compact
+  - omit
+
+section_order:
+  - academic_positions
+  - education
+  - research_profile
+  - grants
+  - scientific_organization
+  - publications
+  - editorial
+  - teaching
+  - supervision
+  - institutional_service
+  - international_experience
+  - professional_experience
+  - presentations
+  - outreach
+  - skills
+
+full:
+  academic_positions: all
+  education: all
+  research_profile: all
+  grants: all
+  scientific_organization: all
+  publications: all
+  editorial: all
+  teaching: all
+  supervision: all
+  institutional_service: all
+  international_experience: all
+  professional_experience: all
+  presentations: all
+  outreach: all
+  skills: all
+
+short:
+  academic_positions: all
+  education: selected
+  research_profile: compact
+  grants: selected
+  scientific_organization: selected
+  publications: selected
+  editorial: selected
+  teaching: summary
+  supervision: summary
+  institutional_service: selected
+  international_experience: selected
+  professional_experience: selected
+  presentations: omit
+  outreach: selected
+  skills: compact

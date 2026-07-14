@@ -1,0 +1,422 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 9, 23]
+      ],
+      "date-time": "2025-09-23T12:21:51Z",
+      "timestamp": 1758630111240,
+      "version": "3.37.3"
+    },
+    "reference-count": 33,
+    "publisher": "Informa UK Limited",
+    "issue": "7",
+    "funder": [
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "University of Padova",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "www.tandfonline.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Cognition and Emotion",
+    "published-print": {
+      "date-parts": [
+        [2020, 10, 2]
+      ]
+    },
+    "DOI": "10.1080/02699931.2020.1749034",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 4, 6]
+      ],
+      "date-time": "2020-04-06T04:49:00Z",
+      "timestamp": 1586148540000
+    },
+    "page": "1489-1498",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": "False memory for pictorial scripted material: the role of distinctiveness and negative emotion",
+    "prefix": "10.1080",
+    "volume": "34",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Chiara",
+        "family": "Mirandola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Carla",
+        "family": "De Simone Irace",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1154-9528",
+        "authenticated-orcid": false,
+        "given": "Gianmarco",
+        "family": "Altoè",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [2020, 4, 5]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/emo0000171"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(79)90009-4"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-7916(94)90063-9"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v080.i01"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0032492"
+      },
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/emo0000590"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/emo0000458"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691614551642"
+      },
+      {
+        "key": "CIT0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.27.4.931"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2007.11.007"
+      },
+      {
+        "key": "CIT0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015621"
+      },
+      {
+        "key": "CIT0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/CABN.4.1.1"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2008.20080"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-016-0642-7"
+      },
+      {
+        "key": "CIT0015",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13423-016-1221-4"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2017.10.003"
+      },
+      {
+        "key": "CIT0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0148716"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2015.1075379"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2020.109861"
+      },
+      {
+        "key": "CIT0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.795976"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21105/joss.01023"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.27.2.328"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/271063"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/abn0000418"
+      },
+      {
+        "key": "CIT0025",
+        "volume-title": "STAI, state-trait anxiety inventory, forma Y: Manuale",
+        "year": "1996",
+        "author": "Spielberger C."
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjop.12371"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2014.11.029"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2014.02.042"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0080017"
+      },
+      {
+        "key": "CIT0030",
+        "year": "2010",
+        "author": "Watanabe S.",
+        "first-page": "3571",
+        "volume": "11",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jmla.2002.2864"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jmla.1995.1028"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2010.02.016"
+      }
+    ],
+    "container-title": "Cognition and Emotion",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/02699931.2020.1749034",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2021, 5, 12]
+      ],
+      "date-time": "2021-05-12T15:35:50Z",
+      "timestamp": 1620833750000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/02699931.2020.1749034"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 4, 5]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [2020, 10, 2]
+        ]
+      }
+    },
+    "alternative-id": "10.1080/02699931.2020.1749034",
+    "URL": "https://doi.org/10.1080/02699931.2020.1749034",
+    "relation": {},
+    "ISSN": ["0269-9931", "1464-0600"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0269-9931"
+      },
+      {
+        "type": "electronic",
+        "value": "1464-0600"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 4, 5]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement",
+        "group": {}
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pcem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pcem20",
+        "group": {}
+      },
+      {
+        "value": "2019-06-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-01-24",
+        "order": 1,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-03-24",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-04-05",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

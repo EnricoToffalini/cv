@@ -1,0 +1,64 @@
+---
+params:
+  lang: it
+  level: full
+format:
+  html:
+    css: styles/cv.scss
+    toc: false
+    embed-resources: true
+    link-external-newwindow: true
+  pdf:
+    pdf-engine: lualatex
+    include-in-header: styles/cv-header.tex
+    documentclass: scrartcl
+    classoption:
+      - DIV=11
+      - headings=small
+    geometry:
+      - top=16mm
+      - bottom=17mm
+      - left=18mm
+      - right=18mm
+    papersize: a4
+    fontsize: 9.5pt
+    colorlinks: true
+execute:
+  echo: false
+  warning: false
+  message: false
+  error: true
+---
+
+```{r}
+source("R/utils.R")
+source("R/bibliography.R")
+source("R/load_cv.R")
+source("R/select_cv.R")
+source("R/validate_cv.R")
+source("R/render_cv.R")
+
+cv <- load_cv(lang = params$lang, level = params$level)
+validate_loaded_cv(cv, strict = TRUE)
+```
+
+```{r}
+#| output: asis
+cat(render_header(cv))
+cat(render_section(cv, "academic_positions"))
+cat(render_section(cv, "education"))
+cat(render_section(cv, "research_profile"))
+cat(render_section(cv, "grants"))
+cat(render_section(cv, "scientific_organization"))
+cat(render_section(cv, "publications"))
+cat(render_section(cv, "editorial"))
+cat(render_section(cv, "teaching"))
+cat(render_section(cv, "supervision"))
+cat(render_section(cv, "institutional_service"))
+cat(render_section(cv, "international_experience"))
+cat(render_section(cv, "professional_experience"))
+cat(render_section(cv, "presentations"))
+cat(render_section(cv, "outreach"))
+cat(render_section(cv, "skills"))
+cat(render_footer(cv))
+```

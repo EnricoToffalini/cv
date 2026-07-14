@@ -1,0 +1,172 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 9]
+      ],
+      "date-time": "2026-07-09T13:58:22Z",
+      "timestamp": 1783605502480,
+      "version": "3.55.0"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Psychology and Aging",
+    "DOI": "10.1037/pag0000275",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2018, 8, 9]
+      ],
+      "date-time": "2018-08-09T14:27:37Z",
+      "timestamp": 1533824857000
+    },
+    "page": "814-831",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": "Mental rotation training in older adults: The role of practice and strategy.",
+    "prefix": "10.1037",
+    "volume": "33",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1838-7958",
+        "authenticated-orcid": false,
+        "given": "Chiara",
+        "family": "Meneghetti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4141-3824",
+        "authenticated-orcid": false,
+        "given": "Elena",
+        "family": "Carbone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonino",
+        "family": "Di Maggio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erika",
+        "family": "Borella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [2018, 8]
+      ]
+    },
+    "container-title": "Psychology and Aging",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/pag/33/5/814.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 2, 5]
+      ],
+      "date-time": "2024-02-05T23:03:49Z",
+      "timestamp": 1707174229000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/pag0000275"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2018, 8]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [2018, 8]
+        ]
+      }
+    },
+    "alternative-id": ["2018-39034-005", "30091630"],
+    "URL": "https://doi.org/10.1037/pag0000275",
+    "relation": {},
+    "ISSN": ["1939-1498", "0882-7974"],
+    "issn-type": [
+      {
+        "value": "1939-1498",
+        "type": "electronic"
+      },
+      {
+        "value": "0882-7974",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2018, 8]
+      ]
+    }
+  }
+}

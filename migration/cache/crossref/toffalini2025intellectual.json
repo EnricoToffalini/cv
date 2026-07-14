@@ -1,0 +1,644 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 18]
+      ],
+      "date-time": "2026-06-18T07:26:55Z",
+      "timestamp": 1781767615670,
+      "version": "3.54.5"
+    },
+    "reference-count": 40,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2025, 10, 1]
+          ],
+          "date-time": "2025-10-01T00:00:00Z",
+          "timestamp": 1759276800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 10, 1]
+          ],
+          "date-time": "2025-10-01T00:00:00Z",
+          "timestamp": 1759276800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 5, 21]
+          ],
+          "date-time": "2025-05-21T00:00:00Z",
+          "timestamp": 1747785600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Personality and Individual Differences",
+    "published-print": {
+      "date-parts": [
+        [2025, 10]
+      ]
+    },
+    "DOI": "10.1016/j.paid.2025.113274",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 5, 28]
+      ],
+      "date-time": "2025-05-28T07:23:56Z",
+      "timestamp": 1748417036000
+    },
+    "page": "113274",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "C",
+    "title": "Intellectual giftedness in adult lifespan: just a dimensional account or are there areas especially sensitive to high potential?",
+    "prefix": "10.1016",
+    "volume": "245",
+    "author": [
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erika",
+        "family": "Borella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lina",
+        "family": "Pezzuti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Dawe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113274_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1111/jcpp.13481",
+        "article-title": "Annual research review: The transdiagnostic revolution in neurodevelopmental disorders",
+        "volume": "63",
+        "author": "Astle",
+        "year": "2022",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/j.intell.2017.07.004",
+        "article-title": "Spearman's law of diminishing returns: A meta-analysis",
+        "volume": "65",
+        "author": "Blum",
+        "year": "2017",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "384",
+        "DOI": "10.1037/a0033818",
+        "article-title": "Spatial abilities across the adult life span",
+        "volume": "50",
+        "author": "Borella",
+        "year": "2014",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2025.113274_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1622",
+        "DOI": "10.1007/s00426-019-01173-7",
+        "article-title": "Intelligence and working memory: Evidence from administering the WAIS-IV to Italian adults and elderly",
+        "volume": "84",
+        "author": "Borella",
+        "year": "2020",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "issue": "7–8",
+        "key": "10.1016/j.paid.2025.113274_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "518",
+        "DOI": "10.1037/bul0000379",
+        "article-title": "Differentiation hypotheses of intelligence: A systematic review of the empirical evidence and an agenda for future research",
+        "volume": "148",
+        "author": "Breit",
+        "year": "2022",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113274_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1037/0882-7974.17.1.85",
+        "article-title": "Hemispheric asymmetry reduction in older adults: The HAROLD model",
+        "volume": "17",
+        "author": "Cabeza",
+        "year": "2002",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113274_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1080/10888438.2021.1897596",
+        "article-title": "Inferring the performance of children with dyslexia from that of the general population: The case of associative phonological working memory",
+        "volume": "26",
+        "author": "Carretti",
+        "year": "2022",
+        "journal-title": "Scientific Studies of Reading"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0040",
+        "author": "Cattell",
+        "year": "1987",
+        "series-title": "Intelligence: Its structure, growth and action"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0045",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2023.101736",
+        "article-title": "Cognitive characteristics of intellectually gifted children with a diagnosis of ADHD",
+        "volume": "97",
+        "author": "Cornoldi",
+        "year": "2023",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113274_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1037/a0014442",
+        "article-title": "Smarter in middle age, faster in old age: A cross-lagged panel analysis of reaction time and cognitive ability over 13 years in the West of Scotland twenty-07 study",
+        "volume": "24",
+        "author": "Deary",
+        "year": "2009",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113274_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1037/0022-3514.86.1.130",
+        "article-title": "The impact of childhood intelligence on later life: Following up the Scottish mental surveys of 1932 and 1947",
+        "volume": "86",
+        "author": "Deary",
+        "year": "2004",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.paid.2025.113274_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "372",
+        "DOI": "10.1037/h0056380",
+        "article-title": "A developmental theory of intelligence",
+        "volume": "1",
+        "author": "Garrett",
+        "year": "1946",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113274_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1037/0882-7974.20.4.671",
+        "article-title": "A dynamic investigation of cognitive dedifferentiation with control for retest: Evidence from the Swiss Interdisciplinary Longitudinal Study on the Oldest Old",
+        "volume": "20",
+        "author": "Ghisletta",
+        "year": "2005",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2025.113274_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1111/jcpp.13176",
+        "article-title": "Annual research review: Looking back to look forward–changes in the concept of autism and implications for future research",
+        "volume": "61",
+        "author": "Happé",
+        "year": "2020",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.paid.2025.113274_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "1418",
+        "DOI": "10.1017/S003329172000183X",
+        "article-title": "Dimensions over categories: A meta-analysis of taxometric research",
+        "volume": "50",
+        "author": "Haslam",
+        "year": "2020",
+        "journal-title": "Psychological Medicine"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0080",
+        "author": "Lang",
+        "year": "2021",
+        "series-title": "WAIS-iv. Lettura dei risultati e interpretazione clinica. Nuova edizione"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113274_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1111/1467-8721.00164",
+        "article-title": "Connecting the many levels and facets of cognitive aging",
+        "volume": "11",
+        "author": "Li",
+        "year": "2002",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0090",
+        "author": "Lichtenberger",
+        "year": "2012",
+        "series-title": "Essentials of WAIS-IV assessment"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0095",
+        "first-page": "8848",
+        "article-title": "Lifespan theories of cognitive development",
+        "author": "Lindenberger",
+        "year": "2001",
+        "series-title": "International encyclopedia of the social and behavioral sciences"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2025.113274_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1037/0882-7974.9.3.339",
+        "article-title": "Sensory functioning and intelligence in old age: A strong connection",
+        "volume": "9",
+        "author": "Lindenberger",
+        "year": "1994",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2025.113274_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1111/jcpp.13397",
+        "article-title": "No evidence for a core deficit in developmental dyscalculia or mathematical learning disabilities",
+        "volume": "62",
+        "author": "Mammarella",
+        "year": "2021",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0110",
+        "author": "Orsini",
+        "year": "2015",
+        "series-title": "WAIS-IV. Contributo alla Taratura Italiana (70–90 anni)"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0115",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.tine.2019.100115",
+        "article-title": "Are specific learning disorders truly specific, and are they disorders?",
+        "volume": "17",
+        "author": "Peters",
+        "year": "2019",
+        "journal-title": "Trends in Neuroscience and Education"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "298",
+        "DOI": "10.1016/j.paid.2018.10.016",
+        "article-title": "Working memory and processing speed mediate the effect of age on a general ability construct: Evidence from the Italian WAIS-IV standardization sample",
+        "volume": "138",
+        "author": "Pezzuti",
+        "year": "2019",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113274_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1080/03601277.2022.2109890",
+        "article-title": "Intellectual giftedness in elderly people assessed by Wechsler Adult Intelligence Scale–Fourth Edition: What specific features?",
+        "volume": "49",
+        "author": "Pezzuti",
+        "year": "2023",
+        "journal-title": "Educational Gerontology"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.paid.2025.113274_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.3390/jintelligence11120223",
+        "article-title": "The intellectual profile of adults with specific learning disabilities",
+        "volume": "11",
+        "author": "Pizzigallo",
+        "year": "2023",
+        "journal-title": "Journal of Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0135",
+        "author": "R Core Team",
+        "year": "2023",
+        "series-title": "R: A language and environment for statistical computing"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113274_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1177/0016986215600795",
+        "article-title": "Gifted adults: A systematic review and analysis of the literature",
+        "volume": "59",
+        "author": "Rinn",
+        "year": "2015",
+        "journal-title": "Gifted Child Quarterly"
+      },
+      {
+        "issue": "26",
+        "key": "10.1016/j.paid.2025.113274_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "5090",
+        "DOI": "10.1523/JNEUROSCI.2841-19.2020",
+        "article-title": "Behavioral and neural signatures of working memory in childhood",
+        "volume": "40",
+        "author": "Rosenberg",
+        "year": "2020",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113274_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v048.i02",
+        "article-title": "lavaan: An R package for structural equation modeling",
+        "volume": "48",
+        "author": "Rosseel",
+        "year": "2012",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0155",
+        "author": "Ruscio",
+        "year": "2013",
+        "series-title": "Introduction to the taxometric method: A practical guide"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113274_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1016/S0005-7894(04)80044-3",
+        "article-title": "A conceptual and methodological checklist for conducting a taxometric investigation",
+        "volume": "35",
+        "author": "Ruscio",
+        "year": "2004",
+        "journal-title": "Behavior Therapy"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0165",
+        "author": "Ruscio",
+        "year": "2023",
+        "series-title": "RTaxometrics: Taxometric analysis"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1146/annurev-psych-120710-100328",
+        "article-title": "Consequences of age-related cognitive declines",
+        "volume": "63",
+        "author": "Salthouse",
+        "year": "2012",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0175",
+        "first-page": "99",
+        "article-title": "The Cattell-Horn-Carroll model of intelligence",
+        "author": "Schneider",
+        "year": "2012",
+        "series-title": "Contemporary intellectual assessment: Theories, tests, and issues"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2025.113274_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1037/bul0000179",
+        "article-title": "Coupled cognitive changes in adulthood: A meta-analysis",
+        "volume": "145",
+        "author": "Tucker-Drob",
+        "year": "2019",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113274_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1037/0882-7974.23.2.453",
+        "article-title": "Adult age trends in the relations among cognitive abilities",
+        "volume": "23",
+        "author": "Tucker-Drob",
+        "year": "2008",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0195",
+        "author": "Wechsler",
+        "year": "2008",
+        "series-title": "Wechsler adult intelligence scale—Fourth edition"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113274_bb0200",
+        "author": "Wechsler",
+        "year": "2014",
+        "series-title": "Wechsler intelligence scale for children—Fifth edition"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113274_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "727",
+        "DOI": "10.1037/0882-7974.18.4.727",
+        "article-title": "Adult age differences in multiple cognitive functions: Differentiation, dedifferentiation, or process-specific change?",
+        "volume": "18",
+        "author": "Zelinski",
+        "year": "2003",
+        "journal-title": "Psychology and Aging"
+      }
+    ],
+    "container-title": "Personality and Individual Differences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886925002363?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886925002363?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 6, 9]
+      ],
+      "date-time": "2025-06-09T20:58:42Z",
+      "timestamp": 1749502722000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886925002363"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2025, 10]
+      ]
+    },
+    "references-count": 40,
+    "alternative-id": "S0191886925002363",
+    "URL": "https://doi.org/10.1016/j.paid.2025.113274",
+    "relation": {},
+    "ISSN": "0191-8869",
+    "issn-type": [
+      {
+        "value": "0191-8869",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2025, 10]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Intellectual giftedness in adult lifespan: just a dimensional account or are there areas especially sensitive to high potential?",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Personality and Individual Differences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.paid.2025.113274",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "113274"
+  }
+}

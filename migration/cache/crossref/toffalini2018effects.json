@@ -1,0 +1,400 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 15]
+      ],
+      "date-time": "2026-04-15T22:22:41Z",
+      "timestamp": 1776291761946,
+      "version": "3.50.1"
+    },
+    "reference-count": 39,
+    "publisher": "Informa UK Limited",
+    "issue": "5",
+    "content-domain": {
+      "domain": "www.tandfonline.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Child Neuropsychology",
+    "published-print": {
+      "date-parts": [
+        [2018, 7, 4]
+      ]
+    },
+    "DOI": "10.1080/09297049.2017.1329411",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2017, 5, 22]
+      ],
+      "date-time": "2017-05-22T20:12:52Z",
+      "timestamp": 1495483972000
+    },
+    "page": "671-685",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "The effects of the constancy of location and order in working memory visual–phonological binding of children with dyslexia",
+    "prefix": "10.1080",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elisa",
+        "family": "Tomasi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Donatella",
+        "family": "Albano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [2017, 5, 22]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pne0000066"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2013.03.009"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2007.12.005"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1364-6613(00)01538-2"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0749-596X(88)90028-9"
+      },
+      {
+        "key": "CIT0006",
+        "volume-title": "Working memory",
+        "volume": "11",
+        "author": "Baddeley A. D.",
+        "year": "1986"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v067.i01"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2010.11.003"
+      },
+      {
+        "key": "CIT0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2006.08.015"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2006.05.009"
+      },
+      {
+        "key": "CIT0011",
+        "volume-title": "R: A language and environment for statistical computing",
+        "author": "R Core Team",
+        "year": "2015"
+      },
+      {
+        "key": "CIT0012",
+        "volume-title": "Visuo-spatial working memory and individual differences",
+        "author": "Cornoldi C.",
+        "year": "2003"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjdp.12019"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2005.08.003"
+      },
+      {
+        "key": "CIT0015",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11881-013-0089-5"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neubiorev.2014.09.007"
+      },
+      {
+        "key": "CIT0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2006.09.002"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2007.11.007"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033334"
+      },
+      {
+        "key": "CIT0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2009.02.001"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2012.11.012"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2013.10.005"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4415/ANN_14_01_12"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2005.04.010"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.1438"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jecp.1999.2525"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0026744"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-0965(02)00179-0"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0267190501000083"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4419-0318-1"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/dev0000184"
+      },
+      {
+        "key": "CIT0033",
+        "volume-title": "DD2 – Batteria per la valutazione della dislessia e della disortografia evolutiva – 2 [DD2 – Battery for the assessment of developmental dyslexia and dysorthographia – 2]",
+        "author": "Sartori G.",
+        "year": "2007"
+      },
+      {
+        "key": "CIT0034",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702616672038"
+      },
+      {
+        "key": "CIT0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2009.12.003"
+      },
+      {
+        "key": "CIT0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10888438.2010.534832"
+      },
+      {
+        "key": "CIT0037",
+        "volume-title": "WISC-IV technical and interpretive manual",
+        "author": "Wechsler D.",
+        "year": "2003"
+      },
+      {
+        "key": "CIT0038",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jecp.2000.2625"
+      },
+      {
+        "key": "CIT0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.91.3.415"
+      },
+      {
+        "key": "CIT0040",
+        "volume-title": "The ICD-10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines",
+        "author": "World Health Organization",
+        "year": "1992"
+      }
+    ],
+    "container-title": "Child Neuropsychology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09297049.2017.1329411",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2018, 5, 4]
+      ],
+      "date-time": "2018-05-04T04:15:02Z",
+      "timestamp": 1525407302000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09297049.2017.1329411"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2017, 5, 22]
+      ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [2017, 3, 28]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [2018, 7, 4]
+        ]
+      }
+    },
+    "alternative-id": "10.1080/09297049.2017.1329411",
+    "URL": "https://doi.org/10.1080/09297049.2017.1329411",
+    "relation": {},
+    "ISSN": ["0929-7049", "1744-4136"],
+    "issn-type": [
+      {
+        "value": "0929-7049",
+        "type": "print"
+      },
+      {
+        "value": "1744-4136",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2017, 5, 22]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ncny20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ncny20"
+      }
+    ]
+  }
+}

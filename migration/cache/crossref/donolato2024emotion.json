@@ -1,0 +1,620 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 9]
+      ],
+      "date-time": "2026-07-09T00:47:25Z",
+      "timestamp": 1783558045050,
+      "version": "3.55.0"
+    },
+    "reference-count": 72,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2024, 7, 15]
+          ],
+          "date-time": "2024-07-15T00:00:00Z",
+          "timestamp": 1721001600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "onlinelibrary.wiley.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Dyslexia",
+    "published-print": {
+      "date-parts": [
+        [2024, 8]
+      ]
+    },
+    "abstract": "<jats:p>Children with dyslexia (CwD) often report poor psychological well‐being. We examined (i) whether anxiety, self‐concept and reading motivation in CwD differed from those of typically developing children (TDC; case–control design, Study 1a) and (ii) whether these differences mirrored the linear relationships that these variables present with reading ability in the TDC group (dimensional approach, Study 1b). In Study 1a, 34 CwD were compared with 191 TDC in grades 4–8 on anxiety, self‐concept, reading motivation and reading strategy using self‐reports (controlling for sex, intelligence and math ability scores). In Study 1b, the differences that emerged in Study 1a were compared with the results obtained from a simulation procedure that generated dyslexia observations under the assumptions of a dimensional hypothesis. The CwD group presented small‐to‐moderate difficulties, which partially mirrored the predictions in the TDC group. However, violations of predictions based on the population without dyslexia were found for reading self‐concept, social anxiety and reading competitiveness. In sum, children's diagnoses affect their self‐perception as readers and social anxiety in a way that cannot be inferred from linear relationships. CwD need support to preserve an adequate image of themselves as readers and cope with social anxiety.<\/jats:p>",
+    "DOI": "10.1002/dys.1778",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2024, 7, 15]
+      ],
+      "date-time": "2024-07-15T08:13:28Z",
+      "timestamp": 1721031208000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "In emotion and reading motivation, children with a diagnosis of dyslexia are not just the end of a continuum",
+    "prefix": "10.1002",
+    "volume": "30",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5060-7087",
+        "authenticated-orcid": false,
+        "given": "Enrica",
+        "family": "Donolato",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Special Needs Education University of Oslo  Oslo Norway"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene C.",
+        "family": "Mammarella",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [2024, 7, 15]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_8_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_2_8_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0954579400007264"
+      },
+      {
+        "key": "e_1_2_8_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ap.12281"
+      },
+      {
+        "key": "e_1_2_8_5_1",
+        "volume-title": "Handbook of self‐concept: Developmental, social, and clinical considerations",
+        "author": "Bracken B. A.",
+        "year": "1996"
+      },
+      {
+        "key": "e_1_2_8_6_1",
+        "volume-title": "TMA – Test di valutazione multidimensionale dell'autostima",
+        "author": "Bracken B. A.",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_8_7_1",
+        "volume-title": "Handbook of child psychology: Theoretical models of human development",
+        "author": "Bronfenbrenner U.",
+        "year": "2006",
+        "first-page": "793"
+      },
+      {
+        "key": "e_1_2_8_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10888438.2021.1897596"
+      },
+      {
+        "key": "e_1_2_8_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjep.12307"
+      },
+      {
+        "key": "e_1_2_8_10_1",
+        "author": "Carretti B.",
+        "year": "2012",
+        "first-page": "24",
+        "issue": "1",
+        "article-title": "Valutare la natura dei problemi di comprensione: un contributo per la valutazione di secondo livello",
+        "volume": "9",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "e_1_2_8_11_1",
+        "volume-title": "AC‐MT 11–14. Test di valutazione delle abilità di calcolo e problem solving dagli 11 ai 14 anni",
+        "author": "Cornoldi C.",
+        "year": "2004"
+      },
+      {
+        "key": "e_1_2_8_12_1",
+        "volume-title": "AC‐MT 6–11. Test di valutazione delle abilità di calcolo e soluzione dei problemi",
+        "author": "Cornoldi C.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_8_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2022.101175"
+      },
+      {
+        "key": "e_1_2_8_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2271-7"
+      },
+      {
+        "key": "e_1_2_8_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11145-021-10123-y"
+      },
+      {
+        "key": "e_1_2_8_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jcpp.13536"
+      },
+      {
+        "key": "e_1_2_8_17_1",
+        "volume-title": "Handbook of child psychology",
+        "author": "Eccles J. S.",
+        "year": "1998",
+        "first-page": "1017"
+      },
+      {
+        "key": "e_1_2_8_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cpr.2018.09.002"
+      },
+      {
+        "key": "e_1_2_8_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/07399863870092005"
+      },
+      {
+        "key": "e_1_2_8_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2015.07.002"
+      },
+      {
+        "key": "e_1_2_8_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2019.10138"
+      },
+      {
+        "key": "e_1_2_8_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/abn0000691"
+      },
+      {
+        "key": "e_1_2_8_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10578-011-0246-1"
+      },
+      {
+        "key": "e_1_2_8_24_1",
+        "volume-title": "Reading research handbook",
+        "author": "Guthrie J. T.",
+        "year": "2000",
+        "first-page": "403"
+      },
+      {
+        "key": "e_1_2_8_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2016.06.005"
+      },
+      {
+        "key": "e_1_2_8_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0027646"
+      },
+      {
+        "key": "e_1_2_8_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/00028312035004653"
+      },
+      {
+        "key": "e_1_2_8_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsp.2011.07.001"
+      },
+      {
+        "key": "e_1_2_8_29_1",
+        "volume-title": "Consensus Conference: Disturbi Specifici dell'Apprendimento",
+        "author": "Istituto Superiore di Sanità",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_8_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10888438.2019.1593420"
+      },
+      {
+        "key": "e_1_2_8_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.edurev.2018.10.001"
+      },
+      {
+        "key": "e_1_2_8_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.2009.02164.x"
+      },
+      {
+        "key": "e_1_2_8_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9817.00195"
+      },
+      {
+        "key": "e_1_2_8_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cedpsych.2015.11.001"
+      },
+      {
+        "key": "e_1_2_8_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139087759"
+      },
+      {
+        "key": "e_1_2_8_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.1994.tb01162.x"
+      },
+      {
+        "key": "e_1_2_8_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19404158.2018.1479975"
+      },
+      {
+        "key": "e_1_2_8_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/bs11070103"
+      },
+      {
+        "key": "e_1_2_8_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21105/joss.01541"
+      },
+      {
+        "key": "e_1_2_8_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219414529336"
+      },
+      {
+        "key": "e_1_2_8_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jcpp.13397"
+      },
+      {
+        "key": "e_1_2_8_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00222194040370050401"
+      },
+      {
+        "key": "e_1_2_8_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.8772"
+      },
+      {
+        "key": "e_1_2_8_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.2669"
+      },
+      {
+        "key": "e_1_2_8_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00131881.2012.710089"
+      },
+      {
+        "key": "e_1_2_8_46_1",
+        "author": "Möller J.",
+        "year": "2007",
+        "first-page": "259",
+        "issue": "4",
+        "article-title": "Fragebogen zur habituellen Lesemotivation",
+        "volume": "54",
+        "journal-title": "Psychologie in Erziehung und Unterricht"
+      },
+      {
+        "key": "e_1_2_8_47_1",
+        "unstructured": "Morey R. D. &Rouder J. N.(2018).BayesFactor: Computation of Bayes factors for common designs. R package version 0.9.12‐4.2.https://CRAN.R-project.org/package=BayesFactor"
+      },
+      {
+        "key": "e_1_2_8_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219408321123"
+      },
+      {
+        "key": "e_1_2_8_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12519-009-0049-7"
+      },
+      {
+        "key": "e_1_2_8_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1449/77640"
+      },
+      {
+        "key": "e_1_2_8_51_1",
+        "volume-title": "WISC‐IV: Contributo alla taratura italiana",
+        "author": "Orsini A.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_8_52_1",
+        "volume-title": "WISC III: Contributo alla taratura italiana",
+        "author": "Orsini A.",
+        "year": "2006"
+      },
+      {
+        "key": "e_1_2_8_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/swll.15.19par"
+      },
+      {
+        "key": "e_1_2_8_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tine.2019.100115"
+      },
+      {
+        "key": "e_1_2_8_55_1",
+        "volume-title": "RCMAS‐2 revised children's manifest anxiety scale",
+        "author": "Reynolds C. R.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_8_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v048.i02"
+      },
+      {
+        "key": "e_1_2_8_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ceps.1999.1020"
+      },
+      {
+        "key": "e_1_2_8_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-012564931-5/50003-7"
+      },
+      {
+        "key": "e_1_2_8_59_1",
+        "volume-title": "DDE‐2 – Batteria per la valutazione della dislessia e della disortografia evolutiva – 2",
+        "author": "Sartori G.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_2_8_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/RRQ.030"
+      },
+      {
+        "key": "e_1_2_8_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.2011.02495.x"
+      },
+      {
+        "key": "e_1_2_8_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01443410903494478"
+      },
+      {
+        "key": "e_1_2_8_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01443410.2019.1670334"
+      },
+      {
+        "key": "e_1_2_8_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/0034654320919352"
+      },
+      {
+        "key": "e_1_2_8_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9817.12117"
+      },
+      {
+        "key": "e_1_2_8_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15326985ep3902_3"
+      },
+      {
+        "key": "e_1_2_8_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-21706-2"
+      },
+      {
+        "key": "e_1_2_8_68_1",
+        "author": "Viola F.",
+        "year": "2015",
+        "first-page": "23",
+        "issue": "1",
+        "article-title": "Motivazione e concetto di sé in compiti di lettura: Uno studio nella scuola primaria e secondaria di primo grado",
+        "volume": "3",
+        "journal-title": "Difficoltà di Apprendimento e Didattica Inclusiva"
+      },
+      {
+        "key": "e_1_2_8_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11145-009-9179-5"
+      },
+      {
+        "key": "e_1_2_8_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ceps.1999.1015"
+      },
+      {
+        "key": "e_1_2_8_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0277(94)90010-8"
+      },
+      {
+        "key": "e_1_2_8_72_1",
+        "volume-title": "The ICD‐10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines",
+        "author": "World Health Organization",
+        "year": "1992"
+      },
+      {
+        "key": "e_1_2_8_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2012.05"
+      }
+    ],
+    "container-title": "Dyslexia",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/dys.1778",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 8, 12]
+      ],
+      "date-time": "2024-08-12T23:35:20Z",
+      "timestamp": 1723505720000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/dys.1778"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2024, 7, 15]
+      ]
+    },
+    "references-count": 72,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [2024, 8]
+        ]
+      }
+    },
+    "alternative-id": "10.1002/dys.1778",
+    "URL": "https://doi.org/10.1002/dys.1778",
+    "archive": "Portico",
+    "relation": {},
+    "ISSN": ["1076-9242", "1099-0909"],
+    "issn-type": [
+      {
+        "value": "1076-9242",
+        "type": "print"
+      },
+      {
+        "value": "1099-0909",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2024, 7, 15]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-03-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-06-24",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-07-15",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e1778"
+  }
+}

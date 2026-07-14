@@ -1,0 +1,279 @@
+schema_version: "1.0.0"
+source:
+  last_updated: "2026-02-14"
+  source_pdf: "source/CV_2026_Toffalini.pdf"
+
+person:
+  given_name: "Enrico"
+  family_name: "Toffalini"
+  email: "enrico.toffalini@unipd.it"
+  title:
+    it: "Professore Associato di Psicologia Generale"
+    en: "Associate Professor of General Psychology"
+  qualification:
+    it: "Dottore di Ricerca (PhD) in Psicologia (2016)"
+    en: "PhD in Psychology (2016)"
+  professional_registration:
+    body_original: "Albo degli Psicologi del Veneto"
+    since: "2019-04"
+    registration_number: "11327"
+
+affiliation:
+  organization_original: "Università degli Studi di Padova"
+  organization:
+    it: "Università degli Studi di Padova"
+    en: "University of Padua"
+  department:
+    it: "Dipartimento di Psicologia Generale"
+    en: "Department of General Psychology"
+  acronym: "DPG"
+
+links:
+  homepage: "https://enricotoffalini.github.io/"
+  github: "https://github.com/EnricoToffalini/"
+  slides: "https://enricotoffalini.github.io/slides/"
+  courses: "https://enricotoffalini.github.io/Courses.html"
+  phd_program: "https://phd.psy.unipd.it/"
+
+research_interests:
+  - id: "human-intelligence"
+    label:
+      it: "intelligenza umana"
+      en: "human intelligence"
+  - id: "typical-atypical-intelligence"
+    label:
+      it: "intelligenza nello sviluppo tipico e atipico"
+      en: "intelligence in typical and atypical development"
+  - id: "dimensional-neurodevelopment"
+    label:
+      it: "approccio dimensionale ai disturbi del neurosviluppo"
+      en: "dimensional approaches to neurodevelopmental disorders"
+  - id: "meta-research"
+    label:
+      it: "meta-ricerca"
+      en: "meta-research"
+  - id: "quantitative-methods"
+    label:
+      it: "metodi quantitativi e progettazione della ricerca in psicologia"
+      en: "quantitative methods and research design in psychology"
+  - id: "design-analysis"
+    label:
+      it: "power/design analysis e simulazioni Monte Carlo"
+      en: "power/design analysis and Monte Carlo simulations"
+
+collaborations:
+  - id: "collaboration-cambridge"
+    organization_original: "University of Cambridge"
+    country_code: "GB"
+  - id: "collaboration-missouri"
+    organization_original: "University of Missouri"
+    country_code: "US"
+  - id: "collaboration-oslo"
+    organization_original: "Universitetet i Oslo"
+    country_code: "NO"
+  - id: "collaboration-city-london"
+    organization_original: "City University London"
+    country_code: "GB"
+  - id: "collaboration-ljmu"
+    organization_original: "Liverpool John Moores University"
+    country_code: "GB"
+  - id: "collaboration-sapienza"
+    organization_original: "Università La Sapienza"
+    location: "Roma, Italia"
+    country_code: "IT"
+  - id: "collaboration-genova"
+    organization_original: "Università di Genova"
+    location: "Genova, Italia"
+    country_code: "IT"
+
+memberships:
+  - id: "airipa-member"
+    organization_original: "AIRIPA - Associazione Italiana per la Ricerca e l’Intervento nella Psicopatologia dell’Apprendimento"
+    start_date: "2017"
+    role:
+      it: "Socio"
+      en: "Member"
+    source_page: 2
+  - id: "aip-experimental-affiliate"
+    organization_original: "AIP - Associazione Italiana di Psicologia, Sezione Sperimentale"
+    start_date: "2014"
+    role:
+      it: "Socio affiliato"
+      en: "Affiliate member"
+    source_page: 2
+
+research_groups:
+  - id: "memory-learning-lab"
+    name_original: "Memory & Learning Lab"
+    role:
+      it: "Membro"
+      en: "Member"
+    description:
+      it: "Gruppo di ricerca su memoria, apprendimento e differenze individuali"
+      en: "Research group on memory, learning, and individual differences"
+    organization_original: "Dipartimento di Psicologia Generale, Università di Padova"
+    url: "https://www.memoryandlearninglab.it/people/"
+    source_page: 2
+  - id: "psicostat"
+    name_original: "PsicoStat"
+    role:
+      it: "Membro"
+      en: "Member"
+    description:
+      it: "Gruppo di ricerca interdipartimentale e interdisciplinare su psicologia e statistica applicata"
+      en: "Interdepartmental and interdisciplinary research group on psychology and applied statistics"
+    organization_original: "Università di Padova"
+    url: "https://psicostat.dpss.psy.unipd.it/people.html"
+    source_page: 2
+
+metrics:
+  peer_reviewed_articles:
+    value: 100
+    qualifier: "over"
+    source: "Scopus"
+    as_of: "2026-02"
+  coauthors:
+    value: 250
+    qualifier: "over"
+    source: "Scopus"
+    as_of: "2026-02"
+  osf_public_projects:
+    value: 15
+    qualifier: "exact_as_declared"
+    source: "source CV"
+    as_of: "2026-02"
+  github_public_repositories:
+    value: 12
+    qualifier: "over"
+    source: "source CV"
+    as_of: "2026-02"
+  open_courses:
+    value: 5
+    qualifier: "exact_as_declared"
+    source: "source CV"
+    as_of: "2026-02"
+
+supervision:
+  - id: "supervision-bachelor-primary"
+    category: "primary_supervisor"
+    level: "bachelor"
+    count: 16
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-master-primary"
+    category: "primary_supervisor"
+    level: "master_degree"
+    count: 8
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-phd-co"
+    category: "co_supervisor"
+    level: "phd"
+    count: 3
+    institution_original: "Corso di Dottorato in Psychological Sciences, Università di Padova"
+    source_page: 13
+  - id: "supervision-master-thesis-co"
+    category: "co_supervisor"
+    level: "master_degree"
+    count: 27
+    qualifier: "at_least"
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-bachelor-final-co"
+    category: "co_supervisor"
+    level: "bachelor"
+    count: 6
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-postgraduate-master-co"
+    category: "co_supervisor"
+    level: "postgraduate_master"
+    count: 1
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-bachelor-additional-primary"
+    category: "primary_supervisor"
+    level: "bachelor"
+    count: 1
+    note:
+      it: "Elaborato finale triennale dichiarato separatamente nel CV sorgente"
+      en: "Bachelor final project reported separately in the source CV"
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-postgraduate-master-primary"
+    category: "primary_supervisor"
+    level: "postgraduate_master"
+    count: 2
+    institution_original: "Università di Padova"
+    source_page: 13
+  - id: "supervision-individual-tutoring"
+    category: "individual_tutoring"
+    level: "bachelor_and_master_degree"
+    count: 35
+    qualifier: "over"
+    institution_original: "Università di Padova"
+    source_page: 13
+
+reviewing:
+  journals:
+    - "Psychonomic Bulletin and Review"
+    - "Psychological Science"
+    - "Scientific Reports"
+    - "Behavior Research Methods"
+    - "Research in Developmental Disabilities"
+    - "Statistical Methods and Applications"
+    - "PLOS ONE"
+    - "Trends in Neuroscience and Education"
+    - "Child Neuropsychology"
+    - "Current Psychology"
+    - "Frontiers in Human Neuroscience"
+    - "Journal of Intellectual Disability Research"
+    - "Consciousness and Cognition"
+    - "Journal of General Psychology"
+    - "International Journal of Developmental Disabilities"
+    - "Medical Journals"
+    - "Giornale Italiano di Psicologia"
+    - "Psicologia Clinica dello Sviluppo"
+  source_page: 12
+
+skills:
+  - id: "r"
+    name_original: "R / RStudio"
+    level:
+      it: "avanzato"
+      en: "advanced"
+    description:
+      it: "Gestione e visualizzazione dei dati; modelli lineari, generalizzati e a effetti misti; SEM; simulazione; meta-analisi; metodi bayesiani e design analysis. Pacchetti dichiarati: lavaan, lme4, glmmTMB, blavaan, brms, ggplot2, ordinal, shiny, metafor, semTools, mclust, BayesFactor."
+      en: "Data management and visualization; linear, generalized, and mixed-effects models; SEM; simulation; meta-analysis; Bayesian methods; and design analysis. Reported packages: lavaan, lme4, glmmTMB, blavaan, brms, ggplot2, ordinal, shiny, metafor, semTools, mclust, BayesFactor."
+    source_page: 19
+  - id: "python"
+    name_original: "Python"
+    level:
+      it: "conoscenza applicata"
+      en: "applied proficiency"
+    description:
+      it: "Gestione e visualizzazione dei dati, analisi statistica e basi di natural language processing con embeddings e modelli pre-trained tramite HuggingFace. Pacchetti dichiarati: numpy, pandas, seaborn, statsmodels, transformers. Uso tramite Colab, Spyder e RStudio."
+      en: "Data management and visualization, statistical analysis, and foundational natural language processing with embeddings and pretrained models through HuggingFace. Reported packages: numpy, pandas, seaborn, statsmodels, transformers. Used through Colab, Spyder, and RStudio."
+    source_page: 19
+  - id: "quarto"
+    name_original: "Quarto"
+    level:
+      it: "uso operativo"
+      en: "working proficiency"
+    description:
+      it: "Generazione di siti, presentazioni e slideshow mediante il sistema di pubblicazione open source Quarto."
+      en: "Creation of websites, presentations, and slideshows with the open-source Quarto publishing system."
+    source_page: 19
+  - id: "github"
+    name_original: "GitHub"
+    level:
+      it: "base"
+      en: "basic"
+    description:
+      it: "Repository per open code e open data e hosting di siti e pagine web."
+      en: "Repositories for open code and open data, and hosting of websites and web pages."
+    source_page: 19
+
+gdpr:
+  it: "Autorizzo il trattamento dei miei dati personali ai sensi del Regolamento UE 2016/679 (GDPR) e della normativa vigente."
+  en: "I authorize the processing of my personal data under EU Regulation 2016/679 (GDPR) and applicable law."

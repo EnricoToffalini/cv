@@ -1,0 +1,656 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 9]
+      ],
+      "date-time": "2026-07-09T05:44:02Z",
+      "timestamp": 1783575842829,
+      "version": "3.55.0"
+    },
+    "reference-count": 38,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 7, 1]
+          ],
+          "date-time": "2020-07-01T00:00:00Z",
+          "timestamp": 1593561600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2020, 7, 1]
+          ],
+          "date-time": "2020-07-01T00:00:00Z",
+          "timestamp": 1593561600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ],
+        "award": null,
+        "award-info": null
+      },
+      {
+        "DOI": "10.13039/501100003407",
+        "name": "Ministero dell’Istruzione, dell’Università e della Ricerca",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003407",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ],
+        "award": "DM 11/05/2017 n. 262",
+        "award-info": [
+          {
+            "award-number": "DM 11/05/2017 n. 262"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Intelligence",
+    "published-print": {
+      "date-parts": [
+        [2020, 7]
+      ]
+    },
+    "DOI": "10.1016/j.intell.2020.101467",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 7, 3]
+      ],
+      "date-time": "2020-07-03T06:17:56Z",
+      "timestamp": 1593757076000
+    },
+    "page": "101467",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 31,
+    "special_numbering": "C",
+    "title": "A population level analysis of the gender gap in mathematics: Results on over 13 million children using the INVALSI dataset",
+    "prefix": "10.1016",
+    "volume": "81",
+    "author": [
+      {
+        "given": "D.",
+        "family": "Giofrè",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Martini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "4627",
+        "key": "10.1016/j.intell.2020.101467_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1029",
+        "DOI": "10.1126/science.6648516",
+        "article-title": "Sex differences in mathematical reasoning ability: more facts",
+        "volume": "222",
+        "author": "Benbow",
+        "year": "1983",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.intell.2020.101467_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "474",
+        "DOI": "10.1111/1467-9280.00291",
+        "article-title": "Sex differences in mathematical reasoning ability at age 13: Their status 20 years later",
+        "volume": "11",
+        "author": "Benbow",
+        "year": "2000",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "4475",
+        "key": "10.1016/j.intell.2020.101467_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1262",
+        "DOI": "10.1126/science.7434028",
+        "article-title": "Sex differences in mathematical ability: Fact or artifact?",
+        "volume": "210",
+        "author": "Benbow",
+        "year": "1980",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0020",
+        "author": "Borenstein",
+        "year": "2009",
+        "series-title": "Introduction to meta-analysis"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1219",
+        "DOI": "10.1126/science.aar2307",
+        "article-title": "Societal inequalities amplify gender gaps in math",
+        "volume": "359",
+        "author": "Breda",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1073/pnas.1905779116",
+        "article-title": "Girls’ comparative advantage in reading can largely explain the gender gap in math-related fields",
+        "author": "Breda",
+        "year": "2019",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.intell.2020.101467_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "568",
+        "DOI": "10.1037/0033-295X.101.4.568",
+        "article-title": "Nature-nurture reconceptualized in developmental perspective: a bioecological model",
+        "volume": "101",
+        "author": "Bronfenbrenner",
+        "year": "1994",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.intell.2020.101467_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1177/0963721410383241",
+        "article-title": "Sex differences in math-intensive fields",
+        "volume": "19",
+        "author": "Ceci",
+        "year": "2010",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.intell.2020.101467_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "3157",
+        "DOI": "10.1073/pnas.1014871108",
+        "article-title": "Understanding current causes of women’s underrepresentation in science",
+        "volume": "108",
+        "author": "Ceci",
+        "year": "2011",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.intell.2020.101467_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1037/a0014412",
+        "article-title": "Women’s underrepresentation in science: Sociocultural and biological considerations",
+        "volume": "135",
+        "author": "Ceci",
+        "year": "2009",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1007/s10888-009-9118-3",
+        "article-title": "Inequality of opportunity in Italy",
+        "volume": "8",
+        "author": "Checchi",
+        "year": "2010",
+        "journal-title": "The Journal of Economic Inequality"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.intell.2020.101467_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/bul0000052",
+        "article-title": "Why are some STEM fields more gender balanced than others?",
+        "volume": "143",
+        "author": "Cheryan",
+        "year": "2017",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.intell.2020.101467_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.intell.2010.06.003",
+        "article-title": "The mean Southern Italian children IQ is not particularly low: A reply to R. Lynn",
+        "volume": "38",
+        "author": "Cornoldi",
+        "year": "2010",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.intell.2020.101467_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1016/j.intell.2012.10.004",
+        "article-title": "Problems in deriving Italian regional differences in intelligence from 2009 PISA data",
+        "volume": "41",
+        "author": "Cornoldi",
+        "year": "2013",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0075",
+        "author": "Cumming",
+        "year": "2012",
+        "series-title": "Understanding the new statistics: Effect sizes, confidence intervals, and meta-analysis"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.intell.2020.101467_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1037/0003-066X.54.6.408",
+        "article-title": "The origins of sex differences in human behavior: Evolved dispositions versus social roles",
+        "volume": "54",
+        "author": "Eagly",
+        "year": "1999",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.intell.2020.101467_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/0162-3095(94)90020-5",
+        "article-title": "The Hunter-Gatherer theory of spatial sex differences: Proximate factors mediating the female advantage in recall of object arrays",
+        "volume": "15",
+        "author": "Eals",
+        "year": "1994",
+        "journal-title": "Ethology and Sociobiology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.intell.2020.101467_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1037/a0018053",
+        "article-title": "Cross-national patterns of gender differences in mathematics: A meta-analysis",
+        "volume": "136",
+        "author": "Else-Quest",
+        "year": "2010",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.intell.2020.101467_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "929",
+        "DOI": "10.1111/j.1468-0289.2010.00568.x",
+        "article-title": "Regional value added in Italy, 1891-2001, and the foundation of a long-term picture",
+        "volume": "64",
+        "author": "Felice",
+        "year": "2011",
+        "journal-title": "The Economic History Review"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.intell.2020.101467_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1007/s11698-011-0076-1",
+        "article-title": "Regional convergence in Italy, 1891–2001: testing human and social capital",
+        "volume": "6",
+        "author": "Felice",
+        "year": "2012",
+        "journal-title": "Cliometrica"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.intell.2020.101467_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "1075",
+        "DOI": "10.1037/0012-1649.28.6.1075",
+        "article-title": "Relations between prenatal testosterone levels and cognitive abilities at 4 years",
+        "volume": "28",
+        "author": "Finegan",
+        "year": "1992",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "issue": "02",
+        "key": "10.1016/j.intell.2020.101467_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1017/S0140525X00042400",
+        "article-title": "Sexual selection and sex differences in mathematical abilities",
+        "volume": "19",
+        "author": "Geary",
+        "year": "1996",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0115",
+        "author": "Geary",
+        "year": "2010",
+        "series-title": "Male, female: The evolution of human sex differences"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0120",
+        "author": "Halpern",
+        "year": "2012",
+        "series-title": "Sex differences in cognitive abilities"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.intell.2020.101467_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1529-1006.2007.00032.x",
+        "article-title": "The science of sex differences in science and mathematics",
+        "volume": "8",
+        "author": "Halpern",
+        "year": "2007",
+        "journal-title": "Psychological Science in the Public Interest"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0130",
+        "author": "Hunt",
+        "year": "2011",
+        "series-title": "Human Intelligence"
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.intell.2020.101467_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "8801",
+        "DOI": "10.1073/pnas.0901265106",
+        "article-title": "Gender, culture, and mathematics performance",
+        "volume": "106",
+        "author": "Hyde",
+        "year": "2009",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "78",
+        "DOI": "10.1016/j.intell.2017.04.007",
+        "article-title": "Sex differences in brain size and general intelligence (g)",
+        "volume": "63",
+        "author": "van der Linden",
+        "year": "2017",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.intell.2020.101467_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/j.intell.2009.07.004",
+        "article-title": "In Italy, north–south differences in IQ predict differences in income, education, infant mortality, stature, and literacy",
+        "volume": "38",
+        "author": "Lynn",
+        "year": "2010",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.intell.2020.101467_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1004",
+        "DOI": "10.1111/1469-7610.00228",
+        "article-title": "The long-term significance of teacher-rated hyperactivity and reading ability in childhood: Findings from two longitudinal studies",
+        "volume": "43",
+        "author": "McGee",
+        "year": "2002",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0155",
+        "author": "OECD",
+        "year": "2016",
+        "series-title": "PISA 2015 Results (Volume I)"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.intell.2020.101467_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1037/amp0000356",
+        "article-title": "Gender differences in reading and writing achievement: Evidence from the National Assessment of Educational Progress (NAEP)",
+        "volume": "74",
+        "author": "Reilly",
+        "year": "2019",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.intell.2020.101467_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1177/0956797612466268",
+        "article-title": "Enduring links from childhood mathematics and reading achievement to adult socioeconomic status",
+        "volume": "24",
+        "author": "Ritchie",
+        "year": "2013",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.intell.2020.101467_bb0170",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0057988",
+        "article-title": "Sex differences in mathematics and reading achievement are inversely related: Within- and across-nation assessment of 10 years of PISA data",
+        "volume": "8",
+        "author": "Stoet",
+        "year": "2013",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.intell.2020.101467_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/j.intell.2014.11.006",
+        "article-title": "Sex differences in academic achievement are not related to political, economic, or social equality",
+        "volume": "48",
+        "author": "Stoet",
+        "year": "2015",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.intell.2020.101467_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1177/0956797617741719",
+        "article-title": "The gender-equality paradox in science, technology, engineering, and mathematics education",
+        "volume": "29",
+        "author": "Stoet",
+        "year": "2018",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.intell.2020.101467_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1348/000709905X50906",
+        "article-title": "Sex differences in Cognitive Abilities Test scores: A UK national picture",
+        "volume": "76",
+        "author": "Strand",
+        "year": "2006",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.intell.2020.101467_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "859",
+        "DOI": "10.1037/a0017364",
+        "article-title": "Men and things, women and people: A meta-analysis of sex differences in interests",
+        "volume": "135",
+        "author": "Su",
+        "year": "2009",
+        "journal-title": "Psychological Bulletin"
+      }
+    ],
+    "container-title": "Intelligence",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160289620300453?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160289620300453?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 9, 27]
+      ],
+      "date-time": "2025-09-27T11:18:08Z",
+      "timestamp": 1758971888000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160289620300453"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 7]
+      ]
+    },
+    "references-count": 38,
+    "alternative-id": "S0160289620300453",
+    "URL": "https://doi.org/10.1016/j.intell.2020.101467",
+    "relation": {},
+    "ISSN": "0160-2896",
+    "issn-type": [
+      {
+        "value": "0160-2896",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 7]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A population level analysis of the gender gap in mathematics: Results on over 13 million children using the INVALSI dataset",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Intelligence",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.intell.2020.101467",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "101467"
+  }
+}

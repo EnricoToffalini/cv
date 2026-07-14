@@ -1,0 +1,3136 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 11]
+      ],
+      "date-time": "2026-07-11T19:08:57Z",
+      "timestamp": 1783796937730,
+      "version": "3.55.0"
+    },
+    "reference-count": 283,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2021, 8, 4]
+          ],
+          "date-time": "2021-08-04T00:00:00Z",
+          "timestamp": 1628035200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2021, 8, 4]
+          ],
+          "date-time": "2021-08-04T00:00:00Z",
+          "timestamp": 1628035200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100010665",
+        "name": "H2020 Marie Skłodowska-Curie Actions",
+        "doi-asserted-by": "publisher",
+        "award": "700031",
+        "award-info": [
+          {
+            "award-number": "700031"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100010665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "link.springer.com",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Educ Psychol Rev",
+    "published-print": {
+      "date-parts": [
+        [2022, 3]
+      ]
+    },
+    "abstract": "<jats:title>Abstract<\/jats:title><jats:p>The relationship between anxiety and mathematics has often been investigated in the literature. Different forms of anxiety have been evaluated, with math anxiety (MA) and test anxiety (TA) consistently being associated with various aspects of mathematics. In this meta-analysis, we have evaluated the impact of these forms of anxiety, distinguishing between different types of mathematical tasks. In investigating this relationship, we have also included potential moderators, such as age, gender, working memory, type of task, and type of material. One hundred seventy-seven studies met the inclusion criteria, providing an overall sample of 906,311 participants. Results showed that both MA and TA had a significant impact on mathematics. Sociodemographic factors had modest moderating effects. Working memory (WM) also mediated the relationship between MA and TA with mathematics; however, this indirect effect was weak. Theoretical and educational implications, as well as future directions for research in this field, are discussed.<\/jats:p>",
+    "DOI": "10.1007/s10648-021-09618-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 8, 4]
+      ],
+      "date-time": "2021-08-04T05:02:43Z",
+      "timestamp": 1628053363000
+    },
+    "page": "363-399",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 145,
+    "title": "Math Performance and Academic Anxiety Forms, from Sociodemographic to Cognitive Aspects: a Meta-analysis on 906,311 Participants",
+    "prefix": "10.1007",
+    "volume": "34",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4556-3179",
+        "authenticated-orcid": false,
+        "given": "Sara",
+        "family": "Caviola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica Mercader",
+        "family": "Ruiz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dénes",
+        "family": "Szűcs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene C.",
+        "family": "Mammarella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [2021, 8, 4]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "3",
+        "key": "9618_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "835",
+        "DOI": "10.2466/pr0.2000.86.3.835",
+        "volume": "86",
+        "author": "MM Abu-Hilal",
+        "year": "2000",
+        "unstructured": "*Abu-Hilal, M. M. (2000). A structural model for predicting mathematics achievement: Its relation with anxiety and self-concept in mathematics. Psychological Reports, 86(3), 835–847. doi: https://doi.org/10.2466/pr0.2000.86.3.835",
+        "journal-title": "Psychological Reports"
+      },
+      {
+        "key": "9618_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "158",
+        "DOI": "10.1016/j.adolescence.2018.06.010",
+        "volume": "67",
+        "author": "W Ahmed",
+        "year": "2018",
+        "unstructured": "Ahmed, W. (2018). Developmental trajectories of math anxiety during adolescence: Associations with STEM career choice. Journal of adolescence, 67, 158–166. https://doi.org/10.1016/j.adolescence.2018.06.010.",
+        "journal-title": "Journal of adolescence"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1007/s10964-008-9367-7",
+        "volume": "39",
+        "author": "W Ahmed",
+        "year": "2010",
+        "unstructured": "*Ahmed, W., Minnaert, A., van der Werf, G., & Kuyper, H. (2010). Perceived social support and early adolescents’ achievement: The mediational roles of motivational beliefs and emotions. Journal of youth and adolescence, 39(1), 36. doi: https://doi.org/10.1007/s10964-008-9367-7",
+        "journal-title": "Journal of youth and adolescence"
+      },
+      {
+        "issue": "8",
+        "key": "9618_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1553",
+        "DOI": "10.1007/s10763-015-9659-9",
+        "volume": "14",
+        "author": "M Allen",
+        "year": "2016",
+        "unstructured": "*Allen, M., & Vallée-Tourangeau, F. (2016). Interactivity defuses the impact of mathematics anxiety in primary school children. International Journal of Science and Mathematics Education, 14(8), 1553–1566. doi: https://doi.org/10.1007/s10763-015-9659-9",
+        "journal-title": "International Journal of Science and Mathematics Education"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "551",
+        "DOI": "10.3102/00346543040004551",
+        "volume": "40",
+        "author": "LR Aiken",
+        "year": "1970",
+        "unstructured": "Aiken, L. R. (1970). Attitudes toward mathematics. Review of educational research, 40(4), 551–596. https://doi.org/10.3102/00346543040004551.",
+        "journal-title": "Review of educational research"
+      },
+      {
+        "key": "9618_CR6",
+        "unstructured": "*Allred, G. (2018). Examining the influence of executive resources and mathematical abilities on framing biases (Publication No. 3207) [Doctoral dissertation, University of Nevada]. UNLV Theses, Dissertations, Professional Papers, and Capstones. https://digitalscholarship.unlv.edu/thesesdissertations/3207."
+      },
+      {
+        "issue": "7",
+        "key": "9618_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "904",
+        "DOI": "10.1002/ejsp.835",
+        "volume": "41",
+        "author": "M Appel",
+        "year": "2011",
+        "unstructured": "Appel, M., Kronberger, N., & Aronson, J. (2011). Stereotype threat impairs ability building: Effects on test preparation among women in science and technology. European Journal of Social Psychology, 41(7), 904–913. https://doi.org/10.1002/ejsp.835.",
+        "journal-title": "European Journal of Social Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "205",
+        "DOI": "10.1080/10615809208249522",
+        "volume": "5",
+        "author": "N Araki",
+        "year": "1992",
+        "unstructured": "*Araki, N. (1992). Test anxiety in elementary school and junior high school students in japan. Anxiety, Stress, & Coping, 5(3), 205–215. doi: https://doi.org/10.1080/10615809208249522",
+        "journal-title": "Anxiety, Stress, & Coping"
+      },
+      {
+        "key": "9618_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "240",
+        "DOI": "10.1016/j.cedpsych.2017.08.005",
+        "volume": "51",
+        "author": "AK Arens",
+        "year": "2017",
+        "unstructured": "*Arens, A. K., Becker, M., & Möller, J. (2017). Social and dimensional comparisons in math and verbal test anxiety: Within- and cross-domain relations with achievement and the mediating role of academic self-concept. Contemporary Educational Psychology, 51, 240–252. doi: https://doi.org/10.1016/j.cedpsych.2017.08.005",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1006/ceps.2000.1051",
+        "volume": "26",
+        "author": "PL Ayres",
+        "year": "2001",
+        "unstructured": "Ayres, P. L. (2001). Systematic mathematical errors and cognitive load. Contemporary Educational Psychology, 26(2), 227–248. https://doi.org/10.1006/ceps.2000.1051.",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "181",
+        "DOI": "10.1111/1467-8721.00196",
+        "volume": "11",
+        "author": "MH Ashcraft",
+        "year": "2002",
+        "unstructured": "Ashcraft, M. H. (2002). Math anxiety: Personal, educational, and cognitive consequences. Current Directions in Psychological Science, 11(5), 181–185. https://doi.org/10.1111/1467-8721.00196.",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1080/02699939408408931",
+        "volume": "8",
+        "author": "MH Ashcraft",
+        "year": "1994",
+        "unstructured": "Ashcraft, M. H., & Faust, M. W. (1994). Mathematics anxiety and mental arithmetic performance: An exploratory investigation. Cognition & Emotion, 8(2), 97–125. https://doi.org/10.1080/02699939408408931.",
+        "journal-title": "Cognition & Emotion"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "224",
+        "DOI": "10.1037/0096-3445.130.2.224",
+        "volume": "130",
+        "author": "MH Ashcraft",
+        "year": "2001",
+        "unstructured": "*Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, math anxiety, and performance. Journal of Experimental Psychology: General, 130(2), 224–237. doi: https://doi.org/10.1037/0096-3445.130.2.224",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.3758/BF03194059",
+        "volume": "14",
+        "author": "MH Ashcraft",
+        "year": "2007",
+        "unstructured": "Ashcraft, M. H., & Krause, J. A. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin and Review, 14(2), 243–248. https://doi.org/10.3758/BF03194059.",
+        "journal-title": "Psychonomic Bulletin and Review"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1177/0734282908330580",
+        "volume": "27",
+        "author": "MH Ashcraft",
+        "year": "2009",
+        "unstructured": "Ashcraft, M. H., & Moore, A. M. (2009). Mathematics anxiety and the affective drop in performance. Journal of Psychoeducational Assessment, 27(3), 197–205. https://doi.org/10.1177/0734282908330580.",
+        "journal-title": "Journal of Psychoeducational Assessment"
+      },
+      {
+        "key": "9618_CR16",
+        "unstructured": "Ashcraft, M. H., & Ridley, K. S. (2005). Math anxiety and its cognitive consequences. In J. I. D. Campbell (Ed.), Handbook of Mathematical Cognition (pp. 315–327). Psychology Press."
+      },
+      {
+        "key": "9618_CR17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/13493-009",
+        "unstructured": "Ashcraft, M. H., & Rudig, N. O. (2012). Higher cognition is altered by noncognitive factors: How affect enhances and disrupts mathematics performance in adolescence and young adulthood. In V. F. Reyna, S. B. Chapman, M. R. Dougherty, & J. Confrey (Eds.), The adolescent brain: Learning, reasoning, and decision making (pp. 243–263). American Psychological Association. https://doi.org/10.1037/13493-009."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.18404/ijemst.91464",
+        "volume": "2",
+        "author": "A Awofala",
+        "year": "2014",
+        "unstructured": "*Awofala, A. (2014). Examining personalisation of instruction, attitudes toward and achievement in mathematics word problems among Nigerian senior secondary school students. International Journal of Education in Mathematics Science and Technology, 2(4), 273-288.",
+        "journal-title": "International Journal of Education in Mathematics Science and Technology"
+      },
+      {
+        "key": "9618_CR19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0079-7421(08)60452-1",
+        "unstructured": "Baddeley, A., & Hitch, G. (1974). Working memory. In G. A. Bower (Ed.), The psychology of learning and motivation (pp. 47–90). Academic Press."
+      },
+      {
+        "key": "9618_CR20",
+        "unstructured": "Baddeley, A. D. (1986). Working memory (Vol. 11). Oxford University Press."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "115",
+        "DOI": "10.1177/1073191110364312",
+        "volume": "18",
+        "author": "H Bai",
+        "year": "2011",
+        "unstructured": "*Bai, H. (2011). Cross-validating a bidimensional mathematics anxiety scale. Assessment, 18(1), 115–122. doi: https://doi.org/10.1177/1073191110364312",
+        "journal-title": "Assessment"
+      },
+      {
+        "key": "9618_CR22",
+        "unstructured": "*Bagley, J. (2015). Factors related to successful completion of developmental mathematics courses (Publication No. 10108115) [Doctoral dissertation, Utah State University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/4e4291c91ac96e0cdbbe25667e2d798b/1?pq-origsite=gscholar&cbl=18750."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "611",
+        "DOI": "10.1037/0022-0663.87.4.611",
+        "volume": "87",
+        "author": "DL Bandalos",
+        "year": "1995",
+        "unstructured": "Bandalos, D. L., Yates, K., & Thorndike-Christ, T. (1995). Effects of math self-concept, perceived self-efficacy, and attributions for failure and success on test anxiety. Journal of Educational Psychology, 87(4), 611–623. https://doi.org/10.1037/0022-0663.87.4.611.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR24",
+        "unstructured": "*Barnett, P. A. (2012). High school students’ academic buoyancy: Longitudinal changes in motivation, cognitive engagement, and affect in English and math (Publication No. AAI3494306) [Doctoral dissertation, Fordham University]. Fordham Research Commons. https://research.library.fordham.edu/dissertations/AAI3494306."
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "134",
+        "DOI": "10.1037/bul0000307",
+        "volume": "147",
+        "author": "C Barroso",
+        "year": "2021",
+        "unstructured": "Barroso, C., Ganley, C. M., McGraw, A. L., Geer, E. A., Hart, S. A., & Daucourt, M. C. (2021). A meta-analysis of the relation between math anxiety and math achievement. Psychological Bulletin, 147(2), 134. https://doi.org/10.1037/bul0000307.",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "319",
+        "DOI": "10.1080/0020739900210221",
+        "volume": "21",
+        "author": "NF Baya’a",
+        "year": "1990",
+        "unstructured": "*Baya’a, N. F. (1990). Mathematics anxiety, mathematics achievement, gender, and socio-economic status among Arab secondary students in Israel. International Journal of Mathematical Education in Science and Technology, 21(2), 319–324. doi: https://doi.org/10.1080/0020739900210221",
+        "journal-title": "International Journal of Mathematical Education in Science and Technology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1080/07481756.2001.12069019",
+        "volume": "34",
+        "author": "TM Beasley",
+        "year": "2001",
+        "unstructured": "*Beasley, T. M., Long, J. D., & Natali, M. (2001). A confirmatory factor analysis of the mathematics anxiety scale for children. Measurement and Evaluation in Counseling and Development, 34(1), 14-26. doi: https://doi.org/10.1080/07481756.2001.12069019",
+        "journal-title": "Measurement and Evaluation in Counseling and Development"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1111/j.0956-7976.2005.00789.x",
+        "volume": "16",
+        "author": "SL Beilock",
+        "year": "2005",
+        "unstructured": "Beilock, S. L., & Carr, T. H. (2005). When high-powered people fail: Working memory and “Choking under pressure” in math. Psychological Science, 16(2), 101–105. https://doi.org/10.1111/j.0956-7976.2005.00789.x.",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "983",
+        "DOI": "10.1037/0278-7393.33.6.983",
+        "volume": "33",
+        "author": "SL Beilock",
+        "year": "2007",
+        "unstructured": "Beilock, S. L., & DeCaro, M. S. (2007). From poor performance to success under stress: Working memory, strategy selection, and mathematical problem solving under pressure. Journal of Experimental Psychology: Learning Memory and Cognition, 33(6), 983–998. https://doi.org/10.1037/0278-7393.33.6.983.",
+        "journal-title": "Journal of Experimental Psychology: Learning Memory and Cognition"
+      },
+      {
+        "issue": "7",
+        "key": "9618_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "669",
+        "DOI": "10.1108/02610151011074407",
+        "volume": "29",
+        "author": "FH Bezzina",
+        "year": "2010",
+        "unstructured": "*Bezzina, F. H. (2010). Investigating gender differences in mathematics performance and in self-regulated learning: An empirical study from Malta. Equality, Diversity and Inclusion: An International Journal, 29(7), 669–693. doi: https://doi.org/10.1108/02610151011074407",
+        "journal-title": "Equality, Diversity and Inclusion: An International Journal"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1177/073428299301100102",
+        "volume": "11",
+        "author": "M Birenbaum",
+        "year": "1993",
+        "unstructured": "*Birenbaum, M., & Gutvirtz, Y. (1993). The relationship between test anxiety and seriousness of errors in algebra. Journal of Psychoeducational Assessment, 11(1), 12-19. doi: https://doi.org/10.1177/073428299301100102",
+        "journal-title": "Journal of Psychoeducational Assessment"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "654",
+        "DOI": "10.1016/j.lindif.2010.04.006",
+        "volume": "20",
+        "author": "O Birgin",
+        "year": "2010",
+        "unstructured": "*Birgin, O., Baloǧlu, M., Çatlioǧlu Hakan, H., & Gürbüz Ramazan, R. (2010). An investigation of mathematics anxiety among sixth through eighth grade students in Turkey. Learning and Individual Differences, 20(6), 654–658. doi: https://doi.org/10.1016/j.lindif.2010.04.006",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "336",
+        "DOI": "10.1080/00220671.2011.627401",
+        "volume": "105",
+        "author": "M Bong",
+        "year": "2012",
+        "unstructured": "*Bong, M., Cho, C., Ahn, H. S., & Kim, H. J. (2012). Comparison of self-beliefs for predicting student motivation and achievement. Journal of Educational Research, 105(5), 336–352. doi: https://doi.org/10.1080/00220671.2011.627401",
+        "journal-title": "Journal of Educational Research"
+      },
+      {
+        "key": "9618_CR34",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/9780470743386",
+        "unstructured": "Borenstein, M., Hedges, L., Higgins, J., & Rothstein, H. (2009). Introduction to meta-analysis. John Wiley & Sons, Ltd.."
+      },
+      {
+        "key": "9618_CR35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.01596",
+        "unstructured": "*Bosmans, G., & De Smedt, B. (2015). Insecure attachment is associated with math anxiety in middle childhood. Frontiers in Psychology, 6. doi: https://doi.org/10.3389/fpsyg.2015.01596"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0195696",
+        "volume": "13",
+        "author": "EJ Braham",
+        "year": "2018",
+        "unstructured": "*Braham, E. J., & Libertus, M. E. (2018). When approximate number acuity predicts math performance: The moderating role of math anxiety. PLOS ONE, 13(5), e0195696. doi: https://doi.org/10.1371/journal.pone.0195696",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "356",
+        "DOI": "10.1093/arclin/act006",
+        "volume": "28",
+        "author": "MT Buelow",
+        "year": "2013",
+        "unstructured": "*Buelow, M. T., & Frakey, L. L. (2013). Math anxiety differentially affects WAIS-IV arithmetic performance in undergraduates. Archives of Clinical Neuropsychology, 28(4), 356–362. doi: https://doi.org/10.1093/arclin/act006",
+        "journal-title": "Archives of Clinical Neuropsychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1080/10615809208250492",
+        "volume": "5",
+        "author": "MG Calvo",
+        "year": "1992",
+        "unstructured": "*Calvo, M. G., Ramos, P. M., & Estevez, A. (1992). Test anxiety and comprehension efficiency: The role of prior knowledge and working memory deficits. Anxiety, Stress, & Coping, 5(2), 125–138. doi: https://doi.org/10.1080/10615809208250492",
+        "journal-title": "Anxiety, Stress, & Coping"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0174418",
+        "volume": "12",
+        "author": "E Carey",
+        "year": "2017",
+        "unstructured": "*Carey, E., Devine, A., Hill, F., & Szűcs, D. (2017). Differentiating anxiety forms and their role in academic performance from primary to secondary school. PLOS ONE, 12(3), e0174418. doi: https://doi.org/10.1371/journal.pone.0174418",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "755",
+        "DOI": "10.1080/02699931.2016.1147421",
+        "volume": "31",
+        "author": "E Cargnelutti",
+        "year": "2017",
+        "unstructured": "*Cargnelutti, E., Tomasetto, C., & Passolunghi, M. C. (2017a). How is anxiety related to math performance in young students? A longitudinal study of Grade 2 to Grade 3 children. Cognition and Emotion, 31(4), 755–764. doi: https://doi.org/10.1080/02699931.2016.1147421",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "key": "9618_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1016/j.tine.2017.10.002",
+        "volume": "8",
+        "author": "E Cargnelutti",
+        "year": "2017",
+        "unstructured": "*Cargnelutti, E., Tomasetto, C., & Passolunghi, M. C. (2017b). The interplay between affective and cognitive factors in shaping early proficiency in mathematics. Trends in Neuroscience and Education, 8, 28-36.",
+        "journal-title": "Trends in Neuroscience and Education"
+      },
+      {
+        "key": "9618_CR42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.01597",
+        "unstructured": "*Casad, B. J., Hale, P., & Wachs, F. L. (2015). Parent-child math anxiety and math-gender stereotypes predict adolescents’ math education outcomes. Frontiers in Psychology, 6. doi: https://doi.org/10.3389/fpsyg.2015.01597"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "669",
+        "DOI": "10.1037/0012-1649.33.4.669",
+        "volume": "33",
+        "author": "MB Casey",
+        "year": "1997",
+        "unstructured": "*Casey, M. B., Nuttall, R. L., & Pezaris, E. (1997). Mediators of gender differences in mathematics college entrance test scores: A comparison of spatial skills with internalized beliefs and anxieties. Developmental Psychology, 33(4), 669–680. doi: https://doi.org/10.1037/0012-1649.33.4.669",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "key": "9618_CR44",
+        "unstructured": "Cassady, J. C. (2010). Test anxiety: Contemporary theories and implications for learning. In J. C. Cassady (Ed.), Anxiety in schools: The causes, consequences, and solutions for academic anxieties (pp. 7–26). Peter Lang."
+      },
+      {
+        "key": "9618_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "270",
+        "DOI": "10.1006/ceps.2001.1094",
+        "volume": "27",
+        "author": "JC Cassady",
+        "year": "2002",
+        "unstructured": "Cassady, J. C., & Johnson, R. E. (2002). Cognitive test anxiety and academic performance. Contemporary Educational Psychology, 27, 270–295. https://doi.org/10.1006/ceps.2001.1094.",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "141",
+        "DOI": "10.1016/j.jecp.2012.02.005",
+        "volume": "112",
+        "author": "S Caviola",
+        "year": "2012",
+        "unstructured": "Caviola, S., Mammarella, I. C., Cornoldi, C., & Lucangeli, D. (2012). The involvement of working memory in children’s exact and approximate mental addition. Journal of experimental child psychology, 112(2), 141–160. https://doi.org/10.1016/j.jecp.2012.02.005.",
+        "journal-title": "Journal of experimental child psychology"
+      },
+      {
+        "key": "9618_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "174",
+        "DOI": "10.1016/j.lindif.2017.03.006",
+        "volume": "55",
+        "author": "S Caviola",
+        "year": "2017",
+        "unstructured": "*Caviola, S., Primi, C., Chiesi, F., & Mammarella, I. C. (2017). Psychometric properties of the Abbreviated Math Anxiety Scale (AMAS) in Italian primary school children. Learning and Individual Differences, 55, 174–182. doi: https://doi.org/10.1016/j.lindif.2017.03.006",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "9618_CR48",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2018.01209",
+        "unstructured": "Caviola, S., Mammarella, I. C., Pastore, M., & LeFevre, J. A. (2018). Children's strategy choices on complex subtraction problems: Individual differences and developmental changes. Frontiers in Psychology, 9, 1209."
+      },
+      {
+        "key": "9618_CR49",
+        "unstructured": "*Chang, H. S. (2017). The Role of Anticipation in the Relation Between Math Anxiety and Math Performance (Publication No. 10266641) [Doctoral dissertation, The University of Chicago]. ProQuest Dissertations Publishing."
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR50",
+        "first-page": "246",
+        "volume": "25",
+        "author": "JR Cheema",
+        "year": "2015",
+        "unstructured": "*Cheema, J. R., & Sheridan, K. (2015). Time spent on homework, mathematics anxiety and mathematics achievement: Evidence from a US sample. Issues in Educational Research, 25(3), 246.",
+        "journal-title": "Issues in Educational Research"
+      },
+      {
+        "key": "9618_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "DOI": "10.1016/j.cedpsych.2017.06.006",
+        "volume": "51",
+        "author": "BHH Ching",
+        "year": "2017",
+        "unstructured": "*Ching, B. H. H. (2017). Mathematics anxiety and working memory: Longitudinal associations with mathematical performance in Chinese children. Contemporary Educational Psychology, 51, 99–113. doi: https://doi.org/10.1016/j.cedpsych.2017.06.006",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR52",
+        "first-page": "121",
+        "volume": "23",
+        "author": "LH Chiu",
+        "year": "1990",
+        "unstructured": "Chiu, L. H., & Henry, L. L. (1990). Development and validation of the Mathematics Anxiety Scale for Children. Measurement and evaluation in counseling and development, 23(3), 121–127.",
+        "journal-title": "Measurement and evaluation in counseling and development"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR53",
+        "first-page": "1487",
+        "volume": "15",
+        "author": "SK Ciftci",
+        "year": "2015",
+        "unstructured": "*Ciftci, S. K. (2015). Effects of secondary school students’ perceptions of mathematics education quality on mathematics anxiety and achievement. Educational Sciences: Theory and Practice, 15(6), 1487-1501.",
+        "journal-title": "Educational Sciences: Theory and Practice"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "260",
+        "DOI": "10.1027/1016-9040/a000183",
+        "volume": "19",
+        "author": "C Cornoldi",
+        "year": "2014",
+        "unstructured": "Cornoldi, C., & Giofrè, D. (2014). The crucial role of working memory in intellectual functioning. European Psychologist, 19(4), 260–268. https://doi.org/10.1027/1016-9040/a000183.",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "key": "9618_CR55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315625560",
+        "unstructured": "Cowan, N. (2016). Working memory capacity: Classic edition. Routledge. https://doi.org/10.4324/9781315625560."
+      },
+      {
+        "key": "9618_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "73",
+        "DOI": "10.1016/j.jecp.2013.07.018",
+        "volume": "117",
+        "author": "D Cvencek",
+        "year": "2014",
+        "unstructured": "Cvencek, D., Meltzoff, A. N., & Kapur, M. (2014). Cognitive consistency and math–gender stereotypes in Singaporean children. Journal of experimental child psychology, 117, 73–91. https://doi.org/10.1016/j.jecp.2013.07.018.",
+        "journal-title": "Journal of experimental child psychology"
+      },
+      {
+        "key": "9618_CR57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2017.01939",
+        "unstructured": "*Daches-Cohen, L., & Rubinsten, O. (2017). Mothers, intrinsic math motivation, arithmetic skills, and math anxiety in elementary school. Frontiers in Psychology, 8. doi: https://doi.org/10.3389/fpsyg.2017.01939"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1080/02699938808408071",
+        "volume": "2",
+        "author": "S Darke",
+        "year": "1988",
+        "unstructured": "Darke, S. (1988). Anxiety and working memory capacity. Cognition and Emotion, 2(2), 145–154. https://doi.org/10.1080/02699938808408071.",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "key": "9618_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "168",
+        "DOI": "10.1027/1016-9040.14.2.168",
+        "volume": "14",
+        "author": "N Derakshan",
+        "year": "2009",
+        "unstructured": "Derakshan, N., & Eysenck, M. W. (2009). Anxiety, processing efficiency and cognitive performance: New developments from attentional control theory. European Psychologist, 14, 168–176. https://doi.org/10.1027/1016-9040.14.2.168.",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "key": "9618_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "955",
+        "DOI": "10.1016/j.paid.2010.08.019",
+        "volume": "50",
+        "author": "N Derakshan",
+        "year": "2011",
+        "unstructured": "Derakshan, N., & Eysenck, M. W. (2011). New perspectives in attentional control theory. Personality and Individual Differences, 50, 955–960. https://doi.org/10.1016/j.paid.2010.08.019.",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1186/1744-9081-8-33",
+        "volume": "8",
+        "author": "A Devine",
+        "year": "2012",
+        "unstructured": "*Devine, A., Fawcett, K., Szűcs, D., & Dowker, A. (2012). Gender differences in mathematics anxiety and the relation to mathematics performance while controlling for test anxiety. Behavioral and Brain Functions, 8(1), 33. doi: https://doi.org/10.1186/1744-9081-8-33",
+        "journal-title": "Behavioral and Brain Functions"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "431",
+        "DOI": "10.1037/edu0000222",
+        "volume": "110",
+        "author": "A Devine",
+        "year": "2018",
+        "unstructured": "*Devine, A., Hill, F., Carey, E., & Szucs, D. (2018). Cognitive and emotional math problems largely dissociate: Prevalence of developmental dyscalculia and mathematics anxiety. Journal of Educational Psychology, 110(3), 431–444. doi: https://doi.org/10.1037/edu0000222",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "255",
+        "DOI": "10.1111/mbe.12251",
+        "volume": "14",
+        "author": "E Donolato",
+        "year": "2020",
+        "unstructured": "Donolato, E., Toffalini, E., Giofrè, D., Caviola, S., & Mammarella, I. C. (2020). Going beyond mathematics anxiety in primary and middle school students: The role of ego-resiliency in mathematics. Mind, Brain, and Education, 14(3), 255–266. https://doi.org/10.1111/mbe.12251.",
+        "journal-title": "Mind, Brain, and Education"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "324",
+        "DOI": "10.1177/00222194050380040801",
+        "volume": "38",
+        "author": "A Dowker",
+        "year": "2005",
+        "unstructured": "Dowker, A. (2005). Early identification and intervention for students with mathematics difficulties. Journal of learning disabilities, 38(4), 324–332. https://doi.org/10.1177/00222194050380040801.",
+        "journal-title": "Journal of learning disabilities"
+      },
+      {
+        "key": "9618_CR65",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oxfordhb/9780199642342.013.034",
+        "unstructured": "Dowker, A. (2015). Individual differences in arithmetical abilities: The componential nature of arithmetic. In R. C. Kadosh & A. Dowker (Eds.), Oxford library of psychology. The Oxford handbook of numerical cognition (pp. 878–894). Oxford University Press."
+      },
+      {
+        "key": "9618_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "508",
+        "DOI": "10.3389/fpsyg.2016.00508",
+        "volume": "7",
+        "author": "A Dowker",
+        "year": "2016",
+        "unstructured": "Dowker, A., Sarkar, A., & Looi, C. Y. (2016). Mathematics anxiety: What have we learned in 60 years? Frontiers in Psychology, 7, 508. https://doi.org/10.3389/fpsyg.2016.00508.",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "439",
+        "DOI": "10.1037/a0026280",
+        "volume": "104",
+        "author": "AL Duckworth",
+        "year": "2012",
+        "unstructured": "Duckworth, A. L., Quinn, P. D., & Tsukayama, E. (2012). What no child left behind leaves behind: The roles of IQ and self-control in predicting standardized achievement test scores and report card grades. Journal of Educational Psychology, 104(2), 439. https://doi.org/10.1037/a0026280.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR68",
+        "unstructured": "*Durette, R. (2011). Operation span task’s susceptibility to math anxiety: Support from fluid intelligence (Publication No. 1002) [Doctoral dissertation, University of Nevada]. UNLV Theses, Dissertations, Professional Papers, and Capstones. https://digitalscholarship.unlv.edu/thesesdissertations/1002/."
+      },
+      {
+        "key": "9618_CR69",
+        "unstructured": "*Dutko, J. A. (2015). Understanding mathematics anxiety: The relationships between fourth grade students’ math anxiety, multiplication fact fluency, and problem solving ability [Doctoral dissertation, Liberty University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/f6d74e04cb2f3fa4cd0475d940137bfa/1?pq-origsite=gscholar&cbl=18750&diss=y."
+      },
+      {
+        "key": "9618_CR70",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/0470870168.ch8",
+        "unstructured": "Duval, S. J. (2005). The trim and fill method. In H. R. Rothstein, A. J. Sutton, & M. Borenstein (Eds.), Publication bias in meta-analysis: Prevention, assessment, and adjustments (pp. 127–144). Wiley."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "628",
+        "DOI": "10.1037/0022-3514.76.4.628",
+        "volume": "76",
+        "author": "AJ Elliot",
+        "year": "1999",
+        "unstructured": "Elliot, A. J., & McGregor, H. A. (1999). Test anxiety and the hierarchical model of approach and avoidance achievement motivation. Journal of Personality and Social Psychology, 76(4), 628–644. https://doi.org/10.1037/0022-3514.76.4.628.",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1037/a0018053",
+        "volume": "136",
+        "author": "NM Else-Quest",
+        "year": "2010",
+        "unstructured": "Else-Quest, N. M., Hyde, J. S., & Linn, M. C. (2010). Cross-national patterns of gender differences in mathematics: A meta-analysis. Psychological bulletin, 136(1), 103–127. https://doi.org/10.1037/a0018053.",
+        "journal-title": "Psychological bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "13",
+        "DOI": "10.1016/0361-476X(90)90002-I",
+        "volume": "15",
+        "author": "G Engelhard Jr",
+        "year": "1990",
+        "unstructured": "*Engelhard Jr, G. (1990). Gender differences in performance on mathematics items: Evidence from the United States and Thailand. Contemporary Educational Psychology, 15(1), 13-26. doi: https://doi.org/10.1016/0361-476X(90)90002-I",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1080/00223980.1990.10543224",
+        "volume": "124",
+        "author": "G Engelhard",
+        "year": "1990",
+        "unstructured": "*Engelhard, G. (1990). Math anxiety, mother’s education, and the mathematics performance of adolescent boys and girls: Evidence from the United States and Thailand. Journal of Psychology: Interdisciplinary and Applied, 124(3), 289–298. doi: https://doi.org/10.1080/00223980.1990.10543224",
+        "journal-title": "Journal of Psychology: Interdisciplinary and Applied"
+      },
+      {
+        "key": "9618_CR75",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0079-7421(03)44005-X",
+        "unstructured": "Engle, R. W., & Kane, M. J. (2004). Executive attention, working memory capacity, and a two-factor theory of cognitive control. In B. H. Ross (Ed.), Psychology of learning and motivation (Vol. 44, pp. 145–200). Elsevier Academic Press."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "421",
+        "DOI": "10.1007/s10212-015-0248-7",
+        "volume": "30",
+        "author": "S Erturan",
+        "year": "2015",
+        "unstructured": "*Erturan, S., & Jansen, B. (2015). An investigation of boys’ and girls’ emotional experience of math, their math performance, and the relation between these variables. European Journal of Psychology of Education, 30(4), 421–435. doi: https://doi.org/10.1007/s10212-015-0248-7",
+        "journal-title": "European Journal of Psychology of Education"
+      },
+      {
+        "key": "9618_CR77",
+        "unstructured": "Evans, J. (2000). Adults’ mathematical thinking and emotions: A study of numerate practice. Routledge."
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "579",
+        "DOI": "10.1016/0191-8869(85)90007-8",
+        "volume": "6",
+        "author": "MW Eysenck",
+        "year": "1985",
+        "unstructured": "Eysenck, M. W. (1985). Anxiety and cognitive-task performance. Personality and Individual differences, 6(5), 579–586. https://doi.org/10.1016/0191-8869(85)90007-8.",
+        "journal-title": "Personality and Individual differences"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.1080/02699939208409696",
+        "volume": "6",
+        "author": "MW Eysenck",
+        "year": "1992",
+        "unstructured": "Eysenck, M. W., & Calvo, M. G. (1992). Anxiety and performance: The processing efficiency theory. Cognition & Emotion, 6(6), 409–434. https://doi.org/10.1080/02699939208409696.",
+        "journal-title": "Cognition & Emotion"
+      },
+      {
+        "key": "9618_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "336",
+        "DOI": "10.1037/1528-3542.7.2.336",
+        "volume": "7",
+        "author": "MW Eysenck",
+        "year": "2007",
+        "unstructured": "Eysenck, M. W., Derakshan, N., Santos, R., & Calvo, M. G. (2007). Anxiety and cognitive performance: Attentional control theory. Emotion, 7, 336–353. https://doi.org/10.1037/1528-3542.7.2.336.",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "9618_CR81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5539/ies.v7n1p21",
+        "unstructured": "*Federici, R. A., & Skaalvik, E. M. (2014). Students’ perceptions of emotional and instrumental teacher support: Relations with motivational and emotional responses. International Education Studies, 7(1). doi: https://doi.org/10.5539/ies.v7n1p21"
+      },
+      {
+        "key": "9618_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.lindif.2015.02.007",
+        "volume": "39",
+        "author": "AM Ferguson",
+        "year": "2015",
+        "unstructured": "Ferguson, A. M., Maloney, E. A., Fugelsang, J., & Risko, E. F. (2015). On the relation between math and spatial ability: The case of math anxiety. Learning and Individual Differences, 39, 1–12. https://doi.org/10.1016/j.lindif.2015.02.007.",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "499",
+        "DOI": "10.1016/j.lindif.2009.05.004",
+        "volume": "19",
+        "author": "J Ferla",
+        "year": "2009",
+        "unstructured": "*Ferla, J., Valcke, M., & Cai, Y. (2009). Academic self-efficacy and academic self-concept: Reconsidering structural relationships. Learning and individual differences, 19(4), 499-505. doi: https://doi.org/10.1016/j.lindif.2009.05.004",
+        "journal-title": "Learning and individual differences"
+      },
+      {
+        "key": "9618_CR84",
+        "unstructured": "*Field, T. M. (2011). California High School Exit Exam for students with disabilities: The impact of setting, anxiety, and stereotype threat on stuents’ math performance (Publication No. 282) [Doctoral dissertation, University of San Francisco]. USF Scholarship: a digital repository @ Gleeson Library | Geschke Center. https://repository.usfca.edu/diss/282."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1016/j.jsp.2014.10.002",
+        "volume": "53",
+        "author": "PC Flore",
+        "year": "2015",
+        "unstructured": "Flore, P. C., & Wicherts, J. M. (2015). Does stereotype threat influence performance of girls in stereotyped domains? A meta-analysis. Journal of school psychology, 53(1), 25–44. https://doi.org/10.1016/j.jsp.2014.10.002.",
+        "journal-title": "Journal of school psychology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR86",
+        "doi-asserted-by": "publisher",
+        "first-page": "52",
+        "DOI": "10.1177/0963721416672463",
+        "volume": "26",
+        "author": "AE Foley",
+        "year": "2017",
+        "unstructured": "Foley, A. E., Herts, J. B., Borgonovi, F., Guerriero, S., Levine, S. C., & Beilock, S. L. (2017). The math anxiety-performance link: A global phenomenon. Current Directions in Psychological Science, 26(1), 52–58. https://doi.org/10.1177/0963721416672463.",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "9618_CR87",
+        "doi-asserted-by": "publisher",
+        "first-page": "34",
+        "DOI": "10.1016/j.lindif.2017.05.003",
+        "volume": "56",
+        "author": "L Fonteyne",
+        "year": "2017",
+        "unstructured": "*Fonteyne, L., Duyck, W., & De Fruyt, F. (2017). Program-specific prediction of academic achievement on the basis of cognitive and non-cognitive factors. Learning and Individual Differences, 56, 34–48. doi: https://doi.org/10.1016/j.lindif.2017.05.003",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1037/0012-1649.38.4.519",
+        "volume": "38",
+        "author": "JA Fredricks",
+        "year": "2002",
+        "unstructured": "Fredricks, J. A., & Eccles, J. S. (2002). Children’s competence and value beliefs from childhood through adolescence: growth trajectories in two male-sex-typed domains. Developmental Psychology, 38(4), 519–533. https://doi.org/10.1037/0012-1649.38.4.519.",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "302",
+        "DOI": "10.1177/0022022107300276",
+        "volume": "38",
+        "author": "AC Frenzel",
+        "year": "2007",
+        "unstructured": "*Frenzel, A. C., Thrash, T. M., Pekrun, R., & Goetz, T. (2007). Achievement emotions in Germany and China. Journal of Cross-Cultural Psychology, 38(3), 302–309. doi: https://doi.org/10.1177/0022022107300276",
+        "journal-title": "Journal of Cross-Cultural Psychology"
+      },
+      {
+        "key": "9618_CR90",
+        "unstructured": "*Ganley, C. M. (2011). Gender Differences in Math Performance Across Development: Exploring the Roles of Anxiety, Working Memory, and Stereotype Threat (Publication No. 2345/1982) [Doctoral dissertation, Boston College]. eScholarship@BC, Boston College University Libraries. http://hdl.handle.net/2345/1982"
+      },
+      {
+        "key": "9618_CR91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2016.01181",
+        "unstructured": "*Ganley, C. M., & McGraw, A. L. (2016). The development and validation of a revised version of the math anxiety scale for young children. Frontiers in Psychology, 7. doi: https://doi.org/10.3389/fpsyg.2016.01181"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1037/a0034099",
+        "volume": "106",
+        "author": "CM Ganley",
+        "year": "2014",
+        "unstructured": "*Ganley, C. M., & Vasilyeva, M. (2014). The role of anxiety and working memory in gender differences in mathematics. Journal of Educational Psychology, 106(1), 105–120. https://doi.org/10.1037/a0034099",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR93",
+        "doi-asserted-by": "publisher",
+        "first-page": "1401",
+        "DOI": "10.3389/fpsyg.2016.01401",
+        "volume": "7",
+        "author": "C Georges",
+        "year": "2016",
+        "unstructured": "*Georges, C., Hoffmann, D., & Schiltz, C. (2016). How math anxiety relates to number–space associations. Frontiers in psychology, 7, 1401. doi: https://doi.org/10.3389/fpsyg.2016.01401",
+        "journal-title": "Frontiers in psychology"
+      },
+      {
+        "key": "9618_CR94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5206/cjsotl-rcacea.2015.3.3",
+        "unstructured": "Gerwing, T. G., Rash, J. A., Gerwing, A. M. A., Bramble, B., & Landine, J. (2015). Perceptions and incidence of test anxiety. The Canadian Journal for Scholarship of Teaching and Learning, 6, Article3, 1-14. doi:https://doi.org/10.5206/cjsotl-rcacea.2015.3.3"
+      },
+      {
+        "key": "9618_CR95",
+        "unstructured": "*Gibson-Dee, K. (2016). Hope, expectation, math anxiety, and achievement in college algebra students: examining an instructional strategy using multi-level modeling (Publication No. 6506) [Doctoral dissertation, University of South Florida]. University of South Florida Scholar Commons. https://scholarcommons.usf.edu/etd/6506."
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "139",
+        "DOI": "10.1080/00220973.1995.9943818",
+        "volume": "63",
+        "author": "MJ Gierl",
+        "year": "1995",
+        "unstructured": "*Gierl, M. J., & Bisanz, J. (1995). Anxieties and attitudes related to mathematics in grades 3 and 6. Journal of Experimental Education, 63(2), 139–158. doi: https://doi.org/10.1080/00220973.1995.9943818",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR97",
+        "doi-asserted-by": "publisher",
+        "first-page": "315",
+        "DOI": "10.1177/0013164496056002012",
+        "volume": "56",
+        "author": "MJ Gierl",
+        "year": "1996",
+        "unstructured": "Gierl, M. J., & Rogers, W. T. (1996). A confirmatory factor analysis of the test anxiety inventory using Canadian high school, students. Educational and Psychological Measurement, 56(2), 315–324. https://doi.org/10.1177/0013164496056002012.",
+        "journal-title": "Educational and Psychological Measurement"
+      },
+      {
+        "issue": "10",
+        "key": "9618_CR98",
+        "doi-asserted-by": "publisher",
+        "first-page": "2079",
+        "DOI": "10.1177/0956797613486989",
+        "volume": "24",
+        "author": "T Goetz",
+        "year": "2013",
+        "unstructured": "Goetz, T., Bieg, M., Lüdtke, O., Pekrun, R., & Hall, N. C. (2013). Do girls really experience more anxiety in mathematics? Psychological Science, 24(10), 2079–2087. https://doi.org/10.1177/0956797613486989.",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR99",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1080/00220970903292967",
+        "volume": "79",
+        "author": "T Goetz",
+        "year": "2010",
+        "unstructured": "*Goetz, T., Frenzel, A. C., Ludtke, O., & Hall, N. C. (2010). Between-domain relations of academic emotions: Does having the same instructor make a difference? Journal of Experimental Education, 79(1), 84–101. doi: https://doi.org/10.1080/00220970903292967",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.3200/JEXE.75.1.5-29",
+        "volume": "75",
+        "author": "T Goetz",
+        "year": "2006",
+        "unstructured": "*Goetz, T., Frenzel, A. C., Pekrun, R., & Hall, N. C. (2006). The domain specificity of academic emotional experiences. Journal of Experimental Education, 75(1), 5–29. doi: https://doi.org/10.3200/JEXE.75.1.5-29",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "715",
+        "DOI": "10.1037/0022-0663.99.4.715",
+        "volume": "99",
+        "author": "T Goetz",
+        "year": "2007",
+        "unstructured": "*Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2007). Between-and within-domain relations of students' academic emotions. Journal of Educational Psychology, 99(4), 715. doi: https://doi.org/10.1037/0022-0663.99.4.715",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2016.00356",
+        "unstructured": "*Gogol, K., Brunner, M., Preckel, F., Goetz, T., & Martin, R. (2016). Developmental dynamics of general and school-subject-specific components of academic self-concept, academic interest, and academic anxiety. Frontiers in Psychology, 7. doi: https://doi.org/10.3389/fpsyg.2016.00356"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "188",
+        "DOI": "10.1007/s10864-016-9251-6",
+        "volume": "26",
+        "author": "SD Grays",
+        "year": "2017",
+        "unstructured": "*Grays, S. D., Rhymer, K. N., & Swartzmiller, M. D. (2017). Moderating effects of mathematics anxiety on the effectiveness of explicit timing. Journal of Behavioral Education, 26(2), 188–200. doi: https://doi.org/10.1007/s10864-016-9251-6",
+        "journal-title": "Journal of Behavioral Education"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR104",
+        "doi-asserted-by": "publisher",
+        "first-page": "617",
+        "DOI": "10.1177/0143034305060802",
+        "volume": "26",
+        "author": "A Gregor",
+        "year": "2005",
+        "unstructured": "Gregor, A. (2005). Examination anxiety: Live with it, control it or make it work for you? School Psychology International, 26(5), 617–635. https://doi.org/10.1177/0143034305060802.",
+        "journal-title": "School Psychology International"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR105",
+        "doi-asserted-by": "publisher",
+        "first-page": "21",
+        "DOI": "10.1080/15248372.2017.1421538",
+        "volume": "19",
+        "author": "EA Gunderson",
+        "year": "2018",
+        "unstructured": "*Gunderson, E. A., Park, D., Maloney, E. A., Beilock, S. L., & Levine, S. C. (2018). Reciprocal relations among motivational frameworks, math anxiety, and math achievement in early elementary school. Journal of Cognition and Development, 19(1), 21–46. doi: https://doi.org/10.1080/15248372.2017.1421538",
+        "journal-title": "Journal of Cognition and Development"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR106",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1016/j.lindif.2012.10.003",
+        "volume": "23",
+        "author": "B Guven",
+        "year": "2013",
+        "unstructured": "*Guven, B., & Cabakcor, B. O. (2013). Factors influencing mathematical problem-solving achievement of seventh grade Turkish students. Learning and Individual Differences, 23(1), 131–137. doi: https://doi.org/10.1016/j.lindif.2012.10.003",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "11",
+        "key": "9618_CR107",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.5539/ies.v6n11p1",
+        "volume": "6",
+        "author": "MHS Hamid",
+        "year": "2013",
+        "unstructured": "Hamid, M. H. S., Shahrill, M., Matzin, R., Mahalle, S., & Mundia, L. (2013). Barriers to mathematics achievement in Brunei secondary school students: Insights into the roles of mathematics anxiety, self-esteem, proactive coping, and test stress. International Education Studies, 6(11), 1–14. https://doi.org/10.5539/ies.v6n11p1.",
+        "journal-title": "International Education Studies"
+      },
+      {
+        "issue": "7",
+        "key": "9618_CR108",
+        "doi-asserted-by": "publisher",
+        "first-page": "816",
+        "DOI": "10.1016/j.paid.2012.06.003",
+        "volume": "53",
+        "author": "B Hannon",
+        "year": "2012",
+        "unstructured": "*Hannon, B. (2012). Test anxiety and performance-avoidance goals explain gender differences in SAT-V, SAT-M, and overall SAT scores. Personality and individual differences, 53(7), 816-820. doi: https://doi.org/10.1016/j.paid.2012.06.003",
+        "journal-title": "Personality and individual differences"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR109",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1177/0739986315573249",
+        "volume": "37",
+        "author": "B Hannon",
+        "year": "2015",
+        "unstructured": "*Hannon, B. (2015). Hispanics’ SAT scores: The influences of level of parental education, performance-avoidance goals, and knowledge about learning. Hispanic journal of behavioral sciences, 37(2), 204-222. doi: https://doi.org/10.1177/0739986315573249",
+        "journal-title": "Hispanic journal of behavioral sciences"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR110",
+        "doi-asserted-by": "publisher",
+        "first-page": "528",
+        "DOI": "10.1002/acp.1725",
+        "volume": "25",
+        "author": "B Hannon",
+        "year": "2011",
+        "unstructured": "*Hannon, B., & McNaughton-Cassill, M. (2011). SAT performance: Understanding the contributions of cognitive/learning and social/personality factors. Applied Cognitive Psychology, 25(4), 528–535. doi: https://doi.org/10.1002/acp.1725",
+        "journal-title": "Applied Cognitive Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR111",
+        "doi-asserted-by": "publisher",
+        "first-page": "538",
+        "DOI": "10.1080/00220973.2012.727888",
+        "volume": "81",
+        "author": "RR Harari",
+        "year": "2013",
+        "unstructured": "*Harari, R. R., Vukovic, R. K., & Bailey, S. P. (2013). Mathematics anxiety in young children: An exploratory study. Journal of Experimental Education, 81(4), 538–555. doi: https://doi.org/10.1080/00220973.2012.727888",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR112",
+        "doi-asserted-by": "publisher",
+        "first-page": "181",
+        "DOI": "10.1037/edu0000045",
+        "volume": "108",
+        "author": "SA Hart",
+        "year": "2016",
+        "unstructured": "*Hart, S. A., Logan, J. A. R., Thompson, L., Kovas, Y., McLoughlin, G., Petrill SA (2016). A latent profile analysis of math achievement, numerosity, and math anxiety in twins. Journal of Educational Psychology, 108(2), 181–193. doi: https://doi.org/10.1037/edu0000045",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR113",
+        "doi-asserted-by": "publisher",
+        "first-page": "295",
+        "DOI": "10.1080/02732170490431304",
+        "volume": "24",
+        "author": "AF Haynes",
+        "year": "2004",
+        "unstructured": "*Haynes, A. F., Mullins, A. G., & Stein, B. S. (2004). Differential models for math anxiety in male and female college students. Sociological Spectrum, 24(3), 295–318. doi: https://doi.org/10.1080/02732170490431304",
+        "journal-title": "Sociological Spectrum"
+      },
+      {
+        "key": "9618_CR114",
+        "unstructured": "*Helming, L. (2013). Motivation and math anxiety for ability grouped college math students (Publication No. 3599873) [Doctoral dissertation, The University of South Dakota]. ProQuest Dissertations Publishing. https://eric.ed.gov/?id=ED563200."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR115",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.3102/00346543058001047",
+        "volume": "58",
+        "author": "R Hembree",
+        "year": "1988",
+        "unstructured": "Hembree, R. (1988). Correlates, causes, effects, and treatment of test anxiety. Review of Educational Research, 58(1), 47–77. https://doi.org/10.3102/00346543058001047.",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR116",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.2307/749455",
+        "volume": "21",
+        "author": "R Hembree",
+        "year": "1990",
+        "unstructured": "Hembree, R. (1990). The nature, effects, and relief of mathematics anxiety. Journal for Research in Mathematics Education, 21(1), 33–46. https://doi.org/10.2307/749455.",
+        "journal-title": "Journal for Research in Mathematics Education"
+      },
+      {
+        "key": "9618_CR117",
+        "unstructured": "*Henry, A. (2017). The role of math anxiety and situational anxiety in math performance (Publication No. 153) [Doctoral dissertation, University of Chicago]. Knowledge UChicago. https://knowledge.uchicago.edu/record/153."
+      },
+      {
+        "key": "9618_CR118",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1016/j.lindif.2017.03.009",
+        "volume": "55",
+        "author": "S Henschel",
+        "year": "2017",
+        "unstructured": "*Henschel, S., & Roick, T. (2017). Relationships of mathematics performance, control and value beliefs with cognitive and affective math anxiety. Learning and Individual Differences, 55, 97-107. doi: https://doi.org/10.1016/j.lindif.2017.03.009",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "9618_CR119",
+        "doi-asserted-by": "publisher",
+        "first-page": "557",
+        "DOI": "10.1136/bmj.327.7414.557",
+        "volume": "327",
+        "author": "JP Higgins",
+        "year": "2003",
+        "unstructured": "Higgins, J. P., Thompson, S. G., Deeks, J. J., & Altman, D. G. (2003). Measuring inconsistency in meta-analyses. British Medical Journal, 327, 557–560. https://doi.org/10.1136/bmj.327.7414.557.",
+        "journal-title": "British Medical Journal"
+      },
+      {
+        "key": "9618_CR120",
+        "doi-asserted-by": "publisher",
+        "first-page": "45",
+        "DOI": "10.1016/j.lindif.2016.02.006",
+        "volume": "48",
+        "author": "F Hill",
+        "year": "2016",
+        "unstructured": "*Hill, F., Mammarella, I. C., Devine, A., Caviola, S., Passolunghi, M. C., & Szucs, D. (2016). Maths anxiety in primary and secondary school students: Gender differences, developmental changes and anxiety specificity. Learning and Individual Differences, 48, 45–53. doi: https://doi.org/10.1016/j.lindif.2016.02.006",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR121",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.2307/1165770",
+        "volume": "31",
+        "author": "KT Hill",
+        "year": "1966",
+        "unstructured": "Hill, K. T., & Sarason, S. B. (1966). The relation of test anxiety and defensiveness to test and school performance over the elementary school years: a further longitudinal study. Monographs of the Society for Research in Child Development, 31(2), 1–76. https://doi.org/10.2307/1165770.",
+        "journal-title": "Monographs of the Society for Research in Child Development"
+      },
+      {
+        "key": "9618_CR122",
+        "unstructured": "*Hodge, M. B. (1997). Effects of gender, math self-efficacy, test anxiety, and previous math achievement on posology errors of baccalaureate nursing students (Publication No. 9733068) [Doctoral dissertation, University of Southern California]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/963339be131be2d3ad0c153f9485da1c/1?pq-origsite=gscholar&cbl=18750&diss=y."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR123",
+        "doi-asserted-by": "publisher",
+        "first-page": "450",
+        "DOI": "10.1080/00223980.2015.1087374",
+        "volume": "150",
+        "author": "F Hoferichter",
+        "year": "2015",
+        "unstructured": "*Hoferichter, F., Raufelder, D., Ringeisen, T., Rohrmann, S., & Bukowski, W. M. (2015). Assessing the multi-faceted nature of test anxiety among secondary school students: An English version of the German test anxiety questionnaire: PAF-E. Journal of Psychology: Interdisciplinary and Applied, 150(4), 450–468. doi: https://doi.org/10.1080/00223980.2015.1087374",
+        "journal-title": "Journal of Psychology: Interdisciplinary and Applied"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR124",
+        "doi-asserted-by": "publisher",
+        "first-page": "276",
+        "DOI": "10.1016/j.lindif.2010.02.001",
+        "volume": "20",
+        "author": "B Hoffman",
+        "year": "2010",
+        "unstructured": "*Hoffman, B. (2010). “I think I can, but I’m afraid to try”: The role of self-efficacy beliefs and mathematics anxiety in mathematics problem-solving efficiency. Learning and individual differences, 20(3), 276-283. doi: https://doi.org/10.1016/j.lindif.2010.02.001",
+        "journal-title": "Learning and individual differences"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR125",
+        "doi-asserted-by": "publisher",
+        "first-page": "348",
+        "DOI": "10.1006/ceps.2001.1095",
+        "volume": "27",
+        "author": "E Hong",
+        "year": "2002",
+        "unstructured": "*Hong, E., & Karstensson, L. (2002). Antecedents of state test anxiety. Contemporary Educational Psychology, 27(2), 348–367. doi: https://doi.org/10.1006/ceps.2001.1095",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "key": "9618_CR126",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1016/j.ijer.2017.01.005",
+        "volume": "82",
+        "author": "TE Hunt",
+        "year": "2017",
+        "unstructured": "*Hunt, T. E., & Sandhu, K. K. (2017). Endogenous and exogenous time pressure: Interactions with mathematics anxiety in explaining arithmetic performance. International Journal of Educational Research, 82, 91–98. doi: https://doi.org/10.1016/j.ijer.2017.01.005",
+        "journal-title": "International Journal of Educational Research"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR127",
+        "doi-asserted-by": "publisher",
+        "first-page": "284",
+        "DOI": "10.1016/j.jecp.2006.09.001",
+        "volume": "96",
+        "author": "I Imbo",
+        "year": "2007",
+        "unstructured": "*Imbo, I., & Vandierendonck, A. (2007a). The development of strategy use in elementary school children: Working memory and individual differences. Journal of Experimental Child Psychology, 96(4), 284–309. doi: https://doi.org/10.1016/j.jecp.2006.09.001",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR128",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1007/s00426-007-0112-8",
+        "volume": "72",
+        "author": "I Imbo",
+        "year": "2007",
+        "unstructured": "*Imbo, I., & Vandierendonck, A. (2007b). Effects of problem size, operation, and working-memory span on simple-arithmetic strategies: Differences between children and adults? Psychological Research, 72(3), 331–346. doi: https://doi.org/10.1007/s00426-007-0112-8",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "key": "9618_CR129",
+        "unstructured": "*Iossi, L. H. (2009). The Mathematics Anxiety of Bilingual Community College Students (Publication No. 198) [Doctoral dissertation, Florida International University]. Florida International University Digital Commons. https://digitalcommons.fiu.edu/etd/198."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR130",
+        "doi-asserted-by": "publisher",
+        "first-page": "518",
+        "DOI": "10.1080/00220973.2013.813367",
+        "volume": "82",
+        "author": "MM Jameson",
+        "year": "2014",
+        "unstructured": "Jameson, M. M. (2014). Contextual factors related to math anxiety in second-grade children. Journal of Experimental Education, 82(4), 518–536. https://doi.org/10.1080/00220973.2013.813367.",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "key": "9618_CR131",
+        "doi-asserted-by": "publisher",
+        "first-page": "513",
+        "DOI": "10.3389/fpsyg.2016.00513",
+        "volume": "7",
+        "author": "BRJ Jansen",
+        "year": "2016",
+        "unstructured": "*Jansen, B. R. J., Schmitz, E. A., & van der Maas, H. L. J. (2016). Affective and motivational factors mediate the relation between math skills and use of math in everyday life. Frontiers in Psychology, 7, 513. doi: https://doi.org/10.3389/fpsyg.2016.00513",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR132",
+        "doi-asserted-by": "publisher",
+        "first-page": "573",
+        "DOI": "10.1111/bjep.12165",
+        "volume": "87",
+        "author": "MJ Justicia-Galiano",
+        "year": "2017",
+        "unstructured": "*Justicia-Galiano, M. J., Martín-Puga, M. E., Linares, R., & Pelegrina, S. (2017). Math anxiety and math performance in children: The mediating roles of working memory and math self-concept. British Journal of Educational Psychology, 87(4), 573–589. doi: https://doi.org/10.1111/bjep.12165",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.6018/analesps.32.1.194891",
+        "unstructured": "*Justicia-Galiano, M.-J., Pelegrina, S., Lechuga, M.-T., Gutiérrez-Palma, N., Martín-Puga, E.-M., & Lendínez, C. (2016). Math anxiety and its relationship to inhibitory abilities and perceived emotional intelligence. 32, 125–131. doi: https://doi.org/10.6018/analesps.32.1.194891"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR134",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.14527/pegegog.2018.023",
+        "volume": "8",
+        "author": "Y Kaba",
+        "year": "2018",
+        "unstructured": "*Kaba, Y., & Şengül, S. (2018). The relationship between middle school students’ mathematics anxiety and their mathematical understanding. Pegem Eğitim Ve Öğretim Dergisi, 8(3), 599-622. doi: https://doi.org/10.14527/pegegog.2018.023",
+        "journal-title": "Pegem Eğitim Ve Öğretim Dergisi"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR135",
+        "first-page": "1391",
+        "volume": "15",
+        "author": "DB Kalaycioglu",
+        "year": "2015",
+        "unstructured": "*Kalaycioglu, D. B. (2015). The influence of socioeconomic status, self-efficacy, and anxiety on mathematics achievement in England, Greece, Hong Kong, the Netherlands, Turkey, and the USA. Educational Sciences: Theory and Practice, 15(5), 1391-1401.",
+        "journal-title": "Educational Sciences: Theory and Practice"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR136",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1080/09751122.2009.11889973",
+        "volume": "1",
+        "author": "A Karimi",
+        "year": "2009",
+        "unstructured": "Karimi, A., & Venkatesan, S. (2009). Mathematics anxiety, mathematics performance and academic hardiness in high school students. International Journal of Educational Sciences, 1(1), 33–37. https://doi.org/10.1080/09751122.2009.11889973.",
+        "journal-title": "International Journal of Educational Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR137",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1080/03043797.2012.742867",
+        "volume": "38",
+        "author": "N Karjanto",
+        "year": "2013",
+        "unstructured": "*Karjanto, N., & Yong, S. T. (2013). Test anxiety in mathematics among early undergraduate students in a British university in Malaysia. European Journal of Engineering Education, 38(1), 11–37. doi: https://doi.org/10.1080/03043797.2012.742867",
+        "journal-title": "European Journal of Engineering Education"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR138",
+        "doi-asserted-by": "publisher",
+        "first-page": "171",
+        "DOI": "10.1111/j.1467-8535.2012.01382.x",
+        "volume": "45",
+        "author": "C Kim",
+        "year": "2014",
+        "unstructured": "*Kim, C., Park, S. W., & Cozart, J. (2014). Affective and motivational factors of learning in online mathematics courses. British Journal of Educational Technology, 45(1), 171–185. doi: https://doi.org/10.1111/j.1467-8535.2012.01382.x",
+        "journal-title": "British Journal of Educational Technology"
+      },
+      {
+        "key": "9618_CR139",
+        "unstructured": "*Kimber, C. T. (2009). The effect of training in self -regulated learning on math anxiety and achievement among preservice elementary teachers in a freshman course in mathematics concepts (Publication No. 3359748) [Doctoral dissertation, Temple University]. ProQuest Dissertations Publishing. https://www.proquest.com/docview/305016970?pq-origsite=gscholar&fromopenview=true."
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR140",
+        "doi-asserted-by": "publisher",
+        "first-page": "206",
+        "DOI": "10.1177/0734282908330583",
+        "volume": "27",
+        "author": "H Krinzinger",
+        "year": "2009",
+        "unstructured": "Krinzinger, H., Kaufmann, L., & Willmes, K. (2009). Math anxiety and math ability in early primary school years. Journal of Psychoeducational Assessment, 27(3), 206–225. https://doi.org/10.1177/0734282908330583.",
+        "journal-title": "Journal of Psychoeducational Assessment"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR141",
+        "doi-asserted-by": "publisher",
+        "first-page": "572",
+        "DOI": "10.1080/01443410.2017.1356449",
+        "volume": "38",
+        "author": "J Korhonen",
+        "year": "2018",
+        "unstructured": "Korhonen, J., Nyroos, M., Jonsson, B., & Eklöf, H. (2018). Additive and multiplicative effects of working memory and test anxiety on mathematics performance in grade 3 students. Educational Psychology, 38(5), 572–595. https://doi.org/10.1080/01443410.2017.1356449.",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "key": "9618_CR142",
+        "doi-asserted-by": "publisher",
+        "first-page": "59",
+        "DOI": "10.1016/j.lindif.2013.10.010",
+        "volume": "29",
+        "author": "M Kyttälä",
+        "year": "2014",
+        "unstructured": "*Kyttälä, M., & Björn, P. M. (2014). The role of literacy skills in adolescents’ mathematics word problem performance: Controlling for visuo-spatial ability and mathematics anxiety. Learning and Individual Differences, 29, 59–66. doi: https://doi.org/10.1016/j.lindif.2013.10.010",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR143",
+        "doi-asserted-by": "publisher",
+        "first-page": "218",
+        "DOI": "10.1080/00220979909598354",
+        "volume": "67",
+        "author": "JH Lee",
+        "year": "1999",
+        "unstructured": "Lee, J. H. (1999). Test anxiety and working memory. Journal of Experimental Education, 67(3), 218–240. https://doi.org/10.1080/00220979909598354.",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR144",
+        "doi-asserted-by": "publisher",
+        "first-page": "321",
+        "DOI": "10.1002/ijop.12412",
+        "volume": "53",
+        "author": "K Lee",
+        "year": "2018",
+        "unstructured": "*Lee, K., & Cho, S. (2018). Magnitude processing and complex calculation is negatively impacted by mathematics anxiety while retrieval-based simple calculation is not. International Journal of Psychology, 53(4), 321–329. doi: https://doi.org/10.1002/ijop.12412",
+        "journal-title": "International Journal of Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR145",
+        "doi-asserted-by": "publisher",
+        "first-page": "190",
+        "DOI": "10.1016/j.lindif.2011.04.009",
+        "volume": "22",
+        "author": "S Lichtenfeld",
+        "year": "2012",
+        "unstructured": "*Lichtenfeld, S., Pekrun, R., Stupnisky, R. H., Reiss, K., & Murayama, K. (2012). Measuring students’ emotions in the early years: The Achievement Emotions Questionnaire-Elementary School (AEQ-ES). Learning and Individual Differences, 22(2), 190–201. doi: https://doi.org/10.1016/j.lindif.2011.04.009",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR146",
+        "doi-asserted-by": "publisher",
+        "first-page": "975",
+        "DOI": "10.2466/pr0.1967.20.3.975",
+        "volume": "20",
+        "author": "RM Liebert",
+        "year": "1967",
+        "unstructured": "Liebert, R. M., & Morris, L. W. (1967). Cognitive and emotional components of test anxiety: A distinction and some initial data. Psychological Reports, 20(3), 975–978. https://doi.org/10.2466/pr0.1967.20.3.975.",
+        "journal-title": "Psychological Reports"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR147",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.1177/0748175612459198",
+        "volume": "46",
+        "author": "SY Lim",
+        "year": "2013",
+        "unstructured": "*Lim, S. Y., & Chapman, E. (2013). An investigation of the Fennema-Sherman mathematics anxiety subscale. Measurement and Evaluation in Counseling and Development, 46(1), 26–37. doi: https://doi.org/10.1177/0748175612459198",
+        "journal-title": "Measurement and Evaluation in Counseling and Development"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR148",
+        "doi-asserted-by": "publisher",
+        "first-page": "747",
+        "DOI": "10.1080/01443410.2013.860221",
+        "volume": "35",
+        "author": "SY Lim",
+        "year": "2015",
+        "unstructured": "*Lim, S. Y., & Chapman, E. (2015). Identifying affective domains that correlate and predict mathematics performance in high-performing students in Singapore. Educational Psychology, 35(6), 747–764. doi: https://doi.org/10.1080/01443410.2013.860221",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR149",
+        "doi-asserted-by": "publisher",
+        "first-page": "503",
+        "DOI": "10.1177/0734282910395894",
+        "volume": "29",
+        "author": "PA Lowe",
+        "year": "2011",
+        "unstructured": "Lowe, P. A., Grumbein, M. J., & Raad, J. M. (2011). Examination of the psychometric properties of the Test Anxiety Scale for Elementary Students (TAS-E) scores. Journal of Psychoeducational Assessment, 29(6), 503–514. https://doi.org/10.1177/0734282910395894.",
+        "journal-title": "Journal of Psychoeducational Assessment"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR150",
+        "doi-asserted-by": "publisher",
+        "first-page": "274",
+        "DOI": "10.1007/s11031-012-9303-8",
+        "volume": "37",
+        "author": "W Luo",
+        "year": "2013",
+        "unstructured": "*Luo, W., Aye, K. M., Hogan, D., Kaur, B., & Chan, M. C. Y. (2013). Parenting behaviors and learning of Singapore students: The mediational role of achievement goals. Motivation and Emotion, 37(2), 274–285. doi: https://doi.org/10.1007/s11031-012-9303-8",
+        "journal-title": "Motivation and Emotion"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR151",
+        "doi-asserted-by": "publisher",
+        "first-page": "563",
+        "DOI": "10.1007/BF01537362",
+        "volume": "20",
+        "author": "AE Lupkowski",
+        "year": "1991",
+        "unstructured": "*Lupkowski, A. E., & Schumacker, R. E. (1991). Mathematics anxiety among talented students. Journal of Youth and Adolescence, 20(6), 563–572. doi: https://doi.org/10.1007/BF01537362",
+        "journal-title": "Journal of Youth and Adolescence"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR152",
+        "doi-asserted-by": "publisher",
+        "first-page": "520",
+        "DOI": "10.2307/749772",
+        "volume": "30",
+        "author": "X Ma",
+        "year": "1999",
+        "unstructured": "Ma, X. (1999). A meta-analysis of the relationship between anxiety toward mathematics and achievement in mathematics. Journal for Research in Mathematics Education, 30(5), 520–540. https://doi.org/10.2307/749772.",
+        "journal-title": "Journal for Research in Mathematics Education"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR153",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.2307/749662",
+        "volume": "28",
+        "author": "X Ma",
+        "year": "1997",
+        "unstructured": "Ma, X., & Kishor, N. (1997). Assessing the relationship between attitude toward mathematics and achievement in mathematics: A meta-analysis. Journal for Research in Mathematics Education, 28(1), 26–47. https://doi.org/10.2307/749662.",
+        "journal-title": "Journal for Research in Mathematics Education"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR154",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1080/17470218.2010.533278",
+        "volume": "64",
+        "author": "EA Maloney",
+        "year": "2011",
+        "unstructured": "Maloney, E. A., Ansari, D., & Fugelsang, J. A. (2011). The effect of mathematics anxiety on the processing of numerical magnitude. Quarterly Journal of Experimental Psychology, 64(1), 10–16. https://doi.org/10.1080/17470218.2010.533278.",
+        "journal-title": "Quarterly Journal of Experimental Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR155",
+        "doi-asserted-by": "publisher",
+        "first-page": "293",
+        "DOI": "10.1016/j.cognition.2009.09.013",
+        "volume": "114",
+        "author": "EA Maloney",
+        "year": "2010",
+        "unstructured": "Maloney, E. A., Risko, E. F., Ansari, D., & Fugelsang, J. (2010). Mathematics anxiety affects counting but not subitizing during visual enumeration. Cognition, 114(2), 293–297. https://doi.org/10.1016/j.cognition.2009.09.013.",
+        "journal-title": "Cognition"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR156",
+        "doi-asserted-by": "publisher",
+        "first-page": "380",
+        "DOI": "10.1016/j.lindif.2012.01.001",
+        "volume": "22",
+        "author": "EA Maloney",
+        "year": "2012",
+        "unstructured": "Maloney, E. A., Waechter, S., Risko, E. F., & Fugelsang, J. A. (2012). Reducing the sex difference in math anxiety: The role of spatial processing ability. Learning and Individual Differences, 22(3), 380–384. https://doi.org/10.1016/j.lindif.2012.01.001.",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "9618_CR157",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.4324/9780429199981",
+        "unstructured": "Mammarella, I. C., Caviola, S., & Dowker, A. (Eds.). (2019). Mathematics anxiety: What is known, and what is still missing. Routledge."
+      },
+      {
+        "key": "9618_CR158",
+        "doi-asserted-by": "publisher",
+        "first-page": "201",
+        "DOI": "10.1016/j.paid.2017.12.017",
+        "volume": "124",
+        "author": "IC Mammarella",
+        "year": "2018",
+        "unstructured": "Mammarella, I. C., Donolato, E., Caviola, S., & Giofrè, D. (2018). Anxiety profiles and protective factors: A latent profile analysis in children. Personality and Individual Differences, 124, 201–208. https://doi.org/10.1016/j.paid.2017.12.017.",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "8",
+        "key": "9618_CR159",
+        "doi-asserted-by": "publisher",
+        "first-page": "878",
+        "DOI": "10.1080/13803395.2015.1066759",
+        "volume": "37",
+        "author": "IC Mammarella",
+        "year": "2015",
+        "unstructured": "Mammarella, I. C., Hill, F., Devine, A., Caviola, S., & Szucs, D. (2015). Math anxiety and developmental dyscalculia: A study on working memory processes. Journal of Clinical and Experimental Neuropsychology, 37(8), 878–887. https://doi.org/10.1080/13803395.2015.1066759.",
+        "journal-title": "Journal of Clinical and Experimental Neuropsychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR160",
+        "doi-asserted-by": "publisher",
+        "first-page": "705",
+        "DOI": "10.3102/00028312035004705",
+        "volume": "35",
+        "author": "HW Marsh",
+        "year": "1998",
+        "unstructured": "Marsh, H. W., & Yeung, A. S. (1998). Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs. American Educational Research Journal, 35(4), 705–738. https://doi.org/10.3102/00028312035004705.",
+        "journal-title": "American Educational Research Journal"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR161",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1037/edu0000144",
+        "volume": "109",
+        "author": "HW Marsh",
+        "year": "2017",
+        "unstructured": "*Marsh, H. W., Pekrun, R., Parker, P. D., Murayama, K., Guo, J., Dicke, T., & Lichtenfeld, S. (2017). Long-term positive effects of repeating a year in school: Six-year longitudinal study of self-beliefs, anxiety, social relations, school grades, and test scores. Journal of Educational Psychology, 109(3), 425–438. doi: https://doi.org/10.1037/edu0000144",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR162",
+        "doi-asserted-by": "publisher",
+        "first-page": "720",
+        "DOI": "10.1002/acp.3058",
+        "volume": "28",
+        "author": "MF Mavilidi",
+        "year": "2014",
+        "unstructured": "*Mavilidi, M. F., Hoogerheide, V., & Paas, F. (2014). A quick and easy strategy to reduce test anxiety and enhance test performance. Applied Cognitive Psychology, 28(5), 720–726. doi: https://doi.org/10.1002/acp.3058",
+        "journal-title": "Applied Cognitive Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR163",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1080/01443410020019867",
+        "volume": "21",
+        "author": "AS McDonald",
+        "year": "2001",
+        "unstructured": "McDonald, A. S. (2001). The prevalence and effects of test anxiety in school children. Educational Psychology, 21(1), 89–101. https://doi.org/10.1080/01443410020019867.",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "key": "9618_CR164",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.82.1.60",
+        "unstructured": "*Meece, J. L., & Wigfield, A. (1990). Predictors of math anxiety and its influence on young adolescents’ course enrollment intentions and performance in mathematics. Expectancy-value motivation and STEM choices View project Social Executive Functioning View project. Journal of Educational Psychology. doi: https://doi.org/10.1037/0022-0663.82.1.60"
+      },
+      {
+        "key": "9618_CR165",
+        "unstructured": "*Merritt, W. P. (2011). Exploring math anxiety as it relates to math achievement, gender, and race (Publication No. 3487164; Vol. 73, Numeri 3-A, pag. 943) [Doctoral dissertation, Mississippi State University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/e6a2aa14ba1d1006da5931b32cc63b60/1?pq-origsite=gscholar&cbl=18750."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR166",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1080/00207590500411179",
+        "volume": "42",
+        "author": "P Metallidou",
+        "year": "2007",
+        "unstructured": "*Metallidou, P., & Vlachou, A. (2007). Motivational beliefs, cognitive engagement, and achievement in language and mathematics in elementary school children. International Journal of Psychology, 42(1), 2–15. doi: https://doi.org/10.1080/00207590500411179",
+        "journal-title": "International Journal of Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR167",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.2190/brcj-p9k5-9e1d-2alc",
+        "volume": "7",
+        "author": "ZR Mevarech",
+        "year": "1991",
+        "unstructured": "*Mevarech, Z. R., Silber, O., & Fine, D. (1991). Learning with computers in small groups: Cognitive and affective outcomes. Journal of Educational Computing Research, 7(2), 233–243. doi: https://doi.org/10.2190/brcj-p9k5-9e1d-2alc",
+        "journal-title": "Journal of Educational Computing Research"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR168",
+        "doi-asserted-by": "publisher",
+        "first-page": "591",
+        "DOI": "10.1016/j.paid.2003.09.029",
+        "volume": "37",
+        "author": "H Miller",
+        "year": "2004",
+        "unstructured": "*Miller, H., & Bichsel, J. (2004). Anxiety, working memory, gender, and math performance. Personality and Individual Differences, 37(3), 591–606. doi: https://doi.org/10.1016/j.paid.2003.09.029",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "9618_CR169",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oxfordhb/9780199642342.013.004",
+        "unstructured": "Moore, A. M., Rudig, N. O., & Ashcraft, M. H. (2015). Affect, motivation, working memory, and mathematics. In R. C. Kadosh & A. Dowker (Eds.), The Oxford handbook of numerical cognition (pp. 933–952). Oxford University Press."
+      },
+      {
+        "key": "9618_CR170",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1016/j.ijer.2012.11.002",
+        "volume": "58",
+        "author": "S Morony",
+        "year": "2013",
+        "unstructured": "*Morony, S., Kleitman, S., Lee, Y. P., & Stankov, L. (2013). Predicting achievement: Confidence vs self-efficacy, anxiety, and self-concept in Confucian and European countries. International Journal of Educational Research, 58, 79-96. doi: https://doi.org/10.1016/j.ijer.2012.11.002",
+        "journal-title": "International Journal of Educational Research"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR171",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1186/1744-9081-10-31",
+        "volume": "10",
+        "author": "K Morsanyi",
+        "year": "2014",
+        "unstructured": "*Morsanyi, K., Busdraghi, C., & Primi, C. (2014). Mathematical anxiety is linked to reduced cognitive reflection: A potential road from discomfort in the mathematics classroom to susceptibility to biases. Behavioral and Brain Functions, 10(1), 1-13. doi: https://doi.org/10.1186/1744-9081-10-31",
+        "journal-title": "Behavioral and Brain Functions"
+      },
+      {
+        "key": "9618_CR172",
+        "first-page": "4",
+        "volume": "10",
+        "author": "M Mousavi",
+        "year": "2008",
+        "unstructured": "*Mousavi, M., Haghshenas, H., & Alishahi, M. J. (2008). Effect of gender, school performance and school type on test anxiety among Iranian adolescents. Iranian Red Crescent Medical Journal, 10, 4-7.",
+        "journal-title": "Iranian Red Crescent Medical Journal"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR173",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1037/0022-3514.75.1.33",
+        "volume": "75",
+        "author": "CM Mueller",
+        "year": "1998",
+        "unstructured": "Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children’s motivation and performance. Journal of Personality and Social Psychology, 75(1), 33–52. https://doi.org/10.1037/0022-3514.75.1.33.",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR174",
+        "doi-asserted-by": "publisher",
+        "first-page": "459",
+        "DOI": "10.3102/0034654319843494",
+        "volume": "89",
+        "author": "JM Namkung",
+        "year": "2019",
+        "unstructured": "Namkung, J. M., Peng, P., & Lin, X. (2019). The relation between mathematics anxiety and mathematics performance among school-aged students: A meta-analysis. Review of Educational Research, 89(3), 459–496. https://doi.org/10.3102/0034654319843494.",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR175",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1023/A:1003177809664",
+        "volume": "36",
+        "author": "K Newstead",
+        "year": "1998",
+        "unstructured": "Newstead, K. (1998). Aspects of children’s mathematics anxiety. Educational Studies in Mathematics, 36(1), 53–71. https://doi.org/10.1023/A:1003177809664.",
+        "journal-title": "Educational Studies in Mathematics"
+      },
+      {
+        "key": "9618_CR176",
+        "doi-asserted-by": "publisher",
+        "first-page": "141",
+        "DOI": "10.1016/j.lindif.2015.04.007",
+        "volume": "40",
+        "author": "EL Ng",
+        "year": "2015",
+        "unstructured": "*Ng, E. L., & Lee, K. (2015). Effects of trait test anxiety and state anxiety on children’s working memory task performance. Learning and Individual Differences, 40, 141–148. doi: https://doi.org/10.1016/j.lindif.2015.04.007",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "7",
+        "key": "9618_CR177",
+        "doi-asserted-by": "publisher",
+        "first-page": "1229",
+        "DOI": "10.1080/02699930903172328",
+        "volume": "24",
+        "author": "E Ng",
+        "year": "2010",
+        "unstructured": "Ng, E., & Lee, K. (2010). Children’s task performance under stress and non-stress conditions: A test of the processing efficiency theory. Cognition and Emotion, 24(7), 1229–1238. https://doi.org/10.1080/02699930903172328.",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "key": "9618_CR178",
+        "doi-asserted-by": "publisher",
+        "first-page": "124",
+        "DOI": "10.1016/j.chb.2015.07.001",
+        "volume": "53",
+        "author": "E Novak",
+        "year": "2015",
+        "unstructured": "*Novak, E., & Tassell, J. (2015). Using video game play to improve education-majors’ mathematical performance: An experimental study. Computers in Human Behavior, 53, 124–130. doi: https://doi.org/10.1016/j.chb.2015.07.001",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "9618_CR179",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1016/j.ijer.2012.12.004",
+        "volume": "58",
+        "author": "MI Núñez-Peña",
+        "year": "2013",
+        "unstructured": "Núñez-Peña, M. I., Suárez-Pellicioni, M., & Bono, R. (2013). Effects of math anxiety on student success in higher education. International Journal of Educational Research, 58, 36–43. https://doi.org/10.1016/j.ijer.2012.12.004.",
+        "journal-title": "International Journal of Educational Research"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR180",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1080/21683603.2014.915773",
+        "volume": "3",
+        "author": "M Nyroos",
+        "year": "2015",
+        "unstructured": "Nyroos, M., Korhonen, J., Peng, A., Linnanmäki, K., Svens-Liavåg, C., Bagger, A., & Sjöberg, G. (2015). Cultural and gender differences in experiences and expression of test anxiety among Chinese, Finnish, and Swedish grade 3 pupils. International Journal of School and Educational Psychology, 3(1), 37–48. https://doi.org/10.1080/21683603.2014.915773.",
+        "journal-title": "International Journal of School and Educational Psychology"
+      },
+      {
+        "key": "9618_CR181",
+        "unstructured": "Organization for Economic Cooperation and Development. (2013). PISA 2012 assessment and analytical framework: Mathematics, reading, science, problem solving and financial literacy. OECD Publishing."
+      },
+      {
+        "key": "9618_CR182",
+        "unstructured": "Organization for Economic Cooperation and Development. (2016). PISA 2015 results in focus. OECD Publishing."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR183",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.1080/10508406.2016.1250212",
+        "volume": "26",
+        "author": "E Ottmar",
+        "year": "2017",
+        "unstructured": "*Ottmar, E., & Landy, D. (2017). Concreteness fading of algebraic instruction: Effects on learning. Journal of the Learning Sciences, 26(1), 51-78. doi: https://doi.org/10.1080/10508406.2016.1250212",
+        "journal-title": "Journal of the Learning Sciences"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR184",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1177/0143034311427433",
+        "volume": "33",
+        "author": "M Owens",
+        "year": "2012",
+        "unstructured": "Owens, M., Stevenson, J., Hadwin, J. A., & Norgate, R. (2012). Anxiety and depression in academic performance: An exploration of the mediating factors of worry and working memory. School Psychology International, 33(4), 433–449. https://doi.org/10.1177/0143034311427433.",
+        "journal-title": "School Psychology International"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR185",
+        "doi-asserted-by": "publisher",
+        "first-page": "417",
+        "DOI": "10.1080/10615800701847823",
+        "volume": "21",
+        "author": "M Owens",
+        "year": "2008",
+        "unstructured": "*Owens, M., Stevenson, J., Norgate, R., & Hadwin, J. A. (2008). Processing efficiency theory in children: Working memory as a mediator between trait anxiety and academic performance. Anxiety, Stress & Coping, 21(4), 417–430. doi: https://doi.org/10.1080/10615800701847823",
+        "journal-title": "Anxiety, Stress & Coping"
+      },
+      {
+        "key": "9618_CR186",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2017.01196",
+        "unstructured": "*Paechter, M., Macher, D., Martskvishvili, K., Wimmer, S., & Papousek, I. (2017). Mathematics anxiety and statistics anxiety. Shared but also unshared components and antagonistic contributions to performance in statistics. Frontiers in Physiology, 8(JUL). doi: 10.3389/fpsyg.2017.01196"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR187",
+        "doi-asserted-by": "publisher",
+        "first-page": "325",
+        "DOI": "10.1006/ceps.1996.0025",
+        "volume": "21",
+        "author": "F Pajares",
+        "year": "1996",
+        "unstructured": "*Pajares, F. (1996). Self-efficacy beliefs and mathematical problem-solving of gifted students. Contemporary educational psychology, 21(4), 325-344. doi: https://doi.org/10.1006/ceps.1996.0025",
+        "journal-title": "Contemporary educational psychology"
+      },
+      {
+        "key": "9618_CR188",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511614446.015",
+        "unstructured": "Pajares, F. (2005). Gender differences in mathematics self-efficacy beliefs. In A. M. Gallagher & J. C. Kaufman (Eds.), Gender differences in mathematics: An integrative psychological approach (pp. 294–315). Cambridge University Press."
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR189",
+        "doi-asserted-by": "publisher",
+        "first-page": "124",
+        "DOI": "10.1006/ceps.1998.0991",
+        "volume": "24",
+        "author": "F Pajares",
+        "year": "1999",
+        "unstructured": "*Pajares, F., & Graham, L. (1999). Self-efficacy, motivation constructs, and mathematics performance of entering middle school students. Contemporary Educational Psychology, 24(2), 124–139. doi: https://doi.org/10.1006/ceps.1998.0991",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR190",
+        "doi-asserted-by": "publisher",
+        "first-page": "426",
+        "DOI": "10.1006/ceps.1995.1029",
+        "volume": "20",
+        "author": "F Pajares",
+        "year": "1995",
+        "unstructured": "*Pajares, F., & Kranzler, J. (1995). Self-efficacy beliefs and general mental ability in mathematical problem-solving. Contemporary Educational Psychology, 20(4), 426–443. doi: https://doi.org/10.1006/ceps.1995.1029",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR191",
+        "doi-asserted-by": "publisher",
+        "first-page": "207",
+        "DOI": "10.3102/00028312018002207",
+        "volume": "18",
+        "author": "JD Pedro",
+        "year": "1981",
+        "unstructured": "*Pedro, J. D., Wolleat, P., Fennema, E., & Becker, A. D. (1981). Election of high school mathematics by females and males: Attributions and attitudes. American Educational Research Journal, 18(2), 207–218. doi: https://doi.org/10.3102/00028312018002207",
+        "journal-title": "American Educational Research Journal"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR192",
+        "doi-asserted-by": "publisher",
+        "first-page": "385",
+        "DOI": "10.1007/s10212-016-0299-4",
+        "volume": "32",
+        "author": "F Peixoto",
+        "year": "2017",
+        "unstructured": "*Peixoto, F., Sanches, C., Mata, L., & Monteiro, V. (2017). “How do you feel about math?”: Relationships between competence and value appraisals, achievement emotions and academic achievement. European Journal of Psychology of Education, 32(3), 385-405.",
+        "journal-title": "European Journal of Psychology of Education"
+      },
+      {
+        "key": "9618_CR193",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.4324/9780203148211",
+        "unstructured": "Pekrun, R., & Bühner, M. (2014). Self-report measures of academic emotions. In R. Pekrun & L. Linnenbrink-Garcia (Eds.), International handbook of emotions in education (pp. 561–579). Taylor & Francis."
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR194",
+        "doi-asserted-by": "publisher",
+        "first-page": "287",
+        "DOI": "10.1080/10615800412331303847",
+        "volume": "17",
+        "author": "R Pekrun",
+        "year": "2004",
+        "unstructured": "Pekrun, R., Goetz, T., Perry, R. P., Kramer, K., Hochstadt, M., & Molfenter, S. (2004). Beyond test anxiety: Development and validation of the Test Emotions Questionnaire (TEQ). Anxiety, Stress and Coping, 17(3), 287–316. https://doi.org/10.1080/10615800412331303847.",
+        "journal-title": "Anxiety, Stress and Coping"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR195",
+        "doi-asserted-by": "publisher",
+        "first-page": "1653",
+        "DOI": "10.1111/cdev.12704",
+        "volume": "88",
+        "author": "R Pekrun",
+        "year": "2017",
+        "unstructured": "*Pekrun, R., Lichtenfeld, S., Marsh, H. W., Murayama, K., & Goetz, T. (2017). Achievement emotions and academic performance: Longitudinal models of reciprocal effects. Child Development, 88(5), 1653–1670. doi: https://doi.org/10.1111/cdev.12704",
+        "journal-title": "Child Development"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR196",
+        "doi-asserted-by": "publisher",
+        "first-page": "366",
+        "DOI": "10.1080/13803611.2014.966115",
+        "volume": "20",
+        "author": "Y Peng",
+        "year": "2014",
+        "unstructured": "*Peng, Y., Hong, E., & Mason, E. (2014). Motivational and cognitive test-taking strategies and their influence on test performance in mathematics. Educational Research and Evaluation, 20(5), 366-385. doi: https://doi.org/10.1080/13803611.2014.966115",
+        "journal-title": "Educational Research and Evaluation"
+      },
+      {
+        "key": "9618_CR197",
+        "doi-asserted-by": "publisher",
+        "first-page": "455",
+        "DOI": "10.1037/edu0000079",
+        "volume": "108",
+        "author": "P Peng",
+        "year": "2016",
+        "unstructured": "Peng, P., Namkung, J., Barnes, M., & Sun, C. (2016). A meta-analysis of mathematics and working memory: Moderating effects of working memory domain, type of mathematics skill, and sample characteristics. Journal of Educational Psychology, 108, 455–473. https://doi.org/10.1037/edu0000079.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR198",
+        "first-page": "5",
+        "volume": "15",
+        "author": "SM Perry",
+        "year": "2016",
+        "unstructured": "*Perry, S. M., Catapano, M., & Ramon, O. G. (2016). Teaching, academic achievement, and attitudes toward mathematics in the United States and Nigeria. Journal for Leadership and Instruction, 15(2), 5-12.",
+        "journal-title": "Journal for Leadership and Instruction"
+      },
+      {
+        "key": "9618_CR199",
+        "unstructured": "*Pizzie, R. G. (2018). Cognition, calculation, and emotion regulation: building an effective math anxiety intervention in the lab and in the classroom (Publication No. 10822585) [Doctoral dissertation, Dartmouth College]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/276570a958d9af5c77772251c4380f93/1?pq-origsite=gscholar&cbl=18750."
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR200",
+        "first-page": "149",
+        "volume": "8",
+        "author": "G Prieto",
+        "year": "2007",
+        "unstructured": "*Prieto, G., & Delgado, A. R. (2007). Requests for reprints should be sent to measuring math anxiety (in Spanish) with the Rasch rating scale model. Journal of applied measurement, 8(2), 149",
+        "journal-title": "Journal of applied measurement"
+      },
+      {
+        "key": "9618_CR201",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-72871-1_9",
+        "unstructured": "*Primi, C., Donati, M. A., & Chiesi, F. (2018). The role of statistics anxiety in learning probability. In C. Batanero & E. J. Chernoff (Eds.), Teaching and learning stochastics (pp. 145-157): Springer Cham.doi: https://doi.org/10.1007/978-3-319-72871-1_9"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR202",
+        "doi-asserted-by": "publisher",
+        "first-page": "579",
+        "DOI": "10.1348/000709906X161704",
+        "volume": "77",
+        "author": "DW Putwain",
+        "year": "2007",
+        "unstructured": "Putwain, D. W. (2007). Test anxiety in UK schoolchildren: Prevalence and demographic patterns. British Journal of Educational Psychology, 77(3), 579–593. https://doi.org/10.1348/000709906X161704.",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR203",
+        "doi-asserted-by": "publisher",
+        "first-page": "319",
+        "DOI": "10.1080/02667360802488765",
+        "volume": "24",
+        "author": "DW Putwain",
+        "year": "2008",
+        "unstructured": "Putwain, D. W. (2008). Test anxiety and GCSE performance: The effect of gender and socio-economic background. Educational Psychology in Practice, 24(4), 319–334. https://doi.org/10.1080/02667360802488765.",
+        "journal-title": "Educational Psychology in Practice"
+      },
+      {
+        "key": "9618_CR204",
+        "doi-asserted-by": "publisher",
+        "first-page": "73",
+        "DOI": "10.1016/j.learninstruc.2017.08.004",
+        "volume": "54",
+        "author": "DW Putwain",
+        "year": "2018",
+        "unstructured": "*Putwain, D. W., Becker, S., Symes, W., & Pekrun, R. (2018). Reciprocal relations between students’ academic enjoyment, boredom, and achievement over time. Learning and Instruction, 54, 73–81. doi: https://doi.org/10.1016/j.learninstruc.2017.08.004",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR205",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1080/01443410903328866",
+        "volume": "30",
+        "author": "DW Putwain",
+        "year": "2010",
+        "unstructured": "*Putwain, D. W., Connors, L., & Symes, W. (2010a). Do cognitive distortions mediate the test anxiety–examination performance relationship? Educational Psychology, 30(1), 11–26. doi: https://doi.org/10.1080/01443410903328866",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR206",
+        "doi-asserted-by": "publisher",
+        "first-page": "554",
+        "DOI": "10.1080/03055698.2014.953914",
+        "volume": "40",
+        "author": "DW Putwain",
+        "year": "2014",
+        "unstructured": "Putwain, D. W., & Daly, A. L. (2014). Test anxiety prevalence and gender differences in a sample of English secondary school students. Educational Studies, 40(5), 554–570. https://doi.org/10.1080/03055698.2014.953914.",
+        "journal-title": "Educational Studies"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR207",
+        "doi-asserted-by": "publisher",
+        "first-page": "247",
+        "DOI": "10.1111/bjep.12068",
+        "volume": "85",
+        "author": "DW Putwain",
+        "year": "2015",
+        "unstructured": "*Putwain, D. W., Daly, A. L., Chamberlain, S., & Sadreddini, S. (2015). Academically buoyant students are less anxious about and perform better in high-stakes examinations. British Journal of Educational Psychology, 85(3), 247–263. doi: https://doi.org/10.1111/bjep.12068",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR208",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1016/j.lindif.2013.09.010",
+        "volume": "28",
+        "author": "DW Putwain",
+        "year": "2013",
+        "unstructured": "*Putwain, D. W., Nicholson, L. J., Connors, L., & Woods, K. (2013). Resilient children are less test anxious and perform better in tests at the end of primary schooling. Learning and Individual Differences, 28, 41–46. doi: https://doi.org/10.1016/j.lindif.2013.09.010",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR209",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1016/j.lindif.2010.11.022",
+        "volume": "21",
+        "author": "D Putwain",
+        "year": "2011",
+        "unstructured": "*Putwain, D., & Symes, W. (2011). Perceived fear appeals and examination performance: Facilitating or debilitating outcomes?. Learning and Individual Differences, 21(2), 227-232.",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR210",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1348/000709909X466082",
+        "volume": "80",
+        "author": "DW Putwain",
+        "year": "2010",
+        "unstructured": "Putwain, D. W., Woods, K. A., & Symes, W. (2010b). Personal and situational predictors of test anxiety of students in post-compulsory education. British Journal of Educational Psychology, 80(1), 137–160. https://doi.org/10.1348/000709909X466082.",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR211",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1016/j.lindif.2009.10.005",
+        "volume": "20",
+        "author": "KP Raghubar",
+        "year": "2010",
+        "unstructured": "Raghubar, K. P., Barnes, M. A., & Hecht, S. A. (2010). Working memory and mathematics: A review of developmental, individual difference, and cognitive approaches. Learning and individual differences, 20(2), 110–122. https://doi.org/10.1016/j.lindif.2009.10.005.",
+        "journal-title": "Learning and individual differences"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR212",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3109/07420528.2015.1107084",
+        "volume": "33",
+        "author": "A Rahafar",
+        "year": "2015",
+        "unstructured": "*Rahafar, A., Maghsudloo, M., Farhangnia, S., Vollmer, C., & Randler, C. (2015). Academic achievement is predicted by gender, test anxiety, and conscientiousness; an investigation of moderating role of gender and chronotype. Chronobiology International, 33(1), 1-9.",
+        "journal-title": "Chronobiology International"
+      },
+      {
+        "key": "9618_CR213",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2017.02087",
+        "unstructured": "*Ramirez, G. (2017). Motivated forgetting in early mathematics: A proof-of-concept study. Frontiers in Psychology, 8(DEC). doi: https://doi.org/10.3389/fpsyg.2017.02087"
+      },
+      {
+        "key": "9618_CR214",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1016/j.jecp.2015.07.014",
+        "volume": "141",
+        "author": "G Ramirez",
+        "year": "2016",
+        "unstructured": "*Ramirez, G., Chang, H., Maloney, E. A., Levine, S. C., & Beilock, S. L. (2016). On the relationship between math anxiety and math achievement in early elementary school: The role of problem solving strategies. Journal of Experimental Child Psychology, 141, 83–100. doi: https://doi.org/10.1016/j.jecp.2015.07.014",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR215",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1080/15248372.2012.664593",
+        "volume": "14",
+        "author": "G Ramirez",
+        "year": "2013",
+        "unstructured": "Ramirez, G., Gunderson, E. A., Levine, S. C., & Beilock, S. L. (2013). Math anxiety, working memory, and math achievement in early elementary school. Journal of Cognition and Development, 14(2), 187–202. https://doi.org/10.1080/15248372.2012.664593.",
+        "journal-title": "Journal of Cognition and Development"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR216",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.15446/rcp.v25n2.54532",
+        "volume": "25",
+        "author": "F Reali",
+        "year": "2016",
+        "unstructured": "*Reali, F., Jiménez-Leal, W., Maldonado-Carreño, C., Devine, A., & Szücs, D. (2016). Examining the link between math anxiety and math performance in Colombian students. Revista Colombiana de Psicologia, 25(2), 369-379. doi: https://doi.org/10.15446/rcp.v25n2.54532",
+        "journal-title": "Revista Colombiana de Psicologia"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR217",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.6018/analesps.34.1.229571",
+        "volume": "34",
+        "author": "S Recber",
+        "year": "2018",
+        "unstructured": "*Recber, S., Isiksal, M., & Koç, Y. (2018). Investigando la autoeficacia, la ansiedad, las actitudes y los logros de las matemáticas con respecto al género y el tipo de escuela. Anales de Psicologia, 34(1), 41–51. doi: https://doi.org/10.6018/analesps.34.1.229571",
+        "journal-title": "Anales de Psicologia"
+      },
+      {
+        "key": "9618_CR218",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1016/j.ijer.2016.12.006",
+        "volume": "83",
+        "author": "J Roick",
+        "year": "2017",
+        "unstructured": "*Roick, J., & Ringeisen, T. (2017). Self-efficacy, test anxiety, and academic success: A longitudinal validation. International Journal of Educational Research, 83, 84–93. doi: https://doi.org/10.1016/j.ijer.2016.12.006",
+        "journal-title": "International Journal of Educational Research"
+      },
+      {
+        "key": "9618_CR219",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10648-020-09543-z",
+        "unstructured": "Roos, A. L., Goetz, T., Voracek, M., Krannich, M., Bieg, M., Jarrell, A., & Pekrun, R. (2020). Test anxiety and physiological arousal: A systematic review and meta-analysis. Educational Psychology Review, 1–40. https://doi.org/10.1007/s10648-020-09543-z."
+      },
+      {
+        "key": "9618_CR220",
+        "unstructured": "Rosseel, Y. (2012). lavaan: an R package for structural equation modeling and more Version 0.5-12 (BETA). Retrieved from http://cran.r-project.org/."
+      },
+      {
+        "key": "9618_CR221",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.3389/fnhum.2012.00279",
+        "volume": "6",
+        "author": "O Rubinsten",
+        "year": "2012",
+        "unstructured": "Rubinsten, O., Bialik, N., & Solar, Y. (2012). Exploring the relationship between math anxiety and gender through implicit measurement. Frontiers in Human Neuroscience, 6, 279. https://doi.org/10.3389/fnhum.2012.00279.",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "9618_CR222",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2504-6_16",
+        "unstructured": "Sarason, I. G., & Sarason, B. R. (1990). Test anxiety. In H. Leitenberg (Ed.), Handbook of social and evaluation anxiety (pp. 475–495). Springer Scinces+Bussiness Media. https://doi.org/10.1007/978-1-4899-2504-6_16."
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR223",
+        "doi-asserted-by": "publisher",
+        "first-page": "1000",
+        "DOI": "10.1177/0013164495055006009",
+        "volume": "55",
+        "author": "E Satake",
+        "year": "1995",
+        "unstructured": "*Satake, E., & Amato, P. P. (1995). Mathematics anxiety and achievement among Japanese elementary school students. Educational and Psychological Measurement, 55(6), 1000–1007. doi: https://doi.org/10.1177/0013164495055006009",
+        "journal-title": "Educational and Psychological Measurement"
+      },
+      {
+        "key": "9618_CR224",
+        "unstructured": "*Savage, K. L. (2016). Mathematical motivation beliefs: A study on the influences of the mathematical motivation beliefs of students in a predominantly African American environment in Mississippi (Publication No. 10242162) [Doctoral dissertation, Mississippi State University]. ProQuest Dissertations Publishing. https://www.proquest.com/docview/1858815062/57A3C46766C9417CPQ/1?accountid=13050."
+      },
+      {
+        "key": "9618_CR225",
+        "doi-asserted-by": "publisher",
+        "first-page": "198",
+        "DOI": "10.1016/j.compedu.2014.09.003",
+        "volume": "80",
+        "author": "R Scherer",
+        "year": "2015",
+        "unstructured": "Scherer, R., & Siddiq, F. (2015). The big-fish–little-pond-effect revisited: do different types of assessments matter? Computers & Education, 80, 198–210. https://doi.org/10.1016/j.compedu.2014.09.003.",
+        "journal-title": "Computers & Education"
+      },
+      {
+        "key": "9618_CR226",
+        "doi-asserted-by": "publisher",
+        "first-page": "109",
+        "DOI": "10.1016/j.lindif.2017.11.014",
+        "volume": "61",
+        "author": "FL Schillinger",
+        "year": "2018",
+        "unstructured": "*Schillinger, F. L., Vogel, S. E., Diedrich, J., & Grabner, R. H. (2018). Math anxiety, intelligence, and performance in mathematics: Insights from the German adaptation of the Abbreviated Math Anxiety Scale (AMAS-G). Learning and Individual Differences, 61, 109–119. doi: https://doi.org/10.1016/j.lindif.2017.11.014",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR227",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/desc.12372",
+        "volume": "20",
+        "author": "M Schneider",
+        "year": "2017",
+        "unstructured": "Schneider, M., Beeres, K., Coban, L., Merz, S., Susan Schmidt, S., Stricker, J., & De Smedt, B. (2017). Associations of non-symbolic and symbolic numerical magnitude processing with mathematical competence: A meta-analysis. Developmental Science, 20(3), e12372. https://doi.org/10.1111/desc.12372.",
+        "journal-title": "Developmental Science"
+      },
+      {
+        "issue": "44",
+        "key": "9618_CR228",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.2478/ppb-2013-0022",
+        "volume": "2",
+        "author": "K Schnell",
+        "year": "2013",
+        "unstructured": "Schnell, K., Tibubos, A. N., Rohrmann, S., & Hodapp, V. (2013). Test and math anxiety: A validation of the German Test Anxiety Questionnaire. Polish Psychological Bulletin, 2(44), 193–200. https://doi.org/10.2478/ppb-2013-0022.",
+        "journal-title": "Polish Psychological Bulletin"
+      },
+      {
+        "key": "9618_CR229",
+        "unstructured": "Schrank, F. A., Mather, N., & McGrew, K. S. (2014). Woodcock-Johnson IV Tests of Achievement. Riverside."
+      },
+      {
+        "key": "9618_CR230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-319-21416-0",
+        "unstructured": "Schwarzer, G., Carpenter, J. R., & Rücker, G. (2015). Meta-analysis with R. Springer."
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR231",
+        "doi-asserted-by": "publisher",
+        "first-page": "489",
+        "DOI": "10.1002/pits.21689",
+        "volume": "50",
+        "author": "NK Segool",
+        "year": "2013",
+        "unstructured": "Segool, N. K., Carlson, J. S., Goforth, A. N., Von der Embse, N., & Barterian, J. A. (2013). Heightened test anxiety among young children: Elementary school students’ anxious responses to high-stakes testing. Psychology in the Schools, 50(5), 489–499. https://doi.org/10.1002/pits.21689.",
+        "journal-title": "Psychology in the Schools"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR232",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1080/08917779108248762",
+        "volume": "4",
+        "author": "B Seipp",
+        "year": "1991",
+        "unstructured": "Seipp, B. (1991). Anxiety and academic performance: A meta-analysis of findings. Anxiety Research, 4(1), 27–41. https://doi.org/10.1080/08917779108248762.",
+        "journal-title": "Anxiety Research"
+      },
+      {
+        "key": "9618_CR233",
+        "unstructured": "*Sheller, C. V. (2008). American and Russian Mathematics Self-efficacy: A Comparison (Publication No. 3326013) [Doctoral dissertation, Seattle Pacific University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/7c0f15794f83eafcf807532b4532abb5/1?pq-origsite=gscholar&cbl=18750."
+      },
+      {
+        "key": "9618_CR234",
+        "unstructured": "*Siebers, W. M. (2015). Relationship between math anxiety and student achievement of middle school students, The (Publication No. 0053A_12903) [Doctoral dissertation, Colorado State University]. Mountain Scholar. https://mountainscholar.org/handle/10217/166940."
+      },
+      {
+        "key": "9618_CR235",
+        "unstructured": "Sieber, J. E., O’Neil Jr., H. E., & Tobias, S. (1977). Anxiety, learning and instruction. Erlbaum."
+      },
+      {
+        "key": "9618_CR236",
+        "unstructured": "Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation. In J. D. Campbell (Ed.), Handbook of mathematical cognition (pp. 197–212). Psychology Press."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR237",
+        "doi-asserted-by": "publisher",
+        "first-page": "16",
+        "DOI": "10.1258/hsmr.2011.011018",
+        "volume": "25",
+        "author": "R Sirriyeh",
+        "year": "2012",
+        "unstructured": "Sirriyeh, R., Lawton, R., Armitage, G., Gardner, P., & Ferguson, S. (2012). Safety subcultures in health-care organizations and managing medical error. Health Services Management Research, 25(1), 16–23. https://doi.org/10.1258/hsmr.2011.011018.",
+        "journal-title": "Health Services Management Research"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR238",
+        "doi-asserted-by": "publisher",
+        "first-page": "709",
+        "DOI": "10.1007/s11218-018-9433-2",
+        "volume": "21",
+        "author": "EM Skaalvik",
+        "year": "2018",
+        "unstructured": "*Skaalvik, E. M. (2018). Mathematics anxiety and coping strategies among middle school students: Relations with students’ achievement goal orientations and level of performance. Social Psychology of Education, 21(3), 709–723. doi: https://doi.org/10.1007/s11218-018-9433-2",
+        "journal-title": "Social Psychology of Education"
+      },
+      {
+        "key": "9618_CR239",
+        "doi-asserted-by": "publisher",
+        "first-page": "18",
+        "DOI": "10.1016/j.socec.2018.03.004",
+        "volume": "74",
+        "author": "K Skagerlund",
+        "year": "2018",
+        "unstructured": "*Skagerlund, K., Lind, T., Strömbäck, C., Tinghög, G., & Västfjäll, D. (2018). Financial literacy and the role of numeracy–How individuals’ attitude and affinity with numbers influence financial literacy. Journal of Behavioral and Experimental Economics , 74, 18–25. doi: https://doi.org/10.1016/j.socec.2018.03.004",
+        "journal-title": "Journal of Behavioral and Experimental Economics"
+      },
+      {
+        "key": "9618_CR240",
+        "unstructured": "*Solazzo, L. A. (2008). The role of gender, cognition, anxiety, and competence beliefs in predicting mathematics achievement (Publication No. 3303095) [Doctoral dissertation, Fordham University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/fc91af93f88f92753253f7b208c88d08/1?pq-origsite=gscholar&cbl=18750&diss=y."
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR241",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1007/s10763-015-9687-5",
+        "volume": "15",
+        "author": "A Soni",
+        "year": "2017",
+        "unstructured": "*Soni, A., & Kumari, S. (2017). The role of parental math anxiety and math attitude in their children’s math achievement. International Journal of Science and Mathematics Education, 15(2), 331–347. doi: https://doi.org/10.1007/s10763-015-9687-5",
+        "journal-title": "International Journal of Science and Mathematics Education"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR242",
+        "doi-asserted-by": "publisher",
+        "first-page": "309",
+        "DOI": "10.1111/bjep.12151",
+        "volume": "87",
+        "author": "R Sorvo",
+        "year": "2017",
+        "unstructured": "*Sorvo, R., Koponen, T., Viholainen, H., Aro, T., Räikkönen, E., Peura, P., … Aro, M. (2017). Math anxiety and its relationship with basic arithmetic skills among primary school children. British Journal of Educational Psychology, 87(3), 309–327. doi: https://doi.org/10.1111/bjep.12151",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR243",
+        "doi-asserted-by": "publisher",
+        "first-page": "481",
+        "DOI": "10.1016/j.paid.2009.11.028",
+        "volume": "48",
+        "author": "B Spinath",
+        "year": "2010",
+        "unstructured": "*Spinath, B., Harald Freudenthaler, H., & Neubauer, A. C. (2010). Domain-specific school achievement in boys and girls as predicted by intelligence, personality and motivation. Personality and Individual Differences, 48(4), 481–486. doi: https://doi.org/10.1016/j.paid.2009.11.028",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "9618_CR244",
+        "unstructured": "*Spybrook, J. (2008). The relationship among working memory, mathematics anxiety, and mathematics achievement in developmental mathematics courses in community college (Publication No. 3345281) [Doctoral dissertation, The University of San Francisco]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/a576723f6d4595a7dce3ea82e8cd38d0/1?cbl=18750&pq-origsite=gscholar."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR245",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/01443410.2013.858908",
+        "volume": "34",
+        "author": "L Stankov",
+        "year": "2014",
+        "unstructured": "*Stankov, L., & Lee, J. (2014). Quest for the best non-cognitive predictor of academic achievement. Educational Psychology, 34(1), 1–8. doi: https://doi.org/10.1080/01443410.2013.858908",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR246",
+        "doi-asserted-by": "publisher",
+        "first-page": "747",
+        "DOI": "10.1016/j.lindif.2012.05.013",
+        "volume": "22",
+        "author": "L Stankov",
+        "year": "2012",
+        "unstructured": "*Stankov, L., Lee, J., Luo, W., & Hogan, D. J. (2012). Confidence: A better predictor of academic achievement than self-efficacy, self-concept and anxiety? Learning and Individual Differences, 22(6), 747–758. doi: https://doi.org/10.1016/j.lindif.2012.05.013",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "9618_CR247",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0153857",
+        "unstructured": "*Stoet, G., Bailey, D. H., Moore, A. M., & Geary, D. C. (2016). Countries with higher levels of gender equality show larger national sex differences in mathematics anxiety and relatively lower parental mathematics valuation for girls. PLoS ONE, 11(4). doi: https://doi.org/10.1371/journal.pone.0153857"
+      },
+      {
+        "key": "9618_CR248",
+        "unstructured": "*Tan, S. (2011). Internalizing symptoms, executive functions, and academic performance (Publication No. 344450) [Doctoral dissertation, Fordham University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/da1227bedb993cff914f0cdbff5f7518/1?cbl=18750&diss=y&pq-origsite=gscholar."
+      },
+      {
+        "key": "9618_CR249",
+        "unstructured": "*Tejada, E. (2011). Classroom social support, math anxiety, method of instruction, and drug-calculation skills of nursing students (Publication No. 3481771) [Doctoral dissertation, Andrews University]. ProQuest Dissertations Publishing. https://www.proquest.com/openview/1187cecfe067eb3bd65cc1e6fb0e897f/1?pq-origsite=gscholar&cbl=18750&diss=y."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR250",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1037/a0037530",
+        "volume": "21",
+        "author": "AD Thames",
+        "year": "2015",
+        "unstructured": "*Thames, A. D., Panos, S. E., Arentoft, A., Byrd, D. A., Hinkin, C. H., & Arbid, N. (2015). Mild test anxiety influences neurocognitive performance among African Americans and European Americans: Identifying interfering and facilitating sources. Cultural Diversity and Ethnic Minority Psychology, 21(1), 105.",
+        "journal-title": "Cultural Diversity and Ethnic Minority Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR251",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.25115/psye.v9i1.465",
+        "volume": "9",
+        "author": "HL Timmerman",
+        "year": "2017",
+        "unstructured": "*Timmerman, H. L., Toll, S. W. M., & Van Luit, J. E. H. (2017). The relation between math self-concept, test and math anxiety, achievement motivation and math achievement in 12 to 14-year-old typically developing adolescents. Psychology, Society and Education, 9(1), 89–103. doi: https://doi.org/10.25115/psye.v9i1.465",
+        "journal-title": "Psychology, Society and Education"
+      },
+      {
+        "issue": "5",
+        "key": "9618_CR252",
+        "doi-asserted-by": "publisher",
+        "first-page": "280",
+        "DOI": "10.1080/00220671.1991.10886028",
+        "volume": "84",
+        "author": "CM Tocci",
+        "year": "1991",
+        "unstructured": "*Tocci, C. M., & Engelhard, G. (1991). Achievement, parental support and gender differences in attitudes toward mathematics. Journal of Educational Research, 84(5), 280–287. doi: https://doi.org/10.1080/00220671.1991.10886028",
+        "journal-title": "Journal of Educational Research"
+      },
+      {
+        "key": "9618_CR253",
+        "unstructured": "*Townsend, C. T. (1991). Math achievement of adult and traditional associate degree nursing students taught via computer-assisted and lecture instruction (Publication No. 9127491) [Doctoral dissertation, The University of Southern Mississippi]. ProQuest Publishing. https://www.proquest.com/openview/8b9a25e444def175787fc328fc7becd0/1?pq-origsite=gscholar&cbl=18750&diss=y."
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR254",
+        "doi-asserted-by": "publisher",
+        "first-page": "120",
+        "DOI": "10.1016/j.jecp.2013.12.001",
+        "volume": "121",
+        "author": "K Trezise",
+        "year": "2014",
+        "unstructured": "*Trezise, K., & Reeve, R. A. (2014). Working memory, worry, and algebraic ability. Journal of Experimental Child Psychology, 121(1), 120–136. doi: https://doi.org/10.1016/j.jecp.2013.12.001",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR255",
+        "doi-asserted-by": "publisher",
+        "first-page": "478",
+        "DOI": "10.1111/bjep.12160",
+        "volume": "87",
+        "author": "JPJ Van der Beek",
+        "year": "2017",
+        "unstructured": "*Van der Beek, J. P. J., Van der Ven, S. H. G., Kroesbergen, E. H., & Leseman, P. P. M. (2017). Self-concept mediates the relation between achievement and emotions in mathematics. British Journal of Educational Psychology, 87(3), 478–495. doi: https://doi.org/10.1111/bjep.12160",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "key": "9618_CR256",
+        "doi-asserted-by": "publisher",
+        "first-page": "2690",
+        "DOI": "10.3389/fpsyg.2018.02690",
+        "volume": "9",
+        "author": "HI Van Mier",
+        "year": "2019",
+        "unstructured": "*Van Mier, H. I., Schleepen, T. M. J., & Van den Berg, F. C. G. (2019). Gender differences regarding the impact of math anxiety on arithmetic performance in second and fourth graders. Frontiers in Psychology, 9, 2690. doi: https://doi.org/10.3389/fpsyg.2018.02690",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "9618_CR257",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v036.i03",
+        "volume": "36",
+        "author": "W Viechtbauer",
+        "year": "2010",
+        "unstructured": "Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36, 1–48. https://doi.org/10.18637/jss.v036.i03.",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR258",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1002/pits.21660",
+        "volume": "50",
+        "author": "N Von Der Embse",
+        "year": "2013",
+        "unstructured": "Von Der Embse, N., Barterian, J., & Segool, N. (2013). Test anxiety interventions for children and adolescents: A systematic review of treatment studies from 2000–2010. Psychology in the Schools, 50(1), 57–71. https://doi.org/10.1002/pits.21660.",
+        "journal-title": "Psychology in the Schools"
+      },
+      {
+        "key": "9618_CR259",
+        "doi-asserted-by": "publisher",
+        "first-page": "483",
+        "DOI": "10.1016/j.jad.2017.11.048",
+        "volume": "227",
+        "author": "N von der Embse",
+        "year": "2018",
+        "unstructured": "von der Embse, N., Jester, D., Roy, D., & Post, J. (2018). Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review. Journal of Affective Disorders, 227, 483–493. https://doi.org/10.1016/j.jad.2017.11.048.",
+        "journal-title": "Journal of Affective Disorders"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR260",
+        "doi-asserted-by": "publisher",
+        "first-page": "552",
+        "DOI": "10.1177/0143034315612144",
+        "volume": "36",
+        "author": "NP von der Embse",
+        "year": "2015",
+        "unstructured": "von der Embse, N. P., & Putwain, D. W. (2015). Examining the context of instruction to facilitate student success. School Psychology International, 36(6), 552–558. https://doi.org/10.1177/0143034315612144.",
+        "journal-title": "School Psychology International"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR261",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cedpsych.2012.09.001",
+        "volume": "38",
+        "author": "RK Vukovic",
+        "year": "2013",
+        "unstructured": "*Vukovic, R. K., Kieffer, M. J., Bailey, S. P., & Harari, R. R. (2013a). Mathematics anxiety in young children: Concurrent and longitudinal associations with mathematical performance. Contemporary educational psychology, 38(1), 1-10.",
+        "journal-title": "Contemporary educational psychology"
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR262",
+        "doi-asserted-by": "publisher",
+        "first-page": "446",
+        "DOI": "10.1080/10409289.2012.693430",
+        "volume": "24",
+        "author": "RK Vukovic",
+        "year": "2013",
+        "unstructured": "*Vukovic, R. K., Roberts, S. O., & Green Wright, L. (2013b). From parental involvement to children’s mathematical performance: The role of mathematics anxiety. Early Education and Development, 24(4), 446–467. doi: https://doi.org/10.1080/10409289.2012.693430",
+        "journal-title": "Early Education and Development"
+      },
+      {
+        "key": "9618_CR263",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jcpp.12224",
+        "unstructured": "*Wang, Z., Hart, S. A., Kovas, Y., Lukowski, S., Soden, B., Thompson, L. A., ... & Petrill, S. A. (2014). Who is afraid of math? Two sources of genetic variance for mathematical anxiety. Journal of child psychology and psychiatry, 55(9), 1056-1064. doi: https://doi.org/10.1111/jcpp.12224"
+      },
+      {
+        "issue": "12",
+        "key": "9618_CR264",
+        "doi-asserted-by": "publisher",
+        "first-page": "1863",
+        "DOI": "10.1177/2F0956797615602471",
+        "volume": "26",
+        "author": "Z Wang",
+        "year": "2015",
+        "unstructured": "*Wang, Z., Lukowski, S. L., Hart, S. A., Lyons, I. M., Thompson, L. A., Kovas, Y., ... & Petrill, S. A. (2015). Is math anxiety always bad for math learning? The role of math motivation. Psychological science, 26(12), 1863-1876. doi: https://doi.org/10.1177/2F0956797615602471",
+        "journal-title": "Psychological science"
+      },
+      {
+        "key": "9618_CR265",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0192072",
+        "unstructured": "*Wang, Z., Shakeshaft, N., Schofield, K., & Malanchini, M. (2018). Anxiety is not enough to drive me away: A latent profile analysis on math anxiety and math motivation. PLoS ONE, 13(2). doi: https://doi.org/10.1371/journal.pone.0192072"
+      },
+      {
+        "key": "9618_CR266",
+        "unstructured": "*Watts, B. K. (2011). Relationships of mathematics anxiety, mathematics self-efficacy and mathematics performance on adult basic education students (Publication No. 3449398) [Doctoral dissertation, Capella University]. ProQuest Dissertations Publishing. https://www.proquest.com/docview/862498506?pq-origsite=gscholar&fromopenview=true."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR267",
+        "doi-asserted-by": "publisher",
+        "first-page": "360",
+        "DOI": "10.1177/00222194070400040601",
+        "volume": "40",
+        "author": "JD Whitaker Sena",
+        "year": "2007",
+        "unstructured": "Whitaker Sena, J. D., Lowe, P. A., & Lee, S. W. (2007). Significant predictors of test anxiety among students with and without learning disabilities. Journal of Learning Disabilities, 40(4), 360–376. https://doi.org/10.1177/00222194070400040601.",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR268",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1037/0022-0663.80.2.210",
+        "volume": "80",
+        "author": "A Wigfield",
+        "year": "1988",
+        "unstructured": "Wigfield, A., & Meece, J. L. (1988). Math anxiety in elementary and secondary school students. Journal of Educational Psychology, 80(2), 210. https://doi.org/10.1037/0022-0663.80.2.210.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "9618_CR269",
+        "first-page": "302",
+        "volume": "27",
+        "author": "JE Williams",
+        "year": "1994",
+        "unstructured": "*Williams, J. E. (1994). Anxiety measurement: Construct validity and test performance. Measurement and Evaluation in Counseling and Development, 27(1), 302-307.",
+        "journal-title": "Measurement and Evaluation in Counseling and Development"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR270",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.5964/ejop.v8i2.458",
+        "volume": "8",
+        "author": "M Witt",
+        "year": "2012",
+        "unstructured": "*Witt, M. (2012). The impact of mathematics anxiety on primary school children’s working memory. Europe’s Journal of Psychology, 8(2), 263–274. doi: https://doi.org/10.5964/ejop.v8i2.458",
+        "journal-title": "Europe’s Journal of Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9618_CR271",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1080/10615800412331292606",
+        "volume": "17",
+        "author": "DG Wren",
+        "year": "2004",
+        "unstructured": "Wren, D. G., & Benson, J. (2004). Measuring test anxiety in children: Scale development and internal construct validation. Anxiety, Stress and Coping, 17(3), 227–240. https://doi.org/10.1080/10615800412331292606.",
+        "journal-title": "Anxiety, Stress and Coping"
+      },
+      {
+        "key": "9618_CR272",
+        "unstructured": "*Wright, E. (2017). Understanding math anxiety in children: deciphering the contribution of math achievement, working memory, and general anxiety (Publication No.4249) [Doctoral dissertation, University of South Carolina]. University of South Carolina Scholar Commons. https://scholarcommons.sc.edu/etd/4249."
+      },
+      {
+        "key": "9618_CR273",
+        "doi-asserted-by": "publisher",
+        "first-page": "162",
+        "DOI": "10.3389/fpsyg.2012.00162",
+        "volume": "3",
+        "author": "SS Wu",
+        "year": "2012",
+        "unstructured": "*Wu, S. S., Barth, M., Amin, H., Malcarne, V., & Menon, V. (2012). Math anxiety in second and third graders and its relation to mathematics achievement. Frontiers in Psychology, 3, 162. doi: https://doi.org/10.3389/fpsyg.2012.00162",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "9618_CR274",
+        "doi-asserted-by": "publisher",
+        "first-page": "118",
+        "DOI": "10.1016/j.cognition.2017.05.016",
+        "volume": "166",
+        "author": "SS Wu",
+        "year": "2017",
+        "unstructured": "*Wu, S. S., Chen, L., Battista, C., Smith Watts, A. K., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children’s non-verbal and verbal mathematical abilities. Cognition, 166, 118–129. doi: https://doi.org/10.1016/j.cognition.2017.05.016",
+        "journal-title": "Cognition"
+      },
+      {
+        "issue": "6",
+        "key": "9618_CR275",
+        "doi-asserted-by": "publisher",
+        "first-page": "503",
+        "DOI": "10.1177/0022219412473154",
+        "volume": "47",
+        "author": "SS Wu",
+        "year": "2014",
+        "unstructured": "*Wu, S. S., Willcutt, E. G., Escovar, E., & Menon, V. (2014). Mathematics achievement and anxiety and their relation to internalizing and externalizing behaviors. Journal of Learning Disabilities, 47(6), 503-514. doi: https://doi.org/10.1177/0022219412473154",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "issue": "2–3",
+        "key": "9618_CR276",
+        "doi-asserted-by": "publisher",
+        "first-page": "59",
+        "DOI": "10.1016/j.anyes.2017.10.001",
+        "volume": "23",
+        "author": "L Yáñez-Marquina",
+        "year": "2017",
+        "unstructured": "*Yáñez-Marquina, L., & Villardón-Gallego, L. (2017). Math anxiety, a hierarchical construct: Development and validation of the scale for assessing math anxiety in secondary education. Ansiedad y Estrés, 23(2–3), 59–65. doi: https://doi.org/10.1016/j.anyes.2017.10.001",
+        "journal-title": "Ansiedad y Estrés"
+      },
+      {
+        "issue": "2",
+        "key": "9618_CR277",
+        "doi-asserted-by": "publisher",
+        "first-page": "150",
+        "DOI": "10.1080/00220973.2011.596855",
+        "volume": "80",
+        "author": "S Yildirim",
+        "year": "2012",
+        "unstructured": "*Yildirim, S. (2012). Teacher support, motivation, learning strategy use, and achievement: A multilevel mediation model. Journal of Experimental Education, 80(2), 150–172. doi: https://doi.org/10.1080/00220973.2011.596855",
+        "journal-title": "Journal of Experimental Education"
+      },
+      {
+        "key": "9618_CR278",
+        "doi-asserted-by": "publisher",
+        "first-page": "1457",
+        "DOI": "10.1037/apl0000141",
+        "volume": "101",
+        "author": "J Yu",
+        "year": "2016",
+        "unstructured": "Yu, J., Downes, P. E., Carter, K. M., & O’Boyle, E. H. (2016). The problem of effect size heterogeneity in meta-analytic structural equation modeling. Journal of Applied Psychology, 101, 1457–1473. https://doi.org/10.1037/apl0000141.",
+        "journal-title": "Journal of Applied Psychology"
+      },
+      {
+        "issue": "1–2",
+        "key": "9618_CR279",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1080/00223891.1990.9674054",
+        "volume": "55",
+        "author": "M Zeidner",
+        "year": "1990",
+        "unstructured": "Zeidner, M. (1990). Does test anxiety bias scholastic aptitude test performance by gender and sociocultural group? Journal of Personality Assessment, 55(1–2), 145–160. https://doi.org/10.1080/00223891.1990.9674054.",
+        "journal-title": "Journal of Personality Assessment"
+      },
+      {
+        "key": "9618_CR280",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-012372545-5/50011-3",
+        "unstructured": "Zeidner, M. (2007). Test anxiety in educational contexts. Concepts, findings, and future directions. In P. A. Schutz & R. Pekrun (Eds.), Emotion in education (pp. 165–184). New York: Academic Press. https://doi.org/10.1016/B978-012372545-5/50011-3."
+      },
+      {
+        "key": "9618_CR281",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/9781118775349.ch28",
+        "unstructured": "Zeidner, M. (2014). Test anxiety. In P. Emmelkamp & T. Ehring (Eds.), Wiley handbook of anxiety disorders (pp. 581–595). John Wiley."
+      },
+      {
+        "issue": "4",
+        "key": "9618_CR282",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1006/ceps.1998.0985",
+        "volume": "24",
+        "author": "M Zeidner",
+        "year": "1999",
+        "unstructured": "Zeidner, M., & Schleyer, E. J. (1999). The big-fish-little-pond effect for academic self-concept, test anxiety, and school grades in gifted children. Contemporary Educational Psychology, 24(4), 305–329. https://doi.org/10.1006/ceps.1998.0985.",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "key": "9618_CR283",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/desc.12126",
+        "unstructured": "*Zirk-Sadowski, J., Lamptey, C., Devine, A., Haggard, M., & Szűcs, D. (2014). Young-age gender differences in mathematics mediated by independent control or uncontrollability. Developmental Science, 17(3), 366–375. doi: https://doi.org/10.1111/desc.12126"
+      }
+    ],
+    "container-title": "Educational Psychology Review",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10648-021-09618-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10648-021-09618-5/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10648-021-09618-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2022, 2, 12]
+      ],
+      "date-time": "2022-02-12T14:24:59Z",
+      "timestamp": 1644675899000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s10648-021-09618-5"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 8, 4]
+      ]
+    },
+    "references-count": 283,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [2022, 3]
+        ]
+      }
+    },
+    "alternative-id": "9618",
+    "URL": "https://doi.org/10.1007/s10648-021-09618-5",
+    "relation": {},
+    "ISSN": ["1040-726X", "1573-336X"],
+    "issn-type": [
+      {
+        "value": "1040-726X",
+        "type": "print"
+      },
+      {
+        "value": "1573-336X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 8, 4]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "14 May 2021",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 August 2021",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of Interest"
+        }
+      }
+    ]
+  }
+}

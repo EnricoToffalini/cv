@@ -1,0 +1,687 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 7, 30]
+      ],
+      "date-time": "2025-07-30T16:21:46Z",
+      "timestamp": 1753892506206,
+      "version": "3.41.2"
+    },
+    "reference-count": 48,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 9, 24]
+          ],
+          "date-time": "2020-09-24T00:00:00Z",
+          "timestamp": 1600905600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000011",
+        "name": "Howard Hughes Medical Institute",
+        "doi-asserted-by": "publisher",
+        "award": "Inclusive Excellence: Engaging all students in Science",
+        "award-info": [
+          {
+            "award-number": "Inclusive Excellence: Engaging all students in Science"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000011",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "frontiersin.org",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Front. Psychol.",
+    "DOI": "10.3389/fpsyg.2020.551126",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 9, 24]
+      ],
+      "date-time": "2020-09-24T04:16:54Z",
+      "timestamp": 1600921014000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": "The Morra Game as a Naturalistic Test Bed for Investigating Automatic and Voluntary Processes in Random Sequence Generation",
+    "prefix": "10.3389",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Franco",
+        "family": "Delogu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Madison",
+        "family": "Barnewold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Carla",
+        "family": "Meloni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Antonello",
+        "family": "Zizi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rachele",
+        "family": "Fanari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [2020, 9, 24]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "819",
+        "DOI": "10.1080/027249898391413",
+        "article-title": "Random generation and the executive control of working memory.",
+        "volume": "51",
+        "author": "Baddeley",
+        "year": "1998",
+        "journal-title": "Q. J. Exp. Psychol. Sect. A"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1080/14640748608401616",
+        "article-title": "Dementia and working memory.",
+        "volume": "38",
+        "author": "Baddeley",
+        "year": "1986",
+        "journal-title": "Q. J. Exp. Psychol. Sect. A"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "302",
+        "DOI": "10.1080/14640746608400047",
+        "article-title": "The influence of acoustic and semantic similarity on long-term memory for word sequences.",
+        "volume": "18",
+        "author": "Baddeley",
+        "year": "1966",
+        "journal-title": "Q. J. Exp. Psychol."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1355",
+        "DOI": "10.1016/s0028-3932(98)00015-3",
+        "article-title": "Executive processes in Parkinson’s disease–random number generation and response suppression.",
+        "volume": "36",
+        "author": "Brown",
+        "year": "1998",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "627",
+        "DOI": "10.2466/pms.1997.84.2.627",
+        "article-title": "Variables that influence the generation of random sequences: an update.",
+        "volume": "84",
+        "author": "Brugger",
+        "year": "1997",
+        "journal-title": "Percept. Motor Skills"
+      },
+      {
+        "key": "B6",
+        "first-page": "53",
+        "article-title": "Repetitive behavior and repetition avoidance: the role of the right hemisphere.",
+        "volume": "21",
+        "author": "Brugger",
+        "year": "",
+        "journal-title": "J. Psychiatry Neurosci."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1016/0028-3932(95)00066-6",
+        "article-title": "Random number generation in dementia of the Alzheimer type: a test of frontal executive functions.",
+        "volume": "34",
+        "author": "Brugger",
+        "year": "",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.32614/RJ-2018-017",
+        "article-title": "Advanced Bayesian multilevel modeling with the R package brms.",
+        "volume": "10",
+        "author": "Bürkner",
+        "year": "2018",
+        "journal-title": "R J."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1177/0049124104268644",
+        "article-title": "Multimodel inference: understanding AIC and BIC in model selection.",
+        "volume": "33",
+        "author": "Burnham",
+        "year": "2004",
+        "journal-title": "Sociol. Methods Res."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1016/S0304-3940(03)00496-8",
+        "article-title": "Rate dependency of the human cortical network subserving executive functions during generation of random number series–a functional magnetic resonance imaging study.",
+        "volume": "345",
+        "author": "Daniels",
+        "year": "2003",
+        "journal-title": "Neurosci. Lett."
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "875",
+        "DOI": "10.1037/0278-7393.17.5.875",
+        "article-title": "Implicit and explicit knowledge bases in artificial grammar learning.",
+        "volume": "17",
+        "author": "Dienes",
+        "year": "1991",
+        "journal-title": "J. Exp. Psychol. Learn. Mem. Cogn."
+      },
+      {
+        "key": "B12",
+        "author": "Ebers",
+        "year": "1878",
+        "journal-title": "Egypt: Descriptive, Historical and Picturesque"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.3758/BF03329617",
+        "article-title": "Monitoring attention deployment by random number generation: an index to measure subjective randomness.",
+        "volume": "12",
+        "author": "Evans",
+        "year": "1978",
+        "journal-title": "Bull. Psychon. Soc."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "391",
+        "DOI": "10.3758/BF03334568",
+        "article-title": "Subjective random number generation and attention deployment during acquisition and overlearning of a motor skill.",
+        "volume": "15",
+        "author": "Evans",
+        "year": "1980",
+        "journal-title": "Bull. Psychon. Soc."
+      },
+      {
+        "key": "B15",
+        "author": "Falkener",
+        "year": "1892",
+        "journal-title": "Games Ancient and Oriental, and How to Play Them: Being the Games of the Greek, the Ludus Latrunculorum of the Romans and the Oriental Games of Chess, Draughts, Backgammon and Magic Squares."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1059",
+        "DOI": "10.2466/pms.1994.79.3.1059",
+        "article-title": "Random generation: analysis of the responses.",
+        "volume": "79",
+        "author": "Ginsburg",
+        "year": "1994",
+        "journal-title": "Percept. Motor Skills"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "367",
+        "DOI": "10.2466/pms.1977.44.2.367",
+        "article-title": "Paced auditory serial-addition task: a measure of recovery from concussion.",
+        "volume": "44",
+        "author": "Gronwall",
+        "year": "1977",
+        "journal-title": "Percept. Motor Skills"
+      },
+      {
+        "key": "B18",
+        "first-page": "251",
+        "article-title": "Die empirische Erprobung von Methoden zur Überprüfung der Ergodizität von Ereignisfolgen [Empirical testing of methods for the examination of the ergodicity of sequences].",
+        "volume": "119",
+        "author": "Guttmann",
+        "year": "1967",
+        "journal-title": "Archiv. Für. die gesamte Psychol."
+      },
+      {
+        "key": "B19",
+        "author": "Heaton",
+        "year": "1993",
+        "journal-title": "WCST: Wisconsin Card Sorting Test."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnins.2014.00150",
+        "article-title": "The speed-accuracy tradeoff: history, physiology, methodology, and behavior.",
+        "volume": "8",
+        "author": "Heitz",
+        "year": "2014",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "713",
+        "DOI": "10.1006/nimg.2000.0647",
+        "article-title": "The role of the dorsolateral prefrontal cortex in random number generation: a study with positron emission tomography.",
+        "volume": "12",
+        "author": "Jahanshahi",
+        "year": "2000",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0894-4105.20.4.391",
+        "article-title": "Random number generation as an index of controlled processing.",
+        "volume": "20",
+        "author": "Jahanshahi",
+        "year": "2006",
+        "journal-title": "Neuropsychology"
+      },
+      {
+        "key": "B23",
+        "author": "Kahneman",
+        "year": "2011",
+        "journal-title": "Thinking, Fast and Slow."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "R60",
+        "DOI": "10.1016/j.cub.2007.11.015",
+        "article-title": "Head turns bias the brain’s internal random generator.",
+        "volume": "18",
+        "author": "Loetscher",
+        "year": "2008",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "B25",
+        "author": "McElreath",
+        "year": "2016",
+        "journal-title": "Statistical Rethinking: A Bayesian Course With Examples in R and Stan."
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "49",
+        "DOI": "10.1006/cogp.1999.0734",
+        "article-title": "The unity and diversity of executive functions and their contributions to complex “frontal lobe” tasks: a latent variable analysis.",
+        "volume": "41",
+        "author": "Miyake",
+        "year": "2000",
+        "journal-title": "Cogn. Psychol."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1007/s10072-012-1130-x",
+        "article-title": "Forward and backward span for verbal and visuo-spatial data: standardization and normative data from an Italian adult population.",
+        "volume": "34",
+        "author": "Monaco",
+        "year": "2013",
+        "journal-title": "Neurol. Sci."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnhum.2015.00319",
+        "article-title": "A time series approach to random number generation: using recurrence quantification analysis to capture executive behavior.",
+        "volume": "9",
+        "author": "Oomens",
+        "year": "2015",
+        "journal-title": "Front. Hum. Neurosci."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2019.01089",
+        "article-title": "Measuring distribution similarities between samples: a distribution-free overlapping index.",
+        "volume": "10",
+        "author": "Pastore",
+        "year": "2019",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "129",
+        "DOI": "10.2307/623718",
+        "article-title": "The game of Morra.",
+        "volume": "18",
+        "author": "Perdrizet",
+        "year": "1898",
+        "journal-title": "J. Hellen. Stud."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1212/wnl.39.2.161",
+        "article-title": "Correlation of magnetic resonance imaging with neuropsychological testing in multiple sclerosis.",
+        "volume": "39",
+        "author": "Rao",
+        "year": "1989",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "B32",
+        "author": "Raven",
+        "year": "2008",
+        "journal-title": "SPM: Standard Progressive Matrices – Italian Standardization."
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "132",
+        "DOI": "10.1016/j.jpubeco.2018.02.010",
+        "article-title": "Error-prone inference from response time: the case of intuitive generosity in public-good games.",
+        "volume": "160",
+        "author": "Recalde",
+        "year": "2018",
+        "journal-title": "J. Publ. Econ."
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.3758/BF03197274",
+        "article-title": "Working memory in chess.",
+        "volume": "24",
+        "author": "Robbins",
+        "year": "1996",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "953",
+        "DOI": "10.1017/s0033291700036643",
+        "article-title": "Random number generation by normal, alcoholic and schizophrenic subjects.",
+        "volume": "20",
+        "author": "Rosenberg",
+        "year": "1990",
+        "journal-title": "Psychol. Med."
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "128",
+        "DOI": "10.3758/s13423-017-1230-y",
+        "article-title": "Bayes factor design analysis: planning for compelling evidence.",
+        "volume": "25",
+        "author": "Schönbrodt",
+        "year": "2018",
+        "journal-title": "Psychon. Bull. Rev."
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0041531",
+        "article-title": "Analysing humanly generated random number sequences: a pattern-based approach.",
+        "volume": "7",
+        "author": "Schulz",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1037/0033-295X.84.2.127",
+        "article-title": "Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory.",
+        "volume": "84",
+        "author": "Shiffrin",
+        "year": "1977",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "231",
+        "DOI": "10.1006/brcg.1993.1057",
+        "article-title": "Components of random generation by normal subjects and patients with dysexecutive syndrome.",
+        "volume": "23",
+        "author": "Spatt",
+        "year": "1993",
+        "journal-title": "Brain Cogn."
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "645",
+        "DOI": "10.1017/S0140525X00003435",
+        "article-title": "Individual differences in reasoning: implications for the rationality debate?",
+        "volume": "23",
+        "author": "Stanovich",
+        "year": "2000",
+        "journal-title": "Behav. Brain Sci."
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "374",
+        "DOI": "10.1080/09541440600764570",
+        "article-title": "Random number generation and working memory.",
+        "volume": "19",
+        "author": "Towse",
+        "year": "2007",
+        "journal-title": "Eur. J. Cogn. Psychol."
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "363",
+        "DOI": "10.1348/026151099165348",
+        "article-title": "An exploration of random generation among children.",
+        "volume": "17",
+        "author": "Towse",
+        "year": "1999",
+        "journal-title": "Br. J. Dev. Psychol."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "583",
+        "DOI": "10.3758/BF03209475",
+        "article-title": "Analyzing human random generation behavior: a review of methods used and a computer program for describing performance.",
+        "volume": "30",
+        "author": "Towse",
+        "year": "1998",
+        "journal-title": "Behav. Res. Methods Instrum. Comp."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1080/713752566",
+        "article-title": "Random generation of numbers: a search for underlying processes.",
+        "volume": "9",
+        "author": "Towse",
+        "year": "1997",
+        "journal-title": "Eur. J. Cogn. Psychol."
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "555",
+        "DOI": "10.3758/BF03200828",
+        "article-title": "Analyzing human random time generation behavior: a methodology and a computer program.",
+        "volume": "32",
+        "author": "Vandierendonck",
+        "year": "2000",
+        "journal-title": "Behav. Res. Methods Instrum. Comp."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1037/h0032060",
+        "article-title": "Generation of random sequences by human subjects: a critical survey of literature.",
+        "volume": "77",
+        "author": "Wagenaar",
+        "year": "1972",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep05830",
+        "article-title": "Social cycling and conditional responses in the Rock-Paper-Scissors game.",
+        "volume": "4",
+        "author": "Wang",
+        "year": "2014",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B48",
+        "first-page": "3571",
+        "article-title": "Asymptotic equivalence of Bayes cross validation and widely applicable information criterion in singular learning theory.",
+        "volume": "11",
+        "author": "Watanabe",
+        "year": "2010",
+        "journal-title": "J. Mach. Learn. Res."
+      }
+    ],
+    "container-title": "Frontiers in Psychology",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2020.551126/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2021, 4, 3]
+      ],
+      "date-time": "2021-04-03T19:45:53Z",
+      "timestamp": 1617479153000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2020.551126/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 9, 24]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": "10.3389/fpsyg.2020.551126",
+    "URL": "https://doi.org/10.3389/fpsyg.2020.551126",
+    "relation": {},
+    "ISSN": "1664-1078",
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1664-1078"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 9, 24]
+      ]
+    },
+    "article-number": "551126"
+  }
+}

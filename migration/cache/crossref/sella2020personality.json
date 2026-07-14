@@ -1,0 +1,541 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 3, 19]
+      ],
+      "date-time": "2026-03-19T20:00:15Z",
+      "timestamp": 1773950415159,
+      "version": "3.50.1"
+    },
+    "reference-count": 32,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 4, 1]
+          ],
+          "date-time": "2020-04-01T00:00:00Z",
+          "timestamp": 1585699200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2020, 4, 1]
+          ],
+          "date-time": "2020-04-01T00:00:00Z",
+          "timestamp": 1585699200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Personality and Individual Differences",
+    "published-print": {
+      "date-parts": [
+        [2020, 4]
+      ]
+    },
+    "DOI": "10.1016/j.paid.2019.109770",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2019, 12, 18]
+      ],
+      "date-time": "2019-12-18T11:20:31Z",
+      "timestamp": 1576668031000
+    },
+    "page": "109770",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "special_numbering": "C",
+    "title": "Personality traits and sleep quality: The role of sleep-related beliefs",
+    "prefix": "10.1016",
+    "volume": "156",
+    "author": [
+      {
+        "given": "Enrico",
+        "family": "Sella",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elena",
+        "family": "Carbone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false
+      },
+      {
+        "given": "Erika",
+        "family": "Borella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1080/08870446.2016.1178745",
+        "article-title": "Personality, hedonic balance and the quality and quantity of sleep in adulthood",
+        "volume": "31",
+        "author": "Allen",
+        "year": "2016",
+        "journal-title": "Psychology & Health"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "588",
+        "DOI": "10.1207/s15327752jpa6703_13",
+        "article-title": "Comparison of beck depression inventories IA and II in psychiatric outpatients",
+        "volume": "67",
+        "author": "Beck",
+        "year": "1996",
+        "journal-title": "Journal of Personality Assessment"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/0165-1781(89)90047-4",
+        "article-title": "The Pittsburgh sleep quality index: A new instrument for psychiatric practice and research",
+        "volume": "28",
+        "author": "Buysse",
+        "year": "1989",
+        "journal-title": "Psychiatry Research"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1080/15402002.2011.643968",
+        "article-title": "Psychosocial predictors of sleep dysfunction: The role of anxiety sensitivity, dysfunctional beliefs, and neuroticism",
+        "volume": "11",
+        "author": "Calkins",
+        "year": "2013",
+        "journal-title": "Behavioral Sleep Medicine"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0005",
+        "author": "Caprara",
+        "year": "2000",
+        "series-title": "Personality: Determinants, dynamics, and potentials"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1467-9221.2006.00447.x",
+        "article-title": "Personality and politics: Values, traits, and political choice",
+        "volume": "2",
+        "author": "Caprara",
+        "year": "2006",
+        "journal-title": "Political Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.1016/j.sleh.2017.03.001",
+        "article-title": "Perceived sleep quality: The interplay of neuroticism, affect, and hyperarousal",
+        "volume": "3",
+        "author": "Cellini",
+        "year": "2017",
+        "journal-title": "Sleep Health"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1146/annurev-psych-010418-103244",
+        "article-title": "Personality across the life span",
+        "volume": "70",
+        "author": "Costa",
+        "year": "2018",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1080/13825585.2014.888392",
+        "article-title": "The relationship between big-5 personality traits and cognitive ability in older adults – a review",
+        "volume": "22",
+        "author": "Curtis",
+        "year": "2015",
+        "journal-title": "Aging, Neuropsychology, and Cognition"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.1097/JGP.0b013e3181557b69",
+        "article-title": "Sleeping well, aging well: A descriptive and cross-sectional study of sleep in “successful agers” 75 and older",
+        "volume": "16",
+        "author": "Driscoll",
+        "year": "2008",
+        "journal-title": "The American Journal of Geriatric Psychiatry"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "e90628",
+        "DOI": "10.1371/journal.pone.0090628",
+        "article-title": "Personality and healthy sleep: The importance of conscientiousness and neuroticism",
+        "volume": "9",
+        "author": "Duggan",
+        "year": "2014",
+        "journal-title": "PloS One"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0012",
+        "first-page": "229",
+        "article-title": "Validazione della scheda per la valutazione multidimensionale dell'anziano (SVAMA)",
+        "volume": "6",
+        "author": "Gallina",
+        "year": "2006",
+        "journal-title": "Tendenze Nuove"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1037/0003-066X.48.1.26",
+        "article-title": "The structure of phenotypic personality traits",
+        "volume": "28",
+        "author": "Goldberg",
+        "year": "1993",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1111/j.1467-6494.2004.00298.x",
+        "article-title": "Healthy and unhealthy emotion regulation: Personality processes, individual differences, and life span development",
+        "volume": "72",
+        "author": "John",
+        "year": "2004",
+        "journal-title": "Journal of Personality"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1002/per.2191",
+        "article-title": "Personality and sleep: Neuroticism and conscientiousness predict behaviourally recorded sleep years later",
+        "volume": "33",
+        "author": "Križan",
+        "year": "2019",
+        "journal-title": "European Journal of Personality"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0016",
+        "first-page": "365",
+        "article-title": "Personality traits and metacognitions as predictors of positive mental health in college students",
+        "volume": "19",
+        "author": "Marino",
+        "year": "2018",
+        "journal-title": "Journal of Happiness Studies"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.1177/1088868314541857",
+        "article-title": "A more nuanced view of reliability: Specificity in the trait hierarchy",
+        "volume": "19",
+        "author": "McCrae",
+        "year": "2015",
+        "journal-title": "Personality and Social Psychology Review"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "509",
+        "DOI": "10.1037/0003-066X.52.5.509",
+        "article-title": "Personality trait structure as a human universal",
+        "volume": "52",
+        "author": "McCrae",
+        "year": "1997",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0019",
+        "author": "McElreath",
+        "year": "2016",
+        "series-title": "Statistical rethinking: A bayesian course with examples in R and STAN"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v085.i04",
+        "article-title": "blavaan: Bayesian structural equation models via parameter expansion",
+        "volume": "85",
+        "author": "Merkle",
+        "year": "2018",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1037/0882-7974.8.3.463",
+        "article-title": "Dysfunctional beliefs and attitudes about sleep among older adults with and without insomnia complaints",
+        "volume": "8",
+        "author": "Morin",
+        "year": "1993",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "767",
+        "DOI": "10.1093/sleep/32.6.767",
+        "article-title": "Actigraphy in the assessment of insomnia: A quantitative approach",
+        "volume": "32",
+        "author": "Natale",
+        "year": "2009",
+        "journal-title": "Sleep"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1016/j.sleh.2016.11.006",
+        "article-title": "National sleep foundation’s sleep quality recommendations: First report",
+        "volume": "3",
+        "author": "Ohayon",
+        "year": "2017",
+        "journal-title": "Sleep Health"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "401",
+        "DOI": "10.1146/annurev.psych.57.102904.190127",
+        "article-title": "Personality and the prediction of consequential outcomes",
+        "volume": "57",
+        "author": "Ozer",
+        "year": "2006",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0026",
+        "first-page": "20",
+        "article-title": "The influence of metacognitive beliefs on sleeping difficulties in older adults",
+        "volume": "11",
+        "author": "Sella",
+        "year": "2019",
+        "journal-title": "Applied Psychology: Health and Well-Being"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0027",
+        "article-title": "State‐Trait anxiety inventory",
+        "author": "Spielberger",
+        "year": "2010",
+        "journal-title": "The Corsini Encyclopedia of Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1037/hea0000577",
+        "article-title": "Personality and sleep quality: Evidence from four prospective studies",
+        "volume": "37",
+        "author": "Stephan",
+        "year": "2018",
+        "journal-title": "Health Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/j.explore.2014.04.005",
+        "article-title": "Prediction of insomnia severity based on cognitive, metacognitive, and emotional variables in college students",
+        "volume": "10",
+        "author": "Vand",
+        "year": "2014",
+        "journal-title": "EXPLORE: The Journal of Science and Healing"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/j.jbtep.2008.03.002",
+        "article-title": "Metacognitive beliefs in primary insomnia: Developing and validating the metacognitions questionnaire–insomnia (MCQ-I)",
+        "volume": "40",
+        "author": "Waine",
+        "year": "2009",
+        "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0031",
+        "first-page": "3571",
+        "article-title": "Asymptotic equivalence of bayes cross validation and widely applicable information criterion in singular learning theory",
+        "author": "Watanabe",
+        "year": "2010",
+        "journal-title": "Journal of Machine Learning Research, 11"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s10608-009-9270-x",
+        "article-title": "Self-reported sleep quality and cognitive style in older adults",
+        "volume": "35",
+        "author": "Willis",
+        "year": "2011",
+        "journal-title": "Cognitive Therapy and Research"
+      },
+      {
+        "key": "10.1016/j.paid.2019.109770_bib0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1016/0022-3956(82)90033-4",
+        "article-title": "Development and validation of a geriatric depression screening scale: A preliminary report",
+        "volume": "17",
+        "author": "Yesavage",
+        "year": "1982",
+        "journal-title": "Journal of Psychiatric Research"
+      }
+    ],
+    "container-title": "Personality and Individual Differences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886919307093?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886919307093?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 1]
+      ],
+      "date-time": "2025-10-01T00:48:55Z",
+      "timestamp": 1759279735000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886919307093"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 4]
+      ]
+    },
+    "references-count": 32,
+    "alternative-id": "S0191886919307093",
+    "URL": "https://doi.org/10.1016/j.paid.2019.109770",
+    "relation": {},
+    "ISSN": "0191-8869",
+    "issn-type": [
+      {
+        "value": "0191-8869",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 4]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Personality traits and sleep quality: The role of sleep-related beliefs",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Personality and Individual Differences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.paid.2019.109770",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2019 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "109770"
+  }
+}

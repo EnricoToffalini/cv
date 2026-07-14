@@ -1,0 +1,491 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 10]
+      ],
+      "date-time": "2026-04-10T02:46:32Z",
+      "timestamp": 1775789192987,
+      "version": "3.50.1"
+    },
+    "reference-count": 47,
+    "publisher": "Wiley",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2021, 3, 8]
+          ],
+          "date-time": "2021-03-08T00:00:00Z",
+          "timestamp": 1615161600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": "acamh.onlinelibrary.wiley.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Child Psychology Psychiatry",
+    "published-print": {
+      "date-parts": [
+        [2021, 6]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background<\/jats:title>\n                    <jats:p>Two hypotheses were tested regarding the characteristics of children with mathematical learning disabilities (MLD): (a) that children with MLD would have a ‘core deficit’ in basic number processing skills; and (b) that children with MLD would be at the end of a developmental continuum and have impairments in many cognitive skills.<\/jats:p>\n                  <\/jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods<\/jats:title>\n                    <jats:p>\n                      From a large sample (\n                      <jats:italic>N<\/jats:italic>\n                       = 1,303) of typically developing children, we selected a group definable as having MLD. The children were given measures of basic number processing and domain‐general constructs. Differences between the observed sample and a simulated population were estimated using Cohen’s\n                      <jats:italic>d<\/jats:italic>\n                      and Bayes factors. Receiver operating characteristic curves were plotted, and the area under the curve was computed to ascertain the diagnostic power of measures.\n                    <\/jats:p>\n                  <\/jats:sec>\n                  <jats:sec>\n                    <jats:title>Results<\/jats:title>\n                    <jats:p>Results suggest that the differences between the MLD and control group can be defined along with general characteristics of the population rather than assuming single or multiple ‘core deficits’. None of the measures of interest exceeded the diagnostic power that could be derived via simulation from the dimensional characteristics of the general population.<\/jats:p>\n                  <\/jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions<\/jats:title>\n                    <jats:p>There is no evidence for core deficit(s) in MLD. We suggest that future research should focus on representative samples of typical populations and on carefully tested clinical samples confirming to the criteria of international diagnostic manuals. Clinical diagnoses require that MLD is persistent and resistant to intervention, so studies would deliver results less exposed to measurement fluctuations. Uniform diagnostic criteria would also allow for the easy cross‐study comparison of samples overcoming a serious limitation of the current literature.<\/jats:p>\n                  <\/jats:sec>",
+    "DOI": "10.1111/jcpp.13397",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 3, 8]
+      ],
+      "date-time": "2021-03-08T19:14:18Z",
+      "timestamp": 1615230858000
+    },
+    "page": "704-714",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 47,
+    "title": "No evidence for a core deficit in developmental dyscalculia or mathematical learning disabilities",
+    "prefix": "10.1111",
+    "volume": "62",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6986-4793",
+        "authenticated-orcid": false,
+        "given": "Irene C.",
+        "family": "Mammarella",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sara",
+        "family": "Caviola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova  Padova Italy"
+          },
+          {
+            "name": "School of Psychology University of Leeds  Leeds UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lincoln",
+        "family": "Colling",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Psychology University of Sussex  Sussex UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Denes",
+        "family": "Szűcs",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology University of Cambridge  Cambridge UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [2021, 3, 8]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "American Psychiatric Association. (2013).Diagnostic and statistical manual of mental disorders(5th edn).Washington DC:Author.",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721420925518"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156856897X00357"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32614/RJ-2018-017"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "volume-title": "The mathematical brain",
+        "author": "Butterworth B.",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-385948-8.00016-5"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0506463102"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "volume-title": "Measuring intelligence with the culture fair tests. Institute for Personality and Ability Testing [Italian edition: Misurare l’intelligenza con i test “Culture Fair”]",
+        "author": "Cattell R.B.",
+        "year": "1981"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/desc.12957"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "volume-title": "AC‐MT 11–14: Test for assessing calculation and problem solving skills [“Test AC‐MT 11–14 ‐ Test di Valutazione delle Abilità di Calcolo e Problem Solving”]",
+        "author": "Cornoldi C.",
+        "year": "2004"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "volume-title": "AC‐MT 6–11: Test for assessing calculation and problem solving skills [“Test AC‐MT 6–11 ‐ Test di Valutazione delle Abilità di Calcolo e Problem Solving”]",
+        "author": "Cornoldi C.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tine.2013.06.001"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "volume-title": "The number sense: How the mind creates mathematics, revised and updated edition",
+        "author": "Dehaene S.",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.learninstruc.2013.02.004"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00160"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00222194040370010201"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jecp.2000.2561"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691614551642"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2013.06.006"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2003.2414"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2011.03.002"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.0060011"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139087759"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2004.08.004"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2011.01608.x"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11881-003-0011-7"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "volume-title": "BayesFactor: Computation of Bayes factors for common designs. R package version 0.9.12‐2",
+        "author": "Morey R.D.",
+        "year": "2015"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00222194070400050901"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2009.10.006"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2004.04.002"
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/0034654317753350"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tine.2019.100115"
+      },
+      {
+        "key": "e_1_2_7_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2010.03.012"
+      },
+      {
+        "key": "e_1_2_7_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2004.10.014"
+      },
+      {
+        "key": "e_1_2_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5038/1936-4660.6.1.2"
+      },
+      {
+        "key": "e_1_2_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-12-77"
+      },
+      {
+        "key": "e_1_2_7_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2008.11.002"
+      },
+      {
+        "key": "e_1_2_7_39_1",
+        "volume-title": "Battery for the assessment of dyslexia and developmental dysorthography [“Batteria per la valutazione della dislessia edella disortografia evolutiva”]",
+        "author": "Sartori G.",
+        "year": "1995"
+      },
+      {
+        "key": "e_1_2_7_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ridd.2017.03.003"
+      },
+      {
+        "key": "e_1_2_7_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/135467997387434"
+      },
+      {
+        "key": "e_1_2_7_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/bs.pbr.2016.04.027"
+      },
+      {
+        "key": "e_1_2_7_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2013.06.007"
+      },
+      {
+        "key": "e_1_2_7_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/desc.12144"
+      },
+      {
+        "key": "e_1_2_7_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.2000797"
+      },
+      {
+        "key": "e_1_2_7_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10705511.2013.824781"
+      },
+      {
+        "key": "e_1_2_7_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02724980143000550"
+      },
+      {
+        "key": "e_1_2_7_48_1",
+        "unstructured": "Zhu W. Zeng N. &Wang N.(2010).Sensitivity specificity accuracy associated confidence interval and ROC analysis with practical SAS®implementations.Northeast SAS Users Group 2010: Health Care and Life Sciences."
+      }
+    ],
+    "container-title": "Journal of Child Psychology and Psychiatry",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jcpp.13397",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jcpp.13397",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://acamh.onlinelibrary.wiley.com/doi/pdf/10.1111/jcpp.13397",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 11, 3]
+      ],
+      "date-time": "2025-11-03T16:04:51Z",
+      "timestamp": 1762185891000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13397"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 3, 8]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [2021, 6]
+        ]
+      }
+    },
+    "alternative-id": "10.1111/jcpp.13397",
+    "URL": "https://doi.org/10.1111/jcpp.13397",
+    "archive": "Portico",
+    "relation": {},
+    "ISSN": ["0021-9630", "1469-7610"],
+    "issn-type": [
+      {
+        "value": "0021-9630",
+        "type": "print"
+      },
+      {
+        "value": "1469-7610",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 3, 8]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-01-07",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-03-08",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

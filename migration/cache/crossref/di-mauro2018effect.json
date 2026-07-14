@@ -1,0 +1,1129 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 3, 25]
+      ],
+      "date-time": "2026-03-25T01:23:55Z",
+      "timestamp": 1774401835372,
+      "version": "3.50.1"
+    },
+    "reference-count": 93,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2018, 11, 9]
+          ],
+          "date-time": "2018-11-09T00:00:00Z",
+          "timestamp": 1541721600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "frontiersin.org",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Front. Psychol.",
+    "DOI": "10.3389/fpsyg.2018.02168",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2018, 11, 9]
+      ],
+      "date-time": "2018-11-09T05:28:07Z",
+      "timestamp": 1541741287000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": "Effect of Long-Term Music Training on Emotion Perception From Drumming Improvisation",
+    "prefix": "10.3389",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Martina",
+        "family": "Di Mauro",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Massimo",
+        "family": "Grassi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karin",
+        "family": "Petrini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "first-page": "285",
+        "article-title": "Responses to music",
+        "author": "Abeles",
+        "year": "1996",
+        "journal-title": "Handbook of Music Psychology"
+      },
+      {
+        "key": "B2",
+        "article-title": "Judgment of musical emotions after cochlear implantation in adults with progressive deafness.",
+        "author": "Ambert-Dahan",
+        "year": "2015",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00181",
+        "volume": "6"
+      },
+      {
+        "key": "B3",
+        "first-page": "960",
+        "article-title": "Exposure to violent media: the effect of songs with violent lyrics on aggressive thoughts and feelings.",
+        "author": "Anderson",
+        "year": "2003",
+        "journal-title": "J. Pers. Soc. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.84.5.960",
+        "volume": "84"
+      },
+      {
+        "key": "B4",
+        "first-page": "43",
+        "article-title": "A cross-cultural investigation of the perception of emotion in music: psychophysical and cultural cues.",
+        "author": "Balkwill",
+        "year": "1999",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/40285811",
+        "volume": "17"
+      },
+      {
+        "key": "B5",
+        "first-page": "1",
+        "article-title": "Fitting linear mixed-effects models using lme4.",
+        "author": "Bates",
+        "year": "2015",
+        "journal-title": "J. Stat. Softw.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v067.i01",
+        "volume": "67"
+      },
+      {
+        "key": "B6",
+        "first-page": "921",
+        "article-title": "Perception of emotional expression in musical performance.",
+        "author": "Bhatara",
+        "year": "2011",
+        "journal-title": "J. Exp. Psychol. Hum. Percept. Perform.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0021922",
+        "volume": "37"
+      },
+      {
+        "key": "B7",
+        "article-title": "Action and familiarity effects on self and other expert musicians’ Laban effort-shape analyses of expressive bodily behaviors in instrumental music performance: a case study approach.",
+        "author": "Broughton",
+        "year": "2014",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2014.01201",
+        "volume": "5"
+      },
+      {
+        "key": "B8",
+        "first-page": "1243",
+        "article-title": "Action observation and acquired motor skills: an FMRI study with expert dancers.",
+        "author": "Calvo-Merino",
+        "year": "2005",
+        "journal-title": "Cereb. Cortex",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhi007",
+        "volume": "15"
+      },
+      {
+        "key": "B9",
+        "first-page": "1905",
+        "article-title": "Seeing or doing? Influence of visual and motor familiarity in action observation.",
+        "author": "Calvo-Merino",
+        "year": "2006",
+        "journal-title": "Curr. Biol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2006.07.065",
+        "volume": "16"
+      },
+      {
+        "key": "B10",
+        "first-page": "1",
+        "article-title": "Basal emotional patterns expressible in music.",
+        "author": "Campbell",
+        "year": "1942",
+        "journal-title": "Am. J. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1417020",
+        "volume": "55"
+      },
+      {
+        "key": "B11",
+        "first-page": "125",
+        "article-title": "Age and musical expertise influence emotion recognition in music.",
+        "author": "Castro",
+        "year": "2014",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/mp.2014.32.2.125",
+        "volume": "32"
+      },
+      {
+        "key": "B12",
+        "first-page": "27",
+        "article-title": "On the induction of depressed mood in the laboratory: evaluation and comparison of the Velten and musical procedures.",
+        "author": "Clark",
+        "year": "1983",
+        "journal-title": "Adv. Behav. Res. Ther.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0146-6402(83)90014-0",
+        "volume": "5"
+      },
+      {
+        "key": "B13",
+        "author": "Clynes",
+        "year": "1977",
+        "journal-title": "Sentics: The Touch of Emotions"
+      },
+      {
+        "key": "B14",
+        "first-page": "126",
+        "article-title": "Audio-visual integration of emotion expression.",
+        "author": "Collignon",
+        "year": "2008",
+        "journal-title": "Brain Res.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brainres.2008.04.023",
+        "volume": "1242"
+      },
+      {
+        "key": "B15",
+        "first-page": "89",
+        "author": "Cornwell",
+        "year": "1991",
+        "journal-title": "J. Occupat. Organ. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2044-8325.1994.tb00553.x",
+        "volume": "67"
+      },
+      {
+        "key": "B16",
+        "first-page": "433",
+        "article-title": "Visual perception of expressiveness in musicians’ body movements.",
+        "author": "Dahl",
+        "year": "2007",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/mp.2007.24.5.433",
+        "volume": "24"
+      },
+      {
+        "key": "B17",
+        "first-page": "B1",
+        "article-title": "A developmental study of the affective value of tempo and mode in music.",
+        "author": "Dalla Bella",
+        "year": "2001",
+        "journal-title": "Cognition.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0277(00)00136-0",
+        "volume": "80"
+      },
+      {
+        "key": "B18",
+        "first-page": "103",
+        "article-title": "Visual perception of performance manner in the movements of solo musicians.",
+        "author": "Davidson",
+        "year": "1993",
+        "journal-title": "Psychol. Music",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/030573569302100201",
+        "volume": "21"
+      },
+      {
+        "key": "B19",
+        "first-page": "247",
+        "article-title": "The contribution of general features of body movement to the attribution of emotion.",
+        "author": "De Meijer",
+        "year": "1989",
+        "journal-title": "J. Nonverb. Behav.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00990296",
+        "volume": "13"
+      },
+      {
+        "key": "B20",
+        "first-page": "249",
+        "article-title": "The attribution of aggression and grief to body movements: the effects of sex-stereotypes.",
+        "author": "De Meijer",
+        "year": "1991",
+        "journal-title": "Eur. J. Soc. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ejsp.2420210307",
+        "volume": "21"
+      },
+      {
+        "key": "B21",
+        "first-page": "1796",
+        "article-title": "Emotional expressions in voice and music: same code, same effect?",
+        "author": "Escoffier",
+        "year": "2013",
+        "journal-title": "Hum. Brain Mapp.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hbm.22029",
+        "volume": "34"
+      },
+      {
+        "key": "B22",
+        "first-page": "1",
+        "article-title": "Effect displays in R for generalised linear models.",
+        "author": "Fox",
+        "year": "2003",
+        "journal-title": "J. Stat. Softw.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v008.i15",
+        "volume": "8"
+      },
+      {
+        "key": "B23",
+        "first-page": "75",
+        "article-title": "The forced-choice paradigm and the perception of facial expressions of emotion.",
+        "author": "Frank",
+        "year": "2001",
+        "journal-title": "J. Pers. Soc. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.80.1.75",
+        "volume": "80"
+      },
+      {
+        "key": "B24",
+        "first-page": "40",
+        "article-title": "Perception of tension in music: musicians versus nonmusicians.",
+        "author": "Fredrickson",
+        "year": "2000",
+        "journal-title": "J. Music Ther.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jmt/37.1.40",
+        "volume": "37"
+      },
+      {
+        "key": "B25",
+        "first-page": "431",
+        "article-title": "Emotions in strong experiences with music",
+        "author": "Gabrielsson",
+        "year": "2001",
+        "journal-title": "Music and Emotion: Theory and Research",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780192631886.003.0019"
+      },
+      {
+        "key": "B26",
+        "first-page": "68",
+        "article-title": "Emotional expression in music performance: between the performer’s intention and the listener’s experience.",
+        "author": "Gabrielsson",
+        "year": "1996",
+        "journal-title": "Psychol. Music",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0305735696241007",
+        "volume": "24"
+      },
+      {
+        "key": "B27",
+        "first-page": "503",
+        "article-title": "Emotional expression in music",
+        "author": "Gabrielsson",
+        "year": "2003",
+        "journal-title": "Handbook of Affective Sciences"
+      },
+      {
+        "key": "B28",
+        "first-page": "94",
+        "article-title": "Emotional expression in synthesizer and sentograph performance.",
+        "author": "Gabrielsson",
+        "year": "1995",
+        "journal-title": "Psychomusicology.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0094089",
+        "volume": "14"
+      },
+      {
+        "key": "B29",
+        "first-page": "25",
+        "article-title": "Mode and tempo relative contributions to ‘happy–sad’ judgments in equitone melodies.",
+        "author": "Gagnon",
+        "year": "2003",
+        "journal-title": "Cognit. Emot.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999303022792003",
+        "volume": "17"
+      },
+      {
+        "key": "B30",
+        "first-page": "279",
+        "article-title": "The development of affective response to modality and melodic contour.",
+        "author": "Gerardi",
+        "year": "1995",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/40286184",
+        "volume": "12"
+      },
+      {
+        "key": "B31",
+        "first-page": "1207",
+        "article-title": "Short-term motor training, but not observational training, alters neurocognitive mechanisms of action processing in infancy.",
+        "author": "Gerson",
+        "year": "2015",
+        "journal-title": "J. Cogn. Neurosci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn_a_00774",
+        "volume": "27"
+      },
+      {
+        "key": "B32",
+        "first-page": "171",
+        "article-title": "Sensitivity to musical emotions incongenital amusia.",
+        "author": "Gosselin",
+        "year": "2015",
+        "journal-title": "Cortex",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2015.06.022",
+        "volume": "71"
+      },
+      {
+        "key": "B33",
+        "first-page": "103",
+        "article-title": "The affective character of the major and minor modes in music.",
+        "author": "Hevner",
+        "year": "1935",
+        "journal-title": "Am. J. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1416710",
+        "volume": "47"
+      },
+      {
+        "key": "B34",
+        "first-page": "621",
+        "article-title": "The affective value of pitch and tempo in music.",
+        "author": "Hevner",
+        "year": "1937",
+        "journal-title": "Am. J. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1416385",
+        "volume": "49"
+      },
+      {
+        "key": "B35",
+        "first-page": "147",
+        "article-title": "Age differences in recognition of emotion in lexical stimuli and facial expressions.",
+        "author": "Isaacowitz",
+        "year": "2007",
+        "journal-title": "Psychol. Aging",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.22.1.147",
+        "volume": "22"
+      },
+      {
+        "key": "B36",
+        "first-page": "77",
+        "article-title": "Can results from studies of perceived expression in musical performances be generalized across response formats?",
+        "author": "Juslin",
+        "year": "",
+        "journal-title": "Psychomusicology",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0094065",
+        "volume": "16"
+      },
+      {
+        "key": "B37",
+        "first-page": "383",
+        "article-title": "Emotional communication in music performance: a functionalist perspective and some data.",
+        "author": "Juslin",
+        "year": "",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/40285731",
+        "volume": "14"
+      },
+      {
+        "key": "B38",
+        "first-page": "309",
+        "article-title": "Communicating emotion in music performance: a review and a theoretical framework",
+        "author": "Juslin",
+        "year": "2001",
+        "journal-title": "Music and Emotion: Theory and Research",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780192631886.003.0014"
+      },
+      {
+        "key": "B39",
+        "first-page": "269",
+        "article-title": "Music (emotional effects)",
+        "author": "Juslin",
+        "year": "2009",
+        "journal-title": "Oxford Companion to Emotion and the Affective Sciences"
+      },
+      {
+        "key": "B40",
+        "first-page": "235",
+        "article-title": "From everyday emotions to aesthetic emotions: towards a unified theory of musical emotions.",
+        "author": "Juslin",
+        "year": "2013",
+        "journal-title": "Phys. Life Rev.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.plrev.2013.05.008",
+        "volume": "10"
+      },
+      {
+        "key": "B41",
+        "first-page": "599",
+        "article-title": "What makes music emotionally significant? exploring the underlying mechanisms.",
+        "author": "Juslin",
+        "year": "2013",
+        "journal-title": "Psychol. Music",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0305735613484548",
+        "volume": "42"
+      },
+      {
+        "key": "B42",
+        "first-page": "770",
+        "article-title": "Communication of emotions in vocal expression and music performance: different channels, same code?",
+        "author": "Juslin",
+        "year": "2003",
+        "journal-title": "Psychol. Bull.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.129.5.770",
+        "volume": "129"
+      },
+      {
+        "key": "B43",
+        "first-page": "217",
+        "article-title": "Expression, perception, and induction of musical emotions: a review and a questionnaire study of everyday listening.",
+        "author": "Juslin",
+        "year": "2004",
+        "journal-title": "J. New Music Res.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0929821042000317813",
+        "volume": "33"
+      },
+      {
+        "key": "B44",
+        "first-page": "668",
+        "article-title": "An experience sampling study of emotional reactions to music: listener, music, and situation.",
+        "author": "Juslin",
+        "year": "2008",
+        "journal-title": "Emotion",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0013505",
+        "volume": "8"
+      },
+      {
+        "key": "B45",
+        "first-page": "605",
+        "article-title": "How does music evoke emotions? Exploring the underlying mechanisms",
+        "author": "Juslin",
+        "year": "2010",
+        "journal-title": "Handbook of Music and Emotion: Theory, Research, Applications"
+      },
+      {
+        "key": "B46",
+        "article-title": "Musical expression of emotions: modeling composed and performed features.",
+        "author": "Juslin",
+        "year": "2003",
+        "journal-title": "Paper presented at the 5th Conference of the European Society for the Cognitive Science of Music"
+      },
+      {
+        "key": "B47",
+        "first-page": "197",
+        "article-title": "The role of timing patterns in recognition of emotional expression from musical performance.",
+        "author": "Juslin",
+        "year": "1999",
+        "journal-title": "Music Percept.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/40285891",
+        "volume": "17"
+      },
+      {
+        "key": "B48",
+        "author": "Juslin",
+        "year": "2010",
+        "journal-title": "Handbook of Music and Emotion: Theory, Research, Applications"
+      },
+      {
+        "key": "B49",
+        "first-page": "559",
+        "article-title": "Emotional responses to music: the need to consider underlying mechanisms.",
+        "author": "Juslin",
+        "year": "2008",
+        "journal-title": "Behav. Brain Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X08005293",
+        "volume": "31"
+      },
+      {
+        "key": "B50",
+        "first-page": "389",
+        "article-title": "Emotional, motivational and interpersonal responsiveness of children with autism in improvisational music therapy.",
+        "author": "Kim",
+        "year": "2009",
+        "journal-title": "Autism",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361309105660",
+        "volume": "13"
+      },
+      {
+        "key": "B51",
+        "first-page": "374",
+        "article-title": "A neuroscientific perspective on music therapy.",
+        "author": "Koelsch",
+        "year": "2009",
+        "journal-title": "Ann. N. Y. Acad. Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1749-6632.2009.04592.x",
+        "volume": "1169"
+      },
+      {
+        "key": "B52",
+        "first-page": "239",
+        "article-title": "Investigating emotion with music: an fMRI study.",
+        "author": "Koelsch",
+        "year": "2006",
+        "journal-title": "Hum. Brain Mapp.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hbm.20180",
+        "volume": "27"
+      },
+      {
+        "key": "B53",
+        "first-page": "336",
+        "article-title": "An exploratory study of musical emotions and psychophysiology.",
+        "author": "Krumhansl",
+        "year": "1997",
+        "journal-title": "Can. J. Exp. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1196-1961.51.4.336",
+        "volume": "51"
+      },
+      {
+        "key": "B54",
+        "first-page": "215",
+        "article-title": "Uses of music and psychological well-being among the elderly.",
+        "author": "Laukka",
+        "year": "2007",
+        "journal-title": "J. Happiness Stud.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10902-006-9024-3",
+        "volume": "8"
+      },
+      {
+        "key": "B55",
+        "first-page": "181",
+        "article-title": "Emotional expression in drumming performance.",
+        "author": "Laukka",
+        "year": "2000",
+        "journal-title": "Psychol. Music",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0305735600282007",
+        "volume": "28"
+      },
+      {
+        "key": "B56",
+        "first-page": "1441",
+        "article-title": "Long-term music training tunes how the brain temporally binds signals from multiple senses.",
+        "author": "Lee",
+        "year": "2011",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1115267108",
+        "volume": "108"
+      },
+      {
+        "key": "B57",
+        "article-title": "Music expertise shapes audiovisual temporal integration windows for speech, sinewave speech, and music.",
+        "author": "Lee",
+        "year": "2014",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2014.00868",
+        "volume": "5"
+      },
+      {
+        "key": "B58",
+        "first-page": "585",
+        "article-title": "Emotion recognition in music changes across the adult life span.",
+        "author": "Lima",
+        "year": "",
+        "journal-title": "Cognit. Emot.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2010.502449",
+        "volume": "25"
+      },
+      {
+        "key": "B59",
+        "first-page": "1021",
+        "article-title": "Speaking to the trained ear: musical expertise enhances the recognition of emotions in speech prosody.",
+        "author": "Lima",
+        "year": "",
+        "journal-title": "Emotion",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024521",
+        "volume": "11"
+      },
+      {
+        "key": "B60",
+        "article-title": "Temporal processing of audiovisual stimuli is enhanced in musicians: evidence from magnetoencephalography (MEG).",
+        "author": "Lu",
+        "year": "2014",
+        "journal-title": "PLoS One",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0090686",
+        "volume": "9"
+      },
+      {
+        "key": "B61",
+        "first-page": "313",
+        "article-title": "Shared affective motion experience (SAME) and creative, interactive music therapy",
+        "author": "Molnar-Szakacs",
+        "year": "2012",
+        "journal-title": "Musical Imaginations: Multidisciplinary Perspectives on Creativity, Performance and Perception",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780199568086.003.0020"
+      },
+      {
+        "key": "B62",
+        "first-page": "235",
+        "article-title": "Music and mirror neurons: from motion to ‘e’motion.",
+        "author": "Molnar-Szakacs",
+        "year": "2006",
+        "journal-title": "Soc. Cognit. Affect. Neurosci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsl029",
+        "volume": "1"
+      },
+      {
+        "key": "B63",
+        "first-page": "1425",
+        "article-title": "Short-term music training enhances verbal intelligence and executive function.",
+        "author": "Moreno",
+        "year": "2011",
+        "journal-title": "Psychol. Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797611416999",
+        "volume": "22"
+      },
+      {
+        "key": "B64",
+        "first-page": "108",
+        "article-title": "The relationship between musical complexity and liking in jazz and bluegrass.",
+        "author": "Orr",
+        "year": "2001",
+        "journal-title": "Psychol. Music.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0305735601292002",
+        "volume": "29"
+      },
+      {
+        "key": "B65",
+        "first-page": "497",
+        "article-title": "Dyslexia and music. From timing deficits to musical intervention.",
+        "author": "Overy",
+        "year": "2003",
+        "journal-title": "Ann. N.Y. Acad. Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1196/annals.1284.060",
+        "volume": "999"
+      },
+      {
+        "key": "B66",
+        "first-page": "489",
+        "article-title": "Being together in time: musical experience and mirror neuron system.",
+        "author": "Overy",
+        "year": "2009",
+        "journal-title": "Music Percept. Interdiscipl. J.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/mp.2009.26.5.489",
+        "volume": "26"
+      },
+      {
+        "key": "B67",
+        "first-page": "329",
+        "article-title": "Cross-classification of musical and vocal emotions in the auditory cortex.",
+        "author": "Paquette",
+        "year": "2018",
+        "journal-title": "Ann. N. Y. Acad. Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/nyas.13666",
+        "volume": "1423"
+      },
+      {
+        "key": "B68",
+        "first-page": "111",
+        "article-title": "Music and emotion: perceptual determinants, immediacy, and isolation after brain damage.",
+        "author": "Peretz",
+        "year": "1998",
+        "journal-title": "Cognition",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0277(98)00043-2",
+        "volume": "68"
+      },
+      {
+        "key": "B69",
+        "article-title": "Neural overlap in processing music and speech.",
+        "author": "Peretz",
+        "year": "2015",
+        "journal-title": "Philos. Trans. R. Soc. Lond. B Biol. Sci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2014.0090",
+        "volume": "370"
+      },
+      {
+        "key": "B70",
+        "first-page": "339",
+        "article-title": "Multisensory integration of drumming actions: musical expertise affects perceived audiovisual asynchrony.",
+        "author": "Petrini",
+        "year": "",
+        "journal-title": "Exp. Brain Res.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00221-009-1817-2",
+        "volume": "198"
+      },
+      {
+        "key": "B71",
+        "first-page": "432",
+        "article-title": "When knowing can replace seeing in audiovisual integration of actions.",
+        "author": "Petrini",
+        "year": "",
+        "journal-title": "Cognition",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2008.11.015",
+        "volume": "110"
+      },
+      {
+        "key": "B72",
+        "first-page": "1",
+        "article-title": "Expertise with multisensory events eliminates the effect of biological motion rotation on audiovisual synchrony perception.",
+        "author": "Petrini",
+        "year": "",
+        "journal-title": "J. Vis.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1167/10.5.2",
+        "volume": "10"
+      },
+      {
+        "key": "B73",
+        "first-page": "139",
+        "article-title": "Audiovisual integration of emotional signals from music improvisation does not depend on temporal correspondence.",
+        "author": "Petrini",
+        "year": "",
+        "journal-title": "Brain Res.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brainres.2010.02.012",
+        "volume": "1323"
+      },
+      {
+        "key": "B74",
+        "first-page": "1480",
+        "article-title": "Action expertise reduces brain activity for audiovisual matching actions: an fMRI study with expert drummers.",
+        "author": "Petrini",
+        "year": "2011",
+        "journal-title": "Neuroimage",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2011.03.009",
+        "volume": "56"
+      },
+      {
+        "key": "B75",
+        "first-page": "24",
+        "article-title": "The music of language: an ERP investigation of the effects of musical training on emotional prosody processing.",
+        "author": "Pinheiro",
+        "year": "2015",
+        "journal-title": "Brain Lang.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bandl.2014.10.009",
+        "volume": "140"
+      },
+      {
+        "key": "B76",
+        "author": "Pinheiro",
+        "year": "2000",
+        "journal-title": "Mixed-Effects Models in S and S-PLUS",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4419-0318-1"
+      },
+      {
+        "key": "B77",
+        "article-title": "Audiovisual integration of emotional signals from others’ social interactions.",
+        "author": "Piwek",
+        "year": "2015",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00611",
+        "volume": "6"
+      },
+      {
+        "key": "B78",
+        "first-page": "427",
+        "article-title": "The mood effects of music: a comparison of data from four investigators.",
+        "author": "Rigg",
+        "year": "1964",
+        "journal-title": "J. Psychol.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00223980.1964.9916765",
+        "volume": "58"
+      },
+      {
+        "key": "B79",
+        "first-page": "25",
+        "article-title": "Why music does not produce basic emotions: a plea for a new approach to measuring emotional effects of music",
+        "author": "Scherer",
+        "year": "2003",
+        "journal-title": "Proceedings of the Stockholm Music Acoustics Conference"
+      },
+      {
+        "key": "B80",
+        "first-page": "435",
+        "article-title": "Heavy metal and hip-hop style preferences and externalizing problem behavior: a two-wave longitudinal study.",
+        "author": "Selfhout",
+        "year": "2008",
+        "journal-title": "Youth Soc.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0044118X07308069",
+        "volume": "39"
+      },
+      {
+        "key": "B81",
+        "article-title": "Extreme metal music and anger processing.",
+        "author": "Sharman",
+        "year": "2015",
+        "journal-title": "Front. Hum. Neurosci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnhum.2015.00272",
+        "volume": "9"
+      },
+      {
+        "key": "B82",
+        "first-page": "199",
+        "article-title": "Tuning the mind: exploring the connections between musical ability and executive functions.",
+        "author": "Slevc",
+        "year": "2016",
+        "journal-title": "Cognition",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2016.03.017",
+        "volume": "152"
+      },
+      {
+        "key": "B83",
+        "first-page": "71",
+        "article-title": "Psychological perspectives on music and emotion",
+        "author": "Sloboda",
+        "year": "2001",
+        "journal-title": "Music and Emotion: Theory and Research",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780192631886.003.0004"
+      },
+      {
+        "key": "B84",
+        "first-page": "661",
+        "article-title": "Musical experience and neural efficiency: effects of training on subcortical processing of vocal expressions of emotion.",
+        "author": "Strait",
+        "year": "2009",
+        "journal-title": "Eur. J. Neurosci.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1460-9568.2009.06617.x",
+        "volume": "29"
+      },
+      {
+        "key": "B85",
+        "first-page": "1457",
+        "article-title": "Audio-visual integration of emotional cues in song.",
+        "author": "Thompson",
+        "year": "2008",
+        "journal-title": "Cognit. Emot.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930701813974",
+        "volume": "22"
+      },
+      {
+        "key": "B86",
+        "first-page": "46",
+        "article-title": "Decoding speech prosody: do music lessons help?",
+        "author": "Thompson",
+        "year": "2004",
+        "journal-title": "Emotion",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.4.1",
+        "volume": "4"
+      },
+      {
+        "key": "B87",
+        "first-page": "613",
+        "article-title": "The relationship between heavy metal and rap music and adolescent turmoil: real or abstract?",
+        "author": "Took",
+        "year": "1994",
+        "journal-title": "Adolescence",
+        "volume": "29"
+      },
+      {
+        "key": "B88",
+        "first-page": "80",
+        "article-title": "Cross-modal interactions in the perception of musical performance.",
+        "author": "Vines",
+        "year": "2006",
+        "journal-title": "Cognition",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2005.09.003",
+        "volume": "101"
+      },
+      {
+        "key": "B89",
+        "article-title": "Auditory-motor mapping training as an intervention to facilitate speech output in non-verbal children with autism: a proof of concept study.",
+        "author": "Wan",
+        "year": "2011",
+        "journal-title": "PLoS One",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0025505",
+        "volume": "6"
+      },
+      {
+        "key": "B90",
+        "first-page": "7",
+        "article-title": "Effects of selected variables on musicians’ ratings of high-level piano performances.",
+        "author": "Wapnick",
+        "year": "2004",
+        "journal-title": "Int. J. Music Educ.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0255761404042371",
+        "volume": "22"
+      },
+      {
+        "key": "B91",
+        "first-page": "5768",
+        "article-title": "Rhythmic engagement with music in infancy.",
+        "author": "Zentner",
+        "year": "2010",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1000121107",
+        "volume": "107"
+      },
+      {
+        "key": "B92",
+        "first-page": "494",
+        "article-title": "Emotions evoked by the sound of music: characterization, classification, and measurement.",
+        "author": "Zentner",
+        "year": "2008",
+        "journal-title": "Emotion",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.8.4.494",
+        "volume": "8"
+      },
+      {
+        "key": "B93",
+        "article-title": "Exploring musical emotions across five genres of music.",
+        "author": "Zentner",
+        "year": "2000",
+        "journal-title": "Paper presented at the 6th Conference of the International Society for Music Perception and Cognition (IMPC)"
+      }
+    ],
+    "container-title": "Frontiers in Psychology",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02168/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 7, 12]
+      ],
+      "date-time": "2024-07-12T06:13:14Z",
+      "timestamp": 1720764794000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02168/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "references-count": 93,
+    "alternative-id": "10.3389/fpsyg.2018.02168",
+    "URL": "https://doi.org/10.3389/fpsyg.2018.02168",
+    "relation": {},
+    "ISSN": "1664-1078",
+    "issn-type": [
+      {
+        "value": "1664-1078",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "article-number": "2168"
+  }
+}

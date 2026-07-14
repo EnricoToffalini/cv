@@ -1,0 +1,619 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 5]
+      ],
+      "date-time": "2026-07-05T10:29:27Z",
+      "timestamp": 1783247367982,
+      "version": "3.54.6"
+    },
+    "reference-count": 43,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2022, 6, 30]
+          ],
+          "date-time": "2022-06-30T00:00:00Z",
+          "timestamp": 1656547200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003407",
+        "name": "MIUR",
+        "doi-asserted-by": "crossref",
+        "award": "DM 11/05/2017 n. 262",
+        "award-info": [
+          {
+            "award-number": "DM 11/05/2017 n. 262"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003407",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "www.plosone.org",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "PLoS ONE",
+    "abstract": "<jats:p>Unsupervised clustering methods are increasingly being applied in psychology. Researchers may use such methods on multivariate data to reveal previously undetected sub-populations of individuals within a larger population. Realistic research scenarios in the cognitive science may not be ideally suited for a successful use of these methods, however, as they are characterized by modest effect sizes, limited sample sizes, and non-orthogonal indicators. This combination of characteristics even presents a high risk of detecting non-existing clusters. A systematic review showed that, among 191 studies published in 2016–2020 that used different clustering methods to classify human participants, the median sample size was only 322, and a median of 3 latent classes/clusters were detected. None of them concluded in favor of a one-cluster solution, potentially giving rise to an extreme publication bias. Dimensionality reduction techniques are almost never used before clustering. In a subsequent simulation study, we examined the performance of popular clustering techniques, including Gaussian mixture model, a partitioning, and a hierarchical agglomerative algorithm. We focused on their ability to detect the correct number of clusters, and on their classification accuracy. Under a reasoned set of scenarios that we considered plausible for the cognitive research, none of the methods adequately discriminates between one vs two true clusters. In addition, non-orthogonal indicators lead to a high risk of incorrectly detecting multiple clusters where none existed, even in the presence of only modest correlation (a frequent case in psychology). In conclusion, it is hard for researchers to be in a condition to achieve a valid unsupervised clustering for inferential purposes with a view to classifying individuals.<\/jats:p>",
+    "DOI": "10.1371/journal.pone.0269584",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2022, 6, 30]
+      ],
+      "date-time": "2022-06-30T17:31:57Z",
+      "timestamp": 1656610317000
+    },
+    "page": "e0269584",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "Entia Non Sunt Multiplicanda … Shall I look for clusters in my cognitive data?",
+    "prefix": "10.1371",
+    "volume": "17",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": true,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8330-9414",
+        "authenticated-orcid": true,
+        "given": "Paolo",
+        "family": "Girardi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1992-6271",
+        "authenticated-orcid": true,
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gianmarco",
+        "family": "Altoè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [2022, 6, 30]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pone.0269584.ref001",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1176/appi.books.9780890425596",
+        "volume-title": "Diagnostic and statistical manual of mental disorders",
+        "author": "American Psychiatric Association",
+        "year": "2013",
+        "edition": "5"
+      },
+      {
+        "key": "pone.0269584.ref002",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/0963721420925518",
+        "author": "DE Astle",
+        "year": "2020",
+        "first-page": "431",
+        "article-title": "Beyond the core-deficit hypothesis in developmental disorders",
+        "volume": "29",
+        "journal-title": "Curr Dir Psychol Sci"
+      },
+      {
+        "key": "pone.0269584.ref003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/jcpp.13397",
+        "author": "IC Mammarella",
+        "year": "2021",
+        "first-page": "704",
+        "article-title": "No evidence for a core deficit in developmental dyscalculia or mathematical learning disabilities",
+        "volume": "62",
+        "journal-title": "J Child Psychol Psychiatry"
+      },
+      {
+        "key": "pone.0269584.ref004",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.tine.2019.100115",
+        "author": "L Peters",
+        "year": "2019",
+        "first-page": "100115",
+        "article-title": "Are specific learning disorders truly specific, and are they disorders?",
+        "volume": "17",
+        "journal-title": "Trends Neurosci Educ"
+      },
+      {
+        "key": "pone.0269584.ref005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/BF02289845",
+        "author": "WA Gibson",
+        "year": "1959",
+        "first-page": "229",
+        "article-title": "Three multivariate models: Factor analysis, latent structure analysis, and latent profile analysis",
+        "volume": "24",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "pone.0269584.ref006",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/07448481.2018.1431900",
+        "author": "Y Shigemoto",
+        "year": "2018",
+        "first-page": "350",
+        "article-title": "Exploring patterns of personal growth initiative and posttraumatic stress: A latent profile analysis",
+        "volume": "66",
+        "journal-title": "J Am Coll Heal"
+      },
+      {
+        "key": "pone.0269584.ref007",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.paid.2017.12.017",
+        "author": "IC Mammarella",
+        "year": "2018",
+        "first-page": "201",
+        "article-title": "Anxiety profiles and protective factors: A latent profile analysis in children",
+        "volume": "124",
+        "journal-title": "Pers Individ Dif"
+      },
+      {
+        "key": "pone.0269584.ref008",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s40745-017-0122-3",
+        "author": "H Hassani",
+        "year": "2018",
+        "first-page": "133",
+        "article-title": "Big Data and Causality",
+        "volume": "5",
+        "journal-title": "Ann Data Sci"
+      },
+      {
+        "key": "pone.0269584.ref009",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/0033-295X.110.2.203",
+        "author": "D Borsboom",
+        "year": "2003",
+        "first-page": "203",
+        "article-title": "The theoretical status of latent variables",
+        "volume": "110",
+        "journal-title": "Psychol Rev"
+      },
+      {
+        "key": "pone.0269584.ref010",
+        "author": "H Fischer",
+        "year": "2021",
+        "journal-title": "Insight into the accuracy of COVID-19 beliefs predicts behavior during the pandemic"
+      },
+      {
+        "key": "pone.0269584.ref011",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1057/s41302-020-00186-0",
+        "author": "LH Kahane",
+        "year": "2021",
+        "first-page": "163",
+        "article-title": "Politicizing the mask: Political, economic and demographic factors affecting mask wearing behavior in the USA",
+        "volume": "47",
+        "journal-title": "East Econ J"
+      },
+      {
+        "key": "pone.0269584.ref012",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1056/NEJMms2033790",
+        "author": "S Wood",
+        "year": "2021",
+        "first-page": "e23",
+        "article-title": "Beyond politics—promoting covid-19 vaccination in the United States",
+        "volume": "384",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "pone.0269584.ref013",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41562-018-0399-z",
+        "author": "CF Camerer",
+        "year": "2018",
+        "first-page": "637",
+        "article-title": "Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015",
+        "volume": "2",
+        "journal-title": "Nat Hum Behav"
+      },
+      {
+        "key": "pone.0269584.ref014",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/science.aac4716",
+        "author": "Open Science Collaboration",
+        "year": "2015",
+        "first-page": "aac4716",
+        "article-title": "Estimating the reproducibility of psychological science",
+        "volume": "349",
+        "journal-title": "Science"
+      },
+      {
+        "key": "pone.0269584.ref015",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/1089-2680.7.4.331",
+        "author": "FD Richard",
+        "year": "2003",
+        "first-page": "331",
+        "article-title": "One hundred years of social psychology quantitatively described",
+        "volume": "7",
+        "journal-title": "Rev Gen Psychol"
+      },
+      {
+        "key": "pone.0269584.ref016",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2019.02893",
+        "author": "G Altoè",
+        "year": "2020",
+        "article-title": "Enhancing statistical inference in psychological research via prospective and retrospective design analysis",
+        "volume": "10",
+        "journal-title": "Front Psychol"
+      },
+      {
+        "key": "pone.0269584.ref017",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2019.00813",
+        "author": "T Schäfer",
+        "year": "2019",
+        "article-title": "The meaningfulness of effect sizes in psychological research: Differences between sub-disciplines and the impact of potential biases",
+        "volume": "10",
+        "journal-title": "Front Psychol."
+      },
+      {
+        "key": "pone.0269584.ref018",
+        "volume-title": "Statistical power analysis for the behavioral sciences",
+        "author": "J. Cohen",
+        "year": "1988",
+        "edition": "2"
+      },
+      {
+        "key": "pone.0269584.ref019",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2471/BLT.07.043497",
+        "author": "M De Onis",
+        "year": "2007",
+        "first-page": "660",
+        "article-title": "Development of a WHO growth reference for school-aged children and adolescents",
+        "volume": "85",
+        "journal-title": "Bull World Health Organ"
+      },
+      {
+        "key": "pone.0269584.ref020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/10705511.2013.824781",
+        "author": "J-Y Tein",
+        "year": "2013",
+        "first-page": "640",
+        "article-title": "Statistical power to detect the correct number of classes in latent profile analysis",
+        "volume": "20",
+        "journal-title": "Struct Equ Model A Multidiscip J"
+      },
+      {
+        "key": "pone.0269584.ref021",
+        "author": "ES Dalmaijer",
+        "year": "2020",
+        "journal-title": "Statistical power for cluster analysis"
+      },
+      {
+        "key": "pone.0269584.ref022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/1412107",
+        "author": "C. Spearman",
+        "year": "1904",
+        "first-page": "201",
+        "article-title": "“General Intelligence,” objectively determined and measured",
+        "volume": "15",
+        "journal-title": "Am J Psychol"
+      },
+      {
+        "key": "pone.0269584.ref023",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511571312",
+        "volume-title": "Human cognitive abilities: A survey of factor analytic studies",
+        "author": "JB Carroll",
+        "year": "1993"
+      },
+      {
+        "key": "pone.0269584.ref024",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/comjnl/41.8.578",
+        "author": "C Fraley",
+        "year": "1998",
+        "first-page": "578",
+        "article-title": "How many clusters? Which clustering method? Answers via model-based cluster analysis",
+        "volume": "41",
+        "journal-title": "Comput J"
+      },
+      {
+        "key": "pone.0269584.ref025",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/00273170701710338",
+        "author": "DJ Bauer",
+        "year": "2007",
+        "first-page": "757",
+        "article-title": "Observations on the use of growth mixture models in psychological research",
+        "volume": "42",
+        "journal-title": "Multivariate Behav Res"
+      },
+      {
+        "key": "pone.0269584.ref026",
+        "volume-title": "Finding groups in data: an introduction to cluster analysis",
+        "author": "L Kaufman",
+        "year": "2009"
+      },
+      {
+        "key": "pone.0269584.ref027",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0376-6357(04)00140-8",
+        "author": "B Reynolds",
+        "year": "2004",
+        "first-page": "343",
+        "article-title": "Measuring state changes in human delay discounting: an experiential discounting task",
+        "volume": "67",
+        "journal-title": "Behav Processes"
+      },
+      {
+        "key": "pone.0269584.ref028",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-030-20055-8_1",
+        "author": "JD Martín-Fernández",
+        "year": "2020",
+        "first-page": "3",
+        "article-title": "Indexes to Find the Optimal Number of Clusters in a Hierarchical Clustering",
+        "journal-title": "Advances in Intelligent Systems and Computing"
+      },
+      {
+        "key": "pone.0269584.ref029",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2015.00726",
+        "author": "PE Tressoldi",
+        "year": "2015",
+        "first-page": "726",
+        "article-title": "The pervasive avoidance of prospective statistical power: Major consequences and practical solutions",
+        "volume": "6",
+        "journal-title": "Front Psychol"
+      },
+      {
+        "key": "pone.0269584.ref030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0056180",
+        "author": "PE Tressoldi",
+        "year": "2013",
+        "first-page": "e56180",
+        "article-title": "High Impact = High Statistical Standards? Not Necessarily So",
+        "volume": "8",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "pone.0269584.ref031",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0175583",
+        "author": "D Giofrè",
+        "year": "2017",
+        "first-page": "e0175583",
+        "article-title": "The influence of journal submission guidelines on authors’ reporting of statistics and use of open research practices",
+        "volume": "12",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "pone.0269584.ref032",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/1097-4679(199307)49:4<459::AID-JCLP2270490402>3.0.CO;2-P",
+        "author": "JE Overall",
+        "year": "1993",
+        "first-page": "459",
+        "article-title": "Population recovery capabilities of 35 cluster analysis methods",
+        "volume": "49",
+        "journal-title": "J Clin Psychol"
+      },
+      {
+        "key": "pone.0269584.ref033",
+        "volume-title": "Studies in Classification",
+        "author": "A. Dudek",
+        "year": "2020",
+        "first-page": "19"
+      },
+      {
+        "key": "pone.0269584.ref034",
+        "volume-title": "Journal of the Royal Statistical Society. Series A (General)",
+        "author": "RO Duda",
+        "year": "1973"
+      },
+      {
+        "key": "pone.0269584.ref035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/01621459.1971.10482356",
+        "author": "William M. Rand",
+        "year": "1971",
+        "first-page": "846",
+        "article-title": "Objective criteria for the evaluation of clustering methods",
+        "volume": "66",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "pone.0269584.ref036",
+        "volume-title": "R: A language and environment for statistical computing",
+        "author": "R Core Team",
+        "year": "2021"
+      },
+      {
+        "key": "pone.0269584.ref037",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.32614/RJ-2016-021",
+        "author": "L Scrucca",
+        "year": "2016",
+        "first-page": "289",
+        "article-title": "mclust 5: Clustering, classification and density estimation using Gaussian finite mixture models",
+        "volume": "8",
+        "journal-title": "R J"
+      },
+      {
+        "key": "pone.0269584.ref038",
+        "unstructured": "Hennig C. fpc: Flexible Procedures for Clustering. R package version 2.1–10. URL http://CRAN.R-project.org/package=fpc. 2015."
+      },
+      {
+        "key": "pone.0269584.ref039",
+        "unstructured": "Maechler M, Rousseeuw P, Struyf A, Hubert M, Hornik K. cluster: Cluster Analysis Basics and Extensions. 2021. Available: https://cran.r-project.org/package=cluster"
+      },
+      {
+        "key": "pone.0269584.ref040",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-319-24277-4",
+        "volume-title": "ggplot2: Elegant graphics for data analysis.",
+        "author": "H. Wickham",
+        "year": "2016"
+      },
+      {
+        "key": "pone.0269584.ref041",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1198/jbes.2009.07145",
+        "author": "MA Juárez",
+        "year": "2010",
+        "first-page": "52",
+        "article-title": "Model-Based Clustering of Non-Gaussian Panel Data Based on Skew- t Distributions",
+        "volume": "28",
+        "journal-title": "J Bus Econ Stat"
+      },
+      {
+        "key": "pone.0269584.ref042",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s11634-010-0064-5",
+        "author": "LA García-Escudero",
+        "year": "2010",
+        "first-page": "89",
+        "article-title": "A review of robust clustering methods",
+        "volume": "4",
+        "journal-title": "Adv Data Anal Classif"
+      },
+      {
+        "key": "pone.0269584.ref043",
+        "author": "D Lüdecke",
+        "first-page": "2445",
+        "article-title": "Extracting, computing and exploring the parameters of statistical models using R",
+        "volume": "53",
+        "journal-title": "J Open Source Softw"
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0269584",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2022, 6, 30]
+      ],
+      "date-time": "2022-06-30T17:32:37Z",
+      "timestamp": 1656610357000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0269584"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Maurizio",
+        "family": "Naldi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2022, 6, 30]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [2022, 6, 30]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0269584",
+    "relation": {},
+    "ISSN": "1932-6203",
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2022, 6, 30]
+      ]
+    }
+  }
+}

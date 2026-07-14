@@ -1,0 +1,723 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 9]
+      ],
+      "date-time": "2026-07-09T05:43:51Z",
+      "timestamp": 1783575831910,
+      "version": "3.55.0"
+    },
+    "reference-count": 83,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 6, 22]
+          ],
+          "date-time": "2020-06-22T00:00:00Z",
+          "timestamp": 1592784000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "publisher",
+        "award": "BIRD161109/16",
+        "award-info": [
+          {
+            "award-number": "BIRD161109/16"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "onlinelibrary.wiley.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Mind Brain and Education",
+    "published-print": {
+      "date-parts": [
+        [2020, 8]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT<\/jats:title><jats:p>Previous research examined the influence of math anxiety (MA) on performance in mathematics, but few studies compared the contribution of MA to other forms of anxiety, such as test and general anxiety (GA). Unlike MA, ego‐resiliency promotes the management of challenges, and has been positively associated with mathematics performance. In this study, we investigated the specific influence of MA, test‐ and GA, and ego‐resiliency on mathematics performance after controlling for intelligence. Children from grades 5 to 8 (<jats:italic>N =<\/jats:italic> 274) were assessed with self‐report tools measuring MA, test and GA, and ego‐resiliency, and completed intelligence and mathematical tasks. The results of structural equation models showed that MA had a main negative effect on mathematics performance, over and above the effect of test‐ and GA. Ego‐resiliency had a positive effect on mathematics performance, and was negatively associated with GA. Our findings are discussed in terms of the implications for intervention programs to reduce anxiety and sustain ego‐resiliency.<\/jats:p>",
+    "DOI": "10.1111/mbe.12251",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 6, 23]
+      ],
+      "date-time": "2020-06-23T03:46:35Z",
+      "timestamp": 1592883995000
+    },
+    "page": "255-266",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 42,
+    "title": "Going Beyond Mathematics Anxiety in Primary and Middle School Students: The Role of Ego‐Resiliency in Mathematics",
+    "prefix": "10.1111",
+    "volume": "14",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5060-7087",
+        "authenticated-orcid": false,
+        "given": "Enrica",
+        "family": "Donolato",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Special Needs Education University of Oslo  Norway"
+          },
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova  Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Educational Sciences University of Genova  Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sara",
+        "family": "Caviola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Psychology University of Leeds  UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene C.",
+        "family": "Mammarella",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova  Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [2020, 6, 22]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10964-017-0691-7"
+      },
+      {
+        "key": "e_1_2_6_3_1",
+        "first-page": "329",
+        "volume-title": "Why is math so hard for some children? The nature and origins of mathematical learning difficulties and disabilities",
+        "author": "Ashcraft M. H.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_2_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0734282908330580"
+      },
+      {
+        "key": "e_1_2_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15326985ep2802_3"
+      },
+      {
+        "key": "e_1_2_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.70.2.349"
+      },
+      {
+        "key": "e_1_2_6_7_1",
+        "first-page": "39",
+        "volume-title": "Minnesota symposia on child psychology",
+        "author": "Block J. H.",
+        "year": "1980"
+      },
+      {
+        "key": "e_1_2_6_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511752872.020"
+      },
+      {
+        "key": "e_1_2_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781118619179"
+      },
+      {
+        "key": "e_1_2_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0174418"
+      },
+      {
+        "key": "e_1_2_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.01987"
+      },
+      {
+        "key": "e_1_2_6_12_1",
+        "volume-title": "Measuring intelligence with the culture fair tests",
+        "author": "Cattell R. B.",
+        "year": "1981"
+      },
+      {
+        "key": "e_1_2_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2016.10.005"
+      },
+      {
+        "key": "e_1_2_6_14_1",
+        "first-page": "122",
+        "author": "Caviola S.",
+        "year": "2009",
+        "issue": "1",
+        "article-title": "A metacognitive visuospatial working memory training for children",
+        "volume": "2",
+        "journal-title": "International Electronic Journal of Elementary Education"
+      },
+      {
+        "key": "e_1_2_6_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2017.03.006"
+      },
+      {
+        "key": "e_1_2_6_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2016.04.011"
+      },
+      {
+        "key": "e_1_2_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jecp.1999.2493"
+      },
+      {
+        "key": "e_1_2_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165025406072795"
+      },
+      {
+        "key": "e_1_2_6_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-3992.1991.tb00207.x"
+      },
+      {
+        "key": "e_1_2_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139173582"
+      },
+      {
+        "key": "e_1_2_6_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1744-9081-8-33"
+      },
+      {
+        "key": "e_1_2_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/edu0000222"
+      },
+      {
+        "key": "e_1_2_6_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0167.31.4.580"
+      },
+      {
+        "key": "e_1_2_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1015-5759/a000556"
+      },
+      {
+        "key": "e_1_2_6_25_1",
+        "unstructured": "Dreke L. L.(2009).A conceptual model of the mechanisms by which ego‐resiliency impacts academic engagement and achievement: Social relatedness as a mediator. (Doctoral dissertation). Retrieved fromhttp://hdl.handle.net/1969.1/ETD‐TAMU‐2009‐12‐7286"
+      },
+      {
+        "key": "e_1_2_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1131851"
+      },
+      {
+        "key": "e_1_2_6_27_1",
+        "first-page": "189",
+        "volume-title": "Advances in child development and behavior",
+        "author": "Eisenberg N.",
+        "year": "2002"
+      },
+      {
+        "key": "e_1_2_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00911174"
+      },
+      {
+        "key": "e_1_2_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699939208409696"
+      },
+      {
+        "key": "e_1_2_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00311015"
+      },
+      {
+        "key": "e_1_2_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1016-9040/a000124"
+      },
+      {
+        "key": "e_1_2_6_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3928/0090-4481-19910901-05"
+      },
+      {
+        "key": "e_1_2_6_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cedpsych.2018.01.007"
+      },
+      {
+        "key": "e_1_2_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11199-011-9996-2"
+      },
+      {
+        "key": "e_1_2_6_35_1",
+        "volume-title": "Reducing risks for mental disorders: Frontiers for preventive intervention research",
+        "author": "Haggerty R. J.",
+        "year": "1994"
+      },
+      {
+        "key": "e_1_2_6_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/00346543058001047"
+      },
+      {
+        "key": "e_1_2_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/749455"
+      },
+      {
+        "key": "e_1_2_6_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2016.02.006"
+      },
+      {
+        "key": "e_1_2_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/edu0000218"
+      },
+      {
+        "key": "e_1_2_6_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1073191103010002008"
+      },
+      {
+        "key": "e_1_2_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10705519909540118"
+      },
+      {
+        "key": "e_1_2_6_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-843X.106.3.404"
+      },
+      {
+        "key": "e_1_2_6_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-28606-8_10"
+      },
+      {
+        "key": "e_1_2_6_44_1",
+        "volume-title": "Servizio nazionale di valutazione 2010–11 [National evaluation service 2010–11]",
+        "author": "INVALSI",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_6_45_1",
+        "volume-title": "Principles and practice of structural equation modeling",
+        "author": "Kline R. B.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_6_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/00028312040001281"
+      },
+      {
+        "key": "e_1_2_6_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsp.2006.07.002"
+      },
+      {
+        "key": "e_1_2_6_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/dev0000605"
+      },
+      {
+        "key": "e_1_2_6_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/749772"
+      },
+      {
+        "key": "e_1_2_6_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429199981"
+      },
+      {
+        "key": "e_1_2_6_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2017.12.017"
+      },
+      {
+        "key": "e_1_2_6_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pits.20149"
+      },
+      {
+        "key": "e_1_2_6_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.56.3.227"
+      },
+      {
+        "key": "e_1_2_6_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01443410020019867"
+      },
+      {
+        "key": "e_1_2_6_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10560-005-2555-3"
+      },
+      {
+        "key": "e_1_2_6_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17405629.2014.998194"
+      },
+      {
+        "key": "e_1_2_6_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/0034654319843494"
+      },
+      {
+        "key": "e_1_2_6_58_1",
+        "volume-title": "PISA 2012 assessment and analytical framework: Mathematics, reading, science, problem solving and financial literacy",
+        "author": "Organization for Economic Cooperation and Development",
+        "year": "2013"
+      },
+      {
+        "key": "e_1_2_6_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10648-006-9029-9"
+      },
+      {
+        "key": "e_1_2_6_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cdev.12704"
+      },
+      {
+        "key": "e_1_2_6_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203148211"
+      },
+      {
+        "key": "e_1_2_6_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2013.07.010"
+      },
+      {
+        "key": "e_1_2_6_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2013.09.010"
+      },
+      {
+        "key": "e_1_2_6_64_1",
+        "unstructured": "R Core Team. (2016).R: A language and environment for statistical computing. Vienna Austria: r foundation for statistical computing. Vienna Austria. Retrieved fromhttp://www.r-project.org/"
+      },
+      {
+        "key": "e_1_2_6_65_1",
+        "volume-title": "RCMAS‐2 revised children's manifest anxiety scale—",
+        "author": "Reynolds C. R.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_6_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0033456"
+      },
+      {
+        "key": "e_1_2_6_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v048.i02"
+      },
+      {
+        "key": "e_1_2_6_68_1",
+        "first-page": "399",
+        "volume-title": "Latent variables analysis: Applications for developmental research",
+        "author": "Satorra A.",
+        "year": "1994"
+      },
+      {
+        "key": "e_1_2_6_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/604249"
+      },
+      {
+        "key": "e_1_2_6_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1007094931292"
+      },
+      {
+        "key": "e_1_2_6_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.0786-15.2015"
+      },
+      {
+        "key": "e_1_2_6_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272431610366249"
+      },
+      {
+        "key": "e_1_2_6_73_1",
+        "first-page": "1",
+        "author": "Tsang S. K. M.",
+        "year": "2012",
+        "article-title": "Self‐efficacy as a positive youth development construct: A conceptual review",
+        "volume": "2012",
+        "journal-title": "The Scientific World Journal"
+      },
+      {
+        "key": "e_1_2_6_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pits.21660"
+      },
+      {
+        "key": "e_1_2_6_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2017.11.048"
+      },
+      {
+        "key": "e_1_2_6_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cedpsych.2012.09.001"
+      },
+      {
+        "key": "e_1_2_6_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2013.03.008"
+      },
+      {
+        "key": "e_1_2_6_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.2007.01861.x"
+      },
+      {
+        "key": "e_1_2_6_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0959259810000420"
+      },
+      {
+        "key": "e_1_2_6_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00004583-198701000-00004"
+      },
+      {
+        "key": "e_1_2_6_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2012.00162"
+      },
+      {
+        "key": "e_1_2_6_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11199-018-0982-9"
+      },
+      {
+        "key": "e_1_2_6_83_1",
+        "first-page": "165",
+        "volume-title": "Educational psychology series. Emotion in education",
+        "author": "Zeidner M.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_2_6_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22237/jmasm/1177992180"
+      }
+    ],
+    "container-title": "Mind, Brain, and Education",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fmbe.12251",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mbe.12251",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/mbe.12251",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mbe.12251",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2023, 9, 5]
+      ],
+      "date-time": "2023-09-05T03:56:01Z",
+      "timestamp": 1693886161000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/mbe.12251"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 6, 22]
+      ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [2020, 8]
+        ]
+      }
+    },
+    "alternative-id": "10.1111/mbe.12251",
+    "URL": "https://doi.org/10.1111/mbe.12251",
+    "archive": "Portico",
+    "relation": {},
+    "ISSN": ["1751-2271", "1751-228X"],
+    "issn-type": [
+      {
+        "value": "1751-2271",
+        "type": "print"
+      },
+      {
+        "value": "1751-228X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 6, 22]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2019-10-01",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-05-24",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-06-22",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

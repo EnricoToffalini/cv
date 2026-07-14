@@ -1,0 +1,639 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 10, 11]
+      ],
+      "date-time": "2025-10-11T02:29:13Z",
+      "timestamp": 1760149753470,
+      "version": "build-2065373602"
+    },
+    "reference-count": 46,
+    "publisher": "MDPI AG",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2023, 9, 5]
+          ],
+          "date-time": "2023-09-05T00:00:00Z",
+          "timestamp": 1693872000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "J. Intell.",
+    "abstract": "<jats:p>Despite being repeatedly investigated in children with typical development, research on gender differences in intellectual abilities in specific groups of children, including children with attention deficit hyperactivity disorder (ADHD), has been scarce. In this paper, we evaluated the performance of a large group of Italian children with ADHD using the WISC-IV. We aimed at investigating the presence of gender differences using a multi-group confirmatory factor analysis approach. Results showed that the WISC is largely gender-invariant. However, some tasks present non-invariant patterns (block design and coding). Differences at the latent level also showed some differences (favoring boys) in the verbal comprehension index. Conversely, differences at the latent level were not found in the full-scale IQ or in the other main indices. These results have theoretical and practical implications.<\/jats:p>",
+    "DOI": "10.3390/jintelligence11090178",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2023, 9, 5]
+      ],
+      "date-time": "2023-09-05T09:59:31Z",
+      "timestamp": 1693907971000
+    },
+    "page": "178",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": "Gender Differences in the Wechsler Intelligence Scale for Children in a Large Group of Italian Children with Attention Deficit Hyperactivity Disorder",
+    "prefix": "10.3390",
+    "volume": "11",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1992-6271",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "DISFOR, University of Genoa, 16128 Genova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lorenzo",
+        "family": "Esposito",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology, University of Padua, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [2023, 9, 5]
+      ]
+    },
+    "reference": [
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders, American Psychiatric Publishing. [5th ed.].",
+        "key": "ref_1",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bollen, Kenneth A. (1989). Structural Equations with Latent Variables, Wiley.",
+        "key": "ref_2",
+        "DOI": "10.1002/9781118619179"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_3",
+        "DOI": "10.1097/00004583-199608000-00008",
+        "first-page": "978",
+        "article-title": "Attention Deficit Disorder: A Review of the Past 10 Years",
+        "volume": "35",
+        "author": "Cantwell",
+        "year": "1996",
+        "journal-title": "Journal of the American Academy of Child and Adolescent Psychiatry"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_4",
+        "DOI": "10.1080/10705510701301834",
+        "first-page": "464",
+        "article-title": "Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance",
+        "volume": "14",
+        "author": "Chen",
+        "year": "2007",
+        "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_5",
+        "DOI": "10.1207/S15328007SEM0902_5",
+        "first-page": "233",
+        "article-title": "Evaluating Goodness-of-Fit Indexes for Testing Measurement Invariance",
+        "volume": "9",
+        "author": "Cheung",
+        "year": "2002",
+        "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal"
+      },
+      {
+        "key": "ref_6",
+        "first-page": "711",
+        "article-title": "Theories of intelligence and approaches to the study of giftedness",
+        "volume": "47",
+        "author": "Cornoldi",
+        "year": "2020",
+        "journal-title": "Giornale Italiano Di Psicologia"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_7",
+        "DOI": "10.1016/j.intell.2023.101736",
+        "first-page": "101736",
+        "article-title": "Cognitive Characteristics of Intellectually Gifted Children with a Diagnosis of ADHD",
+        "volume": "97",
+        "author": "Cornoldi",
+        "year": "2023",
+        "journal-title": "Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_8",
+        "DOI": "10.1207/S15327906MBR3501_2",
+        "first-page": "21",
+        "article-title": "Investigating Spearman’s Hypothesis by Means of Multi-Group Confirmatory Factor Analysis",
+        "volume": "35",
+        "author": "Dolan",
+        "year": "2000",
+        "journal-title": "Multivariate Behavioral Research"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_9",
+        "DOI": "10.1027/1016-9040/a000102",
+        "first-page": "300",
+        "article-title": "Testing Practices in the 21st Century",
+        "volume": "17",
+        "author": "Evers",
+        "year": "2012",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "unstructured": "Flanagan, Dawn P., and Kaufman, Alan S. (2004). Essentials of Assessment with WISC-IV, Wiley.",
+        "key": "ref_10"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_11",
+        "DOI": "10.1016/1041-6080(95)90003-9",
+        "first-page": "289",
+        "article-title": "Sexual Selection and Sex Differences in Spatial Cognition",
+        "volume": "7",
+        "author": "Geary",
+        "year": "1995",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_12",
+        "DOI": "10.1016/j.neubiorev.2021.02.020",
+        "first-page": "26",
+        "article-title": "Now You See Them, and Now You Don’t: An Evolutionarily Informed Model of Environmental Influences on Human Sex Differences",
+        "volume": "125",
+        "author": "Geary",
+        "year": "2021",
+        "journal-title": "Neuroscience & Biobehavioral Reviews"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_13",
+        "DOI": "10.1016/j.dr.2021.101010",
+        "first-page": "101010",
+        "article-title": "Sex, Mathematics, and the Brain: An Evolutionary Perspective",
+        "volume": "63",
+        "author": "Geary",
+        "year": "2022",
+        "journal-title": "Developmental Review"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_14",
+        "DOI": "10.1016/j.jecp.2021.105222",
+        "first-page": "105222",
+        "article-title": "Boys’ Visuospatial Abilities Compensate for Their Relatively Poor in-Class Attentive Behavior in Learning Mathematics",
+        "volume": "211",
+        "author": "Geary",
+        "year": "2021",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_15",
+        "DOI": "10.1016/j.intell.2015.07.002",
+        "first-page": "36",
+        "article-title": "The Structure of Intelligence in Children with Specific Learning Disabilities Is Different as Compared to Typically Development Children",
+        "volume": "52",
+        "author": "Cornoldi",
+        "year": "2015",
+        "journal-title": "Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_16",
+        "DOI": "10.1007/s10648-022-09705-1",
+        "first-page": "2543",
+        "article-title": "The Impasse on Gender Differences in Intelligence: A Meta-Analysis on WISC Batteries",
+        "volume": "34",
+        "author": "Allen",
+        "year": "2022a",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_17",
+        "DOI": "10.1016/j.intell.2021.101615",
+        "first-page": "101615",
+        "article-title": "Decoding Gender Differences: Intellectual Profiles of Children with Specific Learning Disabilities",
+        "volume": "90",
+        "author": "Allen",
+        "year": "2022b",
+        "journal-title": "Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_18",
+        "DOI": "10.1027/1614-0001/a000003",
+        "first-page": "22",
+        "article-title": "Sex Differences on the German Wechsler Intelligence Test for Children (WISC-IV)",
+        "volume": "31",
+        "author": "Goldbeck",
+        "year": "2010",
+        "journal-title": "Journal of Individual Differences"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_19",
+        "DOI": "10.3389/fpsyg.2016.00737",
+        "first-page": "737",
+        "article-title": "Structure of the Wechsler Intelligence Scale for Children—Fourth Edition in a Group of Children with ADHD",
+        "volume": "7",
+        "author": "Gomez",
+        "year": "2016",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "unstructured": "Halpern, Diane F., and Wai, Jonathan (2019). The Cambridge Handbook of Intelligence, Cambridge University Press.",
+        "key": "ref_20"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_21",
+        "DOI": "10.1080/10705519909540118",
+        "first-page": "1",
+        "article-title": "Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria versus New Alternatives",
+        "volume": "6",
+        "author": "Hu",
+        "year": "1999",
+        "journal-title": "Structural Equation Modeling"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_22",
+        "DOI": "10.1111/j.1745-6916.2007.00037.x",
+        "first-page": "194",
+        "article-title": "Considerations Relating to the Study of Group Differences in Intelligence",
+        "volume": "2",
+        "author": "Hunt",
+        "year": "2007",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_23",
+        "DOI": "10.1080/09297049.2010.532204",
+        "first-page": "209",
+        "article-title": "Working Memory Influences Processing Speed and Reading Fluency in ADHD",
+        "volume": "17",
+        "author": "Jacobson",
+        "year": "2011",
+        "journal-title": "Child Neuropsychology"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_24",
+        "DOI": "10.1016/j.intell.2011.06.008",
+        "first-page": "389",
+        "article-title": "Sex Differences in Latent Cognitive Abilities Ages 5 to 17: Evidence from the Differential Ability Scales—Second Edition",
+        "volume": "39",
+        "author": "Keith",
+        "year": "2011",
+        "journal-title": "Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_25",
+        "DOI": "10.1016/j.intell.2007.11.001",
+        "first-page": "502",
+        "article-title": "Sex Differences in Latent Cognitive Abilities Ages 6 to 59: Evidence from the Woodcock–Johnson III Tests of Cognitive Abilities",
+        "volume": "36",
+        "author": "Keith",
+        "year": "2008",
+        "journal-title": "Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_26",
+        "DOI": "10.1002/job.4030160304",
+        "first-page": "215",
+        "article-title": "Structural Equation Modelling in Perspective",
+        "volume": "16",
+        "author": "Kelloway",
+        "year": "1995",
+        "journal-title": "Journal of Organizational Behavior"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_27",
+        "DOI": "10.1080/21683603.2019.1638854",
+        "first-page": "73",
+        "article-title": "Construct Validity of the WISC–IV Italian Edition: A Bifactor Examination of the Standardization Sample: Chi Niente Sa, Di Niente Dubita",
+        "volume": "9",
+        "author": "Kush",
+        "year": "2021",
+        "journal-title": "International Journal of School & Educational Psychology"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_28",
+        "DOI": "10.1111/j.1467-9450.2010.00825.x",
+        "first-page": "540",
+        "article-title": "Gender Differences on the Five to Fifteen Questionnaire in a Non-Referred Sample with Inattention and Hyperactivity-Impulsivity and a Clinic-Referred Sample with Hyperkinetic Disorder",
+        "volume": "51",
+        "author": "Lambek",
+        "year": "2010",
+        "journal-title": "Scandinavian Journal of Psychology"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_29",
+        "DOI": "10.1186/s12889-016-2956-6",
+        "first-page": "288",
+        "article-title": "Sex Differences in the Intellectual Functioning of Early School-Aged Children in Rural China",
+        "volume": "16",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_30",
+        "DOI": "10.1177/1087054705283616",
+        "first-page": "486",
+        "article-title": "WISC-IV and WISC-III Profiles in Children with ADHD",
+        "volume": "9",
+        "author": "Mayes",
+        "year": "2006",
+        "journal-title": "Journal of Attention Disorders"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_31",
+        "DOI": "10.1007/BF02294825",
+        "first-page": "525",
+        "article-title": "Measurement Invariance, Factor Analysis and Factorial Invariance",
+        "volume": "58",
+        "author": "Meredith",
+        "year": "1993",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_32",
+        "DOI": "10.1016/j.tics.2013.10.011",
+        "first-page": "37",
+        "article-title": "The New Science of Cognitive Sex Differences",
+        "volume": "18",
+        "author": "Miller",
+        "year": "2014",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_33",
+        "DOI": "10.1016/j.psychres.2019.06.028",
+        "first-page": "289",
+        "article-title": "Sex Differences in Neuropsychological Functioning among Children with Attention-Deficit/Hyperactivity Disorder",
+        "volume": "278",
+        "year": "2019",
+        "journal-title": "Psychiatry Research"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_34",
+        "DOI": "10.1093/arclin/acq050",
+        "first-page": "656",
+        "article-title": "Neuropsychological Profile of Executive Function in Girls with Attention-Deficit/Hyperactivity Disorder",
+        "volume": "25",
+        "author": "Dowell",
+        "year": "2010",
+        "journal-title": "Archives of Clinical Neuropsychology"
+      },
+      {
+        "unstructured": "Orsini, Arturo, Pezzuti, Lina, and Picone, Laura (2012). WISC-IV: Contributo Alla Taratura Italiana. [WISC-IV Italian Edition], Giunti O. S.",
+        "key": "ref_35"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_36",
+        "DOI": "10.1016/j.lindif.2015.12.024",
+        "first-page": "307",
+        "article-title": "Are There Sex Differences in the Wechsler Intelligence Scale for Children—Forth Edition?",
+        "volume": "45",
+        "author": "Pezzuti",
+        "year": "2016",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_37",
+        "DOI": "10.1016/j.intell.2020.101436",
+        "first-page": "101436",
+        "article-title": "Gender Differences and Measurement Bias in the Assessment of Adult Intelligence: Evidence from the Italian WAIS-IV and WAIS-R Standardizations",
+        "volume": "79",
+        "author": "Pezzuti",
+        "year": "2020",
+        "journal-title": "Intelligence"
+      },
+      {
+        "unstructured": "R Core Team (2023). R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing. Available online: http://www.r-project.org/.",
+        "key": "ref_38"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_39",
+        "DOI": "10.18637/jss.v048.i02",
+        "first-page": "1",
+        "article-title": "Lavaan: An R Package for Structural Equation Modeling",
+        "volume": "48",
+        "author": "Rosseel",
+        "year": "2012",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_40",
+        "DOI": "10.1007/s10802-015-9976-z",
+        "first-page": "141",
+        "article-title": "Cognitive Load Differentially Impacts Response Control in Girls and Boys With",
+        "volume": "44",
+        "author": "Seymour",
+        "year": "2016",
+        "journal-title": "Journal of Abnormal Child Psychology"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_41",
+        "DOI": "10.1016/j.bbr.2019.03.036",
+        "first-page": "117",
+        "article-title": "Response Control Correlates of Anomalous Basal Ganglia Morphology in Boys, but Not Girls, with Attention-Deficit/Hyperactivity Disorder",
+        "volume": "367",
+        "author": "Tang",
+        "year": "2019",
+        "journal-title": "Behavioural Brain Research"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_42",
+        "DOI": "10.1177/1087054711428806",
+        "first-page": "291",
+        "article-title": "WISC-IV Profiles Are Associated with Differences in Symptomatology and Outcome in Children with ADHD",
+        "volume": "17",
+        "author": "Thaler",
+        "year": "2013",
+        "journal-title": "Journal of Attention Disorders"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_43",
+        "DOI": "10.1016/j.psyneuen.2019.01.025",
+        "first-page": "212",
+        "article-title": "Dehydroepiandrosterone Sulfate, Free Testosterone, and Sex Hormone-Binding Globulin on Susceptibility to Attention-Deficit/Hyperactivity Disorder",
+        "volume": "103",
+        "author": "Wang",
+        "year": "2019",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "unstructured": "Wechsler (2003). WISC-IV Technical and Interpretive Manual, The Psychological Association.",
+        "key": "ref_44"
+      },
+      {
+        "unstructured": "Wechsler (2014). Wechsler Intelligence Scale for Children, Pearson. [5th ed.].",
+        "key": "ref_45"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "key": "ref_46",
+        "DOI": "10.1111/j.1440-1819.2004.01312.x",
+        "first-page": "619",
+        "article-title": "Gender Differences in a Clinic-Referred Sample of Taiwanese Attention-Deficit/Hyperactivity Disorder Children",
+        "volume": "58",
+        "author": "Yang",
+        "year": "2004",
+        "journal-title": "Psychiatry and Clinical Neurosciences"
+      }
+    ],
+    "container-title": "Journal of Intelligence",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2079-3200/11/9/178/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 10]
+      ],
+      "date-time": "2025-10-10T20:46:34Z",
+      "timestamp": 1760129194000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2079-3200/11/9/178"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2023, 9, 5]
+      ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [2023, 9]
+        ]
+      }
+    },
+    "alternative-id": "jintelligence11090178",
+    "URL": "https://doi.org/10.3390/jintelligence11090178",
+    "relation": {},
+    "ISSN": "2079-3200",
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2079-3200"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2023, 9, 5]
+      ]
+    }
+  }
+}

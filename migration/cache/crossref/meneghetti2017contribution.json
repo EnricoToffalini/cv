@@ -1,0 +1,637 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 29]
+      ],
+      "date-time": "2026-06-29T01:36:16Z",
+      "timestamp": 1782696976449,
+      "version": "3.54.5"
+    },
+    "reference-count": 44,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2017, 12, 1]
+          ],
+          "date-time": "2017-12-01T00:00:00Z",
+          "timestamp": 1512086400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2017, 12, 1]
+          ],
+          "date-time": "2017-12-01T00:00:00Z",
+          "timestamp": 1512086400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Journal of Environmental Psychology",
+    "published-print": {
+      "date-parts": [
+        [2017, 12]
+      ]
+    },
+    "DOI": "10.1016/j.jenvp.2017.09.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2017, 9, 12]
+      ],
+      "date-time": "2017-09-12T07:45:48Z",
+      "timestamp": 1505202348000
+    },
+    "page": "160-168",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "special_numbering": "C",
+    "title": "The contribution of visuo-spatial factors in representing a familiar environment: The case of undergraduate students at a university campus",
+    "prefix": "10.1016",
+    "volume": "54",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Meneghetti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Veronica",
+        "family": "Muffato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gianmarco",
+        "family": "Altoè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib1",
+        "series-title": "Model selection and multimodel inference: A practical information-theoretic approach",
+        "author": "Burnham",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib2",
+        "series-title": "Proceedings of the 35th annual conference of the cognitive science society",
+        "author": "Burte",
+        "year": "2013",
+        "first-page": "1958",
+        "article-title": "Individual and strategy differences in an allocentric-heading recall task"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib3",
+        "author": "Condon",
+        "year": "2015",
+        "first-page": "38",
+        "article-title": "Sense of direction: General factor saturation and associations with the big-five traits",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.paid.2015.05.023",
+        "volume": "86",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib4",
+        "series-title": "Human memory and the medial temporal region of the brain",
+        "author": "Corsi",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib5",
+        "series-title": "Batteria Visuo-spaziale. Strumenti per la valutazione delle abilità visuo-spaziali nell’arco di vita adulta [Visuo-spatial battery: Instrument for assessing visuo-spatial abilities across adult life span]",
+        "author": "De Beni",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib6",
+        "author": "De Beni",
+        "year": "2005",
+        "first-page": "77",
+        "article-title": "Visuospatial working memory and mental representation of spatial descriptions",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/09541440340000529",
+        "volume": "17",
+        "journal-title": "European Journal of Cognitive Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib7",
+        "author": "De Goede",
+        "year": "2015",
+        "article-title": "Learning your way in a city: Experience and gender differences in configurational knowledge of one's environment",
+        "volume": "6",
+        "journal-title": "Frontiers in Psychology",
+        "issue": "402"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib8",
+        "author": "Fields",
+        "year": "2006",
+        "first-page": "506",
+        "article-title": "Individual skill differences and large-scale environmental learning",
+        "volume": "32",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib9",
+        "author": "Garden",
+        "year": "2002",
+        "first-page": "35",
+        "article-title": "Visuo-spatial working memory in navigation",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/acp.746",
+        "volume": "16",
+        "journal-title": "Applied Cognitive Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib10",
+        "author": "Hegarty",
+        "year": "2006",
+        "first-page": "151",
+        "article-title": "Spatial abilities at different scales: Individual differences in aptitude-test performance and spatial-layout learning",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2005.09.005",
+        "volume": "34",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib11",
+        "author": "Hegarty",
+        "year": "2002",
+        "first-page": "425",
+        "article-title": "Development of a self-report measure of environmental spatial ability",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0160-2896(02)00116-2",
+        "volume": "30",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib12",
+        "series-title": "The Cambridge handbook of visuo-spatial thinking",
+        "author": "Hegarty",
+        "year": "2005",
+        "first-page": "122",
+        "article-title": "Individual differences in spatial abilities"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib13",
+        "author": "Hölscher",
+        "year": "2011",
+        "first-page": "228",
+        "article-title": "Would you follow your own route description? Cognitive strategies in urban route planning",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cognition.2011.06.005",
+        "volume": "121",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib14",
+        "author": "Hund",
+        "year": "2016",
+        "first-page": "233",
+        "article-title": "Visuospatial working memory facilitates indoor wayfinding and direction giving",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jenvp.2016.01.008",
+        "volume": "45",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib15",
+        "author": "Hund",
+        "year": "2014",
+        "first-page": "217",
+        "article-title": "What constitutes effective wayfinding directions: The interactive role of descriptive cues and memory demands",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jenvp.2014.02.006",
+        "volume": "38",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib16",
+        "author": "Hund",
+        "year": "2009",
+        "first-page": "151",
+        "article-title": "The effects of sense of direction and training experience on wayfinding efficiency",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jenvp.2008.05.009",
+        "volume": "29",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib17",
+        "author": "Iachini",
+        "year": "2009",
+        "first-page": "222",
+        "article-title": "The effect of age on egocentric and allocentric spatial frames of reference",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s10339-009-0276-9",
+        "volume": "10",
+        "journal-title": "Cognitive Processing"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib18",
+        "author": "Ishikawa",
+        "year": "2006",
+        "first-page": "93",
+        "article-title": "Spatial knowledge acquisition from direct experience in the environment: Individual differences in the development of metric knowledge and the integration of separately learned places",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cogpsych.2005.08.003",
+        "volume": "52",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib19",
+        "series-title": "Structural equation modeling with the SIMPLIS command language",
+        "author": "Jöreskog",
+        "year": "1993"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib20",
+        "author": "Kirasic",
+        "year": "1984",
+        "first-page": "687",
+        "article-title": "Expression of configurational knowledge of large-scale environments: Students' performance of cognitive tasks",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/0013916584166002",
+        "volume": "16",
+        "journal-title": "Environment and Behavior"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib21",
+        "author": "Labate",
+        "year": "2014",
+        "first-page": "73",
+        "article-title": "What working memory subcomponents are needed in the acquisition of survey knowledge? Evidence from direction estimation and shortcut tasks",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jenvp.2013.11.007",
+        "volume": "37",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib22",
+        "author": "Lawton",
+        "year": "1994",
+        "first-page": "765",
+        "article-title": "Gender differences in way-finding strategies: Relationship to spatial ability and spatial anxiety",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/BF01544230",
+        "volume": "30",
+        "journal-title": "Sex Roles"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib23",
+        "series-title": "Advances in the psychology of human intelligence",
+        "author": "Lohman",
+        "year": "1988",
+        "first-page": "181",
+        "article-title": "Spatial abilities as traits, processes and knowledge"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib24",
+        "series-title": "Regression models for categorical and limited dependent variables",
+        "author": "Long",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib25",
+        "series-title": "Il Test di Corsi e la batteria BVS per la valutazione della memoria visuospaziale [The Corsi blocks task and the BVS battery for visuospatial memory assessment]",
+        "author": "Mammarella",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib26",
+        "author": "Marchette",
+        "year": "2011",
+        "first-page": "1401",
+        "article-title": "Spatial memory in the real world: Long-term representations of everyday environments",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3758/s13421-011-0108-x",
+        "volume": "39",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib27",
+        "author": "Meneghetti",
+        "year": "2013",
+        "first-page": "32",
+        "article-title": "The joint role of spatial ability and imagery strategy in sustaining the learning of spatial descriptions under spatial interference",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.lindif.2012.12.021",
+        "volume": "24",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib28",
+        "author": "Meneghetti",
+        "year": "2015",
+        "first-page": "289",
+        "article-title": "Mental representations derived from spatial descriptions: The influence of orientation specificity and visuospatial abilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s00426-014-0560-x",
+        "volume": "79",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib29",
+        "author": "Meneghetti",
+        "year": "2014",
+        "first-page": "295",
+        "article-title": "Spatial mental representations derived from spatial descriptions: The predicting and mediating roles of spatial preferences, strategies, and abilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/bjop.12038",
+        "volume": "105",
+        "journal-title": "British Journal of Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib30",
+        "series-title": "Spatial Memory: Visuospatial processes, cognitive performance and developmental effects",
+        "author": "Nori",
+        "year": "2010",
+        "first-page": "103",
+        "article-title": "Familiarity and spatial cognitive style: How important are they for spatial representation?"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib31",
+        "author": "Pappalardo",
+        "year": "2015",
+        "article-title": "Returners and explorers dichotomy in human mobility",
+        "volume": "6",
+        "journal-title": "Nature Communications",
+        "issue": "8166"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib32",
+        "author": "Pazzaglia",
+        "year": "2000",
+        "first-page": "627",
+        "article-title": "Differenze individuali nella rappresentazione dello spazio e nell’abilità di orientamento: Presentazione di un questionario autovalutativo. [Individual differences in spatial representation: An autovalutative questionnaire]",
+        "volume": "27",
+        "journal-title": "Giornale Italiano Di Psicologia"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib33",
+        "author": "Pazzaglia",
+        "year": "2001",
+        "first-page": "493",
+        "article-title": "Strategies of processing spatial information in survey and landmark-centred individuals",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/09541440125778",
+        "volume": "13",
+        "journal-title": "European Journal of Cognitive Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib34",
+        "author": "Pazzaglia",
+        "year": "2007",
+        "first-page": "484",
+        "article-title": "The effects of verbal and spatial interference in the encoding and retrieval of spatial and nonspatial texts",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s00426-006-0045-7",
+        "volume": "71",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib35",
+        "author": "Prestopnik",
+        "year": "2000",
+        "first-page": "177",
+        "article-title": "The relations among wayfinding strategy use, sense of direction, sex, familiarity, and wayfinding ability",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1006/jevp.1999.0160",
+        "volume": "20",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib36",
+        "author": "Rossel",
+        "year": "2012",
+        "first-page": "1",
+        "article-title": "Lavaan: An R package for structural equation modeling",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.18637/jss.v048.i02",
+        "volume": "48",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib37",
+        "author": "Schermelleh-Engel",
+        "year": "2003",
+        "first-page": "23",
+        "article-title": "Evaluating the fit of structural equation models: Test of significance and descriptive goodness-of-fit measures",
+        "volume": "8",
+        "journal-title": "Methods of Psychological Research Online"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib38",
+        "author": "Sholl",
+        "year": "2006",
+        "first-page": "516",
+        "article-title": "Allocentric-heading recall and its relation to self-reported sense-of-direction",
+        "volume": "32",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib39",
+        "author": "Taylor",
+        "year": "1999",
+        "first-page": "309",
+        "article-title": "Goal-specific influences on the representation of spatial perspective",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3758/BF03211414",
+        "volume": "27",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib40",
+        "author": "Taylor",
+        "year": "1996",
+        "first-page": "371",
+        "article-title": "Perspective in spatial descriptions",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1006/jmla.1996.0021",
+        "volume": "35",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib41",
+        "author": "Tolman",
+        "year": "1948",
+        "first-page": "189",
+        "article-title": "Cognitive maps in rats and men",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/h0061626",
+        "volume": "55",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib42",
+        "author": "Vandenberg",
+        "year": "1978",
+        "first-page": "599",
+        "article-title": "Mental rotations, a group test of three-dimensional spatial visualization",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2466/pms.1978.47.2.599",
+        "volume": "47",
+        "journal-title": "Perceptual and Motor Skills"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib43",
+        "author": "Weisberg",
+        "year": "2014",
+        "first-page": "669",
+        "article-title": "Variations in cognitive maps: Understanding individual differences in navigation",
+        "volume": "40",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "10.1016/j.jenvp.2017.09.004_bib44",
+        "author": "Wen",
+        "year": "2011",
+        "first-page": "654",
+        "article-title": "Working memory in spatial knowledge acquisition: Differences in encoding processes and sense of direction",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/acp.1737",
+        "volume": "25",
+        "journal-title": "Applied Cognitive Psychology"
+      }
+    ],
+    "container-title": "Journal of Environmental Psychology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0272494417301093?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0272494417301093?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 3]
+      ],
+      "date-time": "2025-10-03T00:14:33Z",
+      "timestamp": 1759450473000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0272494417301093"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2017, 12]
+      ]
+    },
+    "references-count": 44,
+    "alternative-id": "S0272494417301093",
+    "URL": "https://doi.org/10.1016/j.jenvp.2017.09.004",
+    "relation": {},
+    "ISSN": "0272-4944",
+    "issn-type": [
+      {
+        "value": "0272-4944",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2017, 12]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The contribution of visuo-spatial factors in representing a familiar environment: The case of undergraduate students at a university campus",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Environmental Psychology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jenvp.2017.09.004",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+$ink: #20262c;
+$muted: #5a626a;
+$accent: #176b70;
+$link: #8b3048;
+$rule: #cfd8d9;
+
+body {
+  color: $ink;
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-size: 0.96rem;
+  line-height: 1.4;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 2.4rem 3rem;
+}
+
+a {
+  color: $link;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.cv-header {
+  border-bottom: 2px solid $accent;
+  margin-bottom: 1.3rem;
+  padding-bottom: 0.9rem;
+}
+
+.cv-header h1 {
+  color: $ink;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.35rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.05;
+  margin: 0 0 0.45rem;
+}
+
+.updated,
+.gdpr {
+  color: $muted;
+  font-size: 0.82rem;
+}
+
+h2 {
+  border-bottom: 1px solid $rule;
+  color: $accent;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.28rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  margin: 1.55rem 0 0.72rem;
+  padding-bottom: 0.2rem;
+}
+
+h3 {
+  color: $ink;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin: 1rem 0 0.45rem;
+}
+
+.cv-entry,
+.publication,
+.presentation {
+  break-inside: avoid;
+  margin: 0 0 0.58rem;
+}
+
+.publication {
+  padding-left: 1.25rem;
+  text-indent: -1.25rem;
+}
+
+.presentation {
+  margin-bottom: 0.42rem;
+}
+
+p {
+  margin: 0.25rem 0 0.55rem;
+}
+
+ul {
+  margin: 0.3rem 0 0.7rem;
+  padding-left: 1.25rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid $rule;
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 650px) {
+  body {
+    padding: 1.25rem 1rem 2rem;
+  }
+
+  .cv-header h1 {
+    font-size: 2rem;
+  }
+}
+
+@media print {
+  body {
+    font-size: 9.5pt;
+    max-width: none;
+    padding: 0;
+  }
+
+  a {
+    color: $ink;
+  }
+
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+}

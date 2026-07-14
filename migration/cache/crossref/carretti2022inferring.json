@@ -1,0 +1,431 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 9, 27]
+      ],
+      "date-time": "2025-09-27T13:58:52Z",
+      "timestamp": 1758981532865,
+      "version": "3.40.5"
+    },
+    "reference-count": 39,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "funder": [
+      {
+        "name": "Department of General Psychology, University of Padua, Italy"
+      }
+    ],
+    "content-domain": {
+      "domain": "www.tandfonline.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Scientific Studies of Reading",
+    "published-print": {
+      "date-parts": [
+        [2022, 1, 2]
+      ]
+    },
+    "DOI": "10.1080/10888438.2021.1897596",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 4, 12]
+      ],
+      "date-time": "2021-04-12T08:35:06Z",
+      "timestamp": 1618216506000
+    },
+    "page": "47-60",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "Inferring the Performance of Children with Dyslexia from that of the General Population: The Case of Associative Phonological Working Memory",
+    "prefix": "10.1080",
+    "volume": "26",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5147-7544",
+        "authenticated-orcid": false,
+        "given": "Barbara",
+        "family": "Carretti",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Arianna",
+        "family": "Antonello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Di Criscienzo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [2021, 4, 12]
+      ]
+    },
+    "reference": [
+      {
+        "key": "cit0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pne0000066"
+      },
+      {
+        "key": "cit0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "cit0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721420925518"
+      },
+      {
+        "key": "cit0004",
+        "volume-title": "Working memory",
+        "year": "1986",
+        "author": "Baddeley A. D."
+      },
+      {
+        "key": "cit0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v080.i01"
+      },
+      {
+        "key": "cit0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjep.12307"
+      },
+      {
+        "key": "cit0007",
+        "volume-title": "Measuring intelligence with the culture fair tests",
+        "year": "1963",
+        "author": "Cattell R. B."
+      },
+      {
+        "key": "cit0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2018.01.004"
+      },
+      {
+        "key": "cit0009",
+        "year": "2014",
+        "author": "Cornoldi C.",
+        "first-page": "77",
+        "volume": "18",
+        "journal-title": "Psicologia Clinica dello Sviluppo"
+      },
+      {
+        "key": "cit0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00222194050380020101"
+      },
+      {
+        "key": "cit0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjdp.12019"
+      },
+      {
+        "key": "cit0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13803395.2015.1125454"
+      },
+      {
+        "key": "cit0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2015.06.007"
+      },
+      {
+        "key": "cit0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2006.09.002"
+      },
+      {
+        "key": "cit0015",
+        "volume-title": "Measuring intelligence with the culture fair tests. Manual for scales 2 and 3",
+        "year": "1973",
+        "author": "Institute of Personality and Ability Testing"
+      },
+      {
+        "key": "cit0016",
+        "unstructured": "PARCC (2011). Raccomandazioni cliniche per i DSA (Clinical criteria for the diagnosis of learning disorders). www.lineguidadsa.it"
+      },
+      {
+        "key": "cit0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/lm.024018.111"
+      },
+      {
+        "key": "cit0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033334"
+      },
+      {
+        "key": "cit0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2018.04.010"
+      },
+      {
+        "key": "cit0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0014132"
+      },
+      {
+        "key": "cit0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2013.10.005"
+      },
+      {
+        "key": "cit0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1747021818762669"
+      },
+      {
+        "key": "cit0023",
+        "author": "Mammarella I. C.",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "cit0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jecp.1999.2525"
+      },
+      {
+        "key": "cit0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9780429029608"
+      },
+      {
+        "key": "cit0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10888438.2019.1706180"
+      },
+      {
+        "key": "cit0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-0965(02)00179-0"
+      },
+      {
+        "key": "cit0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2014.12.003"
+      },
+      {
+        "key": "cit0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.40.5.665"
+      },
+      {
+        "key": "cit0030",
+        "volume-title": "WISC-IV: Contributo alla taratura Italiana",
+        "year": "2012",
+        "author": "Orsini A."
+      },
+      {
+        "key": "cit0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2006.04.008"
+      },
+      {
+        "key": "cit0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tine.2019.100115"
+      },
+      {
+        "key": "cit0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jecp.2018.05.007"
+      },
+      {
+        "key": "cit0034",
+        "volume-title": "DDE-2. Batteria per la valutazione della dislessia e della disortografia evolutiva [Battery for assessing developmental dyslexia and dysorthographia]",
+        "year": "2007",
+        "author": "Sartori G."
+      },
+      {
+        "key": "cit0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702616672038"
+      },
+      {
+        "key": "cit0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219418786691"
+      },
+      {
+        "key": "cit0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09297049.2017.1329411"
+      },
+      {
+        "key": "cit0038",
+        "volume-title": "WISC-IV technical and interpretive manual",
+        "year": "2003",
+        "author": "Wechsler D."
+      },
+      {
+        "key": "cit0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0277(94)90010-8"
+      }
+    ],
+    "container-title": "Scientific Studies of Reading",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10888438.2021.1897596",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2022, 1, 24]
+      ],
+      "date-time": "2022-01-24T15:26:02Z",
+      "timestamp": 1643037962000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/10888438.2021.1897596"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 4, 12]
+      ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [2022, 1, 2]
+        ]
+      }
+    },
+    "alternative-id": "10.1080/10888438.2021.1897596",
+    "URL": "https://doi.org/10.1080/10888438.2021.1897596",
+    "relation": {},
+    "ISSN": ["1088-8438", "1532-799X"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1088-8438"
+      },
+      {
+        "type": "electronic",
+        "value": "1532-799X"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 4, 12]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement",
+        "group": {}
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=hssr20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=hssr20",
+        "group": {}
+      },
+      {
+        "value": "2021-04-12",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

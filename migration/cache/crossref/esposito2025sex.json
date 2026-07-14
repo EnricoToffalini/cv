@@ -1,0 +1,790 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 9]
+      ],
+      "date-time": "2026-07-09T05:44:24Z",
+      "timestamp": 1783575864646,
+      "version": "3.55.0"
+    },
+    "reference-count": 47,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2025, 12, 1]
+          ],
+          "date-time": "2025-12-01T00:00:00Z",
+          "timestamp": 1764547200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 12, 1]
+          ],
+          "date-time": "2025-12-01T00:00:00Z",
+          "timestamp": 1764547200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 8, 4]
+          ],
+          "date-time": "2025-08-04T00:00:00Z",
+          "timestamp": 1754265600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ],
+        "award": null,
+        "award-info": null
+      },
+      {
+        "DOI": "10.13039/501100021856",
+        "name": "Ministero dell&apos;Università e della Ricerca",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100021856",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ],
+        "award": null,
+        "award-info": null
+      },
+      {
+        "DOI": "10.13039/501100024370",
+        "name": "MIUR",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100024370",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ],
+        "award": "2022FZ595K",
+        "award-info": [
+          {
+            "award-number": "2022FZ595K"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Personality and Individual Differences",
+    "published-print": {
+      "date-parts": [
+        [2025, 12]
+      ]
+    },
+    "DOI": "10.1016/j.paid.2025.113410",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 8, 8]
+      ],
+      "date-time": "2025-08-08T10:56:11Z",
+      "timestamp": 1754650571000
+    },
+    "page": "113410",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "special_numbering": "C",
+    "title": "Sex differences in variability: Evidence from math and reading assessment in Italy",
+    "prefix": "10.1016",
+    "volume": "247",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0004-0483-0463",
+        "authenticated-orcid": false,
+        "given": "Lorenzo",
+        "family": "Esposito",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1992-6271",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3029-6343",
+        "authenticated-orcid": false,
+        "given": "David C.",
+        "family": "Geary",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/j.paid.2005.11.027",
+        "article-title": "Sex differences in variance of intelligence across childhood",
+        "volume": "41",
+        "author": "Arden",
+        "year": "2006",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0010",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/s40536-015-0015-x",
+        "article-title": "Genderhttps differences in variability and extreme scores in an international context",
+        "volume": "4",
+        "author": "Baye",
+        "year": "2016",
+        "journal-title": "Large-Scale Assessments in Education"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.paid.2025.113410_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.1016/j.intell.2013.05.009",
+        "article-title": "Gender differences in the mean level, variability, and profile shape of student achievement: Results from 41 countries",
+        "volume": "41",
+        "author": "Brunner",
+        "year": "2013",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1111/j.0956-7976.2005.00781.x",
+        "article-title": "Reaction time explains IQ’s association with death",
+        "volume": "16",
+        "author": "Deary",
+        "year": "2005",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1016/j.intell.2008.06.002",
+        "article-title": "Are apparent sex differences in mean IQ scores created in part by sample restriction and increased male variance?",
+        "volume": "37",
+        "author": "Dykiert",
+        "year": "2009",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0050",
+        "author": "Ellis",
+        "year": "1894",
+        "series-title": "Man and woman: A study of human sexual characters"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1037/a0018053",
+        "article-title": "Cross-national patterns of gender differences in mathematics: A meta-analysis",
+        "volume": "136",
+        "author": "Else-Quest",
+        "year": "2010",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.3102/00346543062001061",
+        "article-title": "Sex differences in variability in intellectual abilities: A new look at an old controversy",
+        "volume": "62",
+        "author": "Feingold",
+        "year": "1992",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.paid.2025.113410_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1007/BF01420741",
+        "article-title": "Gender differences in variability in intellectual abilities: A cross-cultural perspective",
+        "volume": "30",
+        "author": "Feingold",
+        "year": "1994",
+        "journal-title": "Sex Roles"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0070",
+        "author": "Geary",
+        "year": "2024",
+        "series-title": "The evolved mind and modern education: Status of evolutionary educational psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1037/edu0000763",
+        "article-title": "Sex differences in developmental pathways to mathematical competence",
+        "volume": "115",
+        "author": "Geary",
+        "year": "2023",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "June",
+        "key": "10.1016/j.paid.2025.113410_bb0080",
+        "article-title": "A population level analysis of the gender gap in mathematics: Results on over 13 million children using the INVALSI dataset",
+        "volume": "81",
+        "author": "Giofrè",
+        "year": "2020",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "122776",
+        "DOI": "10.1016/j.paid.2024.112776",
+        "article-title": "Sex differences in cognition: A meta-analysis of variance ratios in the Wechsler Intelligence Scales for Children",
+        "volume": "229",
+        "author": "Giofrè",
+        "year": "2024",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0090",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/s40536-019-0070-9",
+        "article-title": "Sex differences in variability across nations in reading, mathematics and science: A meta-analytic extension of Baye and Monseur (2016)",
+        "volume": "7",
+        "author": "Gray",
+        "year": "2019",
+        "journal-title": "Large-Scale Assessments in Education"
+      },
+      {
+        "issue": "5220",
+        "key": "10.1016/j.paid.2025.113410_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1126/science.7604277",
+        "article-title": "Sex differences in mental test scores, variability, and numbers of high-scoring individuals",
+        "volume": "269",
+        "author": "Hedges",
+        "year": "1995",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113410_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1037/0033-2909.107.2.139",
+        "article-title": "Gender differences in mathematics performance: A meta-analysis",
+        "volume": "107",
+        "author": "Hyde",
+        "year": "1990",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "5888",
+        "key": "10.1016/j.paid.2025.113410_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1126/science.1160364",
+        "article-title": "Diversity: Gender similarities characterize math performance",
+        "volume": "321",
+        "author": "Hyde",
+        "year": "2008",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.paid.2025.113410_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "8801",
+        "DOI": "10.1073/pnas.0901265106",
+        "article-title": "Gender, culture, and mathematics performance",
+        "volume": "106",
+        "author": "Hyde",
+        "year": "2009",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0125",
+        "first-page": "107",
+        "article-title": "The race × sex × ability interaction",
+        "author": "Jensen",
+        "year": "1971",
+        "series-title": "Contributions to intelligence"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2025.113410_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "518",
+        "DOI": "10.1111/j.1745-6924.2008.00096.x",
+        "article-title": "Sex differences in variability in general intelligence: A new look at the old question",
+        "volume": "3",
+        "author": "Johnson",
+        "year": "2008",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113410_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/j.intell.2013.04.004",
+        "article-title": "Sex differences in reasoning abilities: Surprising evidence that male-female ratios in the tails of the quantitative reasoning distribution have increased",
+        "volume": "41",
+        "author": "Lakin",
+        "year": "2013",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113410_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1111/j.1467-9817.2008.01389.x",
+        "article-title": "Gender differences in reading ability and attitudes: Examining where these differences lie",
+        "volume": "32",
+        "author": "Logan",
+        "year": "2009",
+        "journal-title": "Journal of Research in Reading"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.46469/mq.2017.58.1.2",
+        "article-title": "Sex differences in intelligence: The developmental theory",
+        "volume": "58",
+        "author": "Lynn",
+        "year": "2017",
+        "journal-title": "Mankind Quarterly"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.paid.2025.113410_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1016/j.intell.2004.06.008",
+        "article-title": "Sex differences on the progressive matrices: A meta-analysis",
+        "volume": "32",
+        "author": "Lynn",
+        "year": "2004",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.3176/tr.2009.1.01",
+        "article-title": "Sex differences in reading achievement",
+        "volume": "13",
+        "author": "Lynn",
+        "year": "2009",
+        "journal-title": "Trames"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0165",
+        "author": "Maccoby",
+        "year": "1974",
+        "series-title": "The psychology of sex differences"
+      },
+      {
+        "issue": "5906",
+        "key": "10.1016/j.paid.2025.113410_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1126/science.1162573",
+        "article-title": "Global sex differences in test score variability",
+        "volume": "322",
+        "author": "Machin",
+        "year": "2008",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0175",
+        "first-page": "101777",
+        "article-title": "Greater male variability and extreme right tails of performance distributions: Evidence from population-level educational data",
+        "volume": "102",
+        "author": "Madison",
+        "year": "2024",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1016/j.intell.2016.09.003",
+        "article-title": "Sex differences in the right tail of cognitive abilities: An update and cross-cultural extension",
+        "volume": "59",
+        "author": "Makel",
+        "year": "2016",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.paid.2025.113410_bb0190",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0103537",
+        "article-title": "Specific learning disorder: Prevalence and gender differences",
+        "volume": "9",
+        "author": "Moll",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.paid.2025.113410_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1023/A:1018873615316",
+        "article-title": "Trends in gender differences in academic achievement from 1960 to 1994: An analysis of differences in mean, variance, and extreme scores",
+        "volume": "39",
+        "author": "Nowell",
+        "year": "1998",
+        "journal-title": "Sex Roles"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0200",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2024.101857",
+        "article-title": "Sex differences of school grades in childhood and adolescence: A longitudinal analysis",
+        "volume": "107",
+        "author": "Oakley",
+        "year": "2024",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113410_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1177/0022219413508323",
+        "article-title": "Gender differences in reading impairment and in the identification of impaired readers: Results from a large-scale study of at-risk readers",
+        "volume": "48",
+        "author": "Quinn",
+        "year": "2015",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0210",
+        "author": "R Core Team",
+        "year": "2024",
+        "series-title": "R: A language and environment for statistical computing"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2025.113410_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1037/edu0000012",
+        "article-title": "Sex differences in mathematics and science achievement: A meta-analysis of national assessment of educational progress assessments",
+        "volume": "107",
+        "author": "Reilly",
+        "year": "2015",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113410_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1037/amp0000356",
+        "article-title": "Gender differences in reading and writing achievement: Evidence from the NAEP",
+        "volume": "74",
+        "author": "Reilly",
+        "year": "2019",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1037/a0037107",
+        "article-title": "“Michael can’t read!” Teachers’ gender stereotypes and boys’ reading self-concept",
+        "volume": "107",
+        "author": "Retelsdorf",
+        "year": "2015",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113410_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1002/rrq.92",
+        "article-title": "The school age gender gap in reading achievement: Examining the influences of item format and intrinsic reading motivation",
+        "volume": "50",
+        "author": "Schwabe",
+        "year": "2015",
+        "journal-title": "Reading Research Quarterly"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113410_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1177/0956797617741719",
+        "article-title": "The gender-equality paradox in science, technology, engineering, and mathematics education",
+        "volume": "29",
+        "author": "Stoet",
+        "year": "2018",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2025.113410_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "1161",
+        "DOI": "10.1037/pspp0000484",
+        "article-title": "Gender differences and variability in creative ability: A systematic review and meta-analysis of the greater male variability hypothesis in creativity",
+        "volume": "126",
+        "author": "Taylor",
+        "year": "2024",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1177/0956797620956632",
+        "article-title": "Greater male variability in cooperation: Meta-analytic evidence for an evolutionary perspective",
+        "volume": "32",
+        "author": "Thöni",
+        "year": "2021",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2025.113410_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.7227/RIE.76.7",
+        "article-title": "Attitudes and attainment",
+        "volume": "76",
+        "author": "Tse",
+        "year": "2006",
+        "journal-title": "Research in Education"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2025.113410_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1075/wll.16.2.05tse",
+        "article-title": "The influences of gender, reading ability, independent reading, and context on reading attitude",
+        "volume": "16",
+        "author": "Tse",
+        "year": "2013",
+        "journal-title": "Written Language & Literacy"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2025.113410_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v036.i03",
+        "article-title": "Conducting meta-analyses in R with the metafor",
+        "volume": "36",
+        "author": "Viechtbauer",
+        "year": "2010",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2025.113410_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1016/j.intell.2010.04.006",
+        "article-title": "Sex differences in the right tail of cognitive abilities: A 30 year examination",
+        "volume": "38",
+        "author": "Wai",
+        "year": "2010",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0270",
+        "first-page": "81",
+        "article-title": "Sex differences in ability, preferences, and STEM achievements: What’s domain specific, what’s domain general?",
+        "author": "Wai",
+        "year": "2018",
+        "series-title": "The roots of gender inequality in developing countries"
+      },
+      {
+        "key": "10.1016/j.paid.2025.113410_bb0275",
+        "author": "World Economic Forum",
+        "year": "2024",
+        "series-title": "Global gender gap report 2024"
+      }
+    ],
+    "container-title": "Personality and Individual Differences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886925003721?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886925003721?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2026, 3, 6]
+      ],
+      "date-time": "2026-03-06T10:37:16Z",
+      "timestamp": 1772793436000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886925003721"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2025, 12]
+      ]
+    },
+    "references-count": 47,
+    "alternative-id": "S0191886925003721",
+    "URL": "https://doi.org/10.1016/j.paid.2025.113410",
+    "relation": {},
+    "ISSN": "0191-8869",
+    "issn-type": [
+      {
+        "value": "0191-8869",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2025, 12]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Sex differences in variability: Evidence from math and reading assessment in Italy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Personality and Individual Differences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.paid.2025.113410",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "113410"
+  }
+}

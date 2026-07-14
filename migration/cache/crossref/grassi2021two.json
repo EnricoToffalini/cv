@@ -1,0 +1,631 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 11, 5]
+      ],
+      "date-time": "2025-11-05T21:06:13Z",
+      "timestamp": 1762376773924,
+      "version": "3.37.3"
+    },
+    "reference-count": 49,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 8, 12]
+          ],
+          "date-time": "2020-08-12T00:00:00Z",
+          "timestamp": 1597190400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2020, 8, 12]
+          ],
+          "date-time": "2020-08-12T00:00:00Z",
+          "timestamp": 1597190400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "link.springer.com",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Behav Res",
+    "published-print": {
+      "date-parts": [
+        [2021, 4]
+      ]
+    },
+    "abstract": "<jats:title>Abstract<\/jats:title><jats:p>In order to improve the trustworthiness of our science, several new research practices have been suggested, including preregistration, large statistical power, availability of research data and materials, new statistical standards, and the replication of experiments. We conducted a replication project on an original phenomenon that was discovered more than 25 years ago, namely the attentional blink (Raymond, Shapiro, &amp; Arnell, Human Perception and Performance, 18(3), 849–860, 1992), which has been conceptually replicated hundreds of times with major variations. Here, we ran two identical experiments, adopting the new practices and closely reproducing the original experiment. The two experiments were run by different research groups in different countries and laboratories with different participants. Experiment 1 shared remarkable similarities (in magnitude and duration of the effect) with the original study, but also some differences (the overall accuracy of participants, the timing of the effect, and lag-1 sparing). Experts interviewed to evaluate our results stressed the similarities rather than the differences. Experiment 2 replicated nearly identically the results observed in Experiment 1. These findings show that the adoption of new research practices improves the replicability of experimental research and opens the door for a quantitative and direct comparison of the results collected across different laboratories and countries.<\/jats:p>",
+    "DOI": "10.3758/s13428-020-01457-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 8, 12]
+      ],
+      "date-time": "2020-08-12T20:04:04Z",
+      "timestamp": 1597262644000
+    },
+    "page": "656-668",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": "Two replications of Raymond, Shapiro, and Arnell (1992), The Attentional Blink",
+    "prefix": "10.3758",
+    "volume": "53",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3784-2784",
+        "authenticated-orcid": false,
+        "given": "Massimo",
+        "family": "Grassi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Camilla",
+        "family": "Crotti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ingrid",
+        "family": "Boedker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [2020, 8, 12]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1457_CR1",
+        "unstructured": "American Psychological Association. (2010). Publication manual of the American Psychological Association (5th ed.). Washington, DC: American Psychological Association."
+      },
+      {
+        "key": "1457_CR2",
+        "unstructured": "Baayen, R. H. (2008). Analyzing linguistic data: A practical introduction to statistics using R. Cambridge: Cambridge University Press.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511801686",
+        "volume-title": "Analyzing linguistic data: A practical introduction to statistics using R",
+        "author": "RH Baayen",
+        "year": "2008"
+      },
+      {
+        "key": "1457_CR3",
+        "unstructured": "Bakker, M., & Wicherts, J. M. (2011). The (mis)reporting of statistical results in psychology journals. Behavior Research Methods, 43(3), 666–678. https://doi.org/10.3758/s13428-011-0089-5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13428-011-0089-5"
+      },
+      {
+        "key": "1457_CR4",
+        "unstructured": "Bakker, M., & Wicherts, J. M. (2014). Outlier removal, sum scores, and the inflation of the type I error rate in independent samples t tests: The power of alternatives and recommendations. Psychological Methods, 19(3), 409–427. https://doi.org/10.1037/met0000014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/met0000014"
+      },
+      {
+        "key": "1457_CR5",
+        "unstructured": "Broadbent, D. E., & Broadbent, M. H. (1987). From detection to identification: Response to multiple targets in rapid serial visual presentation. Perception & Psychophysics, 42(2), 105-113.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03210498",
+        "author": "DE Broadbent",
+        "year": "1987",
+        "issue": "2",
+        "first-page": "105",
+        "volume": "42",
+        "journal-title": "Perception & Psychophysics"
+      },
+      {
+        "key": "1457_CR6",
+        "unstructured": "Bürkner, P. C. (2017). Brms: an R package for Bayesian multilevel models using Stan. Journal of Statistical Software, 80, 1-28. https://doi.org/10.18637/jss.v080.i01",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v080.i01"
+      },
+      {
+        "key": "1457_CR7",
+        "unstructured": "Burnham, K. P., Anderson, D. R., & Huyvaert, K. P. (2011). AIC model selection and multimodel inference in behavioral ecology: Some background, observations, and comparisons. Behavioral Ecology and Sociobiology, 65, 23-35. https://doi.org/10.1007/s00265-010-1029-6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00265-010-1029-6"
+      },
+      {
+        "key": "1457_CR8",
+        "unstructured": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., … Altmejd, A. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41562-018-0399-z",
+        "author": "CF Camerer",
+        "year": "2018",
+        "issue": "9",
+        "first-page": "637",
+        "volume": "2",
+        "journal-title": "Nature Human Behaviour"
+      },
+      {
+        "key": "1457_CR9",
+        "unstructured": "Chambers, C. (2017). The seven deadly sins of psychology: A manifesto for reforming the culture of scientific practice. Princeton, NJ: Princeton University Press.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9781400884940",
+        "volume-title": "The seven deadly sins of psychology: A manifesto for reforming the culture of scientific practice",
+        "author": "C Chambers",
+        "year": "2017"
+      },
+      {
+        "key": "1457_CR10",
+        "unstructured": "R Core Team (2017). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. Retrieved from: https://www.R-project.org/"
+      },
+      {
+        "key": "1457_CR11",
+        "unstructured": "Cousineau, D., Charbonneau, D., & Jolicoeur, P. (2006). Parameterizing the attentional blink effect. Canadian Journal of Experimental Psychology, 60(3), 175-189. https://doi.org/10.1037/cjep2006017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/cjep2006017"
+      },
+      {
+        "key": "1457_CR12",
+        "unstructured": "Cowan, N. (2018). Experimental Psychology Generally, and the Journal Today. Journal of Experimental Psychology: General, 147(4), 459-461. https://doi.org/10.1037/xge0000439",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000439"
+      },
+      {
+        "key": "1457_CR13",
+        "unstructured": "Cumming, G., Fidler F., Leonard, M., Kalinowski, P., Christiansen, A., Kleinig, A., Lo N., & McMenam (2007). Statistical reform in psychology: Is anything changing? Psychological Science, 18, 230-232. https://doi.org/10.1111/j.1467-9280.2007.01881.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2007.01881.x"
+      },
+      {
+        "key": "1457_CR14",
+        "unstructured": "Dux, P. E., & Marois, R. (2009). The attentional blink: A review of data and theory. Attention, Perception, & Psychophysics, 71(8), 1683-1700. https://doi.org/10.3758/APP.71.8.1683",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/APP.71.8.1683"
+      },
+      {
+        "key": "1457_CR15",
+        "unstructured": "Etz, A., & Vandekerckhove, J. (2016). A Bayesian perspective on the reproducibility project: Psychology. PLOS ONE, 11(2), e0149794.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0149794",
+        "author": "A Etz",
+        "year": "2016",
+        "issue": "2",
+        "first-page": "e0149794",
+        "volume": "11",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "key": "1457_CR16",
+        "unstructured": "Giesbrecht, B., & Di Lollo, V. (1998). Beyond the attentional blink: visual masking by object substitution. Journal of Experimental Psychology: Human Perception and Performance, 24(5), 1454-1466.",
+        "author": "B Giesbrecht",
+        "year": "1998",
+        "issue": "5",
+        "first-page": "1454",
+        "volume": "24",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance"
+      },
+      {
+        "key": "1457_CR17",
+        "unstructured": "Giofrè, D., Cumming, G., Fresc, L., Boedker, I., & Tressoldi, P. (2017). The influence of journal submission guidelines on authors’ reporting of statistics and use of open research practices. PLOS ONE, 12(4), e0175583. https://doi.org/10.1371/journal.pone.0175583",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0175583"
+      },
+      {
+        "key": "1457_CR18",
+        "unstructured": "Hasselblad, V., & Hedges, L. V. (1995). Meta-analysis of screening and diagnostic tests. Psychological Bulletin, 117, 167-178.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.117.1.167",
+        "author": "V Hasselblad",
+        "year": "1995",
+        "first-page": "167",
+        "volume": "117",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "1457_CR19",
+        "unstructured": "Hulme, C., Maughan, S., & Brown, G. D. (1991). Memory for familiar and unfamiliar words: Evidence for a long-term memory contribution to short-term memory span. Journal of Memory and Language, 30(6), 685-701.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0749-596X(91)90032-F",
+        "author": "C Hulme",
+        "year": "1991",
+        "issue": "6",
+        "first-page": "685",
+        "volume": "30",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "key": "1457_CR20",
+        "unstructured": "Jaeger, T. F. (2008). Categorical data analysis: Away from ANOVAs (transformation or not) and towards logit mixed models. Journal of Memory and Language, 59, 434-446. https://doi.org/10.1016/j.jml.2007.11.007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2007.11.007"
+      },
+      {
+        "key": "1457_CR21",
+        "unstructured": "Klein, R. A., Vianello, M., Hasselman, F., Adams, B. G., Adams Jr, R. B., Alper, S., … Batra, R. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2515245918810225",
+        "author": "RA Klein",
+        "year": "2018",
+        "issue": "4",
+        "first-page": "443",
+        "volume": "1",
+        "journal-title": "Advances in Methods and Practices in Psychological Science"
+      },
+      {
+        "key": "1457_CR22",
+        "unstructured": "Kleiner, M., Brainard, D., Pelli, D., Ingling, A., Murray, R., & Broussard, C. (2007). What’s new in Psychtoolbox-3? Perception, 36(Suppl. 1), 14. https://doi.org/10.1177/03010066070360S101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03010066070360S101"
+      },
+      {
+        "key": "1457_CR23",
+        "unstructured": "Kruschke, J. K. (2014). Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan. (2nd). Waltham: Academic Press.",
+        "volume-title": "Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan",
+        "author": "JK Kruschke",
+        "year": "2014",
+        "edition": "2"
+      },
+      {
+        "key": "1457_CR24",
+        "unstructured": "Kruschke, J. K., & Liddell, T. M. (2015). The Bayesian new statistics: Two historical trends converge. SSRN Electronic Journal, 2606016.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2139/ssrn.2606016"
+      },
+      {
+        "key": "1457_CR25",
+        "unstructured": "Lindsay, D. S., Simons, D. J., & Lilienfeld, S. O. (2016). Research preregistration 101. Observer, 29, 14–16.",
+        "author": "DS Lindsay",
+        "year": "2016",
+        "first-page": "14",
+        "volume": "29",
+        "journal-title": "Observer"
+      },
+      {
+        "key": "1457_CR26",
+        "unstructured": "MacLean, M. H., & Arnell, K. M. (2012). A conceptual and methodological framework for measuring and modulating the attentional blink. Attention, Perception, & Psychophysics, 74(6), 1080-1097.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13414-012-0338-4",
+        "author": "MH MacLean",
+        "year": "2012",
+        "issue": "6",
+        "first-page": "1080",
+        "volume": "74",
+        "journal-title": "Attention, Perception, & Psychophysics"
+      },
+      {
+        "key": "1457_CR27",
+        "unstructured": "Martens, S., & Wyble, B. (2010). The attentional blink: Past, present, and future of a blind spot in perceptual awareness. Neuroscience & Biobehavioral Reviews, 34(6), 947-957. https://doi.org/10.1016/j.neubiorev.2009.12.005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neubiorev.2009.12.005"
+      },
+      {
+        "key": "1457_CR28",
+        "unstructured": "McElreath, R. (2016). Statistical rethinking: A Bayesian course with examples in R and Stan. Boca Raton, FL: Chapman & Hall/CRC Press.",
+        "volume-title": "Statistical rethinking: A Bayesian course with examples in R and Stan",
+        "author": "R McElreath",
+        "year": "2016"
+      },
+      {
+        "key": "1457_CR29",
+        "unstructured": "McLaughlin, E., Shore, D., & Klein, R. (2001). The attentional blink is immune to masking-induced data limits. The Quarterly Journal of Experimental Psychology, 54, 169-196. https://doi.org/10.1080/02724980042000075",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02724980042000075"
+      },
+      {
+        "key": "1457_CR30",
+        "unstructured": "Morey, R. D., & Lakens, D. (2016). Why most of psychology is statistically unfalsifiable. Manuscript submitted for publication. Retrieved from https://github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf."
+      },
+      {
+        "key": "1457_CR31",
+        "unstructured": "Olivers, C. N., & Meeter, M. (2008). A boost and bounce theory of temporal attention. Psychological Review, 115(4), 836-863.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0013395",
+        "author": "CN Olivers",
+        "year": "2008",
+        "issue": "4",
+        "first-page": "836",
+        "volume": "115",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "1457_CR32",
+        "unstructured": "Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aac4716"
+      },
+      {
+        "key": "1457_CR33",
+        "unstructured": "Pashler, H., & Harris, C. R. (2012). Is the replicability crisis overblown? Three arguments Examined. Perspectives on Psychological Science, 7, 531-536. https://doi.org/10.1177/1745691612463401",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691612463401"
+      },
+      {
+        "key": "1457_CR34",
+        "unstructured": "Popple, A. V., & Levi, D. M. (2007). Attentional blinks as errors in temporal binding. Vision Research, 47(23), 2973-2981.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.visres.2007.06.022",
+        "author": "AV Popple",
+        "year": "2007",
+        "issue": "23",
+        "first-page": "2973",
+        "volume": "47",
+        "journal-title": "Vision Research"
+      },
+      {
+        "key": "1457_CR35",
+        "unstructured": "Raymond, J. E., Shapiro, K. L., & Arnell, K. M. (1992). Temporary suppression of visual processing in an RSVP task: An attentional blink? Journal of Experimental Psychology. Human Perception and Performance, 18(3), 849–860. https://doi.org/10.1037/0096-1523.18.3.849",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-1523.18.3.849"
+      },
+      {
+        "key": "1457_CR36",
+        "unstructured": "Raymond, J. E., Shapiro, K. L., & Arnell, K. M. (1995). Similarity determines the attentional blink. Journal of Experimental Psychology: Human Perception and Performance, 21(3), 653-662."
+      },
+      {
+        "key": "1457_CR37",
+        "unstructured": "Shapiro, K. L. (1994). The attentional blink: The brain's “eyeblink”. Current Directions in Psychological Science, 3(3), 86-89.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.ep10770436",
+        "author": "KL Shapiro",
+        "year": "1994",
+        "issue": "3",
+        "first-page": "86",
+        "volume": "3",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "1457_CR38",
+        "unstructured": "Shapiro, K. L., Caldwell, J., & Sorensen, R. E. (1997a). Personal names and the attentional blink: A visual\" cocktail party\" effect. Journal of Experimental Psychology: Human Perception and Performance, 23(2), 504-514.",
+        "author": "KL Shapiro",
+        "year": "1997",
+        "issue": "2",
+        "first-page": "504",
+        "volume": "23",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance"
+      },
+      {
+        "key": "1457_CR39",
+        "unstructured": "Shapiro, K. L., Raymond, J. E., & Arnell, K. M. (1994). Attention to visual pattern information produces the attentional blink in rapid serial visual presentation. Journal of Experimental Psychology: Human Perception and Performance, 20(2), 357-371.",
+        "author": "KL Shapiro",
+        "year": "1994",
+        "issue": "2",
+        "first-page": "357",
+        "volume": "20",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance"
+      },
+      {
+        "key": "1457_CR40",
+        "unstructured": "Shapiro, K. L., Raymond, J. E., & Arnell, K. M. (1997b). The attentional blink. Trends in Cognitive Sciences, 1(8), 291-296.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1364-6613(97)01094-2",
+        "author": "KL Shapiro",
+        "year": "1997",
+        "issue": "8",
+        "first-page": "291",
+        "volume": "1",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "1457_CR41",
+        "unstructured": "Taatgen, N. A., Juvina, I., Schipper, M., Borst, J. P., & Martens, S. (2009). Too much control can hurt: A threaded cognition model of the attentional blink. Cognitive Psychology, 59(1), 1-29.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cogpsych.2008.12.002",
+        "author": "NA Taatgen",
+        "year": "2009",
+        "issue": "1",
+        "first-page": "1",
+        "volume": "59",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "key": "1457_CR42",
+        "unstructured": "Tressoldi, P. E., & Giofrè, D. (2015). The pervasive avoidance of prospective statistical power: Major consequences and practical solutions. Frontiers in Psychology, 6, 726. https://doi.org/10.3389/fpsyg.2015.00726",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00726"
+      },
+      {
+        "key": "1457_CR43",
+        "unstructured": "van de Schoot, R., Kaplan, D., Denissen, J., Asendorpf, J. B., Neyer, F. J., & van Aken, M. A. G. (2014). A gentle introduction to Bayesian analysis: applications to developmental research. Child Development, 85, 842-860. https://doi.org/10.1111/cdev.12169",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cdev.12169"
+      },
+      {
+        "key": "1457_CR44",
+        "unstructured": "Wagenmakers, E.-J., Verhagen, J., Ly, A., Bakker, M., Lee, M. D., Matzke, D., … Morey, R. D. (2014). A power fallacy. Behavior Research Methods, 47(4), 913-917. https://doi.org/10.3758/s13428-014-0517-4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13428-014-0517-4"
+      },
+      {
+        "key": "1457_CR45",
+        "unstructured": "Watanabe, S. (2010). Asymptotic equivalence of Bayes cross validation and widely applicable information criterion in singular learning theory. Journal of Machine Learning Research, 11, 3571-3594.",
+        "author": "S Watanabe",
+        "year": "2010",
+        "first-page": "3571",
+        "volume": "11",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "1457_CR46",
+        "unstructured": "Weichselgartner, E., & Sperling, G. (1987). Dynamics of automatic and controlled visual attention. Science, 238(4828), 778-780.",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.3672124",
+        "author": "E Weichselgartner",
+        "year": "1987",
+        "issue": "4828",
+        "first-page": "778",
+        "volume": "238",
+        "journal-title": "Science"
+      },
+      {
+        "key": "1457_CR47",
+        "unstructured": "Wicherts, J. M., & Bakker, M. (2012). Publish (your data) or (let the data) perish! Why not publish your data too? Intelligence, 40(2), 73–76. https://doi.org/10.1016/j.intell.2012.01.004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2012.01.004"
+      },
+      {
+        "key": "1457_CR48",
+        "unstructured": "Wyble, B., Bowman, H., & Nieuwenstein, M. (2009). The attentional blink provides episodic distinctiveness: sparing at a cost. Journal of Experimental Psychology: Human Perception and Performance, 35(3), 787-807.",
+        "author": "B Wyble",
+        "year": "2009",
+        "issue": "3",
+        "first-page": "787",
+        "volume": "35",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance"
+      },
+      {
+        "key": "1457_CR49",
+        "unstructured": "Zwaan, R. A., Etz, A., Lucas, R. E., & Donnellan, M. B. (2018). Making replication mainstream. Behavioral and Brain Sciences, 1–61. https://doi.org/10.1017/S0140525X17001972",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X17001972"
+      }
+    ],
+    "container-title": "Behavior Research Methods",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-020-01457-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.3758/s13428-020-01457-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-020-01457-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2021, 8, 11]
+      ],
+      "date-time": "2021-08-11T23:31:03Z",
+      "timestamp": 1628724663000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.3758/s13428-020-01457-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 8, 12]
+      ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [2021, 4]
+        ]
+      }
+    },
+    "alternative-id": "1457",
+    "URL": "https://doi.org/10.3758/s13428-020-01457-6",
+    "relation": {},
+    "ISSN": "1554-3528",
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1554-3528"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 8, 12]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "12 August 2020",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  }
+}

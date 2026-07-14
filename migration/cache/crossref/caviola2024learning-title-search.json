@@ -1,0 +1,2307 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 11251831,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 7, 8]
+          ],
+          "date-time": "2026-07-08T02:05:36Z",
+          "timestamp": 1783476336216,
+          "version": "3.55.0"
+        },
+        "reference-count": 32,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [2024, 7, 1]
+              ],
+              "date-time": "2024-07-01T00:00:00Z",
+              "timestamp": 1719792000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [2024, 7, 1]
+              ],
+              "date-time": "2024-07-01T00:00:00Z",
+              "timestamp": 1719792000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100024370",
+            "name": "Ministero dell'Istruzione dell'Università e della Ricerca",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100024370",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": ["elsevier.com", "sciencedirect.com"],
+          "crossmark-restriction": true
+        },
+        "short-container-title": "Learning and Individual Differences",
+        "published-print": {
+          "date-parts": [
+            [2024, 7]
+          ]
+        },
+        "DOI": "10.1016/j.lindif.2024.102490",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2024, 6, 19]
+          ],
+          "date-time": "2024-06-19T09:24:04Z",
+          "timestamp": 1718789044000
+        },
+        "page": "102490",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "special_numbering": "C",
+        "title": "Learning disorders and difficulties: From a categorical to a dimensional perspective",
+        "prefix": "10.1016",
+        "volume": "113",
+        "author": [
+          {
+            "given": "Sara",
+            "family": "Caviola",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Samuel",
+            "family": "Greiff",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Enrico",
+            "family": "Toffalini",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0005",
+            "series-title": "Diagnostic and statistical manual of mental disorders",
+            "author": "American Psychiatric Association",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0010",
+            "author": "Astle",
+            "year": "2024",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.neubiorev.2024.105539",
+            "article-title": "Understanding divergence: Placing developmental neuroscience in its dynamic context",
+            "volume": "157",
+            "journal-title": "Neuroscience and Biobehavioral Reviews"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0015",
+            "author": "Astle",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jcpp.13481",
+            "article-title": "Annual research review: The transdiagnostic revolution in neurodevelopmental disorders",
+            "volume": "63",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "4",
+            "first-page": "397"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0020",
+            "author": "Carretti",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/10888438.2021.1897596",
+            "article-title": "Inferring the performance of children with dyslexia from that of the general population: The case of associative phonological working memory",
+            "volume": "26",
+            "journal-title": "Scientific Studies of Reading",
+            "issue": "1",
+            "first-page": "47"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0025",
+            "series-title": "Human cognitive abilities: A survey of factor analytic studies",
+            "author": "Carroll",
+            "year": "1993"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0030",
+            "author": "Cornoldi",
+            "year": "2023",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.intell.2023.101736",
+            "article-title": "Cognitive characteristics of intellectually gifted children with a diagnosis of ADHD",
+            "volume": "97",
+            "journal-title": "Intelligence"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb1000",
+            "author": "Deary",
+            "year": "2007",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.intell.2006.02.001",
+            "article-title": "Intelligence and educational achievement",
+            "volume": "35",
+            "journal-title": "Intelligence",
+            "issue": "1",
+            "first-page": "13"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0035",
+            "author": "Donolato",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jcpp.13536",
+            "article-title": "Research review: Language and specific learning disorders in children and their co-occurrence with internalizing and externalizing problems: A systematic review and meta-analysis",
+            "volume": "63",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "5",
+            "first-page": "507"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0040",
+            "author": "Donolato"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0045",
+            "author": "Doust",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1038/s41588-022-01192-y",
+            "article-title": "Discovery of 42 genome-wide significant loci associated with dyslexia",
+            "volume": "54",
+            "journal-title": "Nature Genetics",
+            "issue": "11",
+            "first-page": "1621"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0050",
+            "series-title": "Pattern classification and scene analysis",
+            "author": "Duda",
+            "year": "1973"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0055",
+            "author": "Fletcher-Watson",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jcpp.13589",
+            "article-title": "Transdiagnostic research and the neurodiversity paradigm: commentary on the transdiagnostic revolution in neurodevelopmental disorders by Astle et al",
+            "volume": "63",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "4",
+            "first-page": "418"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0060",
+            "author": "Happé",
+            "year": "2020",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jcpp.13176",
+            "article-title": "Annual research review: Looking back to look forward–changes in the concept of autism and implications for future research",
+            "volume": "61",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "3",
+            "first-page": "218"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0065",
+            "author": "Happé",
+            "year": "2021",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/s10803-020-04728-5",
+            "article-title": "Dimensional or categorical approaches to autism? Both are needed. A reply to nick Chown and Julia Leatherland",
+            "volume": "51",
+            "journal-title": "Journal of Autism and Developmental Disorders",
+            "first-page": "752"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0070",
+            "author": "Hofer",
+            "year": "2006",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1207/s15327906mbr4102_4",
+            "article-title": "Cross-sectional analysis of time-dependent data: Mean-induced association in age-heterogeneous samples and an alternative method based on sequential narrow age-cohort samples",
+            "volume": "41",
+            "journal-title": "Multivariate Behavioral Research",
+            "issue": "2",
+            "first-page": "165"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0075",
+            "author": "Landerl",
+            "year": "2010",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/j.1469-7610.2009.02164.x",
+            "article-title": "Comorbidity of learning disorders: Prevalence and familial transmission",
+            "volume": "51",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "3",
+            "first-page": "287"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0080",
+            "author": "Levy",
+            "year": "1997",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1097/00004583-199706000-00009",
+            "article-title": "Attention-deficit hyperactivity disorder: A category or a continuum? Genetic analysis of a large-scale twin study",
+            "volume": "36",
+            "journal-title": "Journal of the American Academy of Child & Adolescent Psychiatry",
+            "issue": "6",
+            "first-page": "737"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0085",
+            "author": "Lunardon",
+            "year": "2023",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ridd.2023.104478",
+            "article-title": "Low discriminative power of WISC cognitive profile in developmental dyscalculia",
+            "volume": "136",
+            "journal-title": "Research in Developmental Disabilities"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0090",
+            "author": "Mammarella",
+            "year": "2021",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jcpp.13397",
+            "article-title": "No evidence for a core deficit in developmental dyscalculia or mathematical learning disabilities",
+            "volume": "62",
+            "journal-title": "Journal of Child Psychology and Psychiatry",
+            "issue": "6",
+            "first-page": "704"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0095",
+            "author": "McGrath",
+            "year": "2020",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/10888438.2019.1706180",
+            "article-title": "The multiple deficit model: Progress, problems, and prospects",
+            "volume": "24",
+            "journal-title": "Scientific Studies of Reading",
+            "issue": "1",
+            "first-page": "7"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0100",
+            "author": "Pastor",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0105",
+            "author": "Pennington",
+            "year": "2006",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.cognition.2006.04.008",
+            "article-title": "From single to multiple deficit models of developmental disorders",
+            "volume": "101",
+            "journal-title": "Cognition",
+            "issue": "2",
+            "first-page": "385"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0110",
+            "author": "Peters",
+            "year": "2019",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.tine.2019.100115",
+            "article-title": "Are specific learning disorders truly specific, and are they disorders?",
+            "volume": "17",
+            "journal-title": "Trends in Neuroscience and Education"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0115",
+            "author": "Peterson",
+            "year": "2017",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/0022219415618500",
+            "article-title": "Cognitive prediction of reading, math, and attention: Shared and unique influences",
+            "volume": "50",
+            "journal-title": "Journal of Learning Disabilities",
+            "issue": "4",
+            "first-page": "408"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0120",
+            "author": "Ronald",
+            "year": "2021",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jaac.2021.01.019",
+            "article-title": "Systematic review: How the attention-deficit/hyperactivity disorder polygenic risk score adds to our understanding of ADHD and associated traits",
+            "volume": "60",
+            "journal-title": "Journal of the American Academy of Child & Adolescent Psychiatry",
+            "issue": "10",
+            "first-page": "1234"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0125",
+            "author": "Simonsohn",
+            "year": "2015",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/0956797614567341",
+            "article-title": "Small telescopes: Detectability and the evaluation of replication results",
+            "volume": "26",
+            "journal-title": "Psychological Science",
+            "issue": "5",
+            "first-page": "559"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0130",
+            "author": "Snowling",
+            "year": "2020",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/03054985.2020.1765756",
+            "article-title": "Defining and understanding dyslexia: Past, present and future",
+            "volume": "46",
+            "journal-title": "Oxford Review of Education",
+            "issue": "4",
+            "first-page": "501"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0135",
+            "author": "Tein",
+            "year": "2013",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/10705511.2013.824781",
+            "article-title": "Statistical power to detect the correct number of classes in latent profile analysis",
+            "volume": "20",
+            "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal",
+            "issue": "4",
+            "first-page": "640"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0140",
+            "author": "Toffalini",
+            "year": "2017",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/2167702616672038",
+            "article-title": "Strengths and weaknesses in the intellectual profile of different subtypes of specific learning disorder: A study on 1,049 diagnosed children",
+            "volume": "5",
+            "journal-title": "Clinical Psychological Science",
+            "issue": "2",
+            "first-page": "402"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0145",
+            "author": "Toffalini",
+            "year": "2022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0269584",
+            "article-title": "Entia non Sunt Multiplicanda… shall I look for clusters in my cognitive data?",
+            "volume": "17",
+            "journal-title": "PlosOne",
+            "issue": "6"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb1005",
+            "author": "Vieira",
+            "year": "2024",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/s11881-023-00294-4",
+            "article-title": "Internalizing problems in individuals with reading, mathematics and unspecified learning difficulties: a systematic review and meta-analysis",
+            "volume": "74",
+            "journal-title": "Annals of Dyslexia",
+            "issue": "1",
+            "first-page": "4"
+          },
+          {
+            "key": "10.1016/j.lindif.2024.102490_bb0150",
+            "author": "Willcutt",
+            "year": "2019",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/cad.20291",
+            "article-title": "Understanding comorbidity between specific learning disabilities",
+            "volume": "2019",
+            "journal-title": "New Directions for Child and Adolescent Development",
+            "issue": "165",
+            "first-page": "91"
+          }
+        ],
+        "container-title": "Learning and Individual Differences",
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1041608024000839?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1041608024000839?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2024, 7, 17]
+          ],
+          "date-time": "2024-07-17T03:09:18Z",
+          "timestamp": 1721185758000
+        },
+        "score": 43.2621,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1041608024000839"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2024, 7]
+          ]
+        },
+        "references-count": 32,
+        "alternative-id": "S1041608024000839",
+        "URL": "https://doi.org/10.1016/j.lindif.2024.102490",
+        "ISSN": "1041-6080",
+        "issn-type": [
+          {
+            "value": "1041-6080",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2024, 7]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Learning disorders and difficulties: From a categorical to a dimensional perspective",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Learning and Individual Differences",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.lindif.2024.102490",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "simple-article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2024 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "102490",
+        "journal-issue": {
+          "published-print": {
+            "date-parts": null
+          }
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 6, 1]
+          ],
+          "date-time": "2026-06-01T22:00:40Z",
+          "timestamp": 1780351240003,
+          "version": "3.54.1"
+        },
+        "reference-count": 60,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [2017, 4, 1]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "funder": null,
+        "content-domain": {
+          "domain": ["elsevier.com", "sciencedirect.com"],
+          "crossmark-restriction": true
+        },
+        "short-container-title": "Current Opinion in Behavioral Sciences",
+        "published-print": {
+          "date-parts": [
+            [2017, 4]
+          ]
+        },
+        "DOI": "10.1016/j.cobeha.2016.12.011",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2017, 1, 16]
+          ],
+          "date-time": "2017-01-16T17:33:48Z",
+          "timestamp": 1484588028000
+        },
+        "page": "72-77",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 28,
+        "special_numbering": "C",
+        "title": "Stress and psychiatric disorders: from categorical to dimensional approaches",
+        "prefix": "10.1016",
+        "volume": "14",
+        "author": [
+          {
+            "given": "Francesco Vailati",
+            "family": "Riboni",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Catherine",
+            "family": "Belzung",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1152/physrev.1929.9.3.399",
+            "article-title": "Organization for physiological homeostasis",
+            "volume": "9",
+            "author": "Cannon",
+            "year": "1929",
+            "journal-title": "Physiol Rev"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1038/138032a0",
+            "article-title": "A syndrome produced by diverse nocuous agents",
+            "volume": "138",
+            "author": "Selye",
+            "year": "1936",
+            "journal-title": "Nature"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "721",
+            "DOI": "10.1016/S0006-3223(00)00964-1",
+            "article-title": "Effects of adverse experiences for brain structure and function",
+            "volume": "48",
+            "author": "McEwen",
+            "year": "2000",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0020",
+            "author": "Selye",
+            "year": "1950",
+            "series-title": "The Physiology and Pathology of Exposure to Stress, a Treatise Based on the Concepts of the General-adaptation Syndrome and the Diseases of Adaptation"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1353",
+            "DOI": "10.1038/nn.4086",
+            "article-title": "Mechanisms of stress in the brain",
+            "volume": "18",
+            "author": "Mc Ewen",
+            "year": "2015",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "1364",
+            "DOI": "10.1038/nn.4115",
+            "article-title": "Neighborhood matters: divergent patterns of stress-induces plasticity across the brain",
+            "volume": "18",
+            "author": "Chattarji",
+            "year": "2015",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1007/s00441-013-1612-z",
+            "article-title": "Hippocampal neurogenesis: a biomarker for depression or antidepressant effects? Methodological considerations and perspectives for future research",
+            "volume": "354",
+            "author": "Tanti",
+            "year": "2013",
+            "journal-title": "Cell Tissue Res"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1016/j.neuroscience.2013.08.017",
+            "article-title": "Neurogenesis along the septo-temporal axis of the hippocampus: are depression and the action of antidepressants region-specific?",
+            "volume": "252",
+            "author": "Tanti",
+            "year": "2013",
+            "journal-title": "Neuroscience"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "811",
+            "DOI": "10.1038/mp.2014.12",
+            "article-title": "Preferential loss of dorsal-hippocampus synapses underlies memory impairments provoked by short, multimodal stress",
+            "volume": "19",
+            "author": "Maras",
+            "year": "2014",
+            "journal-title": "Mol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1376",
+            "DOI": "10.1038/nn.4087",
+            "article-title": "Stress weakens prefrontal networks: molecular insults to higher cognition",
+            "volume": "18",
+            "author": "Arnsten",
+            "year": "2015",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "236",
+            "DOI": "10.1002/neu.20025",
+            "article-title": "Chronic stress alters dendritic morphology in rat medial prefrontal cortex",
+            "volume": "60",
+            "author": "Cook",
+            "year": "2004",
+            "journal-title": "J Neurobiol"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "7870",
+            "DOI": "10.1523/JNEUROSCI.1184-06.2006",
+            "article-title": "Stress-induced alterations in prefrontal cortical dendritic morphology predict selective impairments in perceptual attentional set-shifting",
+            "volume": "26",
+            "author": "Liston",
+            "year": "2006",
+            "journal-title": "J Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1016/j.expneurol.2005.07.008",
+            "article-title": "Reversibility of apical dendritic retraction in the rat medial prefrontal cortex following repeated stress",
+            "volume": "196",
+            "author": "Radley",
+            "year": "2005",
+            "journal-title": "Exp Neurol"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "6726",
+            "DOI": "10.1523/JNEUROSCI.0759-10.2010",
+            "article-title": "Interactive effects of stress and aging on structural plasticity in the prefrontal cortex",
+            "volume": "30",
+            "author": "Bloss",
+            "year": "2010",
+            "journal-title": "J Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "798",
+            "DOI": "10.1016/j.neuroscience.2009.08.053",
+            "article-title": "Structural and functional alterations to rat medial prefrontal cortex following chronic restraint stress and recovery",
+            "volume": "164",
+            "author": "Goldwater",
+            "year": "2009",
+            "journal-title": "Neuroscience"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.1126/science.1171203",
+            "article-title": "Chronic stress causes frontostriatal reorganization and affects decision-making",
+            "volume": "325",
+            "author": "Dias-Ferreira",
+            "year": "2009",
+            "journal-title": "Science"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "e266",
+            "DOI": "10.1038/tp.2013.39",
+            "article-title": "Stress-induced anhedonia is associated with hypertrophy of medium spiny neurons of the nucleus accumbens",
+            "volume": "3",
+            "author": "Bessa",
+            "year": "2013",
+            "journal-title": "Transl Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1016/j.biopsych.2013.09.020",
+            "article-title": "Amygdala-ventral pallidum pathway decreases dopamine activity after chronic mild stress in rats",
+            "volume": "76",
+            "author": "Chang",
+            "year": "2014",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0095",
+            "doi-asserted-by": "crossref",
+            "first-page": "1405",
+            "DOI": "10.1038/nn.4114",
+            "article-title": "Stress effects on the neural substrates of motivated behaviour",
+            "volume": "18",
+            "author": "Hollon",
+            "year": "2015",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0100",
+            "doi-asserted-by": "crossref",
+            "first-page": "635",
+            "DOI": "10.1111/j.1460-9568.2009.06608.x",
+            "article-title": "Age-dependent effect of prenatal stress on hippocampal cell proliferation in female rats",
+            "volume": "29",
+            "author": "Koehl",
+            "year": "2009",
+            "journal-title": "Eur J Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0105",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1016/j.neurobiolaging.2005.02.014",
+            "article-title": "Lifelong corticosterone level determines age-related decline in neurogenesis and memory",
+            "volume": "27",
+            "author": "Montaron",
+            "year": "2006",
+            "journal-title": "Neurobiol Aging"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0110",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.1038/nn.3234",
+            "article-title": "Neurobiology of resilience",
+            "volume": "15",
+            "author": "Russo",
+            "year": "2012",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0115",
+            "doi-asserted-by": "crossref",
+            "first-page": "5375",
+            "DOI": "10.1080/00207543.2011.563826",
+            "article-title": "Resilience: the concept, a literature review and future directions",
+            "volume": "49",
+            "author": "Bhamra",
+            "year": "2011",
+            "journal-title": "Int J Prod Res"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0120",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1176/appi.ajp.161.2.195",
+            "article-title": "Psychobiological mechanisms of resilience and vulnerability: implications for successful adaptation to extreme stress",
+            "volume": "161",
+            "author": "Charney",
+            "year": "2004",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0125",
+            "doi-asserted-by": "crossref",
+            "first-page": "560",
+            "DOI": "10.1038/nn.4245",
+            "article-title": "Resilience to chronic stress is mediated by noradrenergic regulation of dopamine neurons",
+            "volume": "19",
+            "author": "Isingrini",
+            "year": "2016",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0130",
+            "doi-asserted-by": "crossref",
+            "first-page": "1575",
+            "DOI": "10.1016/S0140-6736(13)61611-6",
+            "article-title": "Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010",
+            "volume": "382",
+            "author": "Whiteford",
+            "year": "2013",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0135",
+            "author": "American Psychiatric Association",
+            "year": "2013",
+            "series-title": "DSM-5"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0140",
+            "doi-asserted-by": "crossref",
+            "first-page": "1421",
+            "DOI": "10.1038/nn.4108",
+            "article-title": "Environmental influence in the brain, human welfare and mental health",
+            "volume": "18",
+            "author": "Tost",
+            "year": "2015",
+            "journal-title": "Nat Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0145",
+            "article-title": "Psychosocial risk factors for eating disorders",
+            "author": "Jacobi",
+            "year": "2010",
+            "series-title": "Handbook of Eating Disorders"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0150",
+            "doi-asserted-by": "crossref",
+            "first-page": "721",
+            "DOI": "10.1017/S1092852900019714",
+            "article-title": "Anxiety and schizophrenia: the interaction of subtypes of anxiety and psychotic symptoms",
+            "volume": "10",
+            "author": "Huppert",
+            "year": "2005",
+            "journal-title": "CNS Spectr"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0155",
+            "doi-asserted-by": "crossref",
+            "first-page": "671",
+            "DOI": "10.1093/oxfordjournals.schbul.a007038",
+            "article-title": "The stress cascade and schizophrenia: etiology and onset",
+            "volume": "29",
+            "author": "Corcoran",
+            "year": "2003",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0160",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1177/1362361311425916",
+            "article-title": "Verbal ability, social stress, and anxiety in children with autistic disorder",
+            "volume": "16",
+            "author": "Lanni",
+            "year": "2012",
+            "journal-title": "Autism"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0165",
+            "doi-asserted-by": "crossref",
+            "first-page": "581",
+            "DOI": "10.1016/j.neubiorev.2007.10.003",
+            "article-title": "Inhibitory control and emotional stress regulation: neuroimaging evidence for frontal-limbic dysfunction in psycho-stimulant addiction",
+            "volume": "32",
+            "author": "Li",
+            "year": "2008",
+            "journal-title": "Neurosci Biobehav Rev"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0170",
+            "doi-asserted-by": "crossref",
+            "first-page": "856",
+            "DOI": "10.1176/ajp.154.6.856",
+            "article-title": "Stress reactivity in bipolar patients and its relation to prior history of disorder",
+            "volume": "154",
+            "author": "Hammen",
+            "year": "1997",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0175",
+            "author": "Brown",
+            "year": "1978",
+            "series-title": "Social Origins of Depression"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1016/j.jad.2005.12.009",
+            "article-title": "Severe melancholic depression is more vulnerable than non-melancholic depression to minor precipitating life events",
+            "volume": "91",
+            "author": "Harkness",
+            "year": "2006",
+            "journal-title": "J Affect Disord"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0185",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/S0006-3223(96)00162-X",
+            "article-title": "Magnetic resonance imaging-based measurement of hippocampal volume in post-traumatic stress disorder related to childhood physical and sexual abuse—a preliminary report",
+            "volume": "41",
+            "author": "Bremner",
+            "year": "1997",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0190",
+            "doi-asserted-by": "crossref",
+            "first-page": "1271",
+            "DOI": "10.1016/S0006-3223(99)00045-1",
+            "article-title": "Developmental traumatology. Part II: brain development",
+            "volume": "45",
+            "author": "De Bellis",
+            "year": "1999",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0195",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1176/appi.ajp.2011.11020335",
+            "article-title": "Childhood maltreatment predicts unfavorable course of illness and treatment outcome in depression: a meta-analysis",
+            "volume": "169",
+            "author": "Nanni",
+            "year": "2012",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0200",
+            "doi-asserted-by": "crossref",
+            "first-page": "206",
+            "DOI": "10.1016/j.biopsych.2009.02.019",
+            "article-title": "Childhood adversity is associated with left basal ganglia dysfunction during reward anticipation in adulthood",
+            "volume": "66",
+            "author": "Dillon",
+            "year": "2009",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0205",
+            "doi-asserted-by": "crossref",
+            "first-page": "2316",
+            "DOI": "10.1162/jocn.2009.21394",
+            "article-title": "Hyporesponsive reward anticipation in the basal ganglia following severe institutional deprivation early in life",
+            "volume": "22",
+            "author": "Mehta",
+            "year": "2010",
+            "journal-title": "J Cogn Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0210",
+            "doi-asserted-by": "crossref",
+            "first-page": "406",
+            "DOI": "10.1037/0033-2909.110.3.406",
+            "article-title": "Diathesis-stress theories in the context of life-stress research: implications for the depressive disorders",
+            "volume": "110",
+            "author": "Monroe",
+            "year": "1991",
+            "journal-title": "Psychol Bull"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0215",
+            "doi-asserted-by": "crossref",
+            "first-page": "1343",
+            "DOI": "10.1016/j.neuron.2015.05.036",
+            "article-title": "Epigenetics of stress-related psychiatric disorders and gene×environment interactions",
+            "volume": "86",
+            "author": "Klengel",
+            "year": "2015",
+            "journal-title": "Neuron"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0220",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.conb.2014.08.007",
+            "article-title": "The neurobiological effects of stress as contributors to psychiatric disorders: focus on epigenetics",
+            "volume": "30",
+            "author": "Provencal",
+            "year": "2015",
+            "journal-title": "Curr Opin Neurobiol"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0225",
+            "doi-asserted-by": "crossref",
+            "first-page": "126",
+            "DOI": "10.1186/1741-7015-11-126",
+            "article-title": "Toward the future of psychiatric diagnosis: the seven pillars of RDoC",
+            "volume": "11",
+            "author": "Cuthbert",
+            "year": "2013",
+            "journal-title": "BMC Med"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0230",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.1016/j.bbr.2011.02.039",
+            "article-title": "Acute inescapable stress exposure induces long-term sleep disturbances and avoidance behavior: a mouse model of post-traumatic stress disorder (PTSD)",
+            "volume": "221",
+            "author": "Philbert",
+            "year": "2011",
+            "journal-title": "Behav Brain Res"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0235",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/j.bbr.2006.07.029",
+            "article-title": "Effects of unpredictable chronic mild stress on anxiety and depression-like behavior in mice",
+            "volume": "175",
+            "author": "Mineur",
+            "year": "2006",
+            "journal-title": "Behav Brain Res"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0240",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1016/j.physbeh.2014.04.019",
+            "article-title": "Comparison of depressive behaviors induced by three stress paradigms in rats",
+            "volume": "131",
+            "author": "Bai",
+            "year": "2014",
+            "journal-title": "Physiol Behav"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0245",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1038/mp.2011.48",
+            "article-title": "Antidepressants recruit new neurons to improve stress response regulation",
+            "volume": "16",
+            "author": "Surget",
+            "year": "2011",
+            "journal-title": "Mol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0250",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1016/j.bbr.2004.04.008",
+            "article-title": "Strain differences in sucrose preference and in the consequences of unpredictable chronic mild stress",
+            "volume": "155",
+            "author": "Pothion",
+            "year": "2004",
+            "journal-title": "Behav Brain Res"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0255",
+            "doi-asserted-by": "crossref",
+            "first-page": "11032",
+            "DOI": "10.1073/pnas.97.20.11032",
+            "article-title": "Prenatal stress produces learning deficits associated with an inhibition of neurogenesis in the hippocampus",
+            "volume": "97",
+            "author": "Lemaire",
+            "year": "2000",
+            "journal-title": "Proc Natl Acad Sci U S A"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0260",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/cercor/bhw121",
+            "article-title": "Neonatal maternal separation impairs prefrontal cortical myelination and cognitive functions in rats through activation of wnt signaling",
+            "author": "Yang",
+            "year": "2016",
+            "journal-title": "Cereb Cortex"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0265",
+            "doi-asserted-by": "crossref",
+            "first-page": "1510",
+            "DOI": "10.1126/science.1207615",
+            "article-title": "Glucocorticoids can induce PTSD-like memory impairments in mice",
+            "volume": "335",
+            "author": "Kaouane",
+            "year": "2012",
+            "journal-title": "Science"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0270",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1016/j.biopsych.2015.06.017",
+            "article-title": "Abnormal fear memory as a model for posttraumatic stress disorder",
+            "volume": "78",
+            "author": "Desmedt",
+            "year": "2015",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0275",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/j.neuroscience.2007.09.045",
+            "article-title": "Functional implications of decreases in neurogenesis following chronic mild stress in mice",
+            "volume": "150",
+            "author": "Mineur",
+            "year": "2007",
+            "journal-title": "Neuroscience"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0280",
+            "doi-asserted-by": "crossref",
+            "first-page": "2781",
+            "DOI": "10.1523/JNEUROSCI.4372-06.2007",
+            "article-title": "The prefrontal cortex as a key target of the maladaptive response to stress",
+            "volume": "27",
+            "author": "Cerqueira",
+            "year": "2007",
+            "journal-title": "J Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_sbref0285",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1038/nrn3918",
+            "article-title": "Stress and the social brain: behavioural effects and neurobiological mechanisms",
+            "volume": "16",
+            "author": "Sandi",
+            "year": "2015",
+            "journal-title": "Nat Rev Neurosci"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0290",
+            "doi-asserted-by": "crossref",
+            "first-page": "513",
+            "DOI": "10.1023/A:1025770616068",
+            "article-title": "Agonistic behavior and unpredictable chronic mild stress in mice",
+            "volume": "33",
+            "author": "Mineur",
+            "year": "2003",
+            "journal-title": "Behav Genet"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0295",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.3109/10253890109035016",
+            "article-title": "Hormonal and behavioural abnormalities induced by stress in utero: an animal model for depression",
+            "volume": "4",
+            "author": "Maccari",
+            "year": "2001",
+            "journal-title": "Stress"
+          },
+          {
+            "key": "10.1016/j.cobeha.2016.12.011_bib0300",
+            "doi-asserted-by": "crossref",
+            "first-page": "e69923",
+            "DOI": "10.1371/journal.pone.0069923",
+            "article-title": "Early and later life stress alter brain activity and sleep in rats",
+            "volume": "8",
+            "author": "Mrdalj",
+            "year": "2013",
+            "journal-title": "PLoS One"
+          }
+        ],
+        "container-title": "Current Opinion in Behavioral Sciences",
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S235215461630170X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S235215461630170X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2019, 10, 30]
+          ],
+          "date-time": "2019-10-30T05:31:25Z",
+          "timestamp": 1572413485000
+        },
+        "score": 26.5477,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S235215461630170X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2017, 4]
+          ]
+        },
+        "references-count": 60,
+        "alternative-id": "S235215461630170X",
+        "URL": "https://doi.org/10.1016/j.cobeha.2016.12.011",
+        "ISSN": "2352-1546",
+        "issn-type": [
+          {
+            "value": "2352-1546",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2017, 4]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Stress and psychiatric disorders: from categorical to dimensional approaches",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Current Opinion in Behavioral Sciences",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.cobeha.2016.12.011",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2017 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "journal-issue": {
+          "published-print": {
+            "date-parts": null
+          }
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 6, 30]
+          ],
+          "date-time": "2026-06-30T13:00:11Z",
+          "timestamp": 1782824411828,
+          "version": "3.54.5"
+        },
+        "reference-count": 72,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [2012, 11, 1]
+              ],
+              "date-time": "2012-11-01T00:00:00Z",
+              "timestamp": 1351728000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "funder": null,
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": "Comprehensive Psychiatry",
+        "published-print": {
+          "date-parts": [
+            [2012, 11]
+          ]
+        },
+        "DOI": "10.1016/j.comppsych.2012.04.010",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2012, 6, 7]
+          ],
+          "date-time": "2012-06-07T05:31:45Z",
+          "timestamp": 1339047105000
+        },
+        "page": "1118-1129",
+        "source": "Crossref",
+        "is-referenced-by-count": 58,
+        "title": "Categorical vs dimensional classifications of psychotic disorders",
+        "prefix": "10.1016",
+        "volume": "53",
+        "author": [
+          {
+            "given": "Melissa",
+            "family": "Potuzak",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Caitlin",
+            "family": "Ravichandran",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kathryn E.",
+            "family": "Lewandowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dost",
+            "family": "Ongür",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bruce M.",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0005",
+            "author": "First"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0010",
+            "author": "First"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0015",
+            "author": "Helzer",
+            "doi-asserted-by": "crossref",
+            "first-page": "1671",
+            "DOI": "10.1017/S003329170600821X",
+            "article-title": "The feasibility and need for dimensional psychiatric diagnoses",
+            "volume": "36",
+            "year": "2006",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0020",
+            "author": "Allardyce",
+            "doi-asserted-by": "crossref",
+            "first-page": "S34",
+            "DOI": "10.1002/mpr.214",
+            "article-title": "Dimensions and the psychosis phenotype",
+            "volume": "16",
+            "year": "2007",
+            "journal-title": "Int J Methods Psychiatr Res",
+            "issue": "Suppl. 1"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0025",
+            "unstructured": "The National Institute of Mental Health Strategic Plan. 2007. http://www/nimh.nih.gov/about/strategic-planning-reports/index.shtml."
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0030",
+            "author": "Sanislow",
+            "doi-asserted-by": "crossref",
+            "first-page": "631",
+            "DOI": "10.1037/a0020909",
+            "article-title": "Developing constructs for psychopathology research: research domain criteria",
+            "volume": "119",
+            "year": "2010",
+            "journal-title": "J Abnorm Psychol"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0035",
+            "author": "Emsley",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/S0920-9964(02)00302-X",
+            "article-title": "The factor structure for the Positive and Negative Syndrome Scale (PANSS) in recent-onset psychosis",
+            "volume": "61",
+            "year": "2003",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0040",
+            "author": "Lindenmayer",
+            "doi-asserted-by": "crossref",
+            "first-page": "264",
+            "DOI": "10.1159/000128325",
+            "article-title": "Dimensions of psychosis in patients with bipolar mania as measured by the positive and negative syndrome scale",
+            "volume": "41",
+            "year": "2008",
+            "journal-title": "Psychopathology"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0045",
+            "author": "Krabbendam",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1017/S0033291703001892",
+            "article-title": "Dimensions of depression, mania and psychosis in the general population",
+            "volume": "34",
+            "year": "2004",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0050",
+            "author": "Bell",
+            "doi-asserted-by": "crossref",
+            "first-page": "334",
+            "DOI": "10.1111/j.1600-0447.1998.tb10012.x",
+            "article-title": "The dimensionality of schizophrenia concepts in first-episode psychosis",
+            "volume": "97",
+            "year": "1998",
+            "journal-title": "Acta Psychiatr Scand"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0055",
+            "author": "Peralta",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.1016/j.schres.2005.05.003",
+            "article-title": "The underlying structure of diagnostic systems of schizophrenia: a comprehensive polydiagnostic approach",
+            "volume": "79",
+            "year": "2005",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0060",
+            "author": "Minas",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1016/0920-9964(92)90031-Y",
+            "article-title": "Positive and negative symptoms in the psychoses: multidimensional scaling of SAPS and SANS items",
+            "volume": "8",
+            "year": "1992",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0065",
+            "author": "Lorr",
+            "first-page": "286",
+            "year": "1963",
+            "series-title": "Syndromes of psychosis"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0070",
+            "author": "Sartorius",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1093/schbul/1.11.21",
+            "article-title": "The international pilot study of schizophrenia",
+            "year": "1974",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0075",
+            "author": "Linscott",
+            "doi-asserted-by": "crossref",
+            "first-page": "811",
+            "DOI": "10.1093/schbul/sbn181",
+            "article-title": "Seeking verisimilitude in a class: a systematic review of evidence that the criterial clinical symptoms of schizophrenia are taxonic",
+            "volume": "36",
+            "year": "2010",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0080",
+            "author": "Minas",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1016/0010-440X(94)90059-Q",
+            "article-title": "Positive and negative symptoms in the psychoses: principal components analysis of items from the Scale for the Assessment of Positive Symptoms and the Scale for the Assessment of Negative Symptoms",
+            "volume": "35",
+            "year": "1994",
+            "journal-title": "Compr Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0085",
+            "author": "Bassett",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1016/0920-9964(94)90031-0",
+            "article-title": "Testing Liddle's three-syndrome model in families with schizophrenia",
+            "volume": "12",
+            "year": "1994",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0090",
+            "author": "van Os",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1017/S0033291700033808",
+            "article-title": "Psychopathological syndromes in the functional psychoses: associations with course and outcome",
+            "volume": "26",
+            "year": "1996",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0095",
+            "author": "Toomey",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1176/ajp.154.3.371",
+            "article-title": "Revisiting the factor structure for positive and negative symptoms: evidence from a large heterogeneous group of psychiatric patients",
+            "volume": "154",
+            "year": "1997",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0100",
+            "author": "Peralta",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1016/S0920-9964(99)00003-1",
+            "article-title": "Dimensional structure of psychotic symptoms: an item-level analysis of SAPS and SANS symptoms in psychotic disorders",
+            "volume": "38",
+            "year": "1999",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0105",
+            "author": "Cuesta",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/S0920-9964(00)00190-0",
+            "article-title": "Integrating psychopathological dimensions in functional psychoses: a hierarchical approach",
+            "volume": "52",
+            "year": "2001",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0110",
+            "author": "Cuesta",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1007/s00406-003-0410-0",
+            "article-title": "Psychopathological dimensions in first-episode psychoses. From the trunk to the branches and leaves",
+            "volume": "253",
+            "year": "2003",
+            "journal-title": "Eur Arch Psychiatry Clin Neurosci"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0115",
+            "author": "Allardyce",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1007/s00127-007-0179-y",
+            "article-title": "Do symptom dimensions or categorical diagnoses best discriminate between known risk factors for psychosis?",
+            "volume": "42",
+            "year": "2007",
+            "journal-title": "Soc Psychiatry Psychiatr Epidemiol"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0120",
+            "author": "Cardno",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1192/bjp.179.1.39",
+            "article-title": "Twin study of symptom dimensions in psychoses",
+            "volume": "179",
+            "year": "2001",
+            "journal-title": "Br J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0125",
+            "author": "Rosenman",
+            "doi-asserted-by": "crossref",
+            "first-page": "792",
+            "DOI": "10.1080/j.1440-1614.2000.00824.x",
+            "article-title": "Characterising psychosis in the Australian National Survey of Mental Health and Wellbeing Study on Low Prevalence (psychotic) Disorders",
+            "volume": "34",
+            "year": "2000",
+            "journal-title": "Aust N Z J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0130",
+            "author": "Kitamura",
+            "doi-asserted-by": "crossref",
+            "first-page": "236",
+            "DOI": "10.1192/bjp.166.2.236",
+            "article-title": "Symptoms of psychoses. A factor-analytic study",
+            "volume": "166",
+            "year": "1995",
+            "journal-title": "Br J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0135",
+            "author": "Serretti",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1016/j.psychres.2003.07.005",
+            "article-title": "Dimensions of major psychoses: a confirmatory factor analysis of six competing models",
+            "volume": "127",
+            "year": "2004",
+            "journal-title": "Psychiatry Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0140",
+            "author": "Peralta",
+            "doi-asserted-by": "crossref",
+            "first-page": "806",
+            "DOI": "10.1016/S0006-3223(96)00496-9",
+            "article-title": "Factor structure of symptoms in functional psychoses",
+            "volume": "42",
+            "year": "1997",
+            "journal-title": "Biol Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0145",
+            "author": "Demjaha",
+            "doi-asserted-by": "crossref",
+            "first-page": "1943",
+            "DOI": "10.1017/S0033291709990651",
+            "article-title": "Combining dimensional and categorical representation of psychosis: the way forward for DSM-V and ICD-11?",
+            "volume": "39",
+            "year": "2009",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0150",
+            "author": "Dikeos",
+            "doi-asserted-by": "crossref",
+            "first-page": "346",
+            "DOI": "10.1192/bjp.bp.105.017251",
+            "article-title": "Distribution of symptom dimensions across Kraepelinian divisions",
+            "volume": "189",
+            "year": "2006",
+            "journal-title": "Br J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0155",
+            "author": "McGrath",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.1093/oxfordjournals.schbul.a007138",
+            "article-title": "Five latent factors underlying schizophrenia: analysis and relationship to illnesses in relatives",
+            "volume": "30",
+            "year": "2004",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0160",
+            "author": "Van Os",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1017/S0033291798008162",
+            "article-title": "A comparison of the utility of dimensional and categorical representations of psychosis. UK700 Group",
+            "volume": "29",
+            "year": "1999",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0165",
+            "author": "Ehmann",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1053/comp.2001.16557",
+            "article-title": "Multidimensional assessment of psychosis: a factor-analytic validation study of the Routine Assessment of Patient Progress",
+            "volume": "42",
+            "year": "2001",
+            "journal-title": "Compr Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0170",
+            "author": "Toomey",
+            "doi-asserted-by": "crossref",
+            "first-page": "470",
+            "DOI": "10.1097/00005053-199808000-00004",
+            "article-title": "Negative, positive, and disorganized symptom dimensions in schizophrenia, major depression, and bipolar disorder",
+            "volume": "186",
+            "year": "1998",
+            "journal-title": "J Nerv Ment Dis"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0175",
+            "author": "Ratakonda",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1001/archpsyc.55.1.75",
+            "article-title": "Characterization of psychotic conditions. Use of the domains of psychopathology model",
+            "volume": "55",
+            "year": "1998",
+            "journal-title": "Arch Gen Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0180",
+            "author": "Bunk",
+            "doi-asserted-by": "crossref",
+            "first-page": "I29",
+            "DOI": "10.1007/PL00010688",
+            "article-title": "Symptom dimensions in the course of childhood-onset schizophrenia",
+            "volume": "8",
+            "year": "1999",
+            "journal-title": "Eur Child Adolesc Psychiatry",
+            "issue": "Suppl. 1"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0185",
+            "author": "Brekke",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1016/0010-440X(94)90016-7",
+            "article-title": "A latent structure analysis of the positive and negative symptoms in schizophrenia",
+            "volume": "35",
+            "year": "1994",
+            "journal-title": "Compr Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0190",
+            "author": "Bell",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1016/0165-1781(94)90075-2",
+            "article-title": "Five-component model of schizophrenia: assessing the factorial invariance of the positive and negative syndrome scale",
+            "volume": "52",
+            "year": "1994",
+            "journal-title": "Psychiatry Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0195",
+            "author": "Cardno",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1093/oxfordjournals.schbul.a033423",
+            "article-title": "Dimensions of psychosis in affected sibling pairs",
+            "volume": "25",
+            "year": "1999",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0200",
+            "author": "Ventura",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/S0165-1781(00)00228-6",
+            "article-title": "Symptom dimensions in recent-onset schizophrenia and mania: a principal components analysis of the 24-item Brief Psychiatric Rating Scale",
+            "volume": "97",
+            "year": "2000",
+            "journal-title": "Psychiatry Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0205",
+            "author": "Daneluzzo",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/S0920-9964(01)00277-8",
+            "article-title": "PANSS factors and scores in schizophrenic and bipolar disorders during an index acute episode: a further analysis of the cognitive component",
+            "volume": "56",
+            "year": "2002",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0210",
+            "author": "McClellan",
+            "doi-asserted-by": "crossref",
+            "first-page": "791",
+            "DOI": "10.1097/00004583-200207000-00010",
+            "article-title": "Symptom factors in early-onset psychotic disorders",
+            "volume": "41",
+            "year": "2002",
+            "journal-title": "J Am Acad Child Adolesc Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0215",
+            "author": "Rapado-Castro",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.4088/JCP.08m04845yel",
+            "article-title": "Predominance of symptoms over time in early-onset psychosis: a principal component factor analysis of the Positive and Negative Syndrome Scale",
+            "volume": "71",
+            "year": "2010",
+            "journal-title": "J Clin Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0220",
+            "author": "Boks",
+            "doi-asserted-by": "crossref",
+            "first-page": "178",
+            "DOI": "10.1016/j.schres.2007.02.017",
+            "article-title": "The structure of psychosis revisited: the role of mood symptoms",
+            "volume": "93",
+            "year": "2007",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0225",
+            "author": "Kendler",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1176/ajp.154.2.191",
+            "article-title": "Resemblance of psychotic symptoms and syndromes in affected sibling pairs from the Irish Study of High-Density Schizophrenia Families: evidence for possible etiologic heterogeneity",
+            "volume": "154",
+            "year": "1997",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0230",
+            "author": "Derks",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1093/schbul/sbq103",
+            "article-title": "Kraepelin was right: a latent class analysis of symptom dimensions in patients and controls",
+            "volume": "38",
+            "year": "2012",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0235",
+            "author": "Peralta",
+            "doi-asserted-by": "crossref",
+            "first-page": "12",
+            "DOI": "10.1007/s004060200002",
+            "article-title": "Classifying psychotic disorders: issues regarding categorical vs. dimensional approaches and time frame to assess symptoms",
+            "volume": "252",
+            "year": "2002",
+            "journal-title": "Eur Arch Psychiatry Clin Neurosci"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0240",
+            "author": "Wickham",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1016/S0920-9964(00)00098-0",
+            "article-title": "Familiality of symptom dimensions in schizophrenia",
+            "volume": "47",
+            "year": "2001",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0245",
+            "author": "Serretti",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1002/(SICI)1096-8628(19960726)67:4<393::AID-AJMG13>3.0.CO;2-E",
+            "article-title": "Identification of symptomatologic patterns common to major psychoses: proposal for a phenotype definition",
+            "volume": "67",
+            "year": "1996",
+            "journal-title": "Am J Med Genet"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0250",
+            "author": "Serretti",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.1007/s004060170040",
+            "article-title": "Major psychoses symptomatology: factor analysis of 2241 psychotic subjects",
+            "volume": "251",
+            "year": "2001",
+            "journal-title": "Eur Arch Psychiatry Clin Neurosci"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0255",
+            "author": "Salvatore",
+            "doi-asserted-by": "crossref",
+            "first-page": "724",
+            "DOI": "10.1016/j.jpsychires.2006.04.008",
+            "article-title": "Psychopathology factors in first-episode affective and non-affective psychotic disorders",
+            "volume": "41",
+            "year": "2007",
+            "journal-title": "J Psychiatr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0260",
+            "author": "McGorry",
+            "doi-asserted-by": "crossref",
+            "first-page": "935",
+            "DOI": "10.1017/S0033291798006771",
+            "article-title": "The dimensional structure of first episode psychosis: an exploratory factor analysis",
+            "volume": "28",
+            "year": "1998",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0265",
+            "author": "Murray",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.1017/S0033291704003745",
+            "article-title": "Dimensions and classes of psychosis in a population cohort: a four-class, four-dimension model of schizophrenia and affective psychoses",
+            "volume": "35",
+            "year": "2005",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0270",
+            "author": "McIntosh",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1017/S0033291799003177",
+            "article-title": "A factor model of the functional psychoses and the relationship of factors to clinical variables and brain morphology",
+            "volume": "31",
+            "year": "2001",
+            "journal-title": "Psychol Med"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0275",
+            "author": "Blanchard",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1093/schbul/sbq104",
+            "article-title": "Toward the next generation of negative symptom assessments: the collaboration to advance negative symptom assessment in schizophrenia",
+            "volume": "37",
+            "year": "2011",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0280",
+            "author": "Peralta",
+            "first-page": "100",
+            "article-title": "A dimensional and categorical architecture for the classification of psychotic disorders",
+            "volume": "6",
+            "year": "2007",
+            "journal-title": "World Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0285",
+            "author": "Fabrigar",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1037/1082-989X.4.3.272",
+            "article-title": "Evaluating the use of exploratory factor analysis in psychological research",
+            "volume": "4",
+            "year": "1999",
+            "journal-title": "Psychol Methods"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0290",
+            "author": "Byrne",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1207/s15327752jpa8501_02",
+            "article-title": "Factor analytic models: viewing the structure of an assessment instrument from three perspectives",
+            "volume": "85",
+            "year": "2005",
+            "journal-title": "J Pers Assess"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0295",
+            "author": "Kay",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.1093/schbul/16.3.537",
+            "article-title": "Pyramidical model of schizophrenia",
+            "volume": "16",
+            "year": "1990",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0300",
+            "author": "Grube",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/S0920-9964(98)00011-5",
+            "article-title": "Meta-analysis of symptom factors in schizophrenia",
+            "volume": "31",
+            "year": "1998",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0305",
+            "author": "Smith",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1016/S0920-9964(98)00009-7",
+            "article-title": "The structure of schizophrenic symptoms: a meta-analytic confirmatory factor analysis",
+            "volume": "31",
+            "year": "1998",
+            "journal-title": "Schizophr Res"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0310",
+            "year": "1992",
+            "series-title": "International statistical classification of diseases and related health problems. 10th revision. ed"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0315",
+            "author": "Kendler",
+            "doi-asserted-by": "crossref",
+            "first-page": "492",
+            "DOI": "10.1001/archpsyc.55.6.492",
+            "article-title": "The structure of psychosis: latent class analysis of probands from the Roscommon Family Study",
+            "volume": "55",
+            "year": "1998",
+            "journal-title": "Arch Gen Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0320",
+            "author": "Peralta",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1093/oxfordjournals.schbul.a007016",
+            "article-title": "The nosology of psychotic disorders: a comparison among competing classification systems",
+            "volume": "29",
+            "year": "2003",
+            "journal-title": "Schizophr Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0325",
+            "author": "Spitzer",
+            "first-page": "22",
+            "article-title": "Research diagnostic criteria",
+            "volume": "11",
+            "year": "1975",
+            "journal-title": "Psychopharmacol Bull"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0330",
+            "author": "Rosenman",
+            "doi-asserted-by": "crossref",
+            "first-page": "378",
+            "DOI": "10.1034/j.1600-0447.2003.00059.x",
+            "article-title": "Dimensional vs. categorical diagnosis in psychosis",
+            "volume": "107",
+            "year": "2003",
+            "journal-title": "Acta Psychiatr Scand"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0335",
+            "author": "Muthen",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1111/j.1360-0443.2006.01583.x",
+            "article-title": "Should substance disorders be considered as categorical or dimensional?",
+            "volume": "101",
+            "year": "2006",
+            "journal-title": "Addiction",
+            "issue": "Suppl. 1"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0340",
+            "author": "Masyn",
+            "doi-asserted-by": "crossref",
+            "first-page": "470",
+            "DOI": "10.1111/j.1467-9507.2009.00573.x",
+            "article-title": "Exploring the latent structures of psychological constructs in social development using the dimensional-categorical spectrum",
+            "volume": "19",
+            "year": "2010",
+            "journal-title": "Social Development."
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0345",
+            "author": "Gillespie",
+            "doi-asserted-by": "crossref",
+            "first-page": "166",
+            "DOI": "10.1016/j.drugalcdep.2011.03.014",
+            "article-title": "Psychometric modeling of cannabis initiation and use and the symptoms of cannabis abuse, dependence and withdrawal in a sample of male and female twins",
+            "volume": "118",
+            "year": "2011",
+            "journal-title": "Drug Alcohol Depend"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0350",
+            "author": "McBride",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.1093/alcalc/agr008",
+            "article-title": "Assessing the dimensionality of lifetime DSM-IV alcohol use disorders and a quantity-frequency alcohol use criterion in the Australian population: a factor mixture modelling approach",
+            "volume": "46",
+            "year": "2011",
+            "journal-title": "Alcohol Alcohol"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0355",
+            "author": "Lubke",
+            "doi-asserted-by": "crossref",
+            "first-page": "1085",
+            "DOI": "10.1097/CHI.0b013e3181ba3dbb",
+            "article-title": "Maternal ratings of attention problems in ADHD: evidence for the existence of a continuum",
+            "volume": "48",
+            "year": "2009",
+            "journal-title": "J Am Acad Child Adolesc Psychiatry"
+          },
+          {
+            "key": "10.1016/j.comppsych.2012.04.010_bb0360",
+            "author": "Naifeh",
+            "doi-asserted-by": "crossref",
+            "first-page": "666",
+            "DOI": "10.1037/a0019783",
+            "article-title": "Heterogeneity in the latent structure of PTSD symptoms among Canadian veterans",
+            "volume": "22",
+            "year": "2010",
+            "journal-title": "Psychol Assess"
+          }
+        ],
+        "container-title": "Comprehensive Psychiatry",
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0010440X12000740?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0010440X12000740?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2020, 7, 8]
+          ],
+          "date-time": "2020-07-08T14:46:49Z",
+          "timestamp": 1594219609000
+        },
+        "score": 25.2492,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0010440X12000740"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2012, 11]
+          ]
+        },
+        "references-count": 72,
+        "alternative-id": "S0010440X12000740",
+        "URL": "https://doi.org/10.1016/j.comppsych.2012.04.010",
+        "ISSN": "0010-440X",
+        "issn-type": [
+          {
+            "value": "0010-440X",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2012, 11]
+          ]
+        },
+        "assertion": null,
+        "issue": "8",
+        "journal-issue": {
+          "issue": "8",
+          "published-print": {
+            "date-parts": [
+              [2012, 11]
+            ]
+          }
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

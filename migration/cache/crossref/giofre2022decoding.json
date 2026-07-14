@@ -1,0 +1,1474 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 6]
+      ],
+      "date-time": "2026-06-06T00:57:54Z",
+      "timestamp": 1780707474502,
+      "version": "3.54.1"
+    },
+    "reference-count": 110,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2022, 1, 1]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Intelligence",
+    "published-print": {
+      "date-parts": [
+        [2022, 1]
+      ]
+    },
+    "DOI": "10.1016/j.intell.2021.101615",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 12, 23]
+      ],
+      "date-time": "2021-12-23T18:46:04Z",
+      "timestamp": 1640285164000
+    },
+    "page": "101615",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "special_numbering": "C",
+    "title": "Decoding gender differences: Intellectual profiles of children with specific learning disabilities",
+    "prefix": "10.1016",
+    "volume": "90",
+    "author": [
+      {
+        "given": "D.",
+        "family": "Giofrè",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "I.C.",
+        "family": "Mammarella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Caviola",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0005",
+        "series-title": "Diagnostic and statistical manual of mental disorders",
+        "author": "American Psychiatric Association",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0010",
+        "author": "Baayen",
+        "year": "2002",
+        "issue": "1–3",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1006/brln.2001.2506",
+        "article-title": "The subjects as a simple random effect fallacy: Subject variability and morphological family effects in the mental lexicon",
+        "volume": "81",
+        "journal-title": "Brain and Language"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0015",
+        "author": "Bates",
+        "year": "2015",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v067.i01",
+        "article-title": "Fitting linear mixed-effects models using lme4",
+        "volume": "67",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0020",
+        "author": "Benbow",
+        "year": "1983",
+        "issue": "4627",
+        "doi-asserted-by": "crossref",
+        "first-page": "1029",
+        "DOI": "10.1126/science.6648516",
+        "article-title": "Sex differences in mathematical reasoning ability: More facts",
+        "volume": "222",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0025",
+        "author": "Berenbaum",
+        "year": "2012",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1037/a0026652",
+        "article-title": "Early androgen effects on spatial and mechanical abilities: Evidence from congenital adrenal hyperplasia",
+        "volume": "126",
+        "journal-title": "Behavioral Neuroscience"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0030",
+        "series-title": "Sex differences in the brain",
+        "author": "Berenbaum",
+        "year": "2007",
+        "first-page": "275",
+        "article-title": "Sex differences in children’s play"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0035",
+        "author": "Biotteau",
+        "year": "2017",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "422",
+        "DOI": "10.1080/09297049.2015.1127339",
+        "article-title": "Neuropsychological status of French children with developmental dyslexia and/or developmental coordination disorder: Are both necessarily worse than one?",
+        "volume": "23",
+        "journal-title": "Child Neuropsychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0040",
+        "author": "Born",
+        "year": "1994",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1080/0144341940140208",
+        "article-title": "Sex differences on the Dutch WISC-R: A comparison with the USA and Scotland",
+        "volume": "14",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0045",
+        "author": "Burman",
+        "year": "2008",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1349",
+        "DOI": "10.1016/j.neuropsychologia.2007.12.021",
+        "article-title": "Sex differences in neural processing of language among children",
+        "volume": "46",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0050",
+        "author": "Camarata",
+        "year": "2006",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/j.intell.2005.12.001",
+        "article-title": "Sex differences in processing speed: Developmental effects in males and females",
+        "volume": "34",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0055",
+        "series-title": "Boot: Bootstrap R (S-Plus) functions. R package (1.3-24.)",
+        "author": "Canty",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0060",
+        "author": "Casey",
+        "year": "1999",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1237",
+        "DOI": "10.1037/0012-1649.35.5.1237",
+        "article-title": "Evidence in support of a model that predicts how biological and environmental factors interact to influence spatial skills",
+        "volume": "35",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0065",
+        "author": "Chen",
+        "year": "2020",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.46469/mq.2020.61.2.9",
+        "article-title": "Sex differences on the WAIS-III in Taiwan and the United States",
+        "volume": "61",
+        "journal-title": "Mankind Quarterly"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0070",
+        "series-title": "Mathematical statistics with resampling and R",
+        "author": "Chihara",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0075",
+        "series-title": "Statistical power analysis for the behavioral sciences",
+        "author": "Cohen",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0080",
+        "author": "Colom",
+        "year": "2000",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/S0160-2896(99)00035-5",
+        "article-title": "Negligible sex differences in general intelligence",
+        "volume": "28",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0085",
+        "author": "Cornoldi",
+        "year": "2014",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "260",
+        "DOI": "10.1027/1016-9040/a000183",
+        "article-title": "The crucial role of working memory in intellectual functioning",
+        "volume": "19",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0090",
+        "author": "Cornoldi",
+        "year": "2014",
+        "issue": "9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2224",
+        "DOI": "10.1016/j.ridd.2014.05.013",
+        "article-title": "Differences in the intellectual profile of children with intellectual vs. learning disability",
+        "volume": "35",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0095",
+        "author": "Cornoldi",
+        "year": "2013",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1016/j.lindif.2013.04.005",
+        "article-title": "Intelligence and working memory control: Evidence from the WISC-IV administration to Italian children",
+        "volume": "26",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0100",
+        "author": "Cumming",
+        "year": "2013",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1111/ap.12018",
+        "article-title": "The new statistics: A how-to guide",
+        "volume": "48",
+        "journal-title": "Australian Psychologist"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0105",
+        "author": "Dai",
+        "year": "1991",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1037/1040-3590.3.2.282",
+        "article-title": "Sex differences on the Wechsler Adult Intelligence Scale–Revised for China",
+        "volume": "3",
+        "journal-title": "Psychological Assessment"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0110",
+        "author": "De Clercq-Quaegebeur",
+        "year": "2010",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1177/0022219410375000",
+        "article-title": "Neuropsychological profile on the WISC-IV of French children with dyslexia",
+        "volume": "43",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0115",
+        "author": "Delaney",
+        "year": "1981",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/0160-2896(81)90009-X",
+        "article-title": "An exploration of the verbal encodability hypothesis for sex differences in the digit-symbol (symbol-digit) test",
+        "volume": "5",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0120",
+        "author": "Demo",
+        "year": "1982",
+        "issue": "68",
+        "first-page": "779",
+        "article-title": "Sex differences in cognition: A review and critique of the longitudinal evidence",
+        "volume": "17",
+        "journal-title": "Adolescence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0125",
+        "author": "Efron",
+        "year": "1987",
+        "issue": "397",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1080/01621459.1987.10478410",
+        "article-title": "Better bootstrap confidence intervals",
+        "volume": "82",
+        "journal-title": "Journal of the American Statistical Association"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0130",
+        "author": "Erdodi",
+        "year": "2017",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1037/pas0000319",
+        "article-title": "Wechsler adult intelligence scale-fourth edition (WAIS-IV) processing speed scores as measures of noncredible responding: The third generation of embedded performance validity indicators",
+        "volume": "29",
+        "journal-title": "Psychological Assessment"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0135",
+        "author": "Evers",
+        "year": "2012",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1027/1016-9040/a000102",
+        "article-title": "Testing practices in the 21st century",
+        "volume": "17",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0140",
+        "series-title": "The Wechsler intelligence scales and Gf-Gc theory: A contem- porary interpretive approach",
+        "author": "Flanagan",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0145",
+        "series-title": "An “R” companion to applied regression (third edit)",
+        "author": "Fox",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0150",
+        "author": "Geary",
+        "year": "1996",
+        "issue": "02",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1017/S0140525X00042400",
+        "article-title": "Sexual selection and sex differences in mathematical abilities",
+        "volume": "19",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0155",
+        "author": "Giofrè",
+        "year": "2015",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1016/j.intell.2015.07.002",
+        "article-title": "The structure of intelligence in children with specific learning disabilities is different as compared to typically development children",
+        "volume": "52",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0160",
+        "author": "Giofrè",
+        "year": "2020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2020.101467",
+        "article-title": "A population level analysis of the gender gap in mathematics: Results on over 13 million children using the INVALSI dataset",
+        "volume": "81",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0165",
+        "author": "Giofrè",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2019.101380",
+        "article-title": "Lumpers vs. splitters: Intelligence in children with specific learning disorders",
+        "volume": "76",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0170",
+        "author": "Giofrè",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.ridd.2019.04.009",
+        "article-title": "The intellectual profile of children with autism spectrum disorders may be underestimated: A comparison between two different batteries in an Italian sample",
+        "volume": "90",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0175",
+        "author": "Giofrè",
+        "year": "2016",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "478",
+        "DOI": "10.1080/13803395.2015.1125454",
+        "article-title": "Forward and backward digit span difficulties in children with specific learning disorder",
+        "volume": "38",
+        "journal-title": "Journal of Clinical and Experimental Neuropsychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0180",
+        "author": "Giofrè",
+        "year": "2017",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.intell.2017.01.014",
+        "article-title": "Intelligence measures as diagnostic tools for children with specific learning disabilities",
+        "volume": "61",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0185",
+        "author": "Giofrè",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "first-page": "284",
+        "DOI": "10.1002/dys.1629",
+        "article-title": "Are children with developmental dyslexia all the same? A cluster analysis with more than 300 cases",
+        "volume": "25",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0190",
+        "author": "Goldbeck",
+        "year": "2010",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1027/1614-0001/a000003",
+        "article-title": "Sex differences on the German Wechsler intelligence test for children (WISC-IV)",
+        "volume": "31",
+        "journal-title": "Journal of Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0195",
+        "author": "Gooch",
+        "year": "2014",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1111/jcpp.12139",
+        "article-title": "Comorbidities in preschool children at family risk of dyslexia",
+        "volume": "55",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0200",
+        "author": "Goswami",
+        "year": "2016",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1002/dys.1535",
+        "article-title": "Prosodic similarity effects in short-term memory in developmental dyslexia",
+        "volume": "22",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0205",
+        "author": "Graham",
+        "year": "1998",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1080/00220679809597574",
+        "article-title": "Development of handwriting speed and legibility in grades 1–9",
+        "volume": "92",
+        "journal-title": "The Journal of Educational Research"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0210",
+        "author": "Halpern",
+        "year": "2000",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1023/A:1009027516424",
+        "article-title": "Smarter sex: A critical review of sex differences in intelligence",
+        "volume": "12",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb9109",
+        "author": "Halpern",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1017/9781108770422.015",
+        "article-title": "Sex differences in intelligence",
+        "journal-title": "The Cambridge Handbook of Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0215",
+        "author": "Hattori",
+        "year": "1997",
+        "issue": "3",
+        "first-page": "531",
+        "article-title": "Male—Female differences on the Japanese WAIS-R",
+        "volume": "23",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0220",
+        "author": "Hofer",
+        "year": "1997",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1016/S0191-8869(97)00025-1",
+        "article-title": "A robust five-factor structure of the 16PF: Strong evidence from independent rotation and confirmatory factorial invariance procedures",
+        "volume": "23",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0225",
+        "author": "Hu",
+        "year": "1999",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1080/10705519909540118",
+        "article-title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+        "volume": "6",
+        "journal-title": "Structural Equation Modeling"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0230",
+        "series-title": "Human intelligence",
+        "author": "Hunt",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0235",
+        "author": "Hyde",
+        "year": "2014",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1146/annurev-psych-010213-115057",
+        "article-title": "Gender similarities and differences",
+        "volume": "65",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0240",
+        "author": "Hyde",
+        "year": "1990",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1037/0033-2909.107.2.139",
+        "article-title": "Gender differences in mathematics performance: A meta-analysis",
+        "volume": "107",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0245",
+        "author": "Hyde",
+        "year": "1988",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1037/0033-2909.104.1.53",
+        "article-title": "Gender difficulties in verbal ability: A meta-analysis",
+        "volume": "104",
+        "journal-title": "Psycological Bulletin"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0250",
+        "author": "Istituto Superiore di Sanità"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0255",
+        "author": "Jensen",
+        "year": "1994",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1016/0160-2896(94)90032-9",
+        "article-title": "Race and sex differences in head size and IQ",
+        "volume": "18",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0260",
+        "author": "Jensen",
+        "year": "1983",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1016/0191-8869(83)90029-6",
+        "article-title": "Sex differences on the WISC-R",
+        "volume": "4",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0265",
+        "author": "Johnson",
+        "year": "2007",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/j.intell.2006.03.012",
+        "article-title": "Sex differences in mental abilities: G masks the dimensions on which they lie",
+        "volume": "35",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0270",
+        "series-title": "Principles and practice of structural equation modeling",
+        "author": "Kline",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0275",
+        "author": "Kono",
+        "year": "2009",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.6033/tokkyou.46.269",
+        "article-title": "Handwriting speed and accuracy of Japanese elementary school students when writing from dictation",
+        "volume": "46",
+        "journal-title": "The Japanese Journal of Special Education"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0280",
+        "author": "Lawson",
+        "year": "1984",
+        "issue": "9",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1177/002221948401700902",
+        "article-title": "The psychometric assessment of children with learning disabilities",
+        "volume": "17",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0285",
+        "author": "Linn",
+        "year": "1989",
+        "issue": "8",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.3102/0013189X018008017",
+        "article-title": "Gender, mathematics, and science",
+        "volume": "18",
+        "journal-title": "Educational Researcher"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0290",
+        "author": "Longman",
+        "year": "2007",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1177/1073191107304114",
+        "article-title": "WAIS-III percentile scores by education and sex for U.S. and Canadian populations",
+        "volume": "14",
+        "journal-title": "Assessment"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0295",
+        "author": "Lynn",
+        "year": "2017",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.46469/mq.2017.58.1.2",
+        "article-title": "Sex differences in intelligence: The developmental theory",
+        "volume": "58",
+        "journal-title": "Mankind Quarterly"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0300",
+        "author": "Lynn",
+        "year": "2021",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "688",
+        "DOI": "10.46469/mq.2021.61.3.18",
+        "article-title": "Sex differences in verbal abilities in the Wechsler tests: A review",
+        "volume": "61",
+        "journal-title": "Mankind Quarterly"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0305",
+        "author": "Lynn",
+        "year": "2005",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.paid.2004.12.009",
+        "article-title": "Sex differences on the WISC-R in New Zealand",
+        "volume": "39",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0310",
+        "author": "Lynn",
+        "year": "2009",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.3176/tr.2009.1.01",
+        "article-title": "Sex differences in reading achievement",
+        "volume": "13",
+        "journal-title": "Trames"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0315",
+        "author": "Lynn",
+        "year": "1991",
+        "issue": "11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1179",
+        "DOI": "10.1016/0191-8869(91)90082-M",
+        "article-title": "A comparison of sex differences on the Scottish and American standardisation samples of the WISC-R",
+        "volume": "12",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0320",
+        "author": "Mammarella",
+        "year": "2021",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1111/jcpp.13397",
+        "article-title": "No evidence for a core deficit in developmental dyscalculia or mathematical learning disabilities",
+        "volume": "62",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0325",
+        "author": "Mayes",
+        "year": "2006",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "486",
+        "DOI": "10.1177/1087054705283616",
+        "article-title": "WISC-IV and WISC-III profiles in children with ADHD",
+        "volume": "9",
+        "journal-title": "Journal of Attention Disorders"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0330",
+        "author": "Mayes",
+        "year": "2007",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1037/1045-3830.22.2.234",
+        "article-title": "Wechsler intelligence scale for children-third and -fourth edition predictors of academic achievement in children with attention-deficit/hyperactivity disorder",
+        "volume": "22",
+        "journal-title": "School Psychology Quarterly"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0335",
+        "author": "Miller",
+        "year": "2014",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1016/j.tics.2013.10.011",
+        "article-title": "The new science of cognitive sex differences",
+        "volume": "18",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0340",
+        "author": "Moura",
+        "year": "2014",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1002/dys.1468",
+        "article-title": "WISC-III cognitive profiles in children with developmental dyslexia: Specific cognitive disability and diagnostic utility",
+        "volume": "20",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0345",
+        "author": "Nisbett",
+        "year": "2012",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1037/a0026699",
+        "article-title": "Intelligence: New findings and theoretical developments",
+        "volume": "67",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0350",
+        "series-title": "WISC-IV: Contributo alla taratura Italiana",
+        "author": "Orsini",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0355",
+        "author": "Peng",
+        "year": "2016",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1037/edu0000079",
+        "article-title": "A meta-analysis of mathematics and working memory: Moderating effects of working memory domain, type of mathematics skill, and sample characteristics",
+        "volume": "108",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0360",
+        "author": "Peters",
+        "year": "1996",
+        "issue": "5",
+        "first-page": "1107",
+        "article-title": "Do women really excel over men in manual dexterity?",
+        "volume": "22",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0365",
+        "author": "Pezzuti",
+        "year": "2016",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1016/j.lindif.2015.12.024",
+        "article-title": "Are there sex differences in the Wechsler intelligence scale for children - forth edition?",
+        "volume": "45",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0370",
+        "author": "Pezzuti",
+        "year": "2020",
+        "issue": "July 2019",
+        "doi-asserted-by": "crossref",
+        "first-page": "101436",
+        "DOI": "10.1016/j.intell.2020.101436",
+        "article-title": "Gender differences and measurement bias in the assessment of adult intelligence: Evidence from the Italian WAIS-IV and WAIS-R standardizations",
+        "volume": "79",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0375",
+        "series-title": "Mixed-effects models in S and S-PLUS",
+        "author": "Pinheiro",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0380",
+        "author": "Poletti",
+        "year": "2016",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1177/0022219414555416",
+        "article-title": "WISC-IV intellectual profiles in Italian children with specific learning disorder and related impairments in reading, written expression, and mathematics",
+        "volume": "49",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0385",
+        "author": "Poletti",
+        "year": "2016",
+        "first-page": "32",
+        "article-title": "Cognitive clusters in specific learning disorder",
+        "volume": "on(1)",
+        "journal-title": "Journal of Learning Disabilities, Advance"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0390",
+        "series-title": "R: A language and environment for statistical computing (4.1.0)",
+        "author": "R Core Team",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0395",
+        "series-title": "Psychological science (Vol. 26, issue 5, pp. 653–656)",
+        "author": "Ranehill",
+        "year": "2015",
+        "article-title": "Assessing the robustness of power posing: No effect on hormones and risk tolerance in a large sample of men and women"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0400",
+        "author": "Reilly",
+        "year": "2012",
+        "issue": "7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0039904",
+        "article-title": "Gender, culture, and sex-typed cognitive abilities",
+        "volume": "7",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0405",
+        "author": "Rochelle",
+        "year": "2006",
+        "issue": "11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1159",
+        "DOI": "10.1111/j.1469-7610.2006.01641.x",
+        "article-title": "Impaired balance in developmental dyslexia? A meta-analysis of the contending evidence",
+        "volume": "47",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0410",
+        "author": "Roivainen",
+        "year": "2011",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.lindif.2010.11.021",
+        "article-title": "Gender differences in processing speed: A review of recent research",
+        "volume": "21",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0415",
+        "author": "Rosseel",
+        "year": "2012",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v048.i02",
+        "article-title": "Lavaan: An R package for structural equation modeling",
+        "volume": "48",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0420",
+        "author": "Roth",
+        "year": "2005",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/j.tics.2005.03.005",
+        "article-title": "Evolution of the brain and intelligence",
+        "volume": "9",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0425",
+        "author": "Ryckman",
+        "year": "1981",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.2307/1510713",
+        "article-title": "Sex differences in a sample of learning disabled children",
+        "volume": "4",
+        "journal-title": "Learning Disability Quarterly"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0430",
+        "author": "Shalev",
+        "year": "2000",
+        "issue": "S2",
+        "doi-asserted-by": "crossref",
+        "first-page": "S58",
+        "DOI": "10.1007/s007870070009",
+        "article-title": "Developmental dyscalculia: prevalence and prognosis",
+        "volume": "9",
+        "journal-title": "European Child & Adolescent Psychiatry"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0435",
+        "author": "Slate",
+        "year": "1997",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1177/073724779702200301",
+        "article-title": "Differences in Wisc-III scores for boys and girls with specific learning disabilities",
+        "volume": "22",
+        "journal-title": "Diagnostique"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0440",
+        "author": "Snowling",
+        "year": "2020",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1080/03054985.2020.1765756",
+        "article-title": "Defining and understanding dyslexia: Past, present and future",
+        "volume": "46",
+        "journal-title": "Oxford Review of Education"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0445",
+        "author": "Spafford",
+        "year": "1989",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.2466/pms.1989.69.1.115",
+        "article-title": "Wechsler digit span subtest: Diagnostic usefulness with dyslexic children",
+        "volume": "69",
+        "journal-title": "Perceptual and Motor Skills"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0450",
+        "author": "Spelke",
+        "year": "2005",
+        "issue": "9",
+        "doi-asserted-by": "crossref",
+        "first-page": "950",
+        "DOI": "10.1037/0003-066X.60.9.950",
+        "article-title": "Sex differences in intrinsic aptitude for mathematics and science? A critical review",
+        "volume": "60",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0455",
+        "author": "Stoet",
+        "year": "2013",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0057988",
+        "article-title": "Sex differences in mathematics and reading achievement are inversely related: Within- and across-nation assessment of 10 years of PISA data",
+        "volume": "8",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0460",
+        "author": "Styck",
+        "year": "2016",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1177/0022219414539565",
+        "article-title": "Structural validity of the WISC-IV for students with learning disabilities",
+        "volume": "49",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0465",
+        "author": "Sumner",
+        "year": "2016",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.ridd.2016.05.012",
+        "article-title": "Examining the cognitive profile of children with developmental coordination disorder",
+        "volume": "56",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0470",
+        "author": "Swanson",
+        "year": "1993",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1006/jecp.1993.1027",
+        "article-title": "Working memory in learning disability subgroups",
+        "volume": "56",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0475",
+        "author": "Swanson",
+        "year": "2000",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/S0160-2896(99)00025-2",
+        "article-title": "Working memory, short-term memory, speech rate, word recognition and reading comprehension in learning disabled readers: Does the executive system have a role?",
+        "volume": "28",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0480",
+        "author": "Swanson",
+        "year": "2001",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1006/jecp.2000.2587",
+        "article-title": "Mathematical problem solving and working memory in children with learning disabilities: Both executive and phonological processes are important",
+        "volume": "79",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0485",
+        "author": "Tannock",
+        "year": "2013",
+        "issue": "2",
+        "first-page": "2",
+        "article-title": "Specific learning disabilities in DSM-5: Are the changes for better or worse?",
+        "volume": "1",
+        "journal-title": "International Journal for Research in Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0490",
+        "author": "Thaler",
+        "year": "2013",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1177/1087054711428806",
+        "article-title": "WISC-IV profiles are associated with differences in symptomatology and outcome in children with ADHD",
+        "volume": "17",
+        "journal-title": "Journal of Attention Disorders"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0495",
+        "author": "Toffalini",
+        "year": "2017",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1177/2167702616672038",
+        "article-title": "Strengths and weaknesses in the intellectual profile of different subtypes of specific learning disorder",
+        "volume": "5",
+        "journal-title": "Clinical Psychological Science"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0500",
+        "author": "Toffalini",
+        "year": "2017",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.intell.2017.04.006",
+        "article-title": "Einstein and dyslexia: Is giftedness more frequent in children with a specific learning disorder than in typically developing children?",
+        "volume": "62",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0505",
+        "author": "Tseng",
+        "year": "1997",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1002/oti.61",
+        "article-title": "Performance of school-aged children on a Chinese handwriting speed test",
+        "volume": "4",
+        "journal-title": "Occupational Therapy International"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0510",
+        "author": "Vance",
+        "year": "1980",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "953",
+        "DOI": "10.1002/1097-4679(198010)36:4<953::AID-JCLP2270360422>3.0.CO;2-J",
+        "article-title": "WISC-R subtest differences for male and female LD children and youth",
+        "volume": "36",
+        "journal-title": "Journal of Clinical Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0515",
+        "author": "Vogel",
+        "year": "1990",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1177/002221949002300111",
+        "article-title": "Gender differences in intelligence, language, visual-motor abilities, and academic achievement in students with learning disabilities: A review of the literature",
+        "volume": "23",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0520",
+        "author": "Watkins",
+        "year": "2013",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "102",
+        "DOI": "10.1080/21683603.2013.794439",
+        "article-title": "Construct validity of the WISC–IV UK with a large referred Irish sample",
+        "volume": "1",
+        "journal-title": "International Journal of School and Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0525",
+        "author": "Wei",
+        "year": "2012",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1177/0956797611427168",
+        "article-title": "Gender differences in children’s arithmetic performance are accounted for by gender differences in language abilities",
+        "volume": "23",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0530",
+        "author": "Weiss",
+        "year": "1995",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1016/0022-4405(95)00016-F",
+        "article-title": "An evaluation of differential prediction of WIAT achievement scores from WISC-III FSIQ across ethnic and gender groups",
+        "volume": "33",
+        "journal-title": "Journal of School Psychology"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0535",
+        "series-title": "ggplot2: Elegant graphics for data analysis",
+        "author": "Wickham",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0540",
+        "series-title": "Gender and fair assessment",
+        "author": "Willingham",
+        "year": "1997",
+        "first-page": "55",
+        "article-title": "Test performance"
+      },
+      {
+        "key": "10.1016/j.intell.2021.101615_bb0545",
+        "series-title": "The ICD-10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines",
+        "author": "World Health Organization",
+        "year": "1992"
+      }
+    ],
+    "container-title": "Intelligence",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160289621000994?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160289621000994?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 9, 27]
+      ],
+      "date-time": "2025-09-27T11:23:52Z",
+      "timestamp": 1758972232000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160289621000994"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2022, 1]
+      ]
+    },
+    "references-count": 110,
+    "alternative-id": "S0160289621000994",
+    "URL": "https://doi.org/10.1016/j.intell.2021.101615",
+    "relation": {},
+    "ISSN": "0160-2896",
+    "issn-type": [
+      {
+        "value": "0160-2896",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2022, 1]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Decoding gender differences: Intellectual profiles of children with specific learning disabilities",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Intelligence",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.intell.2021.101615",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "101615"
+  }
+}

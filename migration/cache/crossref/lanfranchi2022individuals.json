@@ -1,0 +1,315 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 5, 1]
+      ],
+      "date-time": "2026-05-01T07:08:34Z",
+      "timestamp": 1777619314247,
+      "version": "3.51.4"
+    },
+    "reference-count": 15,
+    "publisher": "MDPI AG",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2022, 3, 16]
+          ],
+          "date-time": "2022-03-16T00:00:00Z",
+          "timestamp": 1647388800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Brain Sciences",
+    "abstract": "<jats:p>Down syndrome (DS) is the most common syndromic cause of intellectual disability, so it has long been of interest to researchers [...]<\/jats:p>",
+    "DOI": "10.3390/brainsci12030398",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2022, 3, 16]
+      ],
+      "date-time": "2022-03-16T22:09:58Z",
+      "timestamp": 1647468598000
+    },
+    "page": "398",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": "Individuals with Down Syndrome: Editorial",
+    "prefix": "10.3390",
+    "volume": "12",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2470-6019",
+        "authenticated-orcid": false,
+        "given": "Silvia",
+        "family": "Lanfranchi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology, University of Padova, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1838-7958",
+        "authenticated-orcid": false,
+        "given": "Chiara",
+        "family": "Meneghetti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5147-7544",
+        "authenticated-orcid": false,
+        "given": "Barbara",
+        "family": "Carretti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [2022, 3, 16]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1002/ajmg.c.31439",
+        "article-title": "Down syndrome: Cognitive and behavioral functioning across the lifespan",
+        "volume": "169",
+        "author": "Grieco",
+        "year": "2015",
+        "journal-title": "Am. J. Med. Genet. Part C Semin. Med. Genet."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1002/mrdd.20158",
+        "article-title": "Language development in Down syndrome: From the prelinguistic period to the acquisition of literacy",
+        "volume": "13",
+        "author": "Abbeduto",
+        "year": "2007",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1002/mrdd.20136",
+        "article-title": "Language and communication development in Down syndrome",
+        "volume": "13",
+        "author": "Roberts",
+        "year": "2007",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1002/(SICI)1098-2779(1997)3:4<307::AID-MRDD5>3.0.CO;2-K",
+        "article-title": "Language development in children and adolescents with Down syndrome",
+        "volume": "3",
+        "author": "Chapman",
+        "year": "1997",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1473",
+        "DOI": "10.1016/j.ridd.2014.04.002",
+        "article-title": "Visuo-spatial ability in individuals with Down syndrome: Is it really a strength?",
+        "volume": "35",
+        "author": "Yang",
+        "year": "2014",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/j.ridd.2017.10.019",
+        "article-title": "Mental rotation ability and everyday-life spatial activities in individuals with Down syndrome",
+        "volume": "72",
+        "author": "Meneghetti",
+        "year": "2018",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "ref_7",
+        "first-page": "1",
+        "article-title": "The importance of understanding individual differences in Down syndrome",
+        "volume": "5",
+        "author": "Groet",
+        "year": "2016",
+        "journal-title": "F1000Research"
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11020208",
+        "unstructured": "Schworer, E.K., Fidler, D.J., and Daunhauer, L.A. (2021). Early regulatory skills and social communication development in infants with Down syndrome. Brain Sci., 11."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11050655",
+        "unstructured": "Locatelli, C., Onnivello, S., Antonaros, F., Feliciello, A., Filoni, S., Rossi, S., Pulina, F., Marcolin, C., Vianello, R., and Toffalini, E. (2021). Is the age of developmental milestones a predictor for future development in Down syndrome?. Brain Sci., 11."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11030312",
+        "unstructured": "Næss, K.B., Ostad, J., and Nygaard, E. (2021). Differences and similarities in predictors of expressive vocabulary development between children with Down syndrome and young typically developing children. Brain Sci., 11."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11050610",
+        "unstructured": "Doerr, E.M., Carretti, B., Toffalini, E., Lanfranchi, S., and Meneghetti, C. (2021). Developmental trajectories in spatial visualization and mental rotation in individuals with Down syndrome. Brain Sci., 11."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11050636",
+        "unstructured": "Fontana, M., Usai, M.C., Pellizzoni, S., and Passolunghi, M.C. (2021). Inhibitory dimensions and delay of gratification: A comparative study on individuals with Down syndrome and typically developing children. Brain Sci., 11."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11060733",
+        "unstructured": "Ranzato, E., Tolmie, A., and Van Herwegen, J. (2021). The home learning environment of primary school children with down syndrome and those with Williams syndrome. Brain Sci., 11."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11050551",
+        "unstructured": "Yang, Y., Himmelberger, Z.M., Robinson, T., Davis, M., Conners, F., and Merrill, E. (2021). Everyday memory in people with Down syndrome. Brain Sci., 11."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci11070828",
+        "unstructured": "Roch, M., Cain, K., and Jarrold, C. (2021). Reading for comprehension in individuals with Down syndrome, autism spectrum disorder and typical development: Similar or different patterns of ability?. Brain Sci., 11."
+      }
+    ],
+    "container-title": "Brain Sciences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-3425/12/3/398/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 10]
+      ],
+      "date-time": "2025-10-10T22:37:43Z",
+      "timestamp": 1760135863000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2076-3425/12/3/398"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2022, 3, 16]
+      ]
+    },
+    "references-count": 15,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [2022, 3]
+        ]
+      }
+    },
+    "alternative-id": "brainsci12030398",
+    "URL": "https://doi.org/10.3390/brainsci12030398",
+    "relation": {},
+    "ISSN": "2076-3425",
+    "issn-type": [
+      {
+        "value": "2076-3425",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2022, 3, 16]
+      ]
+    }
+  }
+}

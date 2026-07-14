@@ -1,0 +1,423 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 10, 11]
+      ],
+      "date-time": "2025-10-11T17:49:54Z",
+      "timestamp": 1760204994268,
+      "version": "3.37.3"
+    },
+    "reference-count": 34,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2018, 11, 9]
+          ],
+          "date-time": "2018-11-09T00:00:00Z",
+          "timestamp": 1541721600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": "onlinelibrary.wiley.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Dyslexia",
+    "published-print": {
+      "date-parts": [
+        [2019, 2]
+      ]
+    },
+    "abstract": "<jats:p>Research has shown that individuals with dyslexia have difficulty in reading not only in their native language but also in a second language (L2). The considered L2, however, has always been a language acquired through exposure to both written and oral forms. The present study examines the case of Italian adolescents reading in Latin as an L2, which is the special case of a dead language with very limited use of orality. As the learning of Latin is mainly based on the acquisition of grammar, this study also examined the relationship between grammatical proficiency and reading ability in Latin. Results suggested that, compared with control peers, students with dyslexia had difficulty in reading words and non‐words in Latin. Interestingly, in spite of Latin being learnt mainly through written language, the extent of their difficulty was no larger than they encountered when reading in their native language. Also, despite the fact that students with dyslexia showed relatively less severe difficulties with Latin grammar (as compared to reading), this did not support them when reading Latin words, unlike typical readers. The theoretical and educational implications of these results are discussed.<\/jats:p>",
+    "DOI": "10.1002/dys.1603",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2018, 11, 9]
+      ],
+      "date-time": "2018-11-09T09:26:10Z",
+      "timestamp": 1541755570000
+    },
+    "page": "57-68",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": "Reading in a transparent second language with limited orality: The case of high school students with dyslexia in Latin",
+    "prefix": "10.1002",
+    "volume": "25",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nunzia",
+        "family": "Losito",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Zamperlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova  Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_5_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pne0000066"
+      },
+      {
+        "key": "e_1_2_5_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_2_5_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002221949903200204"
+      },
+      {
+        "key": "e_1_2_5_5_1",
+        "first-page": "323",
+        "article-title": "Dislessia e lingua straniera: Un apprendimento possibile? I primi dati su studenti italiani",
+        "volume": "3",
+        "author": "Bellagamba I.",
+        "year": "2013",
+        "journal-title": "Dislessia"
+      },
+      {
+        "key": "e_1_2_5_6_1",
+        "author": "Bianchi M. E.",
+        "year": "2016",
+        "volume-title": "Studiare Latino: Una sfida per gli studenti con DSA"
+      },
+      {
+        "key": "e_1_2_5_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0142716407070361"
+      },
+      {
+        "key": "e_1_2_5_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219409345018"
+      },
+      {
+        "key": "e_1_2_5_9_1",
+        "author": "Cornoldi C.",
+        "year": "2015",
+        "volume-title": "Prove di lettura e scrittura MT‐16‐19"
+      },
+      {
+        "key": "e_1_2_5_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02928184"
+      },
+      {
+        "key": "e_1_2_5_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0272263105050096"
+      },
+      {
+        "key": "e_1_2_5_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21832/9781847691767-003"
+      },
+      {
+        "key": "e_1_2_5_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.2839"
+      },
+      {
+        "key": "e_1_2_5_14_1",
+        "author": "Grifoni F.",
+        "year": "2009",
+        "volume-title": "Dizionario frequenziale latino [Latin dictionary with frequency of words]"
+      },
+      {
+        "key": "e_1_2_5_15_1",
+        "author": "Istituto Superiore di Sanità",
+        "year": "2011",
+        "volume-title": "Consensus conference: Disturbi Specifici dell'Apprendimento"
+      },
+      {
+        "key": "e_1_2_5_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xlm0000186"
+      },
+      {
+        "key": "e_1_2_5_17_1",
+        "first-page": "189",
+        "article-title": "Dislessia e Latino",
+        "volume": "11",
+        "author": "Losito N.",
+        "year": "2014",
+        "journal-title": "Contributo Alla Standardizzazione di Prove di Latino per la Valutazione di Studenti Liceali e Confronto Con Casi di Dislessia. Dislessia"
+      },
+      {
+        "key": "e_1_2_5_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11881-003-0001-9"
+      },
+      {
+        "key": "e_1_2_5_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1008009703641"
+      },
+      {
+        "key": "e_1_2_5_20_1",
+        "first-page": "161",
+        "article-title": "Le difficoltà di apprendimento della lingua straniera: Una rassegna delle ricerche sulla natura del problema in prospettiva diagnostica e di intervento",
+        "volume": "7",
+        "author": "Palladino P.",
+        "year": "2003",
+        "journal-title": "Psicologia Clinica dello Sviluppo"
+      },
+      {
+        "key": "e_1_2_5_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.1456"
+      },
+      {
+        "key": "e_1_2_5_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.1522"
+      },
+      {
+        "key": "e_1_2_5_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4419-0318-1"
+      },
+      {
+        "key": "e_1_2_5_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0278-2626(03)00128-3"
+      },
+      {
+        "key": "e_1_2_5_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9817.2012.01547.x"
+      },
+      {
+        "key": "e_1_2_5_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17470210701508822"
+      },
+      {
+        "key": "e_1_2_5_27_1",
+        "author": "Sartori G.",
+        "year": "2007",
+        "volume-title": "Batteria per la valutazione della dislessia e della disortografia evolutiva"
+      },
+      {
+        "key": "e_1_2_5_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.24.1.28"
+      },
+      {
+        "key": "e_1_2_5_29_1",
+        "author": "Snowling M. J.",
+        "year": "2000",
+        "volume-title": "Dyslexia"
+      },
+      {
+        "key": "e_1_2_5_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09297049.2017.1329411"
+      },
+      {
+        "key": "e_1_2_5_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00222194060390010701"
+      },
+      {
+        "key": "e_1_2_5_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/747708"
+      },
+      {
+        "key": "e_1_2_5_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.411"
+      },
+      {
+        "key": "e_1_2_5_34_1",
+        "author": "World Health Organization",
+        "year": "1992",
+        "volume-title": "The ICD‐10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines"
+      },
+      {
+        "key": "e_1_2_5_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.131.1.3"
+      }
+    ],
+    "container-title": "Dyslexia",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fdys.1603",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/dys.1603",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2023, 9, 14]
+      ],
+      "date-time": "2023-09-14T11:18:24Z",
+      "timestamp": 1694690304000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/dys.1603"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [2019, 2]
+        ]
+      }
+    },
+    "alternative-id": "10.1002/dys.1603",
+    "URL": "https://doi.org/10.1002/dys.1603",
+    "archive": "Portico",
+    "relation": {},
+    "ISSN": ["1076-9242", "1099-0909"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1076-9242"
+      },
+      {
+        "type": "electronic",
+        "value": "1099-0909"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2018, 11, 9]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2017-09-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-10-16",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-11-09",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

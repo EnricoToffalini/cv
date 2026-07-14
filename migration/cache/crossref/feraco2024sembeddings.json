@@ -1,0 +1,306 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 13]
+      ],
+      "date-time": "2026-04-13T14:51:03Z",
+      "timestamp": 1776091863191,
+      "version": "3.50.1"
+    },
+    "reference-count": 20,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2025, 2, 4]
+          ],
+          "date-time": "2025-02-04T00:00:00Z",
+          "timestamp": 1738627200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "frontiersin.org",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Front. Psychol.",
+    "abstract": "<jats:sec><jats:title>Introduction<\/jats:title><jats:p>Recent developments suggest that Large Language Models (LLMs) provide a promising approach for approximating empirical correlation matrices of item responses by utilizing item embeddings and their cosine similarities. In this paper, we introduce a novel tool, which we label <jats:italic>SEMbeddings<\/jats:italic>.<\/jats:p><\/jats:sec><jats:sec><jats:title>Methods<\/jats:title><jats:p>This tool integrates <jats:italic>mpnet-personality<\/jats:italic> (a fine-tuned embedding model) with latent measurement models to assess model fit or misfit prior to data collection. To support our statement, we apply SEMbeddings to the 96 items of the VIA-IS-P, which measures 24 different character strengths, using responses from 31,697 participants.<\/jats:p><\/jats:sec><jats:sec><jats:title>Results<\/jats:title><jats:p>Our analysis shows a significant, though not perfect, correlation (<jats:italic>r<\/jats:italic> = 0.67) between the cosine similarities of embeddings and empirical correlations among items. We then demonstrate how to fit confirmatory factor analyses on the cosine similarity matrices produced by <jats:italic>mpnet-personality<\/jats:italic> and interpret the outcomes using modification indices. We found that relying on traditional fit indices when using SEMbeddings can be misleading as they often lead to more conservative conclusions compared to empirical results. Nevertheless, they provide valuable suggestions about possible misfit, and we argue that the modification indices obtained from these models could serve as a useful screening tool to make informed decisions about items prior to data collection.<\/jats:p><\/jats:sec><jats:sec><jats:title>Discussion<\/jats:title><jats:p>As LLMs become increasingly precise and new fine-tuned models are released, these procedures have the potential to deliver more reliable results, potentially transforming the way new questionnaires are developed.<\/jats:p><\/jats:sec>",
+    "DOI": "10.3389/fpsyg.2024.1433339",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 2, 4]
+      ],
+      "date-time": "2025-02-04T06:31:50Z",
+      "timestamp": 1738650710000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": "SEMbeddings: how to evaluate model misfit before data collection using large-language models",
+    "prefix": "10.3389",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Tommaso",
+        "family": "Feraco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [2025, 2, 4]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "first-page": "492",
+        "DOI": "10.1002/per.2242",
+        "article-title": "Objections to the HEXACO model of personality structure—and why those objections fail",
+        "volume": "34",
+        "author": "Ashton",
+        "year": "2020",
+        "journal-title": "Eur. J. Personal."
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.4324/9781315869780",
+        "author": "Beaujean",
+        "year": "2014",
+        "volume-title": "Latent variable modeling using R: a step-by-step guide"
+      },
+      {
+        "key": "ref3",
+        "author": "Binz",
+        "year": "2024"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1643",
+        "DOI": "10.1038/s41562-024-01959-9",
+        "article-title": "How large language models can reshape collective intelligence",
+        "volume": "8",
+        "author": "Burton",
+        "year": "2024",
+        "journal-title": "Nat. Hum. Behav."
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1080/00223891.2021.1934481",
+        "article-title": "Do strengths converge into virtues? An item-, virtue-, and scale-level analysis of the Italian values in action inventory of Strengths-120",
+        "volume": "104",
+        "author": "Feraco",
+        "year": "2022",
+        "journal-title": "J. Pers. Assess."
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "first-page": "456",
+        "DOI": "10.1177/2515245920952393",
+        "article-title": "Measurement Schmeasurement: questionable measurement practices and how to avoid them",
+        "volume": "3",
+        "author": "Flake",
+        "year": "2020",
+        "journal-title": "Adv. Methods Pract. Psychol. Sci."
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "first-page": "370",
+        "DOI": "10.1177/1948550617693063",
+        "article-title": "Construct validation in social and personality research: current practice and recommendations",
+        "volume": "8",
+        "author": "Flake",
+        "year": "2017",
+        "journal-title": "Soc. Psychol. Personal. Sci."
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.1037/0003-066X.48.1.26",
+        "article-title": "The structure of phenotypic personality traits",
+        "volume": "48",
+        "author": "Goldberg",
+        "year": "1993",
+        "journal-title": "Am. Psychol."
+      },
+      {
+        "key": "ref9",
+        "author": "Guenole",
+        "year": "2024"
+      },
+      {
+        "key": "ref10",
+        "author": "Hommel",
+        "year": "2024"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1007/s11336-021-09823-9",
+        "article-title": "Transformer-based deep neural language modeling for construct-specific automatic item generation",
+        "volume": "87",
+        "author": "Hommel",
+        "year": "2022",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "ref12",
+        "author": "Hoyle",
+        "year": "2023",
+        "volume-title": "Handbook of structural equation modeling"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "first-page": "8214",
+        "DOI": "10.3758/s13428-024-02455-8",
+        "article-title": "A tutorial on open-source large language models for behavioral science",
+        "volume": "56",
+        "author": "Hussain",
+        "year": "2024",
+        "journal-title": "Behav. Res."
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "115667",
+        "DOI": "10.1016/j.psychres.2023.115667",
+        "article-title": "Beyond rating scales: with targeted evaluation, language models are poised for psychological assessment",
+        "volume": "333",
+        "author": "Kjell",
+        "year": "2023",
+        "journal-title": "Psychiatry. Res."
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.4324/9780203501207",
+        "author": "Markus",
+        "year": "2013",
+        "volume-title": "Frontiers of test validity theory: measurement, causation, and meaning"
+      },
+      {
+        "key": "ref16",
+        "author": "McGrath",
+        "year": "2019",
+        "volume-title": "Technical report: the VIA assessment suite for adults: development and initial evaluation"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1053",
+        "DOI": "10.1037/pas0000396",
+        "article-title": "The factor structure of the values in action inventory of strengths (VIA-IS): an item-level exploratory structural equation modeling (ESEM) bifactor analysis",
+        "volume": "29",
+        "author": "Ng",
+        "year": "2017",
+        "journal-title": "Psychol. Assess."
+      },
+      {
+        "key": "ref18",
+        "author": "Russell-Lasalandra",
+        "year": "2024"
+      },
+      {
+        "key": "ref19",
+        "first-page": "23",
+        "article-title": "Evaluating the fit of structural equation models: tests of significance and descriptive goodness-of-fit measures",
+        "volume": "8",
+        "author": "Schermelleh-engel",
+        "year": "2003",
+        "journal-title": "MPR-online"
+      },
+      {
+        "key": "ref20",
+        "author": "Wulff",
+        "year": "2023"
+      }
+    ],
+    "container-title": "Frontiers in Psychology",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1433339/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 2, 4]
+      ],
+      "date-time": "2025-02-04T06:31:53Z",
+      "timestamp": 1738650713000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1433339/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2025, 2, 4]
+      ]
+    },
+    "references-count": 20,
+    "alternative-id": "10.3389/fpsyg.2024.1433339",
+    "URL": "https://doi.org/10.3389/fpsyg.2024.1433339",
+    "relation": {},
+    "ISSN": "1664-1078",
+    "issn-type": [
+      {
+        "value": "1664-1078",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2025, 2, 4]
+      ]
+    },
+    "article-number": "1433339"
+  }
+}

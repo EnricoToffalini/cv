@@ -1,0 +1,73 @@
+schema_version: "1.0.0"
+lang:
+  - it
+  - en
+level:
+  - full
+  - short
+section_mode:
+  - all
+  - selected
+  - summary
+  - compact
+  - omit
+positions_category:
+  - academic
+  - research_fellowship
+  - visiting
+  - clinical
+  - internship
+positions_section:
+  - academic
+  - international_experience
+  - professional_experience
+grant_level:
+  - national
+  - local
+  - international
+grant_role:
+  - PI
+  - Co-PI
+  - team_member
+amount_scope:
+  - total_project
+  - local_unit
+  - department_contribution
+teaching_category:
+  - phd
+  - degree
+  - supplementary
+  - master
+service_category:
+  - scientific_organization
+  - editorial_board
+  - special_issue
+  - institutional_service
+  - thesis_committee
+  - research_group_role
+  - other_service
+service_subsection:
+  - scientific_organization
+  - editorial
+  - institutional_service
+presentation_type:
+  - oral
+  - poster
+  - invited
+  - symposium_organized
+  - symposium_contribution
+  - paper
+outreach_category:
+  - public_engagement
+  - professional_training
+  - mooc
+  - open_science
+  - standardization
+  - clinical_transfer
+  - orientation
+publication_keyword:
+  - cv-journal-international
+  - cv-journal-italian
+  - cv-book-chapter
+  - cv-editorial
+  - cv-short

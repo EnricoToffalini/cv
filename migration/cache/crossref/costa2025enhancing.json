@@ -1,0 +1,2258 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 12]
+      ],
+      "date-time": "2026-06-12T06:21:37Z",
+      "timestamp": 1781245297950,
+      "version": "3.54.1"
+    },
+    "reference-count": 51,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2025, 5, 30]
+          ],
+          "date-time": "2025-05-30T00:00:00Z",
+          "timestamp": 1748563200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 5, 30]
+          ],
+          "date-time": "2025-05-30T00:00:00Z",
+          "timestamp": 1748563200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": "link.springer.com",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Behav Res",
+    "abstract": "<jats:title>Abstract<\/jats:title>\n          <jats:p>Are scientific papers providing all essential details necessary to ensure the replicability of study protocols? Are authors effectively conveying study design, data analysis, and the process of drawing inferences from their results? These represent only a fraction of the pressing questions that cognitive psychology and neuropsychology face in addressing the “crisis of confidence.” This crisis has highlighted numerous shortcomings in the journey from research to publication. To address these shortcomings, we introduce PECANS (Preferred Evaluation of Cognitive And Neuropsychological Studies), a comprehensive checklist tool designed to guide the planning, execution, evaluation, and reporting of experimental research. PECANS emerged from a rigorous consensus-building process through the Delphi method. We convened a panel of international experts specialized in cognitive psychology and neuropsychology research practices. Through two rounds of iterative voting and a proof-of-concept phase, PECANS evolved into its final form. The PECANS checklist is intended to serve various stakeholders in the fields of cognitive sciences and neuropsychology, including: (i) researchers seeking to ensure and enhance reproducibility and rigor in their research; (ii) journal editors and reviewers assessing the quality of reports; (iii) ethics committees and funding agencies; (iv) students approaching methodology and scientific writing. PECANS is a versatile tool intended not only to improve the quality and transparency of individual research projects but also to foster a broader culture of rigorous scientific inquiry across the academic and research community.<\/jats:p>",
+    "DOI": "10.3758/s13428-025-02705-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 5, 30]
+      ],
+      "date-time": "2025-05-30T11:16:44Z",
+      "timestamp": 1748603804000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "Enhancing the quality and reproducibility of research: Preferred Evaluation of Cognitive and Neuropsychological Studies - The PECANS statement for human studies",
+    "prefix": "10.3758",
+    "volume": "57",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5472-546X",
+        "authenticated-orcid": false,
+        "given": "C.",
+        "family": "Costa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Pezzetta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Grassi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "G",
+        "family": "Cona",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C",
+        "family": "Miniussi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P. J.",
+        "family": "Bauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Borgomaneri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Brysbaert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C. D.",
+        "family": "Chambers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "N.",
+        "family": "Edelstyn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Eerland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S. J.",
+        "family": "Gilbert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M. A.",
+        "family": "Nitsche",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R. A.",
+        "family": "Poldrack",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Puce",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K. R.",
+        "family": "Ridderinkhof",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "T. Y.",
+        "family": "Swaab",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Umiltà",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Wiener",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Scarpazza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ],
+        "name": "on behalf of the PECANS Extended Working Group"
+      },
+      {
+        "given": "Salvatore M.",
+        "family": "Aglioti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Georg W.",
+        "family": "Alpers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ettore",
+        "family": "Ambrosini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giorgio",
+        "family": "Arcara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alessio",
+        "family": "Avenanti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Valentina",
+        "family": "Bambini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Linden J.",
+        "family": "Ball",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fabiana",
+        "family": "Battista",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvia",
+        "family": "Benavides-Varela",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aaron S.",
+        "family": "Benjamin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark A.",
+        "family": "Bellgrove",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nadia",
+        "family": "Bolognini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mario",
+        "family": "Bonato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sabrina",
+        "family": "Brigadoi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Louise A. Brown",
+        "family": "Nicholls",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erin M.",
+        "family": "Buchanan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesca",
+        "family": "Burgio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Beste",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Krista",
+        "family": "Byers-Heinlein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppe",
+        "family": "Carrà",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James F.",
+        "family": "Cavanagh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen D.",
+        "family": "Christman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "D’Ausilio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arnaud",
+        "family": "D’Argembeau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniela",
+        "family": "D’Imperio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Theresa M.",
+        "family": "Desrochers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Malte",
+        "family": "Elson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan B.",
+        "family": "Engelmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ulrich",
+        "family": "Ettinger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vanessa",
+        "family": "Era",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tommaso",
+        "family": "Feraco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gereon R.",
+        "family": "Fink",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martina",
+        "family": "Fusaro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriele",
+        "family": "Fusco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gareth M.",
+        "family": "Gaskell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreina",
+        "family": "Giustiniani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "Guida",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ahmad R.",
+        "family": "Hariri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Derek",
+        "family": "Houston",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark W.",
+        "family": "Howe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Scott A.",
+        "family": "Huettel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yi",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roxane J.",
+        "family": "Itier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Jobson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philipp",
+        "family": "Kanske",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Swathi",
+        "family": "Kiran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claus",
+        "family": "Lamm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Victor A. F.",
+        "family": "Lamme",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Lakens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tiziana",
+        "family": "Lanciano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher R.",
+        "family": "Madan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ivan",
+        "family": "Mangiulli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dante",
+        "family": "Mantini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fabio",
+        "family": "Masina",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jason B.",
+        "family": "Mattingley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Randy J.",
+        "family": "McCarthy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert D.",
+        "family": "McIntosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giulia",
+        "family": "Melis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luca",
+        "family": "Menghini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vladimir",
+        "family": "Miskovic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simone",
+        "family": "Migliore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Montefinese",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Klaus",
+        "family": "Oberauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Suzanne",
+        "family": "Oosterwijk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria S.",
+        "family": "Panasiti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lorenzo",
+        "family": "Però",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bradley S.",
+        "family": "Peterson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana P.",
+        "family": "Pinheiro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giorgia",
+        "family": "Ponsi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppina",
+        "family": "Porciello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Athanassios",
+        "family": "Protopapas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Pyasik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vincent M.",
+        "family": "Reid",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter",
+        "family": "Schaeken",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Schepisi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura D.",
+        "family": "Scherer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michele",
+        "family": "Scandola",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander J.",
+        "family": "Shackman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julia",
+        "family": "Simner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jacqueline C.",
+        "family": "Snow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alessandra S.",
+        "family": "Souza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joel S.",
+        "family": "Snyder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Denes",
+        "family": "Szucs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin A.",
+        "family": "Tabak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emma C.",
+        "family": "Tecwyn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cynthia K.",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lisa",
+        "family": "Toffoli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mattie",
+        "family": "Tops",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Loren L.",
+        "family": "Toussaint",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth W.",
+        "family": "Twamley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucina Q.",
+        "family": "Uddin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Ullsperger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonino",
+        "family": "Vallesi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna E.",
+        "family": "Van’t Veer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Don",
+        "family": "Van Ravenzwaaij",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carmelo",
+        "family": "Vázquez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simine",
+        "family": "Vazire",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Essi",
+        "family": "Viding",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eric M.",
+        "family": "Wassermann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Weigelt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christina E.",
+        "family": "Wierenga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Melody",
+        "family": "Wiseheart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martijn E.",
+        "family": "Wokke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steven P.",
+        "family": "Woods",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Naohide",
+        "family": "Yamamoto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey M.",
+        "family": "Zacks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Zapparoli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cristina",
+        "family": "Zogmaister",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [2025, 5, 30]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2705_CR1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Aczel, B., Szaszi, B., Sarafoglou, A., Kekecs, Z., Kucharský, Š., Benjamin, D., ..., & Wagenmakers, E. J. (2020). A consensus-based transparency checklist. Nature Human Behaviour, 4(1), 4–6. https://doi.org/10.1038/s41562-019-0772-6",
+        "DOI": "10.1038/s41562-019-0772-6"
+      },
+      {
+        "key": "2705_CR2",
+        "unstructured": "Adler, M., & Ziglio, E. (1996). Gazing into the oracle: The Delphi method and its application to social policy and public health. Jessica Kingsley Publishers.",
+        "volume-title": "Gazing into the oracle: The Delphi method and its application to social policy and public health",
+        "author": "M Adler",
+        "year": "1996"
+      },
+      {
+        "key": "2705_CR3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Akins, R. B., Tolson, H., & Cole, B. R. (2005). Stability of response characteristics of a Delphi panel: Application of bootstrap data expansion. BMC Medical Research Methodology, 5, 1–12. https://doi.org/10.1186/1471-2288-5-37",
+        "DOI": "10.1186/1471-2288-5-37",
+        "author": "RB Akins",
+        "year": "2005",
+        "first-page": "1",
+        "volume": "5",
+        "journal-title": "BMC Medical Research Methodology"
+      },
+      {
+        "key": "2705_CR4",
+        "unstructured": "American Psychological Association. (2024). APA Style numbers and statistics guide. Retrieved February, 2024, from https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf"
+      },
+      {
+        "key": "2705_CR5",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Anvari, F., & Lakens, D. (2018). The replicability crisis and public trust in psychological science. Comprehensive Results in Social Psychology, 3(3), 266–286. https://doi.org/10.1080/23743603.2019.1684822",
+        "DOI": "10.1080/23743603.2019.1684822",
+        "author": "F Anvari",
+        "year": "2018",
+        "first-page": "266",
+        "volume": "3",
+        "journal-title": "Comprehensive Results in Social Psychology",
+        "issue": "3"
+      },
+      {
+        "key": "2705_CR6",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Belton, I., MacDonald, A., Wright, G., & Hamlin, I. (2019). Improving the practical application of the Delphi method in group-based judgment: A six-step prescription for a well-founded and defensible process. Technological Forecasting and Social Change, 147, 72–82. https://doi.org/10.1016/j.techfore.2019.07.002",
+        "DOI": "10.1016/j.techfore.2019.07.002",
+        "author": "I Belton",
+        "year": "2019",
+        "first-page": "72",
+        "volume": "147",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "2705_CR7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Button, K. S., & Munafò, M. R. (2017). Powering reproducible research. In S. O. Lilienfeld & I. D. Waldman (Eds.), Psychological science under scrutiny: Recent challenges and proposed solutions (pp. 22–33). Wiley Blackwell. https://doi.org/10.1002/9781119095910.ch2",
+        "DOI": "10.1002/9781119095910.ch2",
+        "volume-title": "Psychological science under scrutiny: Recent challenges and proposed solutions",
+        "author": "KS Button",
+        "year": "2017",
+        "first-page": "22"
+      },
+      {
+        "key": "2705_CR8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: Why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. https://doi.org/10.1038/nrn3475",
+        "DOI": "10.1038/nrn3475",
+        "author": "KS Button",
+        "year": "2013",
+        "first-page": "365",
+        "volume": "14",
+        "journal-title": "Nature Reviews Neuroscience",
+        "issue": "5"
+      },
+      {
+        "key": "2705_CR9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., ..., & Wu, H. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637–644. https://doi.org/10.1038/s41562-018-0399-z",
+        "DOI": "10.1038/s41562-018-0399-z"
+      },
+      {
+        "key": "2705_CR10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Claesen, A., Gomes, S., Tuerlinckx, F., & Vanpaemel, W. (2021). Comparing dream to reality: An assessment of adherence of the first generation of preregistered studies. Royal Society Open Science, 8(10), 211037. https://doi.org/10.1098/rsos.211037",
+        "DOI": "10.1098/rsos.211037",
+        "author": "A Claesen",
+        "year": "2021",
+        "first-page": "211037",
+        "volume": "8",
+        "journal-title": "Royal Society Open Science",
+        "issue": "10"
+      },
+      {
+        "key": "2705_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Cohen, J. (1962). The statistical power of abnormal-social psychological research: A review. The Journal of Abnormal and Social Psychology, 65(3), 145. https://doi.org/10.1037/h0045186",
+        "DOI": "10.1037/h0045186",
+        "author": "J Cohen",
+        "year": "1962",
+        "first-page": "145",
+        "volume": "65",
+        "journal-title": "The Journal of Abnormal and Social Psychology",
+        "issue": "3"
+      },
+      {
+        "key": "2705_CR12",
+        "unstructured": "Council of National Library and Information Associations (US). (1979). American National Standard for the Preparation of Scientific Papers for Written or Oral Presentation. New York: American National Standards Institute."
+      },
+      {
+        "key": "2705_CR13",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method to the use of experts. Management Science, 9(3), 458–467. https://doi.org/10.1287/mnsc.9.3.458",
+        "DOI": "10.1287/mnsc.9.3.458",
+        "author": "N Dalkey",
+        "year": "1963",
+        "first-page": "458",
+        "volume": "9",
+        "journal-title": "Management Science",
+        "issue": "3"
+      },
+      {
+        "key": "2705_CR14",
+        "unstructured": "Day, R. A. (1989). The origins of the scientific paper: The IMRaD format. Journal of the American Medical Writers Association, 4(2), 16–18.",
+        "author": "RA Day",
+        "year": "1989",
+        "first-page": "16",
+        "volume": "4",
+        "journal-title": "Journal of the American Medical Writers Association",
+        "issue": "2"
+      },
+      {
+        "key": "2705_CR15",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ekhtiari, H., Ghobadi-Azbari, P., Thielscher, A., Antal, A., Li, L. M., Shereen, A. D., ..., & Bikson, M. (2022). A checklist for assessing the methodological quality of concurrent tES-fMRI studies (ContES checklist): A consensus study and statement. Nature Protocols, 17(3), 596–617. https://doi.org/10.1038/s41596-021-00664-5",
+        "DOI": "10.1038/s41596-021-00664-5"
+      },
+      {
+        "key": "2705_CR16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y. F., ..., & Marinazzo, D. (2021). Brainhack: Developing a culture of open, inclusive, community-driven neuroscience. Neuron, 109(11), 1769–1775. https://doi.org/10.1016/j.neuron.2021.04.001",
+        "DOI": "10.1016/j.neuron.2021.04.001"
+      },
+      {
+        "key": "2705_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Grassi, M., Crotti, C., Giofrè, D., Boedker, I., & Toffalini, E. (2021). Two replications of Raymond, Shapiro, and Arnell (1992), the attentional blink. Behavior Research Methods, 53, 656–668. https://doi.org/10.3758/s13428-020-01457-6",
+        "DOI": "10.3758/s13428-020-01457-6",
+        "author": "M Grassi",
+        "year": "2021",
+        "first-page": "656",
+        "volume": "53",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "2705_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, P values, confidence intervals, and power: A guide to misinterpretations. European Journal of Epidemiology, 31(4), 337–350. https://doi.org/10.1007/s10654-016-0149-3",
+        "DOI": "10.1007/s10654-016-0149-3",
+        "author": "S Greenland",
+        "year": "2016",
+        "first-page": "337",
+        "volume": "31",
+        "journal-title": "European Journal of Epidemiology",
+        "issue": "4"
+      },
+      {
+        "key": "2705_CR19",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hasson, F., Keeney, S., & McKenna, H. (2000). Research guidelines for the Delphi survey technique. Journal of Advanced Nursing, 32(4), 1008–1015. https://doi.org/10.1046/j.1365-2648.2000.t01-1-01567.x",
+        "DOI": "10.1046/j.1365-2648.2000.t01-1-01567.x",
+        "author": "F Hasson",
+        "year": "2000",
+        "first-page": "1008",
+        "volume": "32",
+        "journal-title": "Journal of Advanced Nursing",
+        "issue": "4"
+      },
+      {
+        "key": "2705_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hsu, C. C., & Sandford, B. A. (2007). The Delphi technique: Making sense of consensus. Practical Assessment, Research, and Evaluation, 12(1). https://doi.org/10.7275/pdz9-th90",
+        "DOI": "10.7275/pdz9-th90"
+      },
+      {
+        "key": "2705_CR21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Keeney, S., Hasson, F., & McKenna, H. P. (2001). A critical review of the Delphi technique as a research methodology for nursing. International Journal of Nursing Studies, 38(2), 195–200. https://doi.org/10.1016/S0020-7489(00)00044-4",
+        "DOI": "10.1016/S0020-7489(00)00044-4",
+        "author": "S Keeney",
+        "year": "2001",
+        "first-page": "195",
+        "volume": "38",
+        "journal-title": "International Journal of Nursing Studies",
+        "issue": "2"
+      },
+      {
+        "key": "2705_CR22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kidwell, M. C., Lazarević, L. B., Baranski, E., Hardwicke, T. E., Piechowski, S., Falkenberg, L. S., ..., & Nosek, B. A. (2016). Badges to acknowledge open practices: A simple, low-cost, effective method for increasing transparency. PLoS Biology, 14(5), e1002456. https://doi.org/10.1371/journal.pbio.1002456",
+        "DOI": "10.1371/journal.pbio.1002456"
+      },
+      {
+        "key": "2705_CR23",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. Frontiers in Psychology, 4, 863. https://doi.org/10.3389/fpsyg.2013.00863",
+        "DOI": "10.3389/fpsyg.2013.00863",
+        "author": "D Lakens",
+        "year": "2013",
+        "first-page": "863",
+        "volume": "4",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "2705_CR24",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lakens, D. (2022). Sample size justification. Collabra: Psychology, 8(1), 33267. https://doi.org/10.1525/collabra.33267",
+        "DOI": "10.1525/collabra.33267",
+        "author": "D Lakens",
+        "year": "2022",
+        "first-page": "33267",
+        "volume": "8",
+        "journal-title": "Collabra: Psychology",
+        "issue": "1"
+      },
+      {
+        "key": "2705_CR25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Moher, D., Liberati, A., Tetzlaff, J., & Altman, D. G. (2009). Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. Bmj, 339. https://doi.org/10.1136/bmj.b2535",
+        "DOI": "10.1136/bmj.b2535"
+      },
+      {
+        "key": "2705_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Moher, D., Schulz, K. F., Simera, I., & Altman, D. G. (2010). Guidance for developers of health research reporting guidelines. PLoS Medicine, 7(2), e1000217. https://doi.org/10.1371/journal.pmed.1000217",
+        "DOI": "10.1371/journal.pmed.1000217",
+        "author": "D Moher",
+        "year": "2010",
+        "first-page": "e1000217",
+        "volume": "7",
+        "journal-title": "PLoS Medicine",
+        "issue": "2"
+      },
+      {
+        "key": "2705_CR27",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Moiola, L., Barcella, V., Benatti, S., Capobianco, M., Capra, R., Cinque, P., ..., & Riva, A. (2021). The risk of infection in patients with multiple sclerosis treated with disease-modifying therapies: a Delphi consensus statement. Multiple Sclerosis Journal, 27(3), 331–346. https://doi.org/10.1177/1352458520952311",
+        "DOI": "10.1177/1352458520952311"
+      },
+      {
+        "key": "2705_CR28",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nichols, T. E., Das, S., Eickhoff, S. B., Evans, A. C., Glatard, T., Hanke, M., ..., & Yeo, B. T. (2017). Best practices in data analysis and sharing in neuroimaging using MRI. Nature Neuroscience, 20(3), 299–303. https://doi.org/10.1038/nn.4500",
+        "DOI": "10.1038/nn.4500"
+      },
+      {
+        "key": "2705_CR29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nosek, B. A., & Errington, T. M. (2020). What is replication? PLoS Biology, 18(3), e3000691. https://doi.org/10.1371/journal.pbio.3000691",
+        "DOI": "10.1371/journal.pbio.3000691",
+        "author": "BA Nosek",
+        "year": "2020",
+        "first-page": "e3000691",
+        "volume": "18",
+        "journal-title": "PLoS Biology",
+        "issue": "3"
+      },
+      {
+        "key": "2705_CR30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nosek, B. A., Hardwicke, T. E., Moshontz, H., Allard, A., Corker, K. S., Dreber, A., ... & Vazire, S. (2022). Replicability, robustness, and reproducibility in psychological science. Annual Review of Psychology, 73(1), 719–748. https://doi.org/10.1146/annurev-psych-020821-114157",
+        "DOI": "10.1146/annurev-psych-020821-114157"
+      },
+      {
+        "key": "2705_CR31",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), 4716. https://doi.org/10.1126/science.aac4716",
+        "DOI": "10.1126/science.aac4716",
+        "author": "Open Science Collaboration",
+        "year": "2015",
+        "first-page": "4716",
+        "volume": "349",
+        "journal-title": "Science",
+        "issue": "6251"
+      },
+      {
+        "key": "2705_CR32",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., ..., & Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ, 372. https://doi.org/10.1136/bmj.n71",
+        "DOI": "10.1136/bmj.n71"
+      },
+      {
+        "key": "2705_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Pashler, H., & Wagenmakers, E. J. (2012). Editors’ introduction to the special section on replicability in psychological science: A crisis of confidence? Perspectives on Psychological Science, 7(6), 528–530. https://doi.org/10.1177/1745691612465253",
+        "DOI": "10.1177/1745691612465253",
+        "author": "H Pashler",
+        "year": "2012",
+        "first-page": "528",
+        "volume": "7",
+        "journal-title": "Perspectives on Psychological Science",
+        "issue": "6"
+      },
+      {
+        "key": "2705_CR34",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Riley, D. S., Barber, M. S., Kienle, G. S., Aronson, J. K., von Schoen-Angerer, T., Tugwell, P., ..., & Gagnier, J. J. (2017). CARE guidelines for case reports: Explanation and elaboration document. Journal of Clinical Epidemiology, 89, 218–235. https://doi.org/10.1016/j.jclinepi.2017.04.026",
+        "DOI": "10.1016/j.jclinepi.2017.04.026"
+      },
+      {
+        "key": "2705_CR35",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Riva, A., Barcella, V., Benatti, S. V., Capobianco, M., Capra, R., Cinque, P., ..., & Moiola, L. (2021). Vaccinations in patients with multiple sclerosis: A Delphi consensus statement. Multiple Sclerosis Journal, 27(3), 347–359. https://doi.org/10.1177/1352458520952310",
+        "DOI": "10.1177/1352458520952310"
+      },
+      {
+        "key": "2705_CR36",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Schulz, K. F., Altman, D. G., & Moher, D. (2010). CONSORT 2010 statement: Updated guidelines for reporting parallel group randomised trials. Journal of Pharmacology and Pharmacotherapeutics, 1(2), 100–107. https://doi.org/10.4103/0976-500X.72352",
+        "DOI": "10.4103/0976-500X.72352",
+        "author": "KF Schulz",
+        "year": "2010",
+        "first-page": "100",
+        "volume": "1",
+        "journal-title": "Journal of Pharmacology and Pharmacotherapeutics",
+        "issue": "2"
+      },
+      {
+        "key": "2705_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sedlmeier, P., & Gigerenzer, G. (1992). Do studies of statistical power have an effect on the power of studies? In A. E. Kazdin (Ed.), Methodological issues & strategies in clinical research (pp. 389–406). American Psychological Association. https://doi.org/10.1037/10109-032",
+        "DOI": "10.1037/10109-032",
+        "volume-title": "Methodological issues & strategies in clinical research",
+        "author": "P Sedlmeier",
+        "year": "1992",
+        "first-page": "389"
+      },
+      {
+        "key": "2705_CR38",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632",
+        "DOI": "10.1177/0956797611417632",
+        "author": "JP Simmons",
+        "year": "2011",
+        "first-page": "1359",
+        "volume": "22",
+        "journal-title": "Psychological Science",
+        "issue": "11"
+      },
+      {
+        "key": "2705_CR39",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3(9), 160384. https://doi.org/10.1098/rsos.160384",
+        "DOI": "10.1098/rsos.160384",
+        "author": "PE Smaldino",
+        "year": "2016",
+        "first-page": "160384",
+        "volume": "3",
+        "journal-title": "Royal Society Open Science",
+        "issue": "9"
+      },
+      {
+        "key": "2705_CR40",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Soto, C. J. (2019). How replicable are links between personality traits and consequential life outcomes? The life outcomes of personality replication project. Psychological Science, 30(5), 711–727. https://doi.org/10.1177/0956797619831612",
+        "DOI": "10.1177/0956797619831612",
+        "author": "CJ Soto",
+        "year": "2019",
+        "first-page": "711",
+        "volume": "30",
+        "journal-title": "Psychological Science",
+        "issue": "5"
+      },
+      {
+        "key": "2705_CR41",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Steurer, J. (2011). The Delphi method: An efficient procedure to generate knowledge. Skeletal Radiology, 40, 959–961. https://doi.org/10.1007/s00256-011-1145-z",
+        "DOI": "10.1007/s00256-011-1145-z",
+        "author": "J Steurer",
+        "year": "2011",
+        "first-page": "959",
+        "volume": "40",
+        "journal-title": "Skeletal Radiology"
+      },
+      {
+        "key": "2705_CR42",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Szucs, D., & Ioannidis, J. P. (2017). Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. PLoS Biology, 15(3), e2000797. https://doi.org/10.1371/journal.pbio.2000797",
+        "DOI": "10.1371/journal.pbio.2000797",
+        "author": "D Szucs",
+        "year": "2017",
+        "first-page": "e2000797",
+        "volume": "15",
+        "journal-title": "PLoS Biology",
+        "issue": "3"
+      },
+      {
+        "key": "2705_CR43",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Szucs, D., & Ioannidis, J. P. (2020). Sample size evolution in neuroimaging research: An evaluation of highly-cited studies (1990–2012) and of latest practices (2017–2018) in high-impact journals. NeuroImage, 221, 117164. https://doi.org/10.1016/j.neuroimage.2020.117164",
+        "DOI": "10.1016/j.neuroimage.2020.117164",
+        "author": "D Szucs",
+        "year": "2020",
+        "first-page": "117164",
+        "volume": "221",
+        "journal-title": "NeuroImage"
+      },
+      {
+        "key": "2705_CR44",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Taylor, E. (2020). We agree, don’t we? The Delphi method for health environments research. HERD: Health Environments Research & Design Journal, 13(1), 11–23. https://doi.org/10.1177/1937586719887709",
+        "DOI": "10.1177/1937586719887709",
+        "author": "E Taylor",
+        "year": "2020",
+        "first-page": "11",
+        "volume": "13",
+        "journal-title": "HERD: Health Environments Research & Design Journal",
+        "issue": "1"
+      },
+      {
+        "key": "2705_CR45",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Von Elm, E., Altman, D. G., Egger, M., Pocock, S. J., Gøtzsche, P. C., & Vandenbroucke, J. P. (2007). The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: Guidelines for reporting observational studies. The Lancet, 370(9596), 1453–1457. https://doi.org/10.1016/S0140-6736(07)61602-X",
+        "DOI": "10.1016/S0140-6736(07)61602-X",
+        "author": "E Von Elm",
+        "year": "2007",
+        "first-page": "1453",
+        "volume": "370",
+        "journal-title": "The Lancet",
+        "issue": "9596"
+      },
+      {
+        "key": "2705_CR46",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wallin, A., Kettunen, P., Johansson, P. M., Jonsdottir, I. H., Nilsson, C., Nilsson, M., ..., & Georg Kuhn, H. (2018). Cognitive medicine–a new approach in health care science. BMC Psychiatry, 18, 1–5. https://doi.org/10.1186/s12888-018-1615-0",
+        "DOI": "10.1186/s12888-018-1615-0"
+      },
+      {
+        "key": "2705_CR47",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Welty, G. (1972). Problems of selecting experts for Delphi exercises. Academy of Management Journal, 15(1), 121–124. https://doi.org/10.5465/254805",
+        "DOI": "10.5465/254805",
+        "author": "G Welty",
+        "year": "1972",
+        "first-page": "121",
+        "volume": "15",
+        "journal-title": "Academy of Management Journal",
+        "issue": "1"
+      },
+      {
+        "key": "2705_CR48",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wicherts, J. M., Borsboom, D., Kats, J., & Molenaar, D. (2006). The poor availability of psychological research data for reanalysis. American Psychologist, 61(7), 726. https://doi.org/10.1037/0003-066X.61.7.726",
+        "DOI": "10.1037/0003-066X.61.7.726",
+        "author": "JM Wicherts",
+        "year": "2006",
+        "first-page": "726",
+        "volume": "61",
+        "journal-title": "American Psychologist",
+        "issue": "7"
+      },
+      {
+        "key": "2705_CR49",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wicherts, J. M., Veldkamp, C. L., Augusteijn, H. E., Bakker, M., Van Aert, R. C., & Van Assen, M. A. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. Frontiers in Psychology, 7, 1832. https://doi.org/10.3389/fpsyg.2016.01832",
+        "DOI": "10.3389/fpsyg.2016.01832",
+        "author": "JM Wicherts",
+        "year": "2016",
+        "first-page": "1832",
+        "volume": "7",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "2705_CR50",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zogmaister, C., Vezzoli, M., Facchin, A., Conte, F. P., Rizzi, E., Giaquinto, F., ..., & Simioni, M. (2024). Assessing the Transparency of Methods in Scientific Reporting. Collabra: Psychology, 10(1). https://doi.org/10.1525/collabra.121243",
+        "DOI": "10.1525/collabra.121243"
+      },
+      {
+        "key": "2705_CR51",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zwaan, R. A., Etz, A., Lucas, R. E., & Donnellan, M. B. (2018). Making replication mainstream. Behavioral and Brain Sciences, 41, e120. https://doi.org/10.1017/S0140525X17001972",
+        "DOI": "10.1017/S0140525X17001972",
+        "author": "RA Zwaan",
+        "year": "2018",
+        "first-page": "e120",
+        "volume": "41",
+        "journal-title": "Behavioral and Brain Sciences"
+      }
+    ],
+    "container-title": "Behavior Research Methods",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-025-02705-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.3758/s13428-025-02705-3/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-025-02705-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 9, 29]
+      ],
+      "date-time": "2025-09-29T20:27:45Z",
+      "timestamp": 1759177665000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.3758/s13428-025-02705-3"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2025, 5, 30]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [
+          [2025, 7]
+        ]
+      }
+    },
+    "alternative-id": "2705",
+    "URL": "https://doi.org/10.3758/s13428-025-02705-3",
+    "relation": {},
+    "ISSN": "1554-3528",
+    "issn-type": [
+      {
+        "value": "1554-3528",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2025, 5, 30]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2 May 2025",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 May 2025",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that there were no conflicts of interest with respect to the authorship or the publication of this article.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflicts of interest/Competing interests"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      }
+    ],
+    "article-number": "182"
+  }
+}

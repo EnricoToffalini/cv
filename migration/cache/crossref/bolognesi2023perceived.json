@@ -1,0 +1,803 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 10, 11]
+      ],
+      "date-time": "2025-10-11T01:50:19Z",
+      "timestamp": 1760147419697,
+      "version": "build-2065373602"
+    },
+    "reference-count": 69,
+    "publisher": "MDPI AG",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2023, 2, 3]
+          ],
+          "date-time": "2023-02-03T00:00:00Z",
+          "timestamp": 1675382400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Sustainability",
+    "abstract": "<jats:p>This study examines how objective, social, and perceived environmental conditions in a blue space are associated with the perception of psychological restorativeness. We collected data between April 2021 and February 2022 at Poetto Beach in Sardinia, Italy. The participants (N = 255) completed a survey about perceived environmental quality, stress, weather, and restorativeness during their stay at the beach. We used linear models to evaluate the association between psychological restorativeness and social, environmental, and weather parameters. We also analyzed the nature of the association between temperature and restorativeness by viewing this relation as both linear and non-linear and by evaluating the differences in restorativeness between winter, springtime, and summer. The results suggested that the participants viewed the beach as psychologically restorative, especially during the winter season. We also found that the number of people that participants came with was negatively associated with perceived restorativeness. Finally, the results from the correlation analysis revealed that people are less stressed if they go to the beach more frequently.<\/jats:p>",
+    "DOI": "10.3390/su15032794",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2023, 2, 6]
+      ],
+      "date-time": "2023-02-06T02:29:23Z",
+      "timestamp": 1675650563000
+    },
+    "page": "2794",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": "Perceived Psychological Restorativeness in Relation to Individual and Environmental Variables: A Study Conducted at Poetto Beach in Sardinia, Italy",
+    "prefix": "10.3390",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Monica",
+        "family": "Bolognesi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false
+      },
+      {
+        "given": "Francesca",
+        "family": "Pazzaglia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35131 Padova, Italy"
+          },
+          {
+            "name": "Interuniversity Research Centre in Environmental Psychology (CIRPA), 00185 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0002-3446-3826",
+        "authenticated-orcid": false
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [2023, 2, 3]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "World Health Organization (2021, October 29). Urban Health. Available online: https://www.who.int/news-room/fact-sheets/detail/urban-health."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "126720",
+        "DOI": "10.1016/j.ufug.2020.126720",
+        "article-title": "Are greenspace attributes associated with perceived restorativeness? A comparative study of urban cemeteries and parks in Edinburgh, Scotland",
+        "volume": "53",
+        "author": "Lai",
+        "year": "2020",
+        "journal-title": "Urban For. Urban Green."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1515/reveh-2020-0125",
+        "article-title": "Effects of ambient air pollution on psychological stress and anxiety disorder: A systematic review and meta-analysis of epidemiological evidence",
+        "volume": "36",
+        "author": "Trushna",
+        "year": "2020",
+        "journal-title": "Rev. Environ. Health"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1217",
+        "DOI": "10.1007/s10648-022-09658-5",
+        "article-title": "Effects of Nature (Greenspace) on Cognitive Functioning in School Children and Adolescents: A Systematic Review",
+        "volume": "34",
+        "author": "Gilowska",
+        "year": "2022",
+        "journal-title": "Educ. Psychol. Rev."
+      },
+      {
+        "key": "ref_5",
+        "unstructured": "(2023, January 13). United Nations, The 2030 Agenda and the Sustainable Development Goals. Oceans and Seas. Available online: https://sdgs.un.org/topics/oceans-and-seas."
+      },
+      {
+        "key": "ref_6",
+        "unstructured": "Kaplan, R., and Kaplan, S. (1989). The Experience of Nature: A Psychological Perspective, Cambridge University Press."
+      },
+      {
+        "key": "ref_7",
+        "unstructured": "Staats, H. (2012). The Oxford Handbook of Environmental and Conservation Psychology, Oxford University Press."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1093/heapro/day103",
+        "article-title": "Blue care: A systematic review of blue space interventions for health and wellbeing",
+        "volume": "35",
+        "author": "Britton",
+        "year": "2020",
+        "journal-title": "Health Promot. Int."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1016/j.socscimed.2013.06.030",
+        "article-title": "Streetscape greenery and health: Stress, social cohesion and physical activity as mediators",
+        "volume": "94",
+        "author": "Groenewegen",
+        "year": "2013",
+        "journal-title": "Soc. Sci. Med."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1080/00045608.2012.674899",
+        "article-title": "Is a green residential environment better for health? If so, why?",
+        "volume": "102",
+        "author": "Groenewegen",
+        "year": "2011",
+        "journal-title": "Ann. Assoc. Am. Geogr."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.17744/mehc.44.3.01",
+        "article-title": "A systematic review of nature-based counseling interventions to promote mental health and wellness",
+        "volume": "44",
+        "author": "Lewis",
+        "year": "2022",
+        "journal-title": "J. Ment. Health Couns."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1080/16078055.2018.1445025",
+        "article-title": "Cognitive benefits of walking in natural versus built environments",
+        "volume": "60",
+        "author": "Bailey",
+        "year": "2018",
+        "journal-title": "World Leis. J."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/j.jenvp.2009.10.009",
+        "article-title": "Vitalizing effects of being outdoors and in nature",
+        "volume": "30",
+        "author": "Ryan",
+        "year": "2010",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1016/j.healthplace.2018.03.001",
+        "article-title": "Does spending time outdoors reduce stress? A review of real-time stress response to outdoor environments",
+        "volume": "51",
+        "author": "Kondo",
+        "year": "2018",
+        "journal-title": "Health Place"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.1177/0013916519873376",
+        "article-title": "Effects of public green space on acute psychophysiological stress response: A systematic review and meta-analysis of the experimental and quasi-experimental evidence",
+        "volume": "53",
+        "author": "Mygind",
+        "year": "2019",
+        "journal-title": "Environ. Behav."
+      },
+      {
+        "key": "ref_16",
+        "unstructured": "Andreucci, M.B., Russo, A., and Olszewska-Guizzo, A. (2019). Designing urban green blue infrastructure for mental health and elderly wellbeing. Sustainability, 11.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/su11226425"
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "967",
+        "DOI": "10.1136/jech.2008.079038",
+        "article-title": "Morbidity is related to a green living environment",
+        "volume": "63",
+        "author": "Maas",
+        "year": "2009",
+        "journal-title": "J. Epidemiol. Community Health"
+      },
+      {
+        "key": "ref_18",
+        "first-page": "1",
+        "article-title": "Ambienti naturali e salute mentale",
+        "volume": "26",
+        "author": "Uga",
+        "year": "2019",
+        "journal-title": "Ambiente Salut."
+      },
+      {
+        "key": "ref_19",
+        "unstructured": "Ulrich, R.S. (1983). Behavior and the Natural Environment, Springer."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/S0272-4944(05)80184-7",
+        "article-title": "Stress recovery during exposure to natural and urban environments",
+        "volume": "11",
+        "author": "Ulrich",
+        "year": "1991",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/0272-4944(95)90001-2",
+        "article-title": "The restorative benefits of nature: Toward an integrative framework",
+        "volume": "15",
+        "author": "Kaplan",
+        "year": "1995",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.landurbplan.2015.02.005",
+        "article-title": "The benefits of nature experience: Improved affect and cognition",
+        "volume": "138",
+        "author": "Bratman",
+        "year": "2015",
+        "journal-title": "Landsc. Urban Plan."
+      },
+      {
+        "key": "ref_23",
+        "first-page": "1",
+        "article-title": "Restoration experience measurement methods in contact with green open spaces",
+        "volume": "2018",
+        "author": "Malekinezhad",
+        "year": "2018",
+        "journal-title": "Preprints"
+      },
+      {
+        "key": "ref_24",
+        "unstructured": "James, W. (1892). Psychology: The Briefer Course, Holt.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/11630-000"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1177/1745691609356784",
+        "article-title": "Directed attention as a common resource for executive functioning and self-regulation",
+        "volume": "5",
+        "author": "Kaplan",
+        "year": "2010",
+        "journal-title": "Perspect. Psychol. Sci."
+      },
+      {
+        "key": "ref_26",
+        "unstructured": "Gibson, J.J. (1979). The Ecological Approach to Visual Perception, Houghton Mifflin."
+      },
+      {
+        "key": "ref_27",
+        "first-page": "1",
+        "article-title": "Perceived restoration scale method turned into (used as the) evaluation tool for parks and open green spaces, using Tartu city parks as an example. Rennit and Maikov City",
+        "volume": "2",
+        "author": "Rennit",
+        "year": "2015",
+        "journal-title": "Territ. Archit."
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1016/j.ufug.2011.07.001",
+        "article-title": "Stressed individuals’ preferences for activities and environmental characteristics in green spaces",
+        "volume": "10",
+        "author": "Stigsdotter",
+        "year": "2011",
+        "journal-title": "Urban Urban Green"
+      },
+      {
+        "key": "ref_29",
+        "first-page": "60",
+        "article-title": "What makes a garden a healing garden?",
+        "volume": "13",
+        "author": "Stigsdotter",
+        "year": "2002",
+        "journal-title": "J. Ther. Hortic."
+      },
+      {
+        "key": "ref_30",
+        "unstructured": "Kellert, S., and Wilson, E.O. (1993). The Biophilia Hypothesis, Island Press/Shearwater Books."
+      },
+      {
+        "key": "ref_31",
+        "first-page": "2",
+        "article-title": "Further development of a measure of perceived environmental restorativeness",
+        "volume": "5",
+        "author": "Hartig",
+        "year": "1997",
+        "journal-title": "Inst. Hous. Res."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1016/0169-2046(93)90004-W",
+        "article-title": "Health and environment: A psychological analysis",
+        "volume": "26",
+        "author": "Kaplan",
+        "year": "1993",
+        "journal-title": "Landsc. Urban Plan."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "482",
+        "DOI": "10.1016/j.jenvp.2010.04.004",
+        "article-title": "Blue space: The importance of water for preference, affect, and restorativeness ratings of natural and built scenes",
+        "volume": "30",
+        "author": "White",
+        "year": "2010",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1016/j.jenvp.2011.08.008",
+        "article-title": "Effect of environmental conditions on perceived psychological restorativeness of coastal parks",
+        "volume": "31",
+        "author": "Hipp",
+        "year": "2011",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_35",
+        "first-page": "1",
+        "article-title": "Relationships between landscape characteristics and the restorative quality of soundscapes in urban blue spaces",
+        "volume": "189",
+        "author": "Liu",
+        "year": "2021",
+        "journal-title": "Appl. Acoust."
+      },
+      {
+        "key": "ref_36",
+        "first-page": "3137",
+        "article-title": "Research on color space perceptions and restorative effects of blue space based on color psychology: Examination of the yijie district of dujiangyan city as an example",
+        "volume": "17",
+        "author": "Wan",
+        "year": "2020",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1186/s12942-015-0009-5",
+        "article-title": "Beyond greenspace: An ecological study of population general health and indicators of natural environment type and quality",
+        "volume": "14",
+        "author": "Wheeler",
+        "year": "2015",
+        "journal-title": "Int. J. Health Geogr."
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.jenvp.2013.04.002",
+        "article-title": "Feelings of restoration from recent nature visits",
+        "volume": "35",
+        "author": "White",
+        "year": "2013",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1973",
+        "DOI": "10.1016/S0140-6736(15)60901-1",
+        "article-title": "Safeguarding human health in the Anthropocene epoch: Report of The Rockefeller Foundation–Lancet Commission on planetary health",
+        "volume": "386",
+        "author": "Whitmee",
+        "year": "2015",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1136/bmjopen-2017-016188",
+        "article-title": "Blue Health: A study programme protocol for mapping and quantifying the potential benefits to public health and well-being from Europe’s blue spaces",
+        "volume": "7",
+        "author": "Grellier",
+        "year": "2017",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1016/j.buildenv.2018.07.002",
+        "article-title": "Correlation of ambient air temperature and cognitive performance: A systematic review and meta-analysis",
+        "volume": "143",
+        "author": "Yeganeh",
+        "year": "2018",
+        "journal-title": "Build. Environ."
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1016/j.envres.2012.08.008",
+        "article-title": "Temperature, traffic-related air pollution, and heart rate variability in a panel of healthy adults",
+        "volume": "120",
+        "author": "Wu",
+        "year": "2013",
+        "journal-title": "Environ. Res."
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1093/aje/kwq477",
+        "article-title": "Ambient Temperature, Air Pollution, and Heart Rate Variability in an Aging Population",
+        "volume": "173",
+        "author": "Ren",
+        "year": "2011",
+        "journal-title": "Am. J. Epidemiol."
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1111/j.1540-4560.2007.00497.x",
+        "article-title": "Preference for nature in urbanized societies: Stress, restoration, and the pursuit of sustainability",
+        "volume": "63",
+        "author": "Hartig",
+        "year": "2007",
+        "journal-title": "J. Soc. Issues"
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "1095",
+        "DOI": "10.1177/0013916515592177",
+        "article-title": "Factors that can undermine the psychological benefits of coastal environments: Exploring the effect of tidal state, presence, and type of litter",
+        "volume": "48",
+        "author": "Wyles",
+        "year": "2016",
+        "journal-title": "Environ. Behav."
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1016/j.landurbplan.2009.11.002",
+        "article-title": "Perceived and objectively measured greenness of neighborhoods: Are they measuring the same thing?",
+        "volume": "95",
+        "author": "Leslie",
+        "year": "2010",
+        "journal-title": "Landsc. Urban Plan."
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "162",
+        "DOI": "10.1007/s11524-006-9136-4",
+        "article-title": "Exploring associations between physical activity and perceived and objective measures of the built environment",
+        "volume": "84",
+        "author": "McGinn",
+        "year": "2007",
+        "journal-title": "J. Urban Health"
+      },
+      {
+        "key": "ref_48",
+        "unstructured": "(2023, January 10). Regione Autonoma Della Sardegna Turismo, Estate Record per la Sardegna e la Stagione Continua: Nel 2022 oltre 6 Milioni di Arrivi, 4,5 Milioni da Giugno a Settembre. Available online: https://www.regione.sardegna.it/j/v/2568?s=441458&v=2&c=3692&t=1."
+      },
+      {
+        "key": "ref_49",
+        "unstructured": "Free Wiki World Map (2023, January 10). OpenStreetMap. Available online: https://www.openstreetmap.org/#map=7/42.379/5.685."
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1080/02815739708730435",
+        "article-title": "A Measure of restorative quality in environments",
+        "volume": "14",
+        "author": "Hartig",
+        "year": "1997",
+        "journal-title": "Scand. Hous. Plan. Res."
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/j.sbspro.2014.12.375",
+        "article-title": "How to measure the restorative quality of environments: The PRS-11",
+        "volume": "159",
+        "author": "Pasini",
+        "year": "2014",
+        "journal-title": "Soc. Behav. Sci."
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1016/S0272-4944(02)00109-3",
+        "article-title": "Tracking restoration in natural and urban field settings",
+        "volume": "23",
+        "author": "Hartig",
+        "year": "2003",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "385",
+        "DOI": "10.2307/2136404",
+        "article-title": "A global measure of perceived stress",
+        "volume": "24",
+        "author": "Cohen",
+        "year": "1983",
+        "journal-title": "J. Health Soc. Behav."
+      },
+      {
+        "key": "ref_54",
+        "unstructured": "(2021, April 08). Sardegna-Clima. Meteorologia e Climatologia in Sardegna. Available online: https://sardegna-clima.it."
+      },
+      {
+        "key": "ref_55",
+        "unstructured": "(2021, April 08). iLMeteo.it, T. Meteo Cagliari. Available online: https://www.ilmeteo.it/meteo/Cagliari."
+      },
+      {
+        "key": "ref_56",
+        "unstructured": "The Weather Channel (2021, April 08). Previsioni e Condizioni Meteo. Available online: https://weather.com/it-IT/tempo/oggi/l/ITXX0067:1:IT."
+      },
+      {
+        "key": "ref_57",
+        "unstructured": "Sardegna ARPA (2021, April 08). Acque di Balneazione: Dati Anno 2021. Available online: https://www.sardegnaambiente.it/index.php?xsl=612&s=305183&v=2&c=4581&idsito=21."
+      },
+      {
+        "key": "ref_58",
+        "unstructured": "Sardegna ARPA (2021, April 08). Valutazione Qualità Dell’aria. Available online: https://portal.sardegnasira.it/ricerca-centraline."
+      },
+      {
+        "key": "ref_59",
+        "unstructured": "R Core Team (2022). R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing. Available online: https://www.R-project.org/."
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v048.i02",
+        "article-title": "lavaan: An R package for Structural Equation Modeling",
+        "volume": "48",
+        "author": "Rosseel",
+        "year": "2012",
+        "journal-title": "J. Stat. Softw."
+      },
+      {
+        "key": "ref_61",
+        "first-page": "20",
+        "article-title": "Segmented: An R Package to Fit Regression Models with Broken-Line Relationships",
+        "volume": "8",
+        "author": "Muggeo",
+        "year": "2008",
+        "journal-title": "R News"
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1016/S0272-4944(89)80038-6",
+        "article-title": "Place-identity as a product of environmental self-regulation",
+        "volume": "9",
+        "author": "Korpela",
+        "year": "1989",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.1007/s00267-012-9912-8",
+        "article-title": "The influence of place attachment and experience use history on perceived depreciative visitor behavior and crowding in an urban national park",
+        "volume": "50",
+        "author": "Eder",
+        "year": "2012",
+        "journal-title": "Environ. Manag."
+      },
+      {
+        "key": "ref_64",
+        "doi-asserted-by": "crossref",
+        "first-page": "1690",
+        "DOI": "10.1289/ehp.9266",
+        "article-title": "Does Particulate Matter Modify the Association between Temperature and Cardiorespiratory Diseases?",
+        "volume": "114",
+        "author": "Ren",
+        "year": "2006",
+        "journal-title": "Environ. Health Perspect."
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "first-page": "841",
+        "DOI": "10.1111/ina.12685",
+        "article-title": "Perceived air quality and cognitive performance decrease at moderately raised indoor temperatures even when clothed for comfort",
+        "volume": "30",
+        "author": "Lan",
+        "year": "2020",
+        "journal-title": "Indoor Air"
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1016/j.landurbplan.2011.03.005",
+        "article-title": "Relationship between psychological responses and physical environments in forest settings",
+        "volume": "102",
+        "author": "Park",
+        "year": "2011",
+        "journal-title": "Landsc. Urban Plan."
+      },
+      {
+        "key": "ref_67",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1016/j.jenvp.2004.11.001",
+        "article-title": "Linking place preferences with place meaning: An examination of the relationship between place motivation and place attachment",
+        "volume": "24",
+        "author": "Kyle",
+        "year": "2004",
+        "journal-title": "J. Environ. Psychol."
+      },
+      {
+        "key": "ref_68",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1016/j.puhe.2016.09.019",
+        "article-title": "Social determinants and lifestyles: Integrating environmental and public health per- spectives",
+        "volume": "141",
+        "author": "Graham",
+        "year": "2016",
+        "journal-title": "Public Health"
+      },
+      {
+        "key": "ref_69",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.healthplace.2010.09.003",
+        "article-title": "The restorative benefits of walking in urban and rural settings in adults with good and poor mental health",
+        "volume": "17",
+        "author": "Roe",
+        "year": "2011",
+        "journal-title": "Health Place"
+      }
+    ],
+    "container-title": "Sustainability",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2071-1050/15/3/2794/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 10]
+      ],
+      "date-time": "2025-10-10T18:23:30Z",
+      "timestamp": 1760120610000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2071-1050/15/3/2794"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2023, 2, 3]
+      ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [2023, 2]
+        ]
+      }
+    },
+    "alternative-id": "su15032794",
+    "URL": "https://doi.org/10.3390/su15032794",
+    "relation": {},
+    "ISSN": "2071-1050",
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2071-1050"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2023, 2, 3]
+      ]
+    }
+  }
+}

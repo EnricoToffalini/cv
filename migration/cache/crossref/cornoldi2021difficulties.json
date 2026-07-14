@@ -1,0 +1,468 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 13]
+      ],
+      "date-time": "2026-07-13T05:53:59Z",
+      "timestamp": 1783922039708,
+      "version": "3.55.0"
+    },
+    "reference-count": 48,
+    "publisher": "SAGE Publications",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2021, 8, 20]
+          ],
+          "date-time": "2021-08-20T00:00:00Z",
+          "timestamp": 1629417600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100017336",
+        "name": "dipartimenti di eccellenza",
+        "doi-asserted-by": "publisher",
+        "award": "Dipartimenti di Eccellenza DM 11/05/2017 n. 262",
+        "award-info": [
+          {
+            "award-number": "Dipartimenti di Eccellenza DM 11/05/2017 n. 262"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100017336",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "journals.sagepub.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "J Learn Disabil",
+    "published-print": {
+      "date-parts": [
+        [2022, 7]
+      ]
+    },
+    "abstract": "<jats:p>Letters and numbers are different domains, and their differentiation increases with schooling. It has nonetheless been argued that reading alphabetic and numerical materials partly involves the same processes, even in adults. Whether individuals with dyslexia have difficulty reading and writing numbers remains to be established. This study examined this issue in a group of 30 young adults with a diagnosis of dyslexia, without any concurrent specific difficulty in processing quantities, compared with a typically developing group matched for gender, age, university attended and course of studies, and approximate calculation ability. The results showed that adults with dyslexia also have severe difficulty in reading and writing numbers. It emerged that their number reading speed correlated moderately with word reading speed. We concluded that dyslexia is specifically related with difficulties in reading and writing not only alphabetic material but also numerical material. Our findings suggest that these abilities should be considered more carefully when assessing and supporting individuals with dyslexia.<\/jats:p>",
+    "DOI": "10.1177/00222194211037061",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 8, 21]
+      ],
+      "date-time": "2021-08-21T01:53:21Z",
+      "timestamp": 1629510801000
+    },
+    "page": "338-348",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": "Difficulties of Young Adults With Dyslexia in Reading and Writing Numbers",
+    "prefix": "10.1177",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlotta",
+        "family": "Rivella",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Genoa, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lorena",
+        "family": "Montesano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Calabria, Arcavacata di Rende, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Padua, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [2021, 8, 20]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00466"
+      },
+      {
+        "key": "bibr2-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2019.01.001"
+      },
+      {
+        "key": "bibr3-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "bibr4-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/brain/113.3.749"
+      },
+      {
+        "key": "bibr5-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v067.i01"
+      },
+      {
+        "key": "bibr6-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9817.00014"
+      },
+      {
+        "key": "bibr7-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.124.4.434"
+      },
+      {
+        "key": "bibr8-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11881-013-0088-6"
+      },
+      {
+        "key": "bibr9-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219417718197"
+      },
+      {
+        "key": "bibr10-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjep.12307"
+      },
+      {
+        "key": "bibr11-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-9452(13)80106-2"
+      },
+      {
+        "key": "bibr12-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/brain/117.2.267"
+      },
+      {
+        "key": "bibr13-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.100.4.589"
+      },
+      {
+        "key": "bibr14-00222194211037061",
+        "volume-title": "Prove di Lettura MT per la Scuola Elementare-2",
+        "author": "Cornoldi C.",
+        "year": "1998"
+      },
+      {
+        "key": "bibr15-00222194211037061",
+        "volume-title": "AC-MT test di valutazione delle abilità di calcolo",
+        "author": "Cornoldi C.",
+        "year": "2002"
+      },
+      {
+        "key": "bibr16-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219417690355"
+      },
+      {
+        "key": "bibr17-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S1355617799533043"
+      },
+      {
+        "key": "bibr18-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203324899"
+      },
+      {
+        "key": "bibr19-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02643294.2011.614939"
+      },
+      {
+        "key": "bibr20-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bandl.2018.01.009"
+      },
+      {
+        "key": "bibr21-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17470210903359206"
+      },
+      {
+        "key": "bibr22-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9817.00017"
+      },
+      {
+        "key": "bibr23-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2015.02.022"
+      },
+      {
+        "key": "bibr24-00222194211037061",
+        "unstructured": "Istituto Superiore di Sanità. (2011). Consensus Conference: Disturbi Specifici dell’Apprendimento [National consensus conference on specific learning disability]. https://www.aiditalia.org/Media/Documents/consensus/Cc_Disturbi_Apprendimento.pdf"
+      },
+      {
+        "key": "bibr25-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2007.11.007"
+      },
+      {
+        "key": "bibr26-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-019-01249-4"
+      },
+      {
+        "key": "bibr27-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.364"
+      },
+      {
+        "key": "bibr28-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.2009.02164.x"
+      },
+      {
+        "key": "bibr29-00222194211037061",
+        "author": "Legge 170/2010",
+        "year": "2010",
+        "journal-title": "Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico"
+      },
+      {
+        "key": "bibr30-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7610.2009.02079.x"
+      },
+      {
+        "key": "bibr31-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2011.09.013"
+      },
+      {
+        "key": "bibr32-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9817.12097"
+      },
+      {
+        "key": "bibr33-00222194211037061",
+        "volume-title": "Studenti Universitari e Giovani Adulti con Disturbo Specifico dell’apprendimento. Nuova Batteria per Studenti Universitari e Adulti Lsc-Sua",
+        "author": "Montesano L.",
+        "year": "2020"
+      },
+      {
+        "key": "bibr34-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/14015439.2015.1034770"
+      },
+      {
+        "key": "bibr35-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ejn.13938"
+      },
+      {
+        "key": "bibr36-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-1523.31.5.1150"
+      },
+      {
+        "key": "bibr37-00222194211037061",
+        "unstructured": "R Core Team. (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/"
+      },
+      {
+        "key": "bibr38-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.431"
+      },
+      {
+        "key": "bibr39-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0956-7976.2004.00735.x"
+      },
+      {
+        "key": "bibr40-00222194211037061",
+        "volume-title": "DDE-2 Batteria per la valutazione della dislessia e della disortografia evolutiva–2",
+        "author": "Sartori G.",
+        "year": "2007"
+      },
+      {
+        "key": "bibr41-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/13273-012"
+      },
+      {
+        "key": "bibr42-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/0034654309350931"
+      },
+      {
+        "key": "bibr43-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702616672038"
+      },
+      {
+        "key": "bibr44-00222194211037061",
+        "unstructured": "Torchiano M. (2020). effsize: Efficient effect size computation (R Package Version 0.8.1). https://doi.org/10.5281/zenodo.1480624"
+      },
+      {
+        "key": "bibr45-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002221940103400503"
+      },
+      {
+        "key": "bibr46-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2014.11.017"
+      },
+      {
+        "key": "bibr47-00222194211037061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.92.4.668"
+      },
+      {
+        "key": "bibr48-00222194211037061",
+        "author": "World Health Organization",
+        "year": "1992",
+        "journal-title": "The ICD-10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines"
+      }
+    ],
+    "container-title": "Journal of Learning Disabilities",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00222194211037061",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00222194211037061",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00222194211037061",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2026, 5, 1]
+      ],
+      "date-time": "2026-05-01T06:40:41Z",
+      "timestamp": 1777617641000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/00222194211037061"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 8, 20]
+      ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [2022, 7]
+        ]
+      }
+    },
+    "alternative-id": "10.1177/00222194211037061",
+    "URL": "https://doi.org/10.1177/00222194211037061",
+    "relation": {},
+    "ISSN": ["0022-2194", "1538-4780"],
+    "issn-type": [
+      {
+        "value": "0022-2194",
+        "type": "print"
+      },
+      {
+        "value": "1538-4780",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 8, 20]
+      ]
+    }
+  }
+}

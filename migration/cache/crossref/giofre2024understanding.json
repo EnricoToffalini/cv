@@ -1,0 +1,695 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 30]
+      ],
+      "date-time": "2026-06-30T18:33:30Z",
+      "timestamp": 1782844410528,
+      "version": "3.54.5"
+    },
+    "reference-count": 42,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2024, 11, 1]
+          ],
+          "date-time": "2024-11-01T00:00:00Z",
+          "timestamp": 1730419200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2024, 11, 1]
+          ],
+          "date-time": "2024-11-01T00:00:00Z",
+          "timestamp": 1730419200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2024, 10, 6]
+          ],
+          "date-time": "2024-10-06T00:00:00Z",
+          "timestamp": 1728172800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Research in Developmental Disabilities",
+    "published-print": {
+      "date-parts": [
+        [2024, 11]
+      ]
+    },
+    "DOI": "10.1016/j.ridd.2024.104854",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2024, 10, 9]
+      ],
+      "date-time": "2024-10-09T09:14:49Z",
+      "timestamp": 1728465289000
+    },
+    "page": "104854",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": "Understanding sex/gender differences in intelligence profiles of children with Autism: A comprehensive WISC meta-analysis",
+    "prefix": "10.1016",
+    "volume": "154",
+    "author": [
+      {
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rachele",
+        "family": "Lievore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katie",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene",
+        "family": "Tonizzi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene Cristina",
+        "family": "Mammarella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib1",
+        "series-title": "Diagnostic and statistical manual of mental disorders",
+        "author": "American Psychiatric Association",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib2",
+        "series-title": "Introduction to meta-analysis",
+        "author": "Borenstein",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib3",
+        "author": "Cardillo",
+        "year": "2020",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "765",
+        "DOI": "10.1177/1362361319888341",
+        "article-title": "A cross-task comparison on visuospatial processing in autism spectrum disorders",
+        "volume": "24",
+        "journal-title": "Autism"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib4",
+        "author": "Cicinelli",
+        "year": "2022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S2045796022000506",
+        "article-title": "Wechsler Intelligence Scale for Adults - Fourth Edition profiles of adults with autism spectrum disorder",
+        "volume": "31",
+        "journal-title": "Epidemiology and Psychiatric Sciences"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib5",
+        "unstructured": "Cornoldi, C., Giofrè, D., & Belacchi, C. (2016). Leiter-3 Leiter International Performance Scale Third Edition Standardizzazione italiana [Italian Standardization]. Giunti O. S."
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib6",
+        "author": "De Bruin",
+        "year": "2006",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1007/s10802-005-9018-3",
+        "article-title": "WISC-R subtest but no overall VIQ-PIQ difference in Dutch children with PDD-NOS",
+        "volume": "34",
+        "journal-title": "Journal of Abnormal Child Psychology"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib7",
+        "author": "Duvall",
+        "year": "2020",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1770",
+        "DOI": "10.1007/s10803-019-03933-1",
+        "article-title": "No sex differences in cognitive ability in young children with autism spectrum disorder",
+        "volume": "50",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib8",
+        "author": "Dworzynski",
+        "year": "2012",
+        "issue": "8",
+        "doi-asserted-by": "crossref",
+        "first-page": "788",
+        "DOI": "10.1016/j.jaac.2012.05.018",
+        "article-title": "How different are girls and boys above and below the diagnostic threshold for autism spectrum disorders?",
+        "volume": "51",
+        "journal-title": "Journal of the American Academy of Child Adolescent Psychiatry"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib9",
+        "author": "Evers",
+        "year": "2012",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1027/1016-9040/a000102",
+        "article-title": "Testing practices in the 21st century",
+        "volume": "17",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib10",
+        "author": "Fombonne",
+        "year": "2003",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1023/A:1025054610557",
+        "article-title": "Epidemiological surveys of autism and other pervasive developmental disorders: An update",
+        "volume": "33",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib11",
+        "author": "Geary",
+        "year": "2021",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jecp.2021.105222",
+        "article-title": "Boys’ visuospatial abilities compensate for their relatively poor in-class attentive behavior in learning mathematics",
+        "volume": "211",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib12",
+        "author": "Giarelli",
+        "year": "2010",
+        "issue": "2",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/j.dhjo.2009.07.001",
+        "article-title": "Sex differences in the evaluation and diagnosis of autism spectrum disorders among children",
+        "volume": "3",
+        "journal-title": "Disability and Health Journal"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib13",
+        "author": "Giofrè",
+        "year": "2022",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "2543",
+        "DOI": "10.1007/s10648-022-09705-1",
+        "article-title": "The impasse on gender differences in intelligence: A meta-analysis on WISC batteries",
+        "volume": "34",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib14",
+        "author": "Giofrè",
+        "year": "2022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2021.101615",
+        "article-title": "Decoding gender differences: Intellectual profiles of children with specific learning disabilities",
+        "volume": "90",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib15",
+        "author": "Giofrè",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2019.101380",
+        "article-title": "Lumpers vs. splitters: Intelligence in children with specific learning disorders",
+        "volume": "76",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib16",
+        "author": "Giofrè",
+        "year": "2019",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.ridd.2019.04.009",
+        "article-title": "The intellectual profile of children with autism spectrum disorders may be underestimated: A comparison between two different batteries in an Italian sample",
+        "volume": "90",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib17",
+        "author": "Giofrè",
+        "year": "2017",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.intell.2017.01.014",
+        "article-title": "Intelligence measures as diagnostic tools for children with specific learning disabilities",
+        "volume": "61",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib18",
+        "author": "Giofrè",
+        "year": "2023",
+        "issue": "9",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.3390/jintelligence11090178",
+        "article-title": "Gender differences in the Wechsler Intelligence Scale for Children in a large group of Italian children with attention deficit hyperactivity disorder",
+        "volume": "11",
+        "journal-title": "Journal of Intelligence"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib19",
+        "author": "Giofrè",
+        "year": "2024",
+        "article-title": "Sex/gender differences in general cognitive abilities: an investigation using the Leiter-3",
+        "volume": "0123456789",
+        "journal-title": "Cognitive Processing"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib20",
+        "author": "Giofrè",
+        "year": "2024",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.paid.2024.112776",
+        "article-title": "Sex differences in cognition: A meta-analysis of variance ratios in the Wechsler Intelligence Scales for Children",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib21",
+        "series-title": "Sex differences in cognitive abilities",
+        "author": "Halpern",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib22",
+        "author": "Hull",
+        "year": "2017",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "706",
+        "DOI": "10.1177/1362361316669087",
+        "article-title": "Behavioural and cognitive sex/gender differences in autism spectrum condition and typically developing males and females",
+        "volume": "21",
+        "journal-title": "Autism"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib23",
+        "author": "Ji",
+        "year": "2023",
+        "issue": "April",
+        "article-title": "Examine sex differences in autism spectrum disorder in school-aged children and adolescents with fluent language",
+        "volume": "14",
+        "journal-title": "Frontiers in Psychiatry"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib24",
+        "author": "Johnson",
+        "year": "2004",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/S0160-2896(03)00062-X",
+        "article-title": "Just one g: Consistent results from three test batteries",
+        "volume": "32",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib25",
+        "author": "Koyama",
+        "year": "2009",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1007/s10803-008-0610-6",
+        "article-title": "Sex differences in WISC-III profiles of children with high-functioning pervasive developmental disorders",
+        "volume": "39",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib26",
+        "author": "Kumazaki",
+        "year": "2015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.rasd.2014.12.011",
+        "article-title": "Sex differences in cognitive and symptom profiles in children with high functioning autism spectrum disorders",
+        "volume": "13–14",
+        "journal-title": "Research in Autism Spectrum Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib27",
+        "author": "Lai",
+        "year": "2015",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/j.jaac.2014.10.003",
+        "article-title": "Sex/gender differences and autism: Setting the scene for future research",
+        "volume": "54",
+        "journal-title": "Journal of the American Academy of Child Adolescent Psychiatry"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib28",
+        "author": "Loomes",
+        "year": "2017",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1016/j.jaac.2017.03.013",
+        "article-title": "What is the male-to-female ratio in autism spectrum disorder? A systematic review and meta-analysis",
+        "volume": "56",
+        "journal-title": "Journal of the American Academy of Child Adolescent Psychiatry"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib29",
+        "author": "Maenner",
+        "year": "2020",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.15585/mmwr.ss6904a1",
+        "article-title": "Prevalence of autism spectrum disorder among children aged 8 years — Autism and Developmental Disabilities Monitoring Network, 11 sites, United States, 2016",
+        "volume": "69",
+        "journal-title": "Mmwr Surveillance Summaries"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib30",
+        "unstructured": "Mammarella, I.C., Lievore, R., & Cardillo, R. (2023). The performance of boys and girls with ASD at the WISC-IV. Manuscript in preparation."
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib31",
+        "author": "May",
+        "year": "2014",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1077",
+        "DOI": "10.1007/s10803-013-1964-y",
+        "article-title": "Does gender matter? A one-year follow-up of autistic, attention and anxiety symptoms in high-functioning children with autism spectrum disorder",
+        "volume": "44",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib32",
+        "author": "Mayes",
+        "year": "2003",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1023/A:1024462719081",
+        "article-title": "Analysis of WISC-III, Stanford-Binet: IV, and academic achievement test scores in children with autism",
+        "volume": "33",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib33",
+        "author": "Mayes",
+        "year": "2008",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "428",
+        "DOI": "10.1007/s10803-007-0410-4",
+        "article-title": "WISC-IV and WIAT-II profiles in children with high-functioning autism",
+        "volume": "38",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib34",
+        "author": "Myers",
+        "year": "2019",
+        "issue": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1455",
+        "DOI": "10.1007/s10803-018-3834-0",
+        "article-title": "Autism spectrum disorder: Incidence and time trends over two decades in a population-based birth cohort",
+        "volume": "49",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib35",
+        "author": "Nader",
+        "year": "2016",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1582",
+        "DOI": "10.1007/s10803-014-2270-z",
+        "article-title": "Does WISC-IV underestimate the intelligence of autistic children?",
+        "volume": "46",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib36",
+        "author": "Rieffe",
+        "year": "2021",
+        "issue": "1",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1177/1362361320956422",
+        "article-title": "Quantity and quality of empathic responding by autistic and non-autistic adolescent girls and boys",
+        "volume": "25",
+        "journal-title": "Autism"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib37",
+        "author": "Rivet",
+        "year": "2011",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "957",
+        "DOI": "10.1016/j.rasd.2010.12.003",
+        "article-title": "Review of gender differences in core symptomatology in autism spectrum disorders",
+        "volume": "5",
+        "journal-title": "Research in Autism Spectrum Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib38",
+        "author": "Ryland",
+        "year": "2014",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1016/j.rasd.2013.12.001",
+        "article-title": "Autistic features in school age children: IQ and gender effects in a population-based cohort",
+        "volume": "8",
+        "journal-title": "Research in Autism Spectrum Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib39",
+        "author": "Teshirogi",
+        "year": "2009",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1111/j.1440-1819.2009.02023.x",
+        "article-title": "WISC-III profiles of subjects with high-functioning pervasive developmental disorders who visited child and adolescent psychiatry clinics at a university hospital",
+        "volume": "63",
+        "journal-title": "Psychiatry and Clinical Neurosciences"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib40",
+        "author": "Tonnsen",
+        "year": "2016",
+        "issue": "6",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1352/1944-7558-121.6.487",
+        "article-title": "Prevalence of autism spectrum disorders among children with intellectual disability",
+        "volume": "121",
+        "journal-title": "American Journal on Intellectual and Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib41",
+        "author": "Van Wijngaarden-Cremers",
+        "year": "2014",
+        "issue": "3",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1007/s10803-013-1913-9",
+        "article-title": "Gender and age differences in the core triad of impairments in autism spectrum disorders: A systematic review and meta-analysis",
+        "volume": "44",
+        "journal-title": "Journal of Autism and Developmental Disorders"
+      },
+      {
+        "key": "10.1016/j.ridd.2024.104854_bib42",
+        "author": "Zeidan",
+        "year": "2022",
+        "issue": "5",
+        "doi-asserted-by": "crossref",
+        "first-page": "778",
+        "DOI": "10.1002/aur.2696",
+        "article-title": "Global prevalence of autism: A systematic review update",
+        "volume": "15",
+        "journal-title": "Autism Research"
+      }
+    ],
+    "container-title": "Research in Developmental Disabilities",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891422224001860?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891422224001860?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 12, 1]
+      ],
+      "date-time": "2024-12-01T12:03:40Z",
+      "timestamp": 1733054620000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0891422224001860"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2024, 11]
+      ]
+    },
+    "references-count": 42,
+    "alternative-id": "S0891422224001860",
+    "URL": "https://doi.org/10.1016/j.ridd.2024.104854",
+    "relation": {},
+    "ISSN": "0891-4222",
+    "issn-type": [
+      {
+        "value": "0891-4222",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2024, 11]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Understanding sex/gender differences in intelligence profiles of children with Autism: A comprehensive WISC meta-analysis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Research in Developmental Disabilities",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ridd.2024.104854",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "104854"
+  }
+}

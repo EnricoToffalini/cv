@@ -1,0 +1,666 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 7, 30]
+      ],
+      "date-time": "2025-07-30T16:21:23Z",
+      "timestamp": 1753892483091,
+      "version": "3.41.2"
+    },
+    "reference-count": 48,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2021, 3, 25]
+          ],
+          "date-time": "2021-03-25T00:00:00Z",
+          "timestamp": 1616630400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "frontiersin.org",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Front. Psychol.",
+    "abstract": "<jats:p>Analyzing navigational abilities and related aspects in individuals with Down syndrome (DS) is of considerable interest because of its relevance to everyday life. This study investigates path learning, the conditions favoring it, and the cognitive abilities involved. A group of 30 adults with DS and 32 typically-developing (TD) children matched on receptive vocabulary were shown a 4 × 4 Floor Matrix and asked to repeat increasingly long sequences of steps by walking on the grid. The sequences were presented under two learning conditions, one called Oral instructions (participants received verbal instructions such as “turn right” or “turn left”), the other Observation (participants watched the experimenter's moves). Participants were also assessed on verbal and visuospatial cognitive measures. The results showed a similarly better performance in both groups when the Floor Matrix task was administered in the Observation as opposed to the Oral instructions condition. As for the relation with cognitive abilities, in the Floor Matrix task in the Oral instructions condition, individuals with DS showed an effect of both verbal and visuospatial abilities, which was only positive for verbal ability. The effect of verbal and visuospatial abilities was negligible in the TD group. In the Observation condition, performance was predicted by sequential working memory in both groups. Overall, these results shed light on path learning in individuals with DS, showing that they benefited from the Observation condition, and that the involvement of their cognitive abilities depended on the learning condition.<\/jats:p>",
+    "DOI": "10.3389/fpsyg.2021.643702",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 3, 25]
+      ],
+      "date-time": "2021-03-25T08:05:47Z",
+      "timestamp": 1616659547000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": "Path Learning in Individuals With Down Syndrome: The Challenge of Learning Condition and Cognitive Abilities",
+    "prefix": "10.3389",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Meneghetti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Silvia",
+        "family": "Lanfranchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maja",
+        "family": "Roch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Barbara",
+        "family": "Carretti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [2021, 3, 25]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "716",
+        "DOI": "10.1109/TAC.1974.1100705",
+        "article-title": "A new look at the statistical model identification",
+        "volume": "19",
+        "author": "Akaike",
+        "year": "1974",
+        "journal-title": "IEEE Trans. Automat. Contr."
+      },
+      {
+        "key": "B2",
+        "author": "Belacchi",
+        "year": "2008",
+        "volume-title": "CPM - Coloured Progressive Matrices (Italian edition)"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "462",
+        "DOI": "10.1111/cdev.13184",
+        "article-title": "Effect of cognitive style on topographical learning across life span: insights from normal development",
+        "volume": "90",
+        "author": "Boccia",
+        "year": "2019",
+        "journal-title": "Child Dev."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1058",
+        "DOI": "10.1111/j.1365-2788.2010.01334.x",
+        "article-title": "The effect of configuration on VSWM performance of down syndrome individuals",
+        "volume": "54",
+        "author": "Carretti",
+        "year": "2010",
+        "journal-title": "J. Intell. Disab. Res."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1002/1098-2779(2000)6:2%3C84::AID-MRDD2%3E3.0.CO;2-P",
+        "article-title": "Behavioral phenotype of individuals with Down syndrome",
+        "volume": "6",
+        "author": "Chapman",
+        "year": "2000",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev."
+      },
+      {
+        "key": "B6",
+        "first-page": "891",
+        "article-title": "Human memory and the medial temporal region of the brain",
+        "volume": "34",
+        "author": "Corsi",
+        "year": "1973",
+        "journal-title": "Dissert. Abstr. Int"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1825",
+        "DOI": "10.1016/J.RIDD.2013.02.023",
+        "article-title": "Wayfinding behaviour in Down syndrome: a study with virtual environments",
+        "volume": "34",
+        "author": "Courbois",
+        "year": "2013",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1446",
+        "DOI": "10.3389/fpsyg.2014.01446",
+        "article-title": "Patterns of differences in wayfinding performance and correlations among abilities between persons with and without Down syndrome and typically developing children",
+        "volume": "5",
+        "author": "Davis",
+        "year": "2014",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B9",
+        "author": "Dunn",
+        "year": "1997",
+        "volume-title": "Peabody Picture Vocabulary Test-III"
+      },
+      {
+        "key": "B10",
+        "author": "Dykens",
+        "year": "2000",
+        "volume-title": "Genetics and Mental Retardation Syndromes: A New Look at Behavior and Interventions"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1186/s11689-015-9133-6",
+        "article-title": "Route knowledge and configural knowledge in typical and atypical development: a comparison of sparse and rich environments",
+        "volume": "7",
+        "author": "Farran",
+        "year": "2015",
+        "journal-title": "J. Neurodev. Disord."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "386",
+        "DOI": "10.1016/J.COGDEV.2013.06.002",
+        "article-title": "Development of mental rotation in 3- to 5-year-old children",
+        "volume": "28",
+        "author": "Frick",
+        "year": "2013",
+        "journal-title": "Cogn. Dev."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "270",
+        "DOI": "10.1016/J.COGDEV.2012.05.004",
+        "article-title": "Getting the big picture: development of spatial scaling abilities",
+        "volume": "27",
+        "author": "Frick",
+        "year": "2012",
+        "journal-title": "Cogn. Dev."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "140",
+        "DOI": "10.12688/wellcomeopenres.14861.2",
+        "article-title": "The understanding of complex syntax in children with Down syndrome",
+        "volume": "3",
+        "author": "Frizelle",
+        "year": "2019",
+        "journal-title": "Wellcome Open Res."
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "151",
+        "DOI": "10.1016/J.INTELL.2005.09.005",
+        "article-title": "Spatial abilities at different scales: individual differences in aptitude-test performance and spatial-layout learning",
+        "volume": "34",
+        "author": "Hegarty",
+        "year": "2006",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "256",
+        "DOI": "10.3389/fnhum.2020.00256",
+        "article-title": "The acquisition of survey knowledge by individuals with Down syndrome",
+        "volume": "14",
+        "author": "Himmelberger",
+        "year": "2020",
+        "journal-title": "Front. Hum. Neurosci."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "117",
+        "DOI": "10.1352/0895-8017(2008)113[117:dpaamo]2.0.co;2",
+        "article-title": "Dual-task processing as a measure of executive function: a comparison between adults with Williams and Down syndromes",
+        "volume": "113",
+        "author": "Kittler",
+        "year": "2008",
+        "journal-title": "Am. J. Mental Retardat."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "157",
+        "DOI": "10.1111/j.1365-2788.2011.01444.x",
+        "article-title": "Working memory in Down syndrome: is there a dual task deficit?",
+        "volume": "56",
+        "author": "Lanfranchi",
+        "year": "2012",
+        "journal-title": "J. Intell. Disab. Res."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "456",
+        "DOI": "10.1352/0895-8017(2004)109<456:VAVWMD>2.0.CO;2",
+        "article-title": "Verbal and visuospatial working memory deficits in children with Down syndrome",
+        "volume": "109",
+        "author": "Lanfranchi",
+        "year": "2004",
+        "journal-title": "Am. J. Mental Retardat."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1080/02699200802673259",
+        "article-title": "Text comprehension in Down syndrome: the role of lower and higher level abilities",
+        "volume": "23",
+        "author": "Levorato",
+        "year": "2009",
+        "journal-title": "Clin. Lingu. Phone"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "8627569",
+        "DOI": "10.1155/2017/8627569",
+        "article-title": "Learning and using abstract words: evidence from clinical populations",
+        "volume": "2017",
+        "author": "Lorusso",
+        "year": "2017",
+        "journal-title": "BioMed. Res. Int."
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "100841",
+        "DOI": "10.1016/j.cogdev.2019.100841",
+        "article-title": "Spatial description learning in preschoolers: the role of perspective and individual factors",
+        "volume": "53",
+        "author": "Meneghetti",
+        "year": "",
+        "journal-title": "Cogn. Dev"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1016/j.ridd.2017.02.013",
+        "article-title": "Visuo-spatial knowledge acquisition in individuals with Down syndrome: the role of descriptions and sketch maps",
+        "volume": "63",
+        "author": "Meneghetti",
+        "year": "2017",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "123",
+        "DOI": "10.1016/bs.irrdd.2019.06.003",
+        "article-title": "“Environment learning in individuals with down syndrome,”",
+        "volume": "56",
+        "author": "Meneghetti",
+        "year": "2019",
+        "journal-title": "International Review of Research in Developmental Disabilities"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.3389/fnhum.2020.00107",
+        "article-title": "Path learning in individuals with Down syndrome: the Floor Matrix task and the role of individual visuo-spatial measures",
+        "volume": "14",
+        "author": "Meneghetti",
+        "year": "",
+        "journal-title": "Front. Hum. Neurosci"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "588199",
+        "DOI": "10.3389/fnhum.2020.588199",
+        "article-title": "Editorial: wayfinding and navigation: strengths and weaknesses in atypical and clinical populations",
+        "volume": "14",
+        "author": "Meneghetti",
+        "year": "",
+        "journal-title": "Front. Hum. Neurosci."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "258",
+        "DOI": "10.3389/fpsyg.2016.00258",
+        "article-title": "Sex differences in using spatial and verbal abilities influence route learning performance in a virtual environment: a comparison of 6- to 12-year old boys and girls",
+        "volume": "7",
+        "author": "Merrill",
+        "year": "2016",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1093/oso/9780195103427.003.0011",
+        "article-title": "“A new framework for understanding the acquisition of spatial knowledge in large-scale environments,”",
+        "author": "Montello",
+        "year": "1998",
+        "volume-title": "Spatial and Temporal Reasoning in Geographic Information Systems"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1017/CBO9780511610448.008",
+        "article-title": "“Navigation,”",
+        "author": "Montello",
+        "year": "2005",
+        "volume-title": "The Cambridge Handbook of Visuospatial Thinking"
+      },
+      {
+        "key": "B30",
+        "first-page": "158",
+        "article-title": "“Constructing spatial representations from narrative and non-narrative descriptions: evidence from 7-year-olds,”",
+        "author": "Nyhout",
+        "year": "2013",
+        "volume-title": "2013 Workshop on Computational Models of Narrative"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1016/J.NEULET.2007.12.044",
+        "article-title": "Walking in the Corsi test: which type of memory do you need?",
+        "volume": "432",
+        "author": "Piccardi",
+        "year": "2008",
+        "journal-title": "Neurosci. Lett."
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "205",
+        "DOI": "10.1111/bjdp.12036",
+        "article-title": "Development of navigational working memory: evidence from 6- to 10-year-old children",
+        "volume": "32",
+        "author": "Piccardi",
+        "year": "",
+        "journal-title": "Br. J. Dev. Psychol."
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0115432",
+        "DOI": "10.1371/journal.pone.0115432",
+        "article-title": "Does spatial locative comprehension predict landmark-based navigation?",
+        "volume": "10",
+        "author": "Piccardi",
+        "year": "2015",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1080/13854046.2013.863976",
+        "article-title": "The walking corsi test (WalCT): a normative study of topographical working memory in a sample of 4- to 11-year-olds",
+        "volume": "28",
+        "author": "Piccardi",
+        "year": "",
+        "journal-title": "Clin. Neuropsychol."
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "314",
+        "DOI": "10.1002/acp.2909",
+        "article-title": "Spatial mental models: the interaction of presentation format, task requirements and availability of working memory components",
+        "volume": "27",
+        "author": "Picucci",
+        "year": "2013",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "1417",
+        "DOI": "10.1111/j.1467-7687.2011.01088.x",
+        "article-title": "Children's spatial thinking: does talk about the spatial world matter?",
+        "volume": "14",
+        "author": "Pruden",
+        "year": "2011",
+        "journal-title": "Dev. Sci."
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1016/J.JECP.2012.06.005",
+        "article-title": "Short-term memory, executive control, and children's route learning",
+        "volume": "113",
+        "author": "Purser",
+        "year": "2012",
+        "journal-title": "J. Exp. Child Psychol."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.1111/desc.12236",
+        "article-title": "The development of route learning in Down syndrome, Williams syndrome and typical development: investigations with virtual environments",
+        "volume": "18",
+        "author": "Purser",
+        "year": "2015",
+        "journal-title": "Dev. Sci."
+      },
+      {
+        "key": "B39",
+        "author": "Raven",
+        "year": "1998",
+        "volume-title": "Coloured Progressive Matrices"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "890",
+        "DOI": "10.1016/j.ridd.2011.11.002",
+        "article-title": "The advantage of reading over listening text comprehension in Down syndrome: what is the role of verbal memory?",
+        "volume": "33",
+        "author": "Roch",
+        "year": "2012",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "213",
+        "DOI": "10.1016/bs.irrdd.2019.06.004",
+        "article-title": "Reading for comprehension: the contribution of decoding, linguistic and cognitive skills",
+        "volume": "56",
+        "author": "Roch",
+        "year": "2019",
+        "journal-title": "Int. Rev. Res. Dev. Disabil."
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "228",
+        "DOI": "10.1002/mrdd.20156",
+        "article-title": "Down syndrome: cognitive phenotype",
+        "volume": "13",
+        "author": "Silverman",
+        "year": "2007",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev."
+      },
+      {
+        "key": "B43",
+        "author": "Stella",
+        "year": "2000",
+        "volume-title": "Peabody Test di Vocabolario Recettivo"
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "837",
+        "DOI": "10.1080/09297049.2015.1038989",
+        "article-title": "Spatial sequence memory and spatial error monitoring in the Groton Maze Learning Task (GMLT): a validation study of GMLT sub-measures in healthy children",
+        "volume": "22",
+        "author": "Thomas",
+        "year": "2016",
+        "journal-title": "Child Neuropsychol."
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "30",
+        "DOI": "10.1111/jir.12445",
+        "article-title": "Environment learning from virtual exploration in individuals with down syndrome: the role of perspective and sketch maps",
+        "volume": "62",
+        "author": "Toffalini",
+        "year": "2018",
+        "journal-title": "J. Intell. Disab. Res."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "189",
+        "DOI": "10.1037/h0061626",
+        "article-title": "Cognitive maps in rats and men",
+        "volume": "55",
+        "author": "Tolman",
+        "year": "1948",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "1473",
+        "DOI": "10.1016/J.RIDD.2014.04.002",
+        "article-title": "Visuo-spatial ability in individuals with Down syndrome: is it really a strength?",
+        "volume": "35",
+        "author": "Yang",
+        "year": "2014",
+        "journal-title": "Res. Dev. Disabil."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "first-page": "483",
+        "DOI": "10.3109/13668250.2017.1284309",
+        "article-title": "Parent reports of wayfinding by their children with Down syndrome",
+        "volume": "43",
+        "author": "Yang",
+        "year": "2018",
+        "journal-title": "J. Intellect. Dev. Disabil."
+      }
+    ],
+    "container-title": "Frontiers in Psychology",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.643702/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 8, 26]
+      ],
+      "date-time": "2024-08-26T20:09:50Z",
+      "timestamp": 1724702990000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.643702/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 3, 25]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": "10.3389/fpsyg.2021.643702",
+    "URL": "https://doi.org/10.3389/fpsyg.2021.643702",
+    "relation": {},
+    "ISSN": "1664-1078",
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1664-1078"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 3, 25]
+      ]
+    },
+    "article-number": "643702"
+  }
+}

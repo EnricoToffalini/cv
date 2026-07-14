@@ -1,0 +1,667 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 1, 15]
+      ],
+      "date-time": "2026-01-15T00:42:15Z",
+      "timestamp": 1768437735392,
+      "version": "3.49.0"
+    },
+    "reference-count": 42,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Personality and Individual Differences",
+    "published-print": {
+      "date-parts": [
+        [2014, 8]
+      ]
+    },
+    "DOI": "10.1016/j.paid.2014.02.042",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2014, 3, 23]
+      ],
+      "date-time": "2014-03-23T07:40:47Z",
+      "timestamp": 1395560447000
+    },
+    "page": "14-18",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "special_numbering": "C",
+    "title": "Emotional negative events do not protect against false memories in young adults with depressive–anxious personality traits",
+    "prefix": "10.1016",
+    "volume": "66",
+    "author": [
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Chiara",
+        "family": "Mirandola",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marta Joanna",
+        "family": "Drabik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Annika",
+        "family": "Melinder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/0033-2909.133.1.1",
+        "article-title": "Threat-related attentional bias in anxious and nonanxious individuals: A meta-analytic study",
+        "volume": "133",
+        "author": "Bar-Haim",
+        "year": "2007",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2014.02.042_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.1037/0022-3514.71.4.665",
+        "article-title": "Mood and the use of scripts: Does a happy mood really lead to mindlessness?",
+        "volume": "71",
+        "author": "Bless",
+        "year": "1996",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0015",
+        "author": "Brainerd",
+        "year": "2005",
+        "series-title": "The science of false memory"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2014.02.042_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1037/0033-2909.117.2.285",
+        "article-title": "Depression and memory impairment: A meta-analysis of the association, its pattern, and specificity",
+        "volume": "117",
+        "author": "Burt",
+        "year": "1995",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.paid.2014.02.042_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1037/a0019595",
+        "article-title": "Affective valence influences participant’s susceptibility to false memories and illusory recollection",
+        "volume": "10",
+        "author": "Dehon",
+        "year": "2010",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2014.02.042_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1016/j.psychres.2008.08.010",
+        "article-title": "Recollection deficiencies in patients with major depressive disorder",
+        "volume": "175",
+        "author": "Drakeford",
+        "year": "2010",
+        "journal-title": "Psychiatry Research"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1146/annurev.clinpsy.121208.131305",
+        "article-title": "Cognition and depression: Current status and future directions",
+        "volume": "6",
+        "author": "Gotlib",
+        "year": "2010",
+        "journal-title": "Annual Review of Clinical Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2014.02.042_b0040",
+        "first-page": "931",
+        "article-title": "A demonstration and comparison of two types of inference-based memory errors",
+        "volume": "27",
+        "author": "Hannigan",
+        "year": "2001",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2014.02.042_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1080/09658211.2010.544073",
+        "article-title": "Mood-congruent true and false memory: Effects of depression",
+        "volume": "19",
+        "author": "Howe",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1080/02699930244000480",
+        "article-title": "Attentional bias in dysphoria: The role of inhibitory processes",
+        "volume": "18",
+        "author": "Joormann",
+        "year": "2004",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2014.02.042_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1177/0963721410370293",
+        "article-title": "Cognitive inhibition and emotion regulation in depression",
+        "volume": "19",
+        "author": "Joormann",
+        "year": "2010",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1037/0021-843X.117.1.182",
+        "article-title": "Updating the contents of working memory in depression: Interference from irrelevant negative material",
+        "volume": "117",
+        "author": "Joormann",
+        "year": "2008",
+        "journal-title": "Journal of Abnormal Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2014.02.042_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1037/a0015621",
+        "article-title": "Sadder and less accurate? False memory for negative material in depression",
+        "volume": "118",
+        "author": "Joormann",
+        "year": "2009",
+        "journal-title": "Journal of Abnormal Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2014.02.042_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1111/j.1467-8721.2007.00506.x",
+        "article-title": "Negative emotion enhances memory accuracy behavioral and neuroimaging evidence",
+        "volume": "16",
+        "author": "Kensinger",
+        "year": "2007",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2014.02.042_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.3758/BF03193403",
+        "article-title": "Reality monitoring and memory distortion: Effects of negative, arousing content",
+        "volume": "34",
+        "author": "Kensinger",
+        "year": "2006",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.paid.2014.02.042_b0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "935",
+        "DOI": "10.1016/j.paid.2010.12.003",
+        "article-title": "Regulatory focus and anxiety: A self-regulatory model of GAD-depression comorbidity",
+        "volume": "50",
+        "author": "Klenk",
+        "year": "2011",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2014.02.042_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/j.biopsycho.2009.03.007",
+        "article-title": "Electrophysiological indicators of emotion processing biases in depressed undergraduates",
+        "volume": "81",
+        "author": "Krompinger",
+        "year": "2009",
+        "journal-title": "Biological Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1146/annurev.clinpsy.1.102803.143916",
+        "article-title": "Cognitive vulnerability to emotional disorders",
+        "volume": "1",
+        "author": "Mathews",
+        "year": "2005",
+        "journal-title": "Annual Review of Clinical Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.paid.2014.02.042_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1016/0272-7358(92)90116-P",
+        "article-title": "Mood-congruent recall of affectively toned stimuli: A meta-analytic review",
+        "volume": "12",
+        "author": "Matt",
+        "year": "1992",
+        "journal-title": "Clinical Psychology Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1146/annurev.psych.49.1.377",
+        "article-title": "Comorbidity of anxiety and unipolar mood disorders",
+        "volume": "49",
+        "author": "Mineka",
+        "year": "1998",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1016/j.ridd.2013.11.004",
+        "article-title": "Emotional false memories in children with learning disabilities",
+        "volume": "35",
+        "author": "Mirandola",
+        "year": "2014",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b9020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/09658211.2013.795976",
+        "article-title": "Inferential false memories of events: Negative consequences protect from distortions when the events are free from further elaboration",
+        "author": "Mirandola",
+        "year": "2014",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2014.02.042_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "886",
+        "DOI": "10.1037/a0013343",
+        "article-title": "Memory bias for threatening information in anxiety and anxiety disorders: A meta-analytic review",
+        "volume": "134",
+        "author": "Mitte",
+        "year": "2008",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1007/s10608-005-1646-y",
+        "article-title": "Attentional bias in generalized anxiety disorder versus depressive disorder",
+        "volume": "29",
+        "author": "Mogg",
+        "year": "2005",
+        "journal-title": "Cognitive Therapy and Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1002/da.20054",
+        "article-title": "Investigation of mood-congruent false and true memory recognition in depression",
+        "volume": "21",
+        "author": "Moritz",
+        "year": "2005",
+        "journal-title": "Depression and Anxiety"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.paid.2014.02.042_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "810",
+        "DOI": "10.1080/09658210802282708",
+        "article-title": "When the half-full glass is appraised as half empty and memorised as completely empty: Mood-congruent true and false recognition in depression is modulated by salience",
+        "volume": "16",
+        "author": "Moritz",
+        "year": "2008",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.nlm.2007.03.005",
+        "article-title": "Positive and negative sources of emotional arousal enhance long-term word-list retention when induced as long as 30min after learning",
+        "volume": "88",
+        "author": "Nielson",
+        "year": "2007",
+        "journal-title": "Neurobiology of Learning and Memory"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.paid.2014.02.042_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "655",
+        "DOI": "10.1080/09658210344000189",
+        "article-title": "Recollection deficits in dysphoric mood: An effect of schematic models and executive mode?",
+        "volume": "12",
+        "author": "Ramponi",
+        "year": "2004",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0145",
+        "first-page": "95",
+        "article-title": "Spreading activation and arousal of false memories",
+        "author": "Roediger",
+        "year": "2001",
+        "series-title": "The nature of remembering: Essays in honor of Robert G. Crowder"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0150",
+        "first-page": "803",
+        "article-title": "Creating false memories: Remembering words not presented in lists",
+        "volume": "21",
+        "author": "Roediger",
+        "year": "1995",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory and Cognition"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2014.02.042_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "1153",
+        "DOI": "10.1080/02699930802355420",
+        "article-title": "Mood-congruent false memories in the DRM paradigm",
+        "volume": "23",
+        "author": "Ruci",
+        "year": "2009",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1037/0022-3514.85.1.20",
+        "article-title": "Mood and the reliance on the ease of retrieval heuristic",
+        "volume": "85",
+        "author": "Ruder",
+        "year": "2003",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0165",
+        "unstructured": "Sica, C., Chiri, L. R., Favilli, R., & Marchetti, I. (2011). Questionario per la Valutazione della Psicopatologia in Adolescenza (Q-PAD) [Questionnaire for the assessment of psychopathology in adolescence]."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.paid.2014.02.042_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1111/j.1467-9280.2005.01615.x",
+        "article-title": "With sadness comes accuracy; with happiness, false memory. Mood and the false memory effect",
+        "volume": "16",
+        "author": "Storbeck",
+        "year": "2005",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.paid.2014.02.042_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "981",
+        "DOI": "10.1037/a0022754",
+        "article-title": "Affect influences false memories at encoding: Evidence from recognition data",
+        "volume": "11",
+        "author": "Storbeck",
+        "year": "2011",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2014.02.042_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/S0165-0327(02)00119-2",
+        "article-title": "Implicit and explicit memory biases in mixed anxiety–depression",
+        "volume": "77",
+        "author": "Tarsia",
+        "year": "2003",
+        "journal-title": "Journal of Affective Disorders"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.paid.2014.02.042_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/h0080017",
+        "article-title": "Memory and consciousness",
+        "volume": "26",
+        "author": "Tulving",
+        "year": "1985",
+        "journal-title": "Canadian Psychology/Psychologie Canadienne"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.paid.2014.02.042_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "731",
+        "DOI": "10.1016/S0005-7967(03)00194-3",
+        "article-title": "Autobiographical memory specificity, psychopathology, depressed mood and the use of the autobiographical memory test: A meta-analysis",
+        "volume": "42",
+        "author": "Van Vreeswijk",
+        "year": "2004",
+        "journal-title": "Behaviour Research and Therapy"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.paid.2014.02.042_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1017/S1352465804001407",
+        "article-title": "An investigation of false memories in anxious and fearful individuals",
+        "volume": "32",
+        "author": "Wenzel",
+        "year": "2004",
+        "journal-title": "Behavioural and Cognitive Psychotherapy"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "456",
+        "DOI": "10.1002/da.20453",
+        "article-title": "Effects of depressive disorder on false memory for emotional information",
+        "volume": "26",
+        "author": "Yeh",
+        "year": "2009",
+        "journal-title": "Depression and Anxiety"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0191-8869(03)00125-9",
+        "article-title": "Hierarchical models of emotional disorders emotion-congruent cognitive biases",
+        "volume": "36",
+        "author": "Yovel",
+        "year": "2004",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.paid.2014.02.042_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1016/j.paid.2010.02.016",
+        "article-title": "Individual differences in false memory from misinformation: Personality characteristics and their interactions with cognitive abilities",
+        "volume": "48",
+        "author": "Zhu",
+        "year": "2010",
+        "journal-title": "Personality and Individual Differences"
+      }
+    ],
+    "container-title": "Personality and Individual Differences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886914001585?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0191886914001585?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2018, 10, 5]
+      ],
+      "date-time": "2018-10-05T15:20:19Z",
+      "timestamp": 1538752819000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886914001585"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2014, 8]
+      ]
+    },
+    "references-count": 42,
+    "alternative-id": "S0191886914001585",
+    "URL": "https://doi.org/10.1016/j.paid.2014.02.042",
+    "relation": {},
+    "ISSN": "0191-8869",
+    "issn-type": [
+      {
+        "value": "0191-8869",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2014, 8]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Emotional negative events do not protect against false memories in young adults with depressive–anxious personality traits",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Personality and Individual Differences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.paid.2014.02.042",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2014 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 28]
+      ],
+      "date-time": "2026-04-28T01:27:44Z",
+      "timestamp": 1777339664280,
+      "version": "3.51.4"
+    },
+    "reference-count": 79,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2019, 7, 22]
+          ],
+          "date-time": "2019-07-22T00:00:00Z",
+          "timestamp": 1563753600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "onlinelibrary.wiley.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Dyslexia",
+    "published-print": {
+      "date-parts": [
+        [2019, 8]
+      ]
+    },
+    "abstract": "<jats:p>Reading is vital to every aspect of modern life, exacerbated by reliance of the internet, email, and social media on the written medium. Developmental dyslexia (DD) characterizes a disorder in which the core deficit involves reading. Traditionally, DD is thought to be associated with a phonological impairment. However, recent evidence has begun to suggest that the reading impairment in some individuals is provoked by a visual processing deficit. In this paper, we present WISC‐IV data from more than 300 Italian children with a diagnosis of DD to investigate the manifestation of phonological and visual subtypes. Our results indicate the existence of two clusters of children with DD. In one cluster, the deficit was more pronounced in the phonological component, while both clusters were impaired in visual processing. These data indicate that DD may be an umbrella term that encompasses different profiles. From a theoretical perspective, our results demonstrate that dyslexia cannot be explained in terms of an isolated phonological deficit alone; visual impairment plays a crucial role. Moreover, general rather than specific accounts of DD are discussed.<\/jats:p>",
+    "DOI": "10.1002/dys.1629",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2019, 7, 23]
+      ],
+      "date-time": "2019-07-23T05:33:20Z",
+      "timestamp": 1563860000000
+    },
+    "page": "284-295",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 34,
+    "title": "Are children with developmental dyslexia all the same? A cluster analysis with more than 300 cases",
+    "prefix": "10.1002",
+    "volume": "25",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1992-6271",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Educational Sciences University of Genoa Genoa Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology University of Padova Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Serena",
+        "family": "Provazza",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Natural Sciences and Psychology Liverpool John Moores University Liverpool UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4969-7577",
+        "authenticated-orcid": false,
+        "given": "Antonio",
+        "family": "Calcagnì",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gianmarco",
+        "family": "Altoè",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Social Psychology University of Padova Padova Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Roberts",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Cognitive Neuroscience, Division of Psychology, College of Health and Life Sciences Brunel University London Uxbridge UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [2019, 7, 22]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_2_6_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0028-3932(98)00005-0"
+      },
+      {
+        "key": "e_1_2_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2013.03.007"
+      },
+      {
+        "key": "e_1_2_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhs390"
+      },
+      {
+        "key": "e_1_2_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/nyas.12833"
+      },
+      {
+        "key": "e_1_2_6_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2466/pms.1990.71.3f.1155"
+      },
+      {
+        "key": "e_1_2_6_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00207450903275129"
+      },
+      {
+        "key": "e_1_2_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2006.05.009"
+      },
+      {
+        "key": "e_1_2_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-9452(08)70512-4"
+      },
+      {
+        "key": "e_1_2_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02687030600738952"
+      },
+      {
+        "key": "e_1_2_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0277(93)90003-E"
+      },
+      {
+        "key": "e_1_2_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13506285.2017.1370430"
+      },
+      {
+        "key": "e_1_2_6_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781118432501.ch43"
+      },
+      {
+        "key": "e_1_2_6_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.108.1.204"
+      },
+      {
+        "key": "e_1_2_6_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1016-9040/a000183"
+      },
+      {
+        "key": "e_1_2_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2013.04.005"
+      },
+      {
+        "key": "e_1_2_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1398"
+      },
+      {
+        "key": "e_1_2_6_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219410375000"
+      },
+      {
+        "key": "e_1_2_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2011.04.003"
+      },
+      {
+        "key": "e_1_2_6_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3924"
+      },
+      {
+        "key": "e_1_2_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1167/14.10.1438"
+      },
+      {
+        "key": "e_1_2_6_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029503"
+      },
+      {
+        "key": "e_1_2_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9752.2008.00653.x"
+      },
+      {
+        "key": "e_1_2_6_25_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9781139017824",
+        "unstructured": "Elliott J. G. &Grigorenko E. L.(2014).The dyslexia debate (No. 14). Cambridge University Press."
+      },
+      {
+        "key": "e_1_2_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.128.3.309"
+      },
+      {
+        "key": "e_1_2_6_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/comjnl/41.8.578"
+      },
+      {
+        "key": "e_1_2_6_28_1",
+        "volume-title": "Handbook of communication disorders: Theoretical, empirical, and applied linguistics perspectives",
+        "author": "Friedmann N.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bandl.2017.06.004"
+      },
+      {
+        "key": "e_1_2_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2015.07.002"
+      },
+      {
+        "key": "e_1_2_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2013.06.006"
+      },
+      {
+        "key": "e_1_2_6_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13803395.2015.1125454"
+      },
+      {
+        "key": "e_1_2_6_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2017.01.014"
+      },
+      {
+        "key": "e_1_2_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/S2179-64912011000300010"
+      },
+      {
+        "key": "e_1_2_6_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0387-7604(94)00110-J"
+      },
+      {
+        "key": "e_1_2_6_36_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.55782/ane-2008-1674",
+        "author": "Heim S.",
+        "year": "2008",
+        "issue": "1",
+        "first-page": "73",
+        "article-title": "Cognitive subtypes of dyslexia",
+        "volume": "68",
+        "journal-title": "Acta Neurobiologiae Experimentalis"
+      },
+      {
+        "key": "e_1_2_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.1515"
+      },
+      {
+        "key": "e_1_2_6_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1502032112"
+      },
+      {
+        "key": "e_1_2_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-0965(84)90124-3"
+      },
+      {
+        "key": "e_1_2_6_40_1",
+        "unstructured": "Istituto superiore di sanità(2011).Consensus conference on learning disabilities. Retrieved fromhttp://www.snlg-iss.it/cms/files/Cc_Disturbi_Apprendimento_sito.pdf"
+      },
+      {
+        "key": "e_1_2_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1510314"
+      },
+      {
+        "key": "e_1_2_6_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02643290701836138"
+      },
+      {
+        "key": "e_1_2_6_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2018.04.008"
+      },
+      {
+        "key": "e_1_2_6_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dmcn.12201"
+      },
+      {
+        "key": "e_1_2_6_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dmcn.12210"
+      },
+      {
+        "key": "e_1_2_6_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0157457"
+      },
+      {
+        "key": "e_1_2_6_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.410"
+      },
+      {
+        "key": "e_1_2_6_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/87565641.2010.549868"
+      },
+      {
+        "key": "e_1_2_6_49_1",
+        "volume-title": "WISC‐IV: Contributo alla taratura Italiana",
+        "author": "Orsini A.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_6_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0959-4388(99)80033-6"
+      },
+      {
+        "key": "e_1_2_6_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2010.03.012"
+      },
+      {
+        "key": "e_1_2_6_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02643294.2011.609812"
+      },
+      {
+        "key": "e_1_2_6_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.103.1.56"
+      },
+      {
+        "key": "e_1_2_6_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022219416678407"
+      },
+      {
+        "key": "e_1_2_6_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2011.04.001"
+      },
+      {
+        "key": "e_1_2_6_56_1",
+        "unstructured": "Provazza S. Adams A. M. Giofre D. &Roberts D.(2019).Word length effects in adult participants with developmental dyslexia and typical readers. Manuscript submitted for publication."
+      },
+      {
+        "key": "e_1_2_6_57_1",
+        "unstructured": "Provazza S. Giofre D. Adams A. M. &Roberts D.(2019).Investigating verbal and visuo‐spatial impairments in dyslexic and typically developing readers. Manuscript submitted for publication."
+      },
+      {
+        "key": "e_1_2_6_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neubiorev.2017.08.001"
+      },
+      {
+        "key": "e_1_2_6_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2015.02.003"
+      },
+      {
+        "key": "e_1_2_6_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhs224"
+      },
+      {
+        "key": "e_1_2_6_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32614/RJ-2016-021"
+      },
+      {
+        "key": "e_1_2_6_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.96.4.523"
+      },
+      {
+        "key": "e_1_2_6_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-017-00554-5"
+      },
+      {
+        "key": "e_1_2_6_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002246697601000104"
+      },
+      {
+        "key": "e_1_2_6_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02643294.2014.924226"
+      },
+      {
+        "key": "e_1_2_6_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0166-2236(96)01005-3"
+      },
+      {
+        "key": "e_1_2_6_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002221949903200605"
+      },
+      {
+        "key": "e_1_2_6_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702617720716"
+      },
+      {
+        "key": "e_1_2_6_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702616672038"
+      },
+      {
+        "key": "e_1_2_6_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intell.2017.04.006"
+      },
+      {
+        "key": "e_1_2_6_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dys.284"
+      },
+      {
+        "key": "e_1_2_6_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2466/pms.1995.80.3c.1219"
+      },
+      {
+        "key": "e_1_2_6_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.0021-9630.2003.00305.x"
+      },
+      {
+        "key": "e_1_2_6_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6807(199710)34:4<309::AID-PITS2>3.0.CO;2-G"
+      },
+      {
+        "key": "e_1_2_6_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002221949502800404"
+      },
+      {
+        "key": "e_1_2_6_76_1",
+        "volume-title": "WISC‐IV technical and interpretive manual",
+        "author": "Wechsler D.",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_6_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2012.0398"
+      },
+      {
+        "key": "e_1_2_6_78_1",
+        "volume-title": "The ICD‐10 classification of mental and behavioural disorders: Clinical descriptions and diagnostic guidelines",
+        "author": "World Health Organization",
+        "year": "1992"
+      },
+      {
+        "key": "e_1_2_6_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2013.01.009"
+      },
+      {
+        "key": "e_1_2_6_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.131.1.3"
+      }
+    ],
+    "container-title": "Dyslexia",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/dys.1629",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/dys.1629",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/dys.1629",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2024, 7, 21]
+      ],
+      "date-time": "2024-07-21T07:52:05Z",
+      "timestamp": 1721548325000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/dys.1629"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2019, 7, 22]
+      ]
+    },
+    "references-count": 79,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [2019, 8]
+        ]
+      }
+    },
+    "alternative-id": "10.1002/dys.1629",
+    "URL": "https://doi.org/10.1002/dys.1629",
+    "archive": "Portico",
+    "relation": {},
+    "ISSN": ["1076-9242", "1099-0909"],
+    "issn-type": [
+      {
+        "value": "1076-9242",
+        "type": "print"
+      },
+      {
+        "value": "1099-0909",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2019, 7, 22]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2019-01-17",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-06-20",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-07-22",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

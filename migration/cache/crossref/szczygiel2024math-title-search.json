@@ -1,0 +1,2278 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3812963,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 6, 17]
+          ],
+          "date-time": "2026-06-17T16:57:31Z",
+          "timestamp": 1781715451390,
+          "version": "3.54.5"
+        },
+        "reference-count": 100,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [2024, 8, 1]
+              ],
+              "date-time": "2024-08-01T00:00:00Z",
+              "timestamp": 1722470400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [2024, 8, 1]
+              ],
+              "date-time": "2024-08-01T00:00:00Z",
+              "timestamp": 1722470400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [2024, 3, 26]
+              ],
+              "date-time": "2024-03-26T00:00:00Z",
+              "timestamp": 1711411200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100004281",
+            "name": "Narodowe Centrum Nauki",
+            "doi-asserted-by": "publisher",
+            "award": "2015/19/N/HS6/00791",
+            "award-info": [
+              {
+                "award-number": "2015/19/N/HS6/00791"
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100004281",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": ["elsevier.com", "sciencedirect.com"],
+          "crossmark-restriction": true
+        },
+        "short-container-title": "Learning and Instruction",
+        "published-print": {
+          "date-parts": [
+            [2024, 8]
+          ]
+        },
+        "DOI": "10.1016/j.learninstruc.2024.101906",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2024, 3, 16]
+          ],
+          "date-time": "2024-03-16T00:10:58Z",
+          "timestamp": 1710547858000
+        },
+        "page": "101906",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 33,
+        "special_numbering": "C",
+        "title": "Math anxiety and math achievement in primary school children: Longitudinal relationship and predictors",
+        "prefix": "10.1016",
+        "volume": "92",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6544-0734",
+            "authenticated-orcid": false,
+            "given": "Monika",
+            "family": "Szczygieł",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Denes",
+            "family": "Szűcs",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Enrico",
+            "family": "Toffalini",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "4",
+            "key": "10.1016/j.learninstruc.2024.101906_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "735",
+            "DOI": "10.1037/edu0000398",
+            "article-title": "Reciprocal associations between students' mathematics anxiety and achievement: Can teacher sensitivity make a difference?",
+            "volume": "112",
+            "author": "Aldrup",
+            "year": "2020",
+            "journal-title": "Journal of Educational Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib2",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/desc.12718",
+            "article-title": "Gender equality in 4- to 5-year-old preschoolers' early numerical competencies",
+            "volume": "22",
+            "author": "Bakker",
+            "year": "2019",
+            "journal-title": "Developmental Science"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib3",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/feduc.2022.798516",
+            "article-title": "Reducing math anxiety in school children: A systematic review of intervention research",
+            "volume": "7",
+            "author": "Balt",
+            "year": "2022",
+            "journal-title": "Frontiers in Education"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.learninstruc.2024.101906_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "DOI": "10.1037/bul0000307",
+            "article-title": "A meta-analysis of the relation between math anxiety and math achievement",
+            "volume": "147",
+            "author": "Barroso",
+            "year": "2021",
+            "journal-title": "Psychological Bulletin"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.learninstruc.2024.101906_bib5",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0195696",
+            "article-title": "When approximate number acuity predicts math performance: The moderating role of math anxiety",
+            "volume": "13",
+            "author": "Braham",
+            "year": "2018",
+            "journal-title": "PLoS One"
+          },
+          {
+            "issue": "31",
+            "key": "10.1016/j.learninstruc.2024.101906_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "15435",
+            "DOI": "10.1073/pnas.1905779116",
+            "article-title": "Girls' comparative advantage in reading can largely explain the gender gap in math-related fields",
+            "volume": "116",
+            "author": "Breda",
+            "year": "2019",
+            "journal-title": "PNAS"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1080/87565640801982312",
+            "article-title": "Short-term memory, working memory, and executive functioning in preschoolers: Longitudinal predictors of mathematical achievement at age 7 years",
+            "volume": "33",
+            "author": "Bull",
+            "year": "2008",
+            "journal-title": "Developmental Neuropsychology"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib8",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0174418",
+            "article-title": "Differentiating anxiety forms and their role in academic performance from primary to secondary school",
+            "volume": "12",
+            "author": "Carey",
+            "year": "2017",
+            "journal-title": "PLoS One"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib9",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2015.01987",
+            "article-title": "The chicken or the egg? The direction of the relationship between mathematics anxiety and mathematics achievement",
+            "volume": "6",
+            "author": "Carey",
+            "year": "2016",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib10",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2017.00011",
+            "article-title": "The modified abbreviated math anxiety scale: A valid and reliable instrument for use with children",
+            "volume": "8",
+            "author": "Carey",
+            "year": "2017",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.learninstruc.2024.101906_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "755",
+            "DOI": "10.1080/02699931.2016.1147421",
+            "article-title": "How is anxiety related to math performance in young students? A longitudinal study of grade 2 to grade 3 children",
+            "volume": "31",
+            "author": "Cargnelutti",
+            "year": "2017",
+            "journal-title": "Cognition & Emotion"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.learninstruc.2024.101906_bib12",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/desc.12957",
+            "article-title": "Predictors of mathematics in primary school: Magnitude comparison, verbal and spatial working memory measures",
+            "volume": "23",
+            "author": "Caviola",
+            "year": "2020",
+            "journal-title": "Developmental Science"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.1007/s10648-021-09618-5",
+            "article-title": "Math performance and academic anxiety forms, from sociodemographic to cognitive aspects: A meta-analysis on 906,311 participants",
+            "volume": "34",
+            "author": "Caviola",
+            "year": "2022",
+            "journal-title": "Educational Psychology Review"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1016/j.cobeha.2016.04.011",
+            "article-title": "The math anxiety-math performance link and its relation to individual and environmental factors: A review of current behavioral and psychophysiological research",
+            "volume": "10",
+            "author": "Chang",
+            "year": "2016",
+            "journal-title": "Current Opinion in Behavioral Sciences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/j.cedpsych.2017.06.006",
+            "article-title": "Mathematics anxiety and working memory: Longitudinal associations with mathematical performance in Chinese children",
+            "volume": "51",
+            "author": "Ching",
+            "year": "2017",
+            "journal-title": "Contemporary Educational Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib16",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2016.00775",
+            "article-title": "Predicting children's reading and mathematics achievement from early quantitative knowledge and domain-general cognitive abilities",
+            "volume": "7",
+            "author": "Chu",
+            "year": "2016",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "424",
+            "DOI": "10.1177/1747021817752094",
+            "article-title": "Representation of numerical magnitude in math-anxious individuals",
+            "volume": "72",
+            "author": "Colomé",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Experimental Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib18",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2019.00465",
+            "article-title": "Mathematics competence level: The contribution of non-symbolic and spatial magnitude comparison skills",
+            "volume": "10",
+            "author": "Cueli",
+            "year": "2019",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1186/1744-9081-8-33",
+            "article-title": "Gender differences in mathematics anxiety and the relation to mathematics performance while controlling for test anxiety",
+            "volume": "8",
+            "author": "Devine",
+            "year": "2012",
+            "journal-title": "Behavioral and Brain Functions"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib20",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2015.01621",
+            "article-title": "The influence of math anxiety on symbolic and non-symbolic magnitude processing",
+            "volume": "6",
+            "author": "Dietrich",
+            "year": "2015",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib21",
+            "author": "Dolna"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib22",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2016.00508",
+            "article-title": "Mathematics anxiety: What have we learned in 60 years?",
+            "volume": "7",
+            "author": "Dowker",
+            "year": "2016",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib23",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.lindif.2021.102060",
+            "article-title": "Mathematics interest, anxiety, self-efficacy and achievement: Examining reciprocal relations",
+            "volume": "91",
+            "author": "Du",
+            "year": "2021",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib24",
+            "author": "Evans",
+            "year": "1996",
+            "series-title": "Straightforward statistics for the behavioral sciences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib25",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2021.798090",
+            "article-title": "Working memory and its mediating role on the relationship of math anxiety and math performance: A meta-analysis",
+            "volume": "12",
+            "author": "Finell",
+            "year": "2022",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.learninstruc.2024.101906_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1539",
+            "DOI": "10.1037/a0025510",
+            "article-title": "Cognitive predictors of achievement growth in mathematics: A 5-year longitudinal study",
+            "volume": "47",
+            "author": "Geary",
+            "year": "2011",
+            "journal-title": "Developmental Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib27",
+            "first-page": "139",
+            "article-title": "Anxieties and attitudes related to mathematics in grades 3 and 6",
+            "volume": "63",
+            "author": "Gierl",
+            "year": "1995",
+            "journal-title": "Journal of Experimantal Education"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.learninstruc.2024.101906_bib28",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0067374",
+            "article-title": "Individual differences in inhibitory control, not non-verbal number acuity, correlate with mathematics achievement",
+            "volume": "8",
+            "author": "Gilmore",
+            "year": "2013",
+            "journal-title": "PLoS One"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "554",
+            "DOI": "10.5964/jnc.v4i3.120",
+            "article-title": "A comparison of methods for assessing performance on the number line estimation task",
+            "volume": "4",
+            "author": "Gross",
+            "year": "2018",
+            "journal-title": "Journal of Numerical Cognition"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1080/15248372.2017.1421538",
+            "article-title": "Reciprocal relations among motivational frameworks, math anxiety, and math achievement in early elementary school",
+            "volume": "19",
+            "author": "Gunderson",
+            "year": "2018",
+            "journal-title": "Journal of Cognition and Development"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "102140",
+            "DOI": "10.1016/j.cedpsych.2022.102140",
+            "article-title": "Effect of parents’ mathematics anxiety and home numeracy activities on young children’s math performance-anxiety relationship",
+            "volume": "72",
+            "author": "Guzmán",
+            "year": "2023",
+            "journal-title": "Contemporary Educational Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "102",
+            "DOI": "10.1037/a0038889",
+            "article-title": "A critique of the cross-lagged panel model",
+            "volume": "20",
+            "author": "Hamaker",
+            "year": "2015",
+            "journal-title": "Psychological Methods"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "538",
+            "DOI": "10.1080/00220973.2012.727888",
+            "article-title": "Mathematics anxiety in young children: An exploratory study",
+            "volume": "81",
+            "author": "Harari",
+            "year": "2013",
+            "journal-title": "The Journal of Experimental Education"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/749455",
+            "article-title": "The nature, effects, and relief of mathematics anxiety",
+            "volume": "21",
+            "author": "Hembree",
+            "year": "1990",
+            "journal-title": "Journal for Research in Mathematics Education"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1016/j.lindif.2016.02.006",
+            "article-title": "Maths anxiety in primary and secondary school students: Gender differences, developmental changes and anxiety specificity",
+            "volume": "48",
+            "author": "Hill",
+            "year": "2016",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib37",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2014.00272",
+            "article-title": "Predicting first-grade mathematics achievement: The contributions of domain-general cognitive abilities, nonverbal number sense, and early number competence",
+            "volume": "5",
+            "author": "Hornung",
+            "year": "2014",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/10705519909540118",
+            "article-title": "Cutoff criteria for ﬁt indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+            "volume": "6",
+            "author": "Hu",
+            "year": "1999",
+            "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "e66",
+            "DOI": "10.1111/cdev.13044",
+            "article-title": "More similar than different: Gender differences in children's basic numerical skills are the exception not the rule",
+            "volume": "90",
+            "author": "Hutchison",
+            "year": "2019",
+            "journal-title": "Child Development"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.learninstruc.2024.101906_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1111/bjep.12165",
+            "article-title": "Math anxiety and math performance in children: The mediating roles of working memory and math self-concept",
+            "volume": "87",
+            "author": "Justicia-Galiano",
+            "year": "2017",
+            "journal-title": "British Journal of Educational Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib41",
+            "first-page": "3",
+            "article-title": "Introduction: The role of play and STEM in the early years",
+            "author": "Kennedy",
+            "year": "2022",
+            "series-title": "Play and STEM education in the early years"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.learninstruc.2024.101906_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1207/S15324826AN0704_8",
+            "article-title": "The corsie block-tapping task: Standardization and normative data",
+            "volume": "7",
+            "author": "Kessels",
+            "year": "2000",
+            "journal-title": "Applied Neuropsychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib43",
+            "author": "Kline",
+            "year": "2016",
+            "series-title": "Principles and practice of structural equation modeling"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "206",
+            "DOI": "10.1177/0734282908330583",
+            "article-title": "Math anxiety and math ability in early primary school years",
+            "volume": "27",
+            "author": "Krinzinger",
+            "year": "2009",
+            "journal-title": "Journal of Psychoeducational Assessment"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.learninstruc.2024.101906_bib102",
+            "doi-asserted-by": "crossref",
+            "first-page": "1123",
+            "DOI": "10.1037/a0021276",
+            "article-title": "New trends in gender and mathematics performance: A meta-analysis",
+            "volume": "136",
+            "author": "Lindberg",
+            "year": "2010",
+            "journal-title": "Psychological Bulletin"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "156",
+            "DOI": "10.1016/j.cognition.2016.11.014",
+            "article-title": "Individual differences in nonverbal number skills predict math anxiety",
+            "volume": "159",
+            "author": "Lindskog",
+            "year": "2017",
+            "journal-title": "Cognition"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.learninstruc.2024.101906_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1016/j.adolescence.2003.11.003",
+            "article-title": "The causal ordering of mathematics anxiety and mathematics achievement: A longitudinal panel analysis",
+            "volume": "27",
+            "author": "Ma",
+            "year": "2004",
+            "journal-title": "Journal of Adolescence"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib48",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2020.01095",
+            "article-title": "Math anxiety mediates the link between number sense and math achievements in high math anxiety young adults",
+            "volume": "11",
+            "author": "Maldonado Moscoso",
+            "year": "2020",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "issue": "422",
+            "key": "10.1016/j.learninstruc.2024.101906_bib49",
+            "article-title": "Mathematics and numerosity but not visuo-spatial working memory correlate with mathematical anxiety in adults",
+            "volume": "12",
+            "author": "Maldonado Moscoso",
+            "year": "2022",
+            "journal-title": "Brain Sciences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.1080/17470218.2010.533278",
+            "article-title": "Rapid Communication: The effect of mathematics anxiety on the processing of numerical magnitude",
+            "volume": "64",
+            "author": "Maloney",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Experimental Psychology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.learninstruc.2024.101906_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.1016/j.cognition.2009.09.013",
+            "article-title": "Mathematics anxiety affects counting but not subitizing during visual enumeration",
+            "volume": "114",
+            "author": "Maloney",
+            "year": "2010",
+            "journal-title": "Cognition"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib52",
+            "author": "Matczak",
+            "year": "1991",
+            "series-title": "David wechsler’s intelligence Scale for children. A modified version [manual in polish]"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1037/0022-0663.82.1.60",
+            "article-title": "Predictors of math anxiety and its influence on young adolescents' course enrollment intentions and performance in mathematics",
+            "volume": "82",
+            "author": "Meece",
+            "year": "1990",
+            "journal-title": "Journal of Educational Psychology"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.5604/01.3001.0012.5915",
+            "article-title": "Predictors of math achievement in the elementary school students grades 1-3",
+            "volume": "16",
+            "author": "Memisevic",
+            "year": "2018",
+            "journal-title": "Acta Neuropsychologica"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "452",
+            "DOI": "10.1080/02699931.2021.2015296",
+            "article-title": "Developmental relations between mathematics anxiety, symbolic numerical magnitude processing and arithmetic skills from first to second grade",
+            "volume": "36",
+            "author": "Mononen",
+            "year": "2022",
+            "journal-title": "Cognition & Emotion"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib56",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1186/1744-9081-10-31",
+            "article-title": "Mathematical anxiety is linked to reduced cognitive reflection: A potential road from discomfort in the mathematics classroom to susceptibility to biases",
+            "volume": "10",
+            "author": "Morsanyi",
+            "year": "2014",
+            "journal-title": "Behavioral and Brain Functions"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib101",
+            "doi-asserted-by": "crossref",
+            "first-page": "459",
+            "DOI": "10.3102/0034654319843494",
+            "article-title": "The relation between mathematics anxiety and mathematics performance among school-aged students: A meta-analysis",
+            "volume": "89",
+            "author": "Namkung",
+            "year": "2019",
+            "journal-title": "Review of Educational Research"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.learninstruc.2024.101906_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1080/09297049.2021.1959905",
+            "article-title": "The relation between working memory, number sense, and mathematics throughout primary education in children with and without mathematical difficulties",
+            "volume": "28",
+            "author": "Nelwan",
+            "year": "2022",
+            "journal-title": "Child Neuropsychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib58",
+            "first-page": "126",
+            "article-title": "The different involvement of working memory in math and test anxiety",
+            "author": "Ng",
+            "year": "2019",
+            "series-title": "Mathematics anxiety: What is known and what is still to be understood"
+          },
+          {
+            "issue": "7",
+            "key": "10.1016/j.learninstruc.2024.101906_bib59",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0067918",
+            "article-title": "A two-minute paper-and-pencil test of symbolic and nonsymbolic numerical magnitude processing explains variability in primary school children's arithmetic competence",
+            "volume": "8",
+            "author": "Nosworthy",
+            "year": "2013",
+            "journal-title": "PLoS One"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "DOI": "10.1016/j.biopsycho.2014.09.004",
+            "article-title": "Less precise representation of numerical magnitude in high math-anxious individuals: An ERP study of the size and distance effects",
+            "volume": "103",
+            "author": "Núñez-Peña",
+            "year": "2014",
+            "journal-title": "Biological Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib61",
+            "first-page": "79",
+            "article-title": "Mathematics self-beliefs and participation in mathematics-related activities",
+            "volume": "Vol. III",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib62",
+            "year": "2018",
+            "series-title": "PISA 2021 mathematics framework (draft)"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib63",
+            "year": "2018",
+            "series-title": "A broken social elevator? How to promote social mobility"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib64",
+            "year": "2019",
+            "series-title": "PISA 2018 Results (Volume II): Where all students can succeed"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.learninstruc.2024.101906_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "709",
+            "DOI": "10.1080/15248372.2020.1832098",
+            "article-title": "Children's math anxiety predicts their math achievement over and above a key foundational math skill",
+            "volume": "21",
+            "author": "Pantoja",
+            "year": "2020",
+            "journal-title": "Journal of Cognition and Development"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1080/1034912X.2011.547351",
+            "article-title": "Cognitive and emotional factors in children with mathematical learning disabilities",
+            "volume": "58",
+            "author": "Passolunghi",
+            "year": "2011",
+            "journal-title": "International Journal of Disability, Development and Education"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.learninstruc.2024.101906_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/cdev.12704",
+            "article-title": "Achievement emotions and academic performance: Longitudinal models of reciprocal effects",
+            "volume": "88",
+            "author": "Pekrun",
+            "year": "2017",
+            "journal-title": "Child Development"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1111/nyas.14722",
+            "article-title": "The interplay between math anxiety and working memory on math performance: A longitudinal study",
+            "volume": "1510",
+            "author": "Pellizzoni",
+            "year": "2022",
+            "journal-title": "Annals of the New York Academy of Sciences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1007/s10649-018-9860-1",
+            "article-title": "Further development of the children's mathematics anxiety scale UK (CMAS-UK) for ages 4–7 years",
+            "volume": "100",
+            "author": "Petronzi",
+            "year": "2019",
+            "journal-title": "Educational Studies in Mathematics"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.learninstruc.2024.101906_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "446",
+            "DOI": "10.1016/j.lindif.2010.05.001",
+            "article-title": "Fluid intelligence as a predictor of learning: A longitudinal multilevel approach applied to math",
+            "volume": "20",
+            "author": "Primi",
+            "year": "2010",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib71",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.cogdev.2017.11.001",
+            "article-title": "Approximate number system development in preschool: What factors predict change?",
+            "volume": "45",
+            "author": "Purpura",
+            "year": "2018",
+            "journal-title": "Cognitive Development"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib72",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/s11218-023-09795-x",
+            "article-title": "Achievement trajectories in low-achieving students as a function of perceived classroom goal structures and socioeconomic backgrounds",
+            "author": "Quintero",
+            "year": "2023",
+            "journal-title": "Social Psychology of Education"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib73",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.jecp.2015.07.014",
+            "article-title": "On the relationship between math anxiety and math achievement in early elementary school: The role of problem solving strategies",
+            "volume": "141",
+            "author": "Ramirez",
+            "year": "2016",
+            "journal-title": "Journal of Experimental Child Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1080/15248372.2012.664593",
+            "article-title": "Math anxiety, working memory and math achievement in early elementary school",
+            "volume": "14",
+            "author": "Ramirez",
+            "year": "2013",
+            "journal-title": "Journal of Cognition and Development"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.learninstruc.2024.101906_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "551",
+            "DOI": "10.1037/h0033456",
+            "article-title": "The mathematics anxiety rating scale: Psychometric data",
+            "volume": "19",
+            "author": "Richardson",
+            "year": "1972",
+            "journal-title": "Journal of Counseling Psychology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.learninstruc.2024.101906_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v048.i02",
+            "article-title": "lavaan: An R package for structural equation modeling",
+            "volume": "48",
+            "author": "Rosseel",
+            "year": "2012",
+            "journal-title": "Journal of Statistical Software"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1186/1744-9081-6-46",
+            "article-title": "Mathematics anxiety in children with developmental dyscalculia",
+            "volume": "6",
+            "author": "Rubinsten",
+            "year": "2010",
+            "journal-title": "Behavioral and Brain Functions"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib78",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.5964/jnc.8401",
+            "article-title": "A meta-analysis of math anxiety interventions",
+            "author": "Sammallahti",
+            "year": "2023",
+            "journal-title": "Journal of Numerical Cognition"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib79",
+            "first-page": "85",
+            "article-title": "Parent-child mathematics affect as predictors of children's mathematics achievement",
+            "volume": "9",
+            "author": "Sari",
+            "year": "2020",
+            "journal-title": "International Online Journal of Primary Education"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib80",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1111/j.1751-228X.2012.01147.x",
+            "article-title": "Predictors for mathematics achievement? Evidence from a longitudinal study",
+            "volume": "6",
+            "author": "Sasanguie",
+            "year": "2012",
+            "journal-title": "Mind, Brain, and Education"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib81",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1016/j.lindif.2017.11.014",
+            "article-title": "Math anxiety, intelligence, and performance in mathematics: Insights from the German adaptation of the abbreviated math anxiety scale (AMAS-G)",
+            "volume": "61",
+            "author": "Schillinger",
+            "year": "2018",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib82",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1111/nyas.14747",
+            "article-title": "Teasing apart the unique contributions of cognitive and affective predictors of math performance",
+            "volume": "1511",
+            "author": "Silver",
+            "year": "2022",
+            "journal-title": "Annals of the New York Academy of Sciences"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib83",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0211283",
+            "article-title": "How does mathematics anxiety impair mathematical abilities? Investigating the link between math anxiety, working memory, and number processing",
+            "volume": "14",
+            "author": "Skagerlund",
+            "year": "2019",
+            "journal-title": "PLoS One"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib84",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2019.00089",
+            "article-title": "Math anxiety in combination with low visuospatial memory impairs math learning in children",
+            "volume": "10",
+            "author": "Soltanlou",
+            "year": "2019",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib85",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.cogdev.2021.101078",
+            "article-title": "Longitudinal relations between young students' feelings about mathematics and arithmetic performance",
+            "volume": "59",
+            "author": "Song",
+            "year": "2021",
+            "journal-title": "Cognitive Development"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib86",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1016/j.lindif.2018.12.005",
+            "article-title": "Development of math anxiety and its longitudinal relationships with arithmetic achievement among primary school children",
+            "volume": "69",
+            "author": "Sorvo",
+            "year": "2019",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.learninstruc.2024.101906_bib87",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1207/S15374424JCCP3004_11",
+            "article-title": "Joint factor analysis of the children's depression inventory and the revised children's manifest anxiety scale",
+            "volume": "30",
+            "author": "Stark",
+            "year": "2001",
+            "journal-title": "Journal of Clinical Child Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib88",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.lindif.2020.101837",
+            "article-title": "Perceived parental warmth and adolescents' math engagement in China: The mediating roles of need satisfaction and math self-efficacy",
+            "volume": "78",
+            "author": "Sun",
+            "year": "2020",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "50",
+            "key": "10.1016/j.learninstruc.2024.101906_bib89",
+            "first-page": "303",
+            "article-title": "How to measure math anxiety in young children? Psychometric properties of the modified abbreviated math anxiety scale for elementary children (mAMAS-E)",
+            "volume": "4",
+            "author": "Szczygieł",
+            "year": "2019",
+            "journal-title": "Polish Psychological Bulletin"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib90",
+            "first-page": "1126",
+            "article-title": "Gender, general anxiety, math anxiety and math achievement in early school-age children",
+            "volume": "30",
+            "author": "Szczygieł",
+            "year": "2020",
+            "journal-title": "Issues in Educational Research"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.learninstruc.2024.101906_bib91",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/10986065.2021.1882363",
+            "article-title": "Exploring the nature of math anxiety in young children: Intensity, prevalence, reasons",
+            "volume": "24",
+            "author": "Szczygieł",
+            "year": "2022",
+            "journal-title": "Mathematical Thinking and Learning"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib92",
+            "author": "Szustrowa",
+            "year": "2003",
+            "series-title": "The Raven’s Coloured Progressive Matrices Test [manual in polish]"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib93",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2018.02690",
+            "article-title": "Gender differences regarding the impact of math anxiety on arithmetic performance in second and fourth graders",
+            "volume": "9",
+            "author": "Van Mier",
+            "year": "2019",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib94",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.lindif.2022.102255",
+            "article-title": "Gender differences in young adults' mathematical performance: Examining the contribution of working memory, math anxiety and gender-related stereotypes",
+            "volume": "102",
+            "author": "Vos",
+            "year": "2023",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.learninstruc.2024.101906_bib95",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.cedpsych.2012.09.001",
+            "article-title": "Mathematics anxiety in young children: Concurrent and longitudinal associations with mathematical performance",
+            "volume": "38",
+            "author": "Vukovic",
+            "year": "2013",
+            "journal-title": "Contemporary Educational Psychology"
+          },
+          {
+            "issue": "9",
+            "key": "10.1016/j.learninstruc.2024.101906_bib96",
+            "doi-asserted-by": "crossref",
+            "first-page": "1056",
+            "DOI": "10.1111/jcpp.12224",
+            "article-title": "Who is afraid of math? Two sources of genetic variance for mathematical anxiety",
+            "volume": "55",
+            "author": "Wang",
+            "year": "2014",
+            "journal-title": "The Journal of Child Psychology and Psychiatry and Allied Disciplines"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib97",
+            "doi-asserted-by": "crossref",
+            "first-page": "220",
+            "DOI": "10.1016/j.adolescence.2020.03.003",
+            "article-title": "The longitudinal role of mathematics anxiety in mathematics development: Issues of gender differences and domain-specificity",
+            "volume": "80",
+            "author": "Wang",
+            "year": "2020",
+            "journal-title": "Journal of Adolescence"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib98",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1080/10615800412331292606",
+            "article-title": "Measuring test anxiety in children: Scale development and internal construct validation",
+            "volume": "17",
+            "author": "Wren",
+            "year": "2004",
+            "journal-title": "Anxiety, Stress & Coping"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib99",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2019.01613",
+            "article-title": "The relationship between math anxiety and math performance: A meta-analytic investigation",
+            "volume": "10",
+            "author": "Zhang",
+            "year": "2019",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.learninstruc.2024.101906_bib100",
+            "doi-asserted-by": "crossref",
+            "first-page": "14506",
+            "DOI": "10.1007/s12144-022-02765-0",
+            "article-title": "The relationship between math anxiety and arithmetic reasoning: The mediating role of working memory and self-competence",
+            "volume": "42",
+            "author": "Živković",
+            "year": "2023",
+            "journal-title": "Current Psychology"
+          }
+        ],
+        "container-title": "Learning and Instruction",
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0959475224000331?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0959475224000331?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2024, 7, 20]
+          ],
+          "date-time": "2024-07-20T15:04:57Z",
+          "timestamp": 1721487897000
+        },
+        "score": 64.512,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0959475224000331"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2024, 8]
+          ]
+        },
+        "references-count": 100,
+        "alternative-id": "S0959475224000331",
+        "URL": "https://doi.org/10.1016/j.learninstruc.2024.101906",
+        "ISSN": "0959-4752",
+        "issn-type": [
+          {
+            "value": "0959-4752",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2024, 8]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Math anxiety and math achievement in primary school children: Longitudinal relationship and predictors",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Learning and Instruction",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.learninstruc.2024.101906",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "101906",
+        "published-online": {
+          "date-parts": null
+        },
+        "journal-issue": {
+          "published-online": {
+            "date-parts": null
+          },
+          "published-print": {
+            "date-parts": null
+          }
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 7, 14]
+          ],
+          "date-time": "2026-07-14T07:12:07Z",
+          "timestamp": 1784013127758,
+          "version": "3.55.0"
+        },
+        "reference-count": 51,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [2019, 1, 1]
+              ],
+              "date-time": "2019-01-01T00:00:00Z",
+              "timestamp": 1546300800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100002341",
+            "name": "Academy of Finland",
+            "doi-asserted-by": "publisher",
+            "award": "264344",
+            "award-info": [
+              {
+                "award-number": "264344"
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100002341",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100002341",
+            "name": "Academy of Finland",
+            "doi-asserted-by": "publisher",
+            "award": "264415",
+            "award-info": [
+              {
+                "award-number": "264415"
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100002341",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": ["elsevier.com", "sciencedirect.com"],
+          "crossmark-restriction": true
+        },
+        "short-container-title": "Learning and Individual Differences",
+        "published-print": {
+          "date-parts": [
+            [2019, 1]
+          ]
+        },
+        "DOI": "10.1016/j.lindif.2018.12.005",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2019, 1, 4]
+          ],
+          "date-time": "2019-01-04T20:24:10Z",
+          "timestamp": 1546633450000
+        },
+        "page": "173-181",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 59,
+        "special_numbering": "C",
+        "title": "Development of math anxiety and its longitudinal relationships with arithmetic achievement among primary school children",
+        "prefix": "10.1016",
+        "volume": "69",
+        "author": [
+          {
+            "given": "Riikka",
+            "family": "Sorvo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tuire",
+            "family": "Koponen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Helena",
+            "family": "Viholainen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tuija",
+            "family": "Aro",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eija",
+            "family": "Räikkönen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pilvi",
+            "family": "Peura",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Asko",
+            "family": "Tolvanen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mikko",
+            "family": "Aro",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1177/0734282908330580",
+            "article-title": "Mathematics anxiety and the affective drop in performance",
+            "volume": "27",
+            "author": "Ashcraft",
+            "year": "2009",
+            "journal-title": "Journal of Psychoeducational Assessment"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0010",
+            "author": "Aunola",
+            "year": "2007",
+            "series-title": "The 3-minute basic arithmetic test"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb9010",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1037/0033-2909.107.2.238",
+            "article-title": "Comparative fit indexes in structural models",
+            "volume": "107",
+            "author": "Bentler",
+            "year": "1990",
+            "journal-title": "Psychological Bulletin"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.lindif.2018.12.005_bb0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "441",
+            "DOI": "10.1037/0022-0167.25.5.441",
+            "article-title": "Prevalence, distribution, and correlates of math anxiety in college students",
+            "volume": "25",
+            "author": "Betz",
+            "year": "1978",
+            "journal-title": "Journal of Counseling Psychology"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0035",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0174418",
+            "article-title": "Differentiating anxiety forms and their role in academic performance from primary to secondary school",
+            "volume": "12",
+            "author": "Carey",
+            "year": "2017",
+            "journal-title": "PLoS One"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0040",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2015.01987",
+            "article-title": "The chicken or the egg? The direction of the relationship between mathematics anxiety and mathematics performance",
+            "volume": "6",
+            "author": "Carey",
+            "year": "2016",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0045",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2017.00011",
+            "article-title": "The modified abbreviated math anxiety scale: A valid and reliable instrument for use with children",
+            "volume": "8",
+            "author": "Carey",
+            "year": "2017",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0050",
+            "first-page": "1",
+            "article-title": "How is anxiety related to math performance in young students? A longitudinal study of Grade 2 to Grade 3 children",
+            "author": "Cargnelutti",
+            "year": "2017",
+            "journal-title": "Cognition and Emotion"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1016/j.lindif.2007.04.005",
+            "article-title": "A comparison of predictors of early emerging gender differences in mathematics competency",
+            "volume": "18",
+            "author": "Carr",
+            "year": "2008",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1186/1744-9081-8-33",
+            "article-title": "Gender differences in mathematics anxiety and the relation to mathematics performance while controlling for test anxiety",
+            "volume": "8",
+            "author": "Devine",
+            "year": "2012",
+            "journal-title": "Behavioral and Brain Functions"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1037/edu0000222",
+            "article-title": "Cognitive and emotional math problems largely dissociate: Prevalence of developmental dyscalculia and mathematics anxiety",
+            "volume": "110",
+            "author": "Devine",
+            "year": "2018",
+            "journal-title": "Journal of Educational Psychology"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb9005",
+            "author": "Dowker",
+            "year": "2005",
+            "series-title": "Individual differences in arithmetic: Implications for psychology, neuroscience and education"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0070",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1155/2012/124939",
+            "article-title": "Attitudes to mathematics in primary school children",
+            "volume": "2012",
+            "author": "Dowker",
+            "year": "2012",
+            "journal-title": "Child Development Research"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb9000",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1080/135467996387534",
+            "article-title": "Mathematics anxiety effects in simple and complex addition",
+            "volume": "2",
+            "author": "Faust",
+            "year": "1996",
+            "journal-title": "Mathematical Cognition"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "52",
+            "DOI": "10.1177/0963721416672463",
+            "article-title": "The math anxiety-performance link: A global phenomenon",
+            "volume": "26",
+            "author": "Foley",
+            "year": "2017",
+            "journal-title": "Current Directions in Psychological Science"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1037/0033-2909.114.2.345",
+            "article-title": "Mathematical disabilities: Cognitive, neuropsychological, and genetic components",
+            "volume": "114",
+            "author": "Geary",
+            "year": "1993",
+            "journal-title": "Psychological Bulletin"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1080/00220973.1995.9943818",
+            "article-title": "Anxieties and attitudes related to mathematics in grades 3 and 6",
+            "volume": "63",
+            "author": "Gierl",
+            "year": "1995",
+            "journal-title": "The Journal of Experimental Education"
+          },
+          {
+            "issue": "10",
+            "key": "10.1016/j.lindif.2018.12.005_bb0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "2079",
+            "DOI": "10.1177/0956797613486989",
+            "article-title": "Do girls really experience more anxiety in mathematics?",
+            "volume": "24",
+            "author": "Goetz",
+            "year": "2013",
+            "journal-title": "Psychological Science"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0095",
+            "doi-asserted-by": "crossref",
+            "first-page": "188",
+            "DOI": "10.1016/j.cedpsych.2014.04.002",
+            "article-title": "“My questionnaire is too long!” The assessments of motivational-affective constructs with three-item and single-item measures",
+            "volume": "39",
+            "author": "Gogol",
+            "year": "2014",
+            "journal-title": "Contemporary Educational Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0100",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1080/15248372.2017.1421538",
+            "article-title": "Reciprocal relations among motivational frameworks, math anxiety, and math achievement in early elementary school",
+            "volume": "19",
+            "author": "Gunderson",
+            "year": "2018",
+            "journal-title": "Journal of Cognition and Development"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0105",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1155/2012/982672",
+            "article-title": "Math self-assessment, but not negative feelings, predicts mathematics performance of elementary school children",
+            "volume": "2012",
+            "author": "Haase",
+            "year": "2012",
+            "journal-title": "Child Development Research"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.lindif.2018.12.005_bb0110",
+            "doi-asserted-by": "crossref",
+            "first-page": "538",
+            "DOI": "10.1080/00220973.2012.727888",
+            "article-title": "Mathematics anxiety in young children: An exploratory study",
+            "volume": "81",
+            "author": "Harari",
+            "year": "2013",
+            "journal-title": "The Journal of Experimental Education"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0115",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/749455",
+            "article-title": "The nature, effects, and relief of mathematics anxiety",
+            "volume": "21",
+            "author": "Hembree",
+            "year": "1990",
+            "journal-title": "Journal for Research in Mathematics Education"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0120",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1016/j.lindif.2016.02.006",
+            "article-title": "Maths anxiety in primary and secondary school students: Gender differences, developmental changes and anxiety specificity",
+            "volume": "48",
+            "author": "Hill",
+            "year": "2016",
+            "journal-title": "Learning and Individual Differences"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0125",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/10705519909540118",
+            "article-title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+            "volume": "6",
+            "author": "Hu",
+            "year": "1999",
+            "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0130",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/0734282912470131",
+            "article-title": "The development and validation of the children's anxiety in math scale",
+            "author": "Jameson",
+            "year": "2013",
+            "journal-title": "Journal of Psychoeducational Assessment"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0015",
+            "author": "Koponen",
+            "year": "2010",
+            "series-title": "The 2-minute addition fluency test"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0020",
+            "author": "Koponen",
+            "year": "2010",
+            "series-title": "The 2-minute subtraction fluency test"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.lindif.2018.12.005_bb0135",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1024/1422-4917.35.5.341",
+            "article-title": "Deutschsprachige version des Fragebogens für Rechenangst (FRA) für 6- bis 9-jährige kinder [German version of the math anxiety questionnaire (FRA) for 6-to 9-year-old children]",
+            "volume": "35",
+            "author": "Krinzinger",
+            "year": "2007",
+            "journal-title": "Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0140",
+            "doi-asserted-by": "crossref",
+            "first-page": "206",
+            "DOI": "10.1177/0734282908330583",
+            "article-title": "Math anxiety and math ability in early primary school years",
+            "volume": "27",
+            "author": "Krinzinger",
+            "year": "2009",
+            "journal-title": "Journal of Psychoeducational Assessment"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0145",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1016/j.adolescence.2003.11.003",
+            "article-title": "The causal ordering of mathematics anxiety and mathematics achievement: A longitudinal panel analysis",
+            "volume": "27",
+            "author": "Ma",
+            "year": "2004",
+            "journal-title": "Journal of Adolescence"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0150",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1037/1082-989X.11.1.19",
+            "article-title": "Testing differences between nested covariance structure models: Power analysis and null hypotheses",
+            "volume": "11",
+            "author": "MacCallum",
+            "year": "2006",
+            "journal-title": "Psychological Methods"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0155",
+            "author": "Muthén",
+            "year": "1998",
+            "series-title": "Mplus user's guide"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.lindif.2018.12.005_bb0160",
+            "doi-asserted-by": "crossref",
+            "first-page": "306",
+            "DOI": "10.1177/0734282913508528",
+            "article-title": "The single-item math anxiety scale: An alternative way of measuring mathematical anxiety",
+            "volume": "32",
+            "author": "Núñez-Peña",
+            "year": "2014",
+            "journal-title": "Journal of Psychoeducational Assessment"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0165",
+            "first-page": "103",
+            "article-title": "The role of expressive writing in math anxiety",
+            "volume": "20",
+            "author": "Park",
+            "year": "2014",
+            "journal-title": "Journal of Experimental Psychology: Applied"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0170",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1080/1034912X.2011.547351",
+            "article-title": "Cognitive and emotional factors in children with mathematical learning disabilities",
+            "volume": "58",
+            "author": "Passolunghi",
+            "year": "2011",
+            "journal-title": "International Journal of Disability, Development and Education"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0175",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.jecp.2015.07.014",
+            "article-title": "On the relationship between math anxiety and math achievement in early elementary school: The role of problem solving strategies",
+            "volume": "141",
+            "author": "Ramirez",
+            "year": "2016",
+            "journal-title": "Journal of Experimental Child Psychology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1080/15248372.2012.664593",
+            "article-title": "Math anxiety, working memory, and math achievement in early elementary school",
+            "volume": "14",
+            "author": "Ramirez",
+            "year": "2013",
+            "journal-title": "Journal of Cognition and Development"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.lindif.2018.12.005_bb0185",
+            "doi-asserted-by": "crossref",
+            "first-page": "551",
+            "DOI": "10.1037/h0033456",
+            "article-title": "The Mathematics Anxiety Rating Scale: Psychometric data",
+            "volume": "19",
+            "author": "Richardson",
+            "year": "1972",
+            "journal-title": "Journal of Counseling Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0190",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1186/1744-9081-6-46",
+            "article-title": "Mathematics anxiety in children with developmental dyscalculia",
+            "volume": "6",
+            "author": "Rubinsten",
+            "year": "2010",
+            "journal-title": "Behavioral and Brain Functions"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0195",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1007/BF02296192",
+            "article-title": "A scaled difference chi-square test statistic for moment structure analysis",
+            "volume": "66",
+            "author": "Satorra",
+            "year": "2001",
+            "journal-title": "Psychometrika"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.lindif.2018.12.005_bb0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1111/bjep.12151",
+            "article-title": "Math anxiety and its relationship with basic arithmetic skills among primary school children",
+            "volume": "87",
+            "author": "Sorvo",
+            "year": "2017",
+            "journal-title": "British Journal of Educational Psychology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0200",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1207/s15327906mbr2502_4",
+            "article-title": "Structural model evaluation and modification: An interval estimation approach",
+            "volume": "25",
+            "author": "Steiger",
+            "year": "1990",
+            "journal-title": "Multivariate Behavioral Research"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0205",
+            "author": "Thomas",
+            "year": "2000",
+            "series-title": "Mathematics anxiety and related factors in young children. Paper presented at the British Psychological Society Developmental Section Conference, Bristol, England"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.lindif.2018.12.005_bb0210",
+            "doi-asserted-by": "crossref",
+            "first-page": "751",
+            "DOI": "10.3102/0034654308321456",
+            "article-title": "Sources of self-efficacy in school: Critical review of the literature and future directions",
+            "volume": "78",
+            "author": "Usher",
+            "year": "2008",
+            "journal-title": "Review of Educational Research"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.lindif.2018.12.005_bb0215",
+            "doi-asserted-by": "crossref",
+            "first-page": "486",
+            "DOI": "10.1080/17405629.2012.686740",
+            "article-title": "A checklist for testing measurement invariance",
+            "volume": "9",
+            "author": "Van de Schoot",
+            "year": "2012",
+            "journal-title": "European Journal of Developmental Psychology"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.lindif.2018.12.005_bb0220",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.cedpsych.2012.09.001",
+            "article-title": "Mathematics anxiety in young children: Concurrent and longitudinal associations with mathematical performance",
+            "volume": "38",
+            "author": "Vukovic",
+            "year": "2013",
+            "journal-title": "Contemporary Educational Psychology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.lindif.2018.12.005_bb0225",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1037/0022-0663.80.2.210",
+            "article-title": "Math anxiety in elementary and secondary school students",
+            "volume": "80",
+            "author": "Wigfield",
+            "year": "1988",
+            "journal-title": "Journal of Educational Psychology"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0230",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1155/2012/610192",
+            "article-title": "Math anxiety questionnaire: Similar latent structure in Brazilian and German school children",
+            "volume": "2012",
+            "author": "Wood",
+            "year": "2012",
+            "journal-title": "Child Development Research"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0235",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3389/fpsyg.2012.00162",
+            "article-title": "Math anxiety in second and third graders and its relation to mathematics achievement",
+            "volume": "3",
+            "author": "Wu",
+            "year": "2012",
+            "journal-title": "Frontiers in Psychology"
+          },
+          {
+            "key": "10.1016/j.lindif.2018.12.005_bb0240",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/0022219412473154",
+            "article-title": "Mathematics achievement and anxiety and their relation to internalizing and externalizing behaviors",
+            "author": "Wu",
+            "year": "2014",
+            "journal-title": "Journal of Learning Disabilities"
+          }
+        ],
+        "container-title": "Learning and Individual Differences",
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1041608018301936?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1041608018301936?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2019, 8, 8]
+          ],
+          "date-time": "2019-08-08T00:37:48Z",
+          "timestamp": 1565224668000
+        },
+        "score": 44.731,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1041608018301936"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2019, 1]
+          ]
+        },
+        "references-count": 51,
+        "alternative-id": "S1041608018301936",
+        "URL": "https://doi.org/10.1016/j.lindif.2018.12.005",
+        "ISSN": "1041-6080",
+        "issn-type": [
+          {
+            "value": "1041-6080",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2019, 1]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Development of math anxiety and its longitudinal relationships with arithmetic achievement among primary school children",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Learning and Individual Differences",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.lindif.2018.12.005",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2018 Elsevier Inc. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "published-online": {
+          "date-parts": null
+        },
+        "journal-issue": {
+          "published-online": {
+            "date-parts": null
+          },
+          "published-print": {
+            "date-parts": null
+          }
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [2026, 7, 10]
+          ],
+          "date-time": "2026-07-10T02:26:35Z",
+          "timestamp": 1783650395106,
+          "version": "3.55.0"
+        },
+        "reference-count": 0,
+        "publisher": "Society for Research and Knowledge Management",
+        "license": null,
+        "funder": null,
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": "IJLTER",
+        "published-print": {
+          "date-parts": [
+            [2022, 8, 30]
+          ]
+        },
+        "DOI": "10.26803/ijlter.21.8.19",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [2022, 9, 6]
+          ],
+          "date-time": "2022-09-06T08:44:26Z",
+          "timestamp": 1662453866000
+        },
+        "page": "326-334",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": "Math Anxiety, Math Achievement and Gender Differences among Primary School Children and their Parents from Palestine",
+        "prefix": "10.26803",
+        "volume": "21",
+        "author": [
+          {
+            "given": "Nagham",
+            "family": "Anbar",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lavinia",
+            "family": "Cheie",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Visu-Petra",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "11346",
+        "reference": null,
+        "container-title": "International Journal of Learning, Teaching and Educational Research",
+        "link": [
+          {
+            "URL": "https://ijlter.org/index.php/ijlter/article/download/5867/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [2022, 9, 6]
+          ],
+          "date-time": "2022-09-06T08:44:27Z",
+          "timestamp": 1662453867000
+        },
+        "score": 42.3509,
+        "resource": {
+          "primary": {
+            "URL": "https://ijlter.org/index.php/ijlter/article/view/5867/pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [2022, 8, 30]
+          ]
+        },
+        "references-count": 0,
+        "alternative-id": null,
+        "URL": "https://doi.org/10.26803/ijlter.21.8.19",
+        "ISSN": ["1694-2493", "1694-2116"],
+        "issn-type": [
+          {
+            "value": "1694-2493",
+            "type": "print"
+          },
+          {
+            "value": "1694-2116",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [2022, 8, 30]
+          ]
+        },
+        "assertion": null,
+        "issue": "8",
+        "abstract": "<jats:p>This study explored the math anxiety (MA) level and math achievement of primary school children and the association of these variables to their gender differences and parents’ math anxiety. Also, we investigated the potential interaction between child MA and parental variables on child math outcomes. The sample consisted of 230 students in the 3rd and 4th grades (Mean age = 8.9; SD =.59), including one parent for each child. The Scale for Early Math Anxiety, The Mathematics Anxiety Rating Scale, The Children Test Anxiety Scale and the parental involvement survey was used for data collection. Palestinian children reported lower levels of MA compared to previous research, and the expected negative relation between students’ MA and their math achievements was confirmed. Girls reported higher levels of both MA and test anxiety than boys. A positive correlation was found between mothers’ MA and daughters’ MA, while no association between fathers’ MA and sons’ MA was found. Moreover, child MA, parental MA and trait anxiety were found to significantly predict children’s math achievement. This study contributed to a better understanding of some factors affecting mathematics achievements and future career orientations, such as Math anxiety, Test anxiety, and possible gender differences. We suggest implementing new strategies to reduce math anxiety, improve math achievement, and enhance females' contribution to math-related fields in the Palestinian community.<\/jats:p>",
+        "published-online": {
+          "date-parts": [
+            [2022, 8, 30]
+          ]
+        },
+        "journal-issue": {
+          "issue": "8",
+          "published-online": {
+            "date-parts": [
+              [2022, 8, 30]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [2022, 8, 30]
+            ]
+          }
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

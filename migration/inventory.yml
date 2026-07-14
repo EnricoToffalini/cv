@@ -1,0 +1,148 @@
+schema_version: "1.0.0"
+source_pages: 19
+status: "migrated_and_reconciled"
+sections:
+  - id: "personal"
+    source_label: "Dati personali"
+    pages: "1"
+    source_items: 1
+    destination: "data/profile.yml"
+    structured_records: 1
+    status: "reconciled"
+  - id: "academic_positions"
+    source_label: "Posizione accademica attuale e posizioni precedenti"
+    pages: "1"
+    source_items: 5
+    destination: "data/positions.csv"
+    structured_records: 5
+    status: "reconciled"
+  - id: "education"
+    source_label: "Istruzione"
+    pages: "1-2"
+    source_items: 3
+    destination: "data/education.csv"
+    structured_records: 3
+    status: "reconciled"
+  - id: "research_profile"
+    source_label: "Interessi di ricerca, collaborazioni, affiliazioni"
+    pages: "2"
+    source_items: 4
+    destination: "data/profile.yml"
+    structured_records: 17
+    status: "reconciled"
+    note: "Narrative bullets decomposed into 6 interests, 7 collaborations, 2 memberships and 2 declared metrics."
+  - id: "research_groups"
+    source_label: "Partecipazione in gruppi di ricerca attivi"
+    pages: "2"
+    source_items: 2
+    destination: "data/profile.yml"
+    structured_records: 2
+    status: "reconciled"
+  - id: "grants"
+    source_label: "Progetti finanziati"
+    pages: "2-3"
+    source_items: 4
+    destination: "data/grants.csv"
+    structured_records: 4
+    status: "reconciled"
+  - id: "scientific_organization"
+    source_label: "Coordinamento e contributo all’organizzazione di iniziative scientifiche"
+    pages: "3"
+    source_items: 5
+    destination: "data/service.csv"
+    structured_records: 5
+    status: "reconciled"
+  - id: "journal_international"
+    source_label: "Articoli su riviste scientifiche internazionali con peer-review"
+    pages: "3-10"
+    source_items: 93
+    destination: "data/publications.bib"
+    structured_records: 93
+    status: "reconciled"
+  - id: "journal_italian"
+    source_label: "Pubblicazioni su riviste italiane con peer-review"
+    pages: "10-11"
+    source_items: 11
+    destination: "data/publications.bib"
+    structured_records: 11
+    status: "reconciled"
+  - id: "book_chapters"
+    source_label: "Capitoli in libri/volumi nazionali e internazionali"
+    pages: "11"
+    source_items: 3
+    destination: "data/publications.bib"
+    structured_records: 3
+    status: "reconciled_with_open_issues"
+  - id: "editorial"
+    source_label: "Attività editoriale e di referaggio"
+    pages: "12"
+    source_items: 4
+    destination: "data/service.csv; data/profile.yml"
+    structured_records: 3
+    status: "reconciled"
+    note: "One source bullet is the 18-journal reviewing list stored structurally in profile.yml."
+  - id: "teaching"
+    source_label: "Didattica frontale, integrativa e master"
+    pages: "12-13"
+    source_items: 14
+    destination: "data/teaching.csv"
+    structured_records: 14
+    status: "reconciled_with_open_issues"
+  - id: "supervision"
+    source_label: "Esperienza con studenti"
+    pages: "13"
+    source_items: 3
+    destination: "data/profile.yml"
+    structured_records: 9
+    status: "reconciled"
+    note: "Three aggregate source bullets decomposed into nine count-bearing records without deduplicating potentially overlapping people."
+  - id: "institutional_service"
+    source_label: "Incarichi istituzionali e commissioni di laurea"
+    pages: "13-14"
+    source_items: 11
+    destination: "data/service.csv"
+    structured_records: 11
+    status: "reconciled"
+  - id: "international_experience"
+    source_label: "Esperienza all’estero"
+    pages: "14"
+    source_items: 2
+    destination: "data/positions.csv"
+    structured_records: 3
+    status: "reconciled"
+    note: "The two non-contiguous City University visits were split into separate records."
+  - id: "professional_experience"
+    source_label: "Esperienza clinica e professionale"
+    pages: "14"
+    source_items: 3
+    destination: "data/positions.csv"
+    structured_records: 3
+    status: "reconciled"
+  - id: "presentations"
+    source_label: "Presentazioni e simposi"
+    pages: "14-18"
+    source_items: 43
+    destination: "data/presentations.csv"
+    structured_records: 43
+    status: "reconciled_with_open_issues"
+  - id: "outreach"
+    source_label: "Terza missione, trasferimento e valorizzazione delle conoscenze"
+    pages: "18-19"
+    source_items: 10
+    destination: "data/outreach.csv"
+    structured_records: 10
+    status: "reconciled"
+  - id: "skills"
+    source_label: "Uso di strumenti informatici per la ricerca"
+    pages: "19"
+    source_items: 4
+    destination: "data/profile.yml"
+    structured_records: 4
+    status: "reconciled"
+  - id: "footer"
+    source_label: "Data di aggiornamento e autorizzazione GDPR"
+    pages: "19"
+    source_items: 2
+    destination: "data/profile.yml"
+    structured_records: 2
+    status: "reconciled"

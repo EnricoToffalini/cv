@@ -1,0 +1,566 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 12]
+      ],
+      "date-time": "2026-06-12T03:32:18Z",
+      "timestamp": 1781235138839,
+      "version": "3.54.1"
+    },
+    "reference-count": 41,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2016, 3, 3]
+          ],
+          "date-time": "2016-03-03T00:00:00Z",
+          "timestamp": 1456963200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": "www.plosone.org",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "PLoS ONE",
+    "DOI": "10.1371/journal.pone.0148716",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2016, 3, 3]
+      ],
+      "date-time": "2016-03-03T18:56:48Z",
+      "timestamp": 1457031408000
+    },
+    "page": "e0148716",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": "Arousal—But Not Valence—Reduces False Memories at Retrieval",
+    "prefix": "10.1371",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Mirandola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [2016, 3, 3]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "800",
+        "DOI": "10.1080/02699931.2012.741060",
+        "article-title": "Negative affect promotes encoding of and memory for details at the expense of the gist: Affect, encoding, and false memories",
+        "volume": "27",
+        "author": "J Storbeck",
+        "year": "2013",
+        "journal-title": "Cogn Emot"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1111/j.1467-9280.2005.01615.x",
+        "article-title": "With sadness comes accuracy, with happiness, false memory: Mood and the false memory effect",
+        "volume": "16",
+        "author": "J Storbeck",
+        "year": "2005",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "981",
+        "DOI": "10.1037/a0022754",
+        "article-title": "Affect influences false memories at encoding: Evidence from recognition data",
+        "volume": "11",
+        "author": "J Storbeck",
+        "year": "2011",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "ref4",
+        "first-page": "803",
+        "article-title": "Creating false memories: Remembering words not presented in lists",
+        "volume": "21",
+        "author": "HL Roediger",
+        "year": "1995",
+        "journal-title": "J Exp Psychol"
+      },
+      {
+        "key": "ref5",
+        "first-page": "27",
+        "article-title": "Theories of mood and cognition: A user’s guidebook",
+        "author": "GL Clore",
+        "year": "2002"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1111/j.1467-9280.2007.01874.x",
+        "article-title": "Emotions and false memories: Valence or arousal?",
+        "volume": "18",
+        "author": "Y Corson",
+        "year": "2007",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1060",
+        "DOI": "10.1080/17470218.2012.727837",
+        "article-title": "Mood and the DRM paradigm: An investigation of the effects of valence and arousal on false memory",
+        "volume": "66",
+        "author": "I Van Damme",
+        "year": "2013",
+        "journal-title": "The Q J Exp Psychol"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1016/j.cognition.2010.08.014",
+        "article-title": "Reduction of the misinformation effect by arousal induced after learning",
+        "volume": "117",
+        "author": "SM English",
+        "year": "2010",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev.neuro.27.070203.144157",
+        "article-title": "The amygdala modulates the consolidation of memories of emotionally arousing experiences",
+        "volume": "27",
+        "author": "JL McGaugh",
+        "year": "2004",
+        "journal-title": "Annu Rev Neurosci"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1016/j.physbeh.2014.02.028",
+        "article-title": "Brief, pre-learning stress reduces false memory production and enhances true memory selectively in females",
+        "volume": "128",
+        "author": "PR Zoladz",
+        "year": "2014",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1162/jocn.2010.21493",
+        "article-title": "Elevated cortisol at retrieval suppresses false memories in parallel with correct memories",
+        "volume": "23",
+        "author": "S Diekelmann",
+        "year": "2010",
+        "journal-title": "J Cogn Neurosci"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1378",
+        "DOI": "10.1016/j.psyneuen.2008.07.009",
+        "article-title": "True or false? Memory is differentially affected by stress-induced cortisol elevations and sympathetic activity at consolidation and retrieval",
+        "volume": "33",
+        "author": "T Smeets",
+        "year": "2008",
+        "journal-title": "Psychoneuroendocrino"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1080/09658210143000119",
+        "article-title": "The effects of experimentally induced stress on false recognition",
+        "volume": "10",
+        "author": "JD Payne",
+        "year": "2002",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.1037/0022-3514.71.4.665",
+        "article-title": "Mood and the use of scripts: Does a happy mood really lead to mindlessness?",
+        "volume": "71",
+        "author": "H Bless",
+        "year": "1996",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "451",
+        "DOI": "10.1080/09658211.2013.795976",
+        "article-title": "Inferential false memories of events: Negative consequences protect from distortions when the events are free from further elaboration",
+        "volume": "22",
+        "author": "C Mirandola",
+        "year": "2014",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "931",
+        "DOI": "10.1037/0278-7393.27.4.931",
+        "article-title": "A demonstration and comparison of two types of inference-based memory errors",
+        "volume": "27",
+        "author": "SL Hannigan",
+        "year": "2001",
+        "journal-title": "J Exp Psychol Learn Mem Cogn"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1016/j.ridd.2013.11.004",
+        "article-title": "Emotional false memories in children with learning disabilities",
+        "volume": "35",
+        "author": "C Mirandola",
+        "year": "2014",
+        "journal-title": "Res Dev Disabil"
+      },
+      {
+        "key": "ref18",
+        "first-page": "1",
+        "article-title": "Working memory affects false memory production for emotional events",
+        "volume": "28",
+        "author": "C Mirandola",
+        "year": "2015",
+        "journal-title": "Cogn Emot"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1016/j.paid.2014.02.042",
+        "article-title": "Emotional negative events do not protect against false memories in young adults with depressive–anxious personality traits",
+        "volume": "66",
+        "author": "E Toffalini",
+        "year": "2014",
+        "journal-title": "Pers Individ Dif"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/j.paid.2014.11.029",
+        "article-title": "High trait anxiety increases inferential false memories for negative (but not positive) emotional events",
+        "volume": "75",
+        "author": "E Toffalini",
+        "year": "2015",
+        "journal-title": "Pers Individ Dif"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/h0080017",
+        "article-title": "Memory and consciousness",
+        "volume": "26",
+        "author": "E Tulving",
+        "year": "1985",
+        "journal-title": "Can Psychol"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1080/02699931.2013.860016",
+        "article-title": ". Mood-congruent false memories persist over time",
+        "volume": "28",
+        "author": "LM Knott",
+        "year": "2014",
+        "journal-title": "Cogn Emot"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1153",
+        "DOI": "10.1080/02699930802355420",
+        "article-title": "Mood-congruent false memories in the DRM paradigm",
+        "volume": "23",
+        "author": "L Ruci",
+        "year": "2009",
+        "journal-title": "Cogn Emot"
+      },
+      {
+        "key": "ref24",
+        "article-title": "International Affective Pictures System (IAPS): Affective ratings of pictures and instruction manual (Tech. Report A-6)",
+        "author": "PJ Lang",
+        "year": "2005"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1111/j.1467-9280.2007.01857.x",
+        "article-title": "Remembering can cause forgetting—But not in negative moods",
+        "volume": "18",
+        "author": "KH Bauml",
+        "year": "2007",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref26",
+        "first-page": "29",
+        "article-title": "Handbook of Emotion Elicitation and Assessment",
+        "author": "MM Bradley",
+        "year": "2007"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1016/0005-7916(94)90063-9",
+        "article-title": "Measuring emotion: The self-assessment manikin and the semantic differential",
+        "volume": "25",
+        "author": "MM Bradley",
+        "year": "1994",
+        "journal-title": "J Behav Ther Exp Psychiatry"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "206",
+        "DOI": "10.1016/j.lindif.2010.12.001",
+        "article-title": "Recollection but not familiarity differentiates memory for text in students with and without learning difficulties",
+        "volume": "21",
+        "author": "C Mirandola",
+        "year": "2011",
+        "journal-title": "Learn Individ Differ"
+      },
+      {
+        "key": "ref29",
+        "author": "RH Baayen",
+        "year": "2008"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1016/j.jml.2007.11.007",
+        "article-title": "Categorical data analysis: Away from ANOVAs (transformation or not) and towards logit mixed models",
+        "volume": "59",
+        "author": "TF Jaeger",
+        "year": "2008",
+        "journal-title": "J Mem Lang"
+      },
+      {
+        "key": "ref31",
+        "author": "JC Pinheiro",
+        "year": "2000"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "716",
+        "DOI": "10.1109/TAC.1974.1100705",
+        "article-title": "A new look at the statistical model identification",
+        "volume": "19",
+        "author": "H Akaike",
+        "year": "1974",
+        "journal-title": "IEEE Trans Automat Contr"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.3758/BF03206482",
+        "article-title": "AIC model selection using Akaike weights",
+        "volume": "11",
+        "author": "E-J Wagenmakers",
+        "year": "2004",
+        "journal-title": "Psychon Bull Rev"
+      },
+      {
+        "key": "ref34",
+        "author": "KP Burnham",
+        "year": "2002"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.psyneuen.2013.09.020",
+        "article-title": "Remembering under stress: Different roles of autonomic arousal and glucocorticoids in memory retrieval",
+        "volume": "39",
+        "author": "P Schönfeld",
+        "year": "2014",
+        "journal-title": "Psychoneuroendocrino"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1038/nrn2573",
+        "article-title": "The locus coeruleus and noradrenergic modulation of cognition",
+        "volume": "10",
+        "author": "SJ Sara",
+        "year": "2009",
+        "journal-title": "Nat. Rev. Neurosci"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1002/cne.920180503",
+        "article-title": "The relation of strength of stimulus to rapidity of habit-formation",
+        "volume": "18",
+        "author": "RM Yerkes",
+        "year": "1908",
+        "journal-title": "Journal of Comparative Neurology and Psychology"
+      },
+      {
+        "key": "ref38",
+        "author": "DA Gallo",
+        "year": "2006"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1006/jmla.2002.2864",
+        "article-title": "The nature of recollection and familiarity: A review of 30 years of research",
+        "volume": "46",
+        "author": "AP Yonelinas",
+        "year": "2002",
+        "journal-title": "J Mem Lang"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/S0749-596X(02)00501-6",
+        "article-title": "Phantom recall",
+        "volume": "48",
+        "author": "CJ Brainerd",
+        "year": "2003",
+        "journal-title": "J Mem Lang"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "954",
+        "DOI": "10.1037/0278-7393.31.5.954",
+        "article-title": "Compelling untruths: Content borrowing and vivid false memories",
+        "volume": "31",
+        "author": "JM Lampinen",
+        "year": "2005",
+        "journal-title": "J Exp Psychol Learn Mem Cogn"
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0148716",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2018, 10, 23]
+      ],
+      "date-time": "2018-10-23T15:48:23Z",
+      "timestamp": 1540309703000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0148716"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Alexandra",
+        "family": "Kavushansky",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2016, 3, 3]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [2016, 3, 3]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0148716",
+    "relation": {},
+    "ISSN": "1932-6203",
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2016, 3, 3]
+      ]
+    }
+  }
+}

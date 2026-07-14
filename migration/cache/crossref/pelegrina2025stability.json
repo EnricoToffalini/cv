@@ -1,0 +1,179 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 7, 7]
+      ],
+      "date-time": "2026-07-07T00:34:04Z",
+      "timestamp": 1783384444190,
+      "version": "3.54.6"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "5",
+    "funder": [
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Spanish Ministry of Science and Innovation",
+        "doi-asserted-by": "crossref",
+        "award": "PID2020-120065GB-I00; PID2024-161875NB-I00",
+        "award-info": [
+          {
+            "award-number": "PID2020-120065GB-I00; PID2024-161875NB-I00"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Union",
+        "doi-asserted-by": "crossref",
+        "award": null,
+        "award-info": null,
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Journal of Educational Psychology",
+    "DOI": "10.1037/edu0001008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 12, 1]
+      ],
+      "date-time": "2025-12-01T14:34:40Z",
+      "timestamp": 1764599680000
+    },
+    "page": "677-702",
+    "update-policy": "https://doi.org/10.1037/edu0001008",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": "Stability of math anxiety and its relation with math performance over time: A meta-analysis of longitudinal studies.",
+    "prefix": "10.1037",
+    "volume": "118",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4441-8965",
+        "authenticated-orcid": false,
+        "given": "Santiago",
+        "family": "Pelegrina",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M. Eva",
+        "family": "Martín-Puga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [2026, 7]
+      ]
+    },
+    "container-title": "Journal of Educational Psychology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://psycnet.apa.org/journals/edu/118/5/677.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2026, 6, 8]
+      ],
+      "date-time": "2026-06-08T13:36:30Z",
+      "timestamp": 1780925790000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/edu0001008"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2026, 7]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [2026, 7]
+        ]
+      }
+    },
+    "alternative-id": "2026-94774-001",
+    "URL": "https://doi.org/10.1037/edu0001008",
+    "relation": {},
+    "ISSN": ["1939-2176", "0022-0663"],
+    "issn-type": [
+      {
+        "value": "1939-2176",
+        "type": "electronic"
+      },
+      {
+        "value": "0022-0663",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2026, 7]
+      ]
+    }
+  }
+}

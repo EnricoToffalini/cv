@@ -1,0 +1,711 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2025, 11, 4]
+      ],
+      "date-time": "2025-11-04T16:03:17Z",
+      "timestamp": 1762272197165
+    },
+    "reference-count": 53,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2018, 1, 1]
+          ],
+          "date-time": "2018-01-01T00:00:00Z",
+          "timestamp": 1514764800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Research in Developmental Disabilities",
+    "published-print": {
+      "date-parts": [
+        [2018, 1]
+      ]
+    },
+    "DOI": "10.1016/j.ridd.2017.10.019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2017, 11, 5]
+      ],
+      "date-time": "2017-11-05T23:09:40Z",
+      "timestamp": 1509923380000
+    },
+    "page": "33-41",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "special_numbering": "C",
+    "title": "Mental rotation ability and everyday-life spatial activities in individuals with Down syndrome",
+    "prefix": "10.1016",
+    "volume": "72",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Meneghetti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Barbara",
+        "family": "Carretti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Silvia",
+        "family": "Lanfranchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0005",
+        "first-page": "1",
+        "article-title": "Brms: An R package for Bayesian multilevel models using Stan",
+        "volume": "80",
+        "author": "Bürkner",
+        "year": "2016",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0010",
+        "author": "Becker",
+        "year": "1980",
+        "series-title": "Coloured progressive matrices"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0015",
+        "first-page": "205",
+        "article-title": "Object-based mental rotation and visual perspective-taking in typical development and Williams syndrome",
+        "volume": "39",
+        "author": "Broadbent",
+        "year": "2014",
+        "journal-title": "Developmental Neuropsychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/87565641.2013.876027"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0020",
+        "first-page": "23",
+        "article-title": "AIC model selection and multimodel inference in behavioral ecology: Some background, observations, and comparisons",
+        "volume": "65",
+        "author": "Burnham",
+        "year": "2011",
+        "journal-title": "Behavioral Ecology and Sociobiology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s00265-010-1029-6"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0025",
+        "author": "Carroll",
+        "year": "1993",
+        "series-title": "Human cognitive abilities: A survey of factor-analytic studies"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0030",
+        "first-page": "1825",
+        "article-title": "Wayfinding behaviour in Down syndrome: A study with virtual environments",
+        "volume": "34",
+        "author": "Courbois",
+        "year": "2013",
+        "journal-title": "Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ridd.2013.02.023"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0035",
+        "first-page": "1446",
+        "article-title": "Patterns of differences in wayfinding performance and correlations among abilities between persons with and without Down syndrome and typically developing children",
+        "volume": "5",
+        "author": "Davis",
+        "year": "2014",
+        "journal-title": "Frontiers in Psychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2014.01446"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0040",
+        "first-page": "271",
+        "article-title": "Children with Down syndrome: Implications for assessment and intervention in the school",
+        "volume": "32",
+        "author": "Davis",
+        "year": "2008",
+        "journal-title": "School Psychology Quarterly",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/1045-3830.23.2.271"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0045",
+        "author": "Dunn",
+        "year": "1981",
+        "series-title": "Manual for the peabody picture vocabulary test revised"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0050",
+        "author": "Dykens",
+        "year": "2000",
+        "series-title": "Genetics and mental retardation syndromes: A new look at behavior and interventions"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0055",
+        "first-page": "1345",
+        "article-title": "Young children’s awareness of their mental activity: The case of mental rotation",
+        "volume": "69",
+        "author": "Estes",
+        "year": "1998",
+        "journal-title": "Child Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/1132270"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0060",
+        "first-page": "454",
+        "article-title": "How do individuals with Williams syndrome learn a route in a real-world environment?",
+        "volume": "13",
+        "author": "Farran",
+        "year": "2010",
+        "journal-title": "Developmental Science",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/j.1467-7687.2009.00894.x"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0065",
+        "first-page": "1",
+        "article-title": "Route knowledge and configural knowledge in typical and atypical development: A comparison of sparse and rich environments",
+        "volume": "7",
+        "author": "Farran",
+        "year": "2015",
+        "journal-title": "Journal of Neurodevelopmental Disorders",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/s11689-015-9133-6"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0070",
+        "first-page": "117",
+        "article-title": "Using a touch screen paradigm to assess the development of mental rotation between 3½ and 5½ years of age",
+        "volume": "14",
+        "author": "Frick",
+        "year": "2013",
+        "journal-title": "Cognitive Processing",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s10339-012-0534-0"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0075",
+        "first-page": "386",
+        "article-title": "Development of mental rotation in 3- to 5-year-old children",
+        "volume": "28",
+        "author": "Frick",
+        "year": "2013",
+        "journal-title": "Cognitive Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cogdev.2013.06.002"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0080",
+        "first-page": "457",
+        "article-title": "Inference from iterative simulation using multiple sequences",
+        "volume": "7",
+        "author": "Gelman",
+        "year": "1992",
+        "journal-title": "Statistical Science",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1214/ss/1177011136"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0085",
+        "first-page": "121",
+        "article-title": "Individual differences in spatial abilities",
+        "author": "Hegarty",
+        "year": "2005",
+        "series-title": "Handbook of visuospatial thinking"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0090",
+        "first-page": "151",
+        "article-title": "Spatial abilities at different scales: Individual differences in aptitude-test performance and spatial-layout learning",
+        "volume": "34",
+        "author": "Hegarty",
+        "year": "2006",
+        "journal-title": "Intelligence",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2005.09.005"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0095",
+        "first-page": "12",
+        "article-title": "Mental rotation abilities in individuals with Down syndrome: A pilot study",
+        "volume": "9",
+        "author": "Hinnell",
+        "year": "2004",
+        "journal-title": "Down Syndrome Research and Practice"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0100",
+        "first-page": "67",
+        "article-title": "The relation between motor development and mental rotation ability in 5- to 6-year-old children",
+        "volume": "4",
+        "author": "Jansen",
+        "year": "2010",
+        "journal-title": "International Journal of Developmental Science",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3233/DEV-2010-4105"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0105",
+        "first-page": "357",
+        "article-title": "The dissociation of small- and large-scale spatial abilities in school-age children",
+        "volume": "109",
+        "author": "Jansen",
+        "year": "2009",
+        "journal-title": "Perceptual and Motor Skills",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2466/pms.109.2.357-361"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0110",
+        "first-page": "117",
+        "article-title": "Dual-task processing as a measure of executive function: A comparison between adults with Williams and Down syndromes",
+        "volume": "113",
+        "author": "Kittler",
+        "year": "2008",
+        "journal-title": "American Journal on Mental Retardation",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1352/0895-8017(2008)113[117:DPAAMO]2.0.CO;2"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0115",
+        "first-page": "995",
+        "article-title": "Age differences in imagery abilities",
+        "volume": "61",
+        "author": "Kosslyn",
+        "year": "1990",
+        "journal-title": "Child Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/1130871"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0120",
+        "first-page": "123",
+        "article-title": "Analogue mental transformations in 3-year-olds: Introducing a new mental rotation paradigm suitable for young children",
+        "volume": "23",
+        "author": "Krüger",
+        "year": "2014",
+        "journal-title": "Infant and Child Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/icd.1815"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0125",
+        "author": "Kruschke",
+        "year": "2015",
+        "series-title": "Doing Bayesian data analysis, second edition: A tutorial with R, JAGS, and Stan"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0130",
+        "first-page": "456",
+        "article-title": "Verbal and visuospatial working memory deficits in children with Down syndrome",
+        "volume": "109",
+        "author": "Lanfranchi",
+        "year": "2004",
+        "journal-title": "American Journal on Mental Retardation",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1352/0895-8017(2004)109<456:VAVWMD>2.0.CO;2"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0135",
+        "first-page": "1291",
+        "article-title": "Spatial processing in infancy predicts both spatial and mathematical aptitude in childhood",
+        "volume": "27",
+        "author": "Lauer",
+        "year": "2016",
+        "journal-title": "Psychological Science",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/0956797616655977"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0140",
+        "first-page": "560",
+        "article-title": "Correlation of motor skill, mental rotation, and working memory in 3- to 6-year-old children",
+        "volume": "11",
+        "author": "Lehmann",
+        "year": "2014",
+        "journal-title": "European Journal of Developmental Psychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/17405629.2014.888995"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0145",
+        "first-page": "97",
+        "article-title": "Spatial ability and g",
+        "author": "Lohman",
+        "year": "1996",
+        "series-title": "Human abilities: Their nature and measurement"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0150",
+        "first-page": "1554",
+        "article-title": "Touching up mental rotation: Effects of manual experience on 6-month-old infantsö mental object rotation",
+        "volume": "84",
+        "author": "Möhring",
+        "year": "2013",
+        "journal-title": "Child Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/cdev.12065"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0155",
+        "first-page": "473",
+        "article-title": "Can fluid intelligence be reduced to ‘simple’ short-term storage?",
+        "volume": "39",
+        "author": "Martínez",
+        "year": "2011",
+        "journal-title": "Intelligence",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2011.09.001"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0160",
+        "author": "McElreath",
+        "year": "2016",
+        "series-title": "Statistical rethinking: A Bayesian course with examples in R and Stan"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0165",
+        "first-page": "46",
+        "article-title": "Visuo-spatial knowledge acquisition in individuals with Down syndrome: The role of descriptions and sketch maps",
+        "volume": "63",
+        "author": "Meneghetti",
+        "year": "2017",
+        "journal-title": "Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ridd.2017.02.013"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0170",
+        "first-page": "258",
+        "article-title": "Sex differences in using spatial and verbal abilities influence route learning performance in a virtual environment: A comparison of 6- to 12-year old boys and girls",
+        "volume": "7",
+        "author": "Merrill",
+        "year": "2016",
+        "journal-title": "Frontiers in Psychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2016.00258"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0175",
+        "first-page": "435",
+        "article-title": "Mental rotation of dynamic, three-dimensional stimuli by 3-month-old infants",
+        "volume": "16",
+        "author": "Moore",
+        "year": "2011",
+        "journal-title": "Infancy",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/j.1532-7078.2010.00058.x"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0180",
+        "first-page": "746",
+        "article-title": "Manipulative strategies prepare for mental rotation in young children",
+        "volume": "7",
+        "author": "Noda",
+        "year": "2010",
+        "journal-title": "European Journal of Developmental Psychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/17405620903465771"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0185",
+        "first-page": "1522",
+        "article-title": "Landmark and route knowledge in children’s spatial representation of a virtual environment",
+        "volume": "5",
+        "author": "Nys",
+        "year": "2014",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0190",
+        "first-page": "75",
+        "article-title": "The neuropsychology of Down syndrome: Evidence for hippocampal dysfunction",
+        "volume": "74",
+        "author": "Pennington",
+        "year": "2003",
+        "journal-title": "Child Development",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/1467-8624.00522"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0195",
+        "first-page": "429",
+        "article-title": "Matching variables for research involving youth with Down syndrome: Leiter-R versus PPVT-4",
+        "volume": "35",
+        "author": "Phillips",
+        "year": "2014",
+        "journal-title": "Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ridd.2013.11.016"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0200",
+        "first-page": "599",
+        "article-title": "The development of route learning in Down syndrome, Williams syndrome and typical development: Investigation with virtual environments",
+        "volume": "18",
+        "author": "Purser",
+        "year": "2015",
+        "journal-title": "Developmental Science",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/desc.12236"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0205",
+        "first-page": "219",
+        "article-title": "The mental-cutting test Schnitte and the Picture-Rotation-Test – Two new measures to assess spatial ability",
+        "volume": "3",
+        "author": "Quaiser-Pohl",
+        "year": "2003",
+        "journal-title": "International Journal of Testing",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1207/S15327574IJT0303_2"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0210",
+        "author": "Raven",
+        "year": "1992",
+        "series-title": "Manual for Raven’s Progressive Matrices"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0215",
+        "first-page": "23",
+        "article-title": "Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures",
+        "volume": "8",
+        "author": "Schermelleh-Engel",
+        "year": "2003",
+        "journal-title": "Methods of Psychological Research Online"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0220",
+        "first-page": "228",
+        "article-title": "Down syndrome: Cognitive phenotype",
+        "volume": "13",
+        "author": "Silverman",
+        "year": "2007",
+        "journal-title": "Mental Retardation and Developmental Disabilities Research Reviews",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/mrdd.20156"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0225",
+        "author": "Stan Development Team",
+        "year": "2016",
+        "series-title": "Stan modeling language users guide and reference manual, version 2.15.0"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0230",
+        "author": "Stella",
+        "year": "2000",
+        "series-title": "Peabody test di vocabolario recettivo"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0235",
+        "first-page": "837",
+        "article-title": "Spatial sequence memory and spatial error monitoring in the Groton Maze Learning Task (GMLT): A validation study of GMLT sub-measures in healthy children",
+        "volume": "22",
+        "author": "Thomas",
+        "year": "2015",
+        "journal-title": "Child Neuropsychology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/09297049.2015.1038989"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0240",
+        "author": "Thurstone",
+        "year": "1949",
+        "series-title": "Examiner manual for the SRA primary mental abilities test"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0245",
+        "first-page": "352",
+        "article-title": "The malleability of spatial skills: A meta-analysis of training studies",
+        "volume": "139",
+        "author": "Uttal",
+        "year": "2013",
+        "journal-title": "Psychological Bulletin",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/a0028446"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0250",
+        "first-page": "126",
+        "article-title": "Evidence from two genetic syndromes for the independence of spatial and visual working memory",
+        "volume": "48",
+        "author": "Vicari",
+        "year": "2006",
+        "journal-title": "Developmental Medicine & Child Neurology",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0012162206000272"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0255",
+        "first-page": "3571",
+        "article-title": "Asymptotic equivalence of Bayes cross validation and widely applicable information criterion in singular learning theory",
+        "volume": "11",
+        "author": "Watanabe",
+        "year": "2010",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0260",
+        "first-page": "669",
+        "article-title": "Variations in cognitive maps: Understanding individual differences in navigation",
+        "volume": "40",
+        "author": "Weisberg",
+        "year": "2014",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "10.1016/j.ridd.2017.10.019_bib0265",
+        "first-page": "1473",
+        "article-title": "Visuo-spatial ability in individuals with Down syndrome: Is it really a strength?",
+        "volume": "35",
+        "author": "Yang",
+        "year": "2014",
+        "journal-title": "Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ridd.2014.04.002"
+      }
+    ],
+    "container-title": "Research in Developmental Disabilities",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891422217302755?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891422217302755?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2020, 10, 21]
+      ],
+      "date-time": "2020-10-21T04:14:28Z",
+      "timestamp": 1603253668000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0891422217302755"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2018, 1]
+      ]
+    },
+    "references-count": 53,
+    "alternative-id": "S0891422217302755",
+    "URL": "https://doi.org/10.1016/j.ridd.2017.10.019",
+    "relation": {},
+    "ISSN": "0891-4222",
+    "issn-type": [
+      {
+        "value": "0891-4222",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2018, 1]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Mental rotation ability and everyday-life spatial activities in individuals with Down syndrome",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Research in Developmental Disabilities",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ridd.2017.10.019",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

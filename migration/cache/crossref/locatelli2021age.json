@@ -1,0 +1,1173 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 3]
+      ],
+      "date-time": "2026-06-03T04:21:37Z",
+      "timestamp": 1780460497349,
+      "version": "3.54.1"
+    },
+    "reference-count": 70,
+    "publisher": "MDPI AG",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2021, 5, 18]
+          ],
+          "date-time": "2021-05-18T00:00:00Z",
+          "timestamp": 1621296000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Brain Sciences",
+    "abstract": "<jats:p>Down Syndrome (DS) is the most common genetic alteration responsible for intellectual disability, which refers to deficits in both intellectual and adaptive functioning. According to this, individuals with Down Syndrome (DS) reach developmental milestones (e.g., sitting, walking, and babbling) in the same order as their typically developing peers, but later in life. Since developmental milestones are the first blocks on which development builds, the aims of the current study are to: (i) expand the knowledge of developmental milestone acquisition; and (ii) explore the relationship between developmental milestone acquisition and later development. For this purpose 105 children/adolescents with DS were involved in this study, divided in two groups, Preschoolers (n = 39) and School-age participants (n = 66). Information on the age of acquisition of Sitting, Walking, Babbling, and Sphincter Control was collected, together with cognitive, motor, and adaptive functioning. Sitting predicted later motor development, but, with age, it became less important in predicting motor development in everyday life. Babbling predicted later language development in older children. Finally, Sphincter Control emerged as the strongest predictor of motor, cognitive, language, and adaptive skills, with its role being more evident with increasing age. Our data suggest that the age of reaching the milestones considered in the study has an influence on successive development, a role that can be due to common neural substrates, the environment, and the developmental cascade effect.<\/jats:p>",
+    "DOI": "10.3390/brainsci11050655",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2021, 5, 18]
+      ],
+      "date-time": "2021-05-18T06:01:33Z",
+      "timestamp": 1621317693000
+    },
+    "page": "655",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": "Is the Age of Developmental Milestones a Predictor for Future Development in Down Syndrome?",
+    "prefix": "10.3390",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Locatelli",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sara",
+        "family": "Onnivello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental Psychology and Socialization, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0002-6565-7500",
+        "authenticated-orcid": false
+      },
+      {
+        "given": "Francesca",
+        "family": "Antonaros",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Agnese",
+        "family": "Feliciello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sonia",
+        "family": "Filoni",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          },
+          {
+            "name": "Specialisation School in Anesthesia, Intensive Care and Pain Care, University of Modena and Reggio Emilia, Largo del Pozzo, 71, 41125 Modena, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sara",
+        "family": "Rossi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesca",
+        "family": "Pulina",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental Psychology and Socialization, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chiara",
+        "family": "Marcolin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental Psychology and Socialization, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renzo",
+        "family": "Vianello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental Psychology and Socialization, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppe",
+        "family": "Ramacieri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Martelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giulia",
+        "family": "Procaccini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Sperti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IRCCS, St. Orsola-Malpighi Polyclinic, via Massarenti 11, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Caracausi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0001-8957-8391",
+        "authenticated-orcid": false
+      },
+      {
+        "given": "Maria Chiara",
+        "family": "Pelleri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lorenza",
+        "family": "Vitale",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gian Luca",
+        "family": "Pirazzoli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Medical Department, Maggiore Hospital, Largo Nigrisoli 2, 40133 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pierluigi",
+        "family": "Strippoli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guido",
+        "family": "Cocchi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Neonatology Unit, St. Orsola-Malpighi Polyclinic, Department of Medical and Surgical Sciences (DIMEC), University of Bologna, via Massarenti 9, 40138 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allison",
+        "family": "Piovesan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Unit of Histology, Embryology and Applied Biology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, via Belmeloro 8, 40126 Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvia",
+        "family": "Lanfranchi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental Psychology and Socialization, University of Padova, via Venezia 8, 35131 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ],
+        "ORCID": "https://orcid.org/0000-0003-2470-6019",
+        "authenticated-orcid": false
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [2021, 5, 18]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "first-page": "602",
+        "article-title": "Human Chromosomes in Tissue Cultures",
+        "volume": "248",
+        "author": "Lejeune",
+        "year": "1959",
+        "journal-title": "C. R. Hebd. Seances Acad. Sci."
+      },
+      {
+        "key": "ref_2",
+        "first-page": "e797",
+        "article-title": "Partial Trisomy 21 Map: Ten Cases Further Supporting the Highly Restricted Down Syndrome Critical Region (HR-DSCR) on Human Chromosome 21",
+        "volume": "7",
+        "author": "Pelleri",
+        "year": "2019",
+        "journal-title": "Mol. Genet. Genom. Med.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/mgg3.797"
+      },
+      {
+        "key": "ref_3",
+        "unstructured": "American Psychiatric Pub (2013). Diagnostic and Statistical Manual of Mental Disorders (DSM-5®), American Psychiatric Pub."
+      },
+      {
+        "key": "ref_4",
+        "first-page": "355",
+        "article-title": "Motor Development and Neuropsychological Patterns in Persons with Down Syndrome",
+        "volume": "36",
+        "author": "Vicari",
+        "year": "2006",
+        "journal-title": "Behav. Genet.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s10519-006-9057-8"
+      },
+      {
+        "key": "ref_5",
+        "first-page": "83",
+        "article-title": "Early Intervention in Down Syndrome: Targeting the Emerging Behavioral Phenotype",
+        "volume": "16",
+        "author": "Fidler",
+        "year": "2009",
+        "journal-title": "Perspect. Lang. Learn. Educ.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1044/lle16.3.83"
+      },
+      {
+        "key": "ref_6",
+        "first-page": "59",
+        "article-title": "Growth Retardation in Down Syndrome in Relation to Insulin-like Growth Factors and Growth Hormone",
+        "volume": "37",
+        "author": "Gustavson",
+        "year": "1990",
+        "journal-title": "Am. J. Med. Genet."
+      },
+      {
+        "key": "ref_7",
+        "first-page": "14943",
+        "article-title": "Down Syndrome: From Understanding the Neurobiology to Therapy",
+        "volume": "30",
+        "author": "Gardiner",
+        "year": "2010",
+        "journal-title": "J. Neurosci.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1523/JNEUROSCI.3728-10.2010"
+      },
+      {
+        "key": "ref_8",
+        "first-page": "391",
+        "article-title": "Genotype-Phenotype Correlation for Congenital Heart Disease in down Syndrome through Analysis of Partial Trisomy 21 Cases",
+        "volume": "109",
+        "author": "Pelleri",
+        "year": "2017",
+        "journal-title": "Genomics",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ygeno.2017.06.004"
+      },
+      {
+        "key": "ref_9",
+        "first-page": "1281",
+        "article-title": "Down’s Syndrome",
+        "volume": "361",
+        "author": "Roizen",
+        "year": "2003",
+        "journal-title": "Lancet",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0140-6736(03)12987-X"
+      },
+      {
+        "key": "ref_10",
+        "first-page": "e00010",
+        "article-title": "An Integrated Route to Identifying New Pathogenesis-Based Therapeutic Approaches for Trisomy 21 (Down Syndrome) Following the Thought of Jérôme Lejeune",
+        "volume": "1",
+        "author": "Strippoli",
+        "year": "2013",
+        "journal-title": "Sci. Postprint",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.14340/spp.2013.12R0005"
+      },
+      {
+        "key": "ref_11",
+        "first-page": "1",
+        "article-title": "Genetics and Genomics of Down Syndrome",
+        "volume": "Volume 56",
+        "author": "Strippoli",
+        "year": "2019",
+        "journal-title": "International Review of Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/bs.irrdd.2019.06.001"
+      },
+      {
+        "key": "ref_12",
+        "unstructured": "Vianello, R., Lanfranchi, S., and Moalli, E. (2006). La Sindrome Di Down, Edizioni Junior."
+      },
+      {
+        "key": "ref_13",
+        "first-page": "67",
+        "article-title": "Cognitive Profiles in Individuals with Down Syndrome",
+        "volume": "Volume 56",
+        "author": "Pulina",
+        "year": "2019",
+        "journal-title": "International Review of Research in Developmental Disabilities",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/bs.irrdd.2019.06.002"
+      },
+      {
+        "key": "ref_14",
+        "first-page": "456",
+        "article-title": "Verbal and Visuospatial Working Memory Deficits in Children with Down Syndrome",
+        "volume": "109",
+        "author": "Lanfranchi",
+        "year": "2004",
+        "journal-title": "Am. J. Ment. Retard.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1352/0895-8017(2004)109<456:VAVWMD>2.0.CO;2"
+      },
+      {
+        "key": "ref_15",
+        "first-page": "257",
+        "article-title": "Cognitive Functioning in Children with Down Syndrome: Current Knowledge and Future Directions",
+        "volume": "56",
+        "author": "Lukowski",
+        "year": "2019",
+        "journal-title": "Adv. Child. Dev. Behav.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/bs.acdb.2019.01.002"
+      },
+      {
+        "key": "ref_16",
+        "first-page": "358",
+        "article-title": "Adaptive Behavior in Infants and Toddlers with Down Syndrome and Fragile X Syndrome",
+        "volume": "177",
+        "author": "Will",
+        "year": "2018",
+        "journal-title": "Am. J. Med. Genet. Part B Neuropsychiatr. Genet.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/ajmg.b.32619"
+      },
+      {
+        "key": "ref_17",
+        "first-page": "85",
+        "article-title": "Adaptive Behavior in Adolescents and Adults with Down Syndrome: Results from a 6-month Longitudinal Study",
+        "volume": "179",
+        "author": "Spiridigliozzi",
+        "year": "2019",
+        "journal-title": "Am. J. Med. Genet. Part A",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/ajmg.a.60685"
+      },
+      {
+        "key": "ref_18",
+        "first-page": "943",
+        "article-title": "The Development of Adaptive Skills in Young People with Down Syndrome",
+        "volume": "54",
+        "author": "Dijkxhoorn",
+        "year": "2010",
+        "journal-title": "J. Intellect. Disabil. Res.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/j.1365-2788.2010.01316.x"
+      },
+      {
+        "key": "ref_19",
+        "first-page": "86",
+        "article-title": "The Emerging Down Syndrome Behavioral Phenotype in Early Childhood: Implications for Practice",
+        "volume": "18",
+        "author": "Fidler",
+        "year": "2005",
+        "journal-title": "Infants Young Child.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/00001163-200504000-00003"
+      },
+      {
+        "key": "ref_20",
+        "first-page": "1514",
+        "article-title": "Description of the Motor Development of 3–12 Month Old Infants with Down Syndrome: The Influence of the Postural Body Position",
+        "volume": "32",
+        "author": "Tudella",
+        "year": "2011",
+        "journal-title": "Res. Dev. Disabil.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ridd.2011.01.046"
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.12688/f1000research.7506.1",
+        "unstructured": "Karmiloff-Smith, A., Al-Janabi, T., D’Souza, H., Groet, J., Massand, E., Mok, K., Startin, C., Fisher, E., Hardy, J., and Nizetic, D. (2016). The Importance of Understanding Individual Differences in Down Syndrome. F1000Research, 5."
+      },
+      {
+        "key": "ref_22",
+        "first-page": "2525",
+        "article-title": "Systematic Reanalysis of Partial Trisomy 21 Cases with or without Down Syndrome Suggests a Small Region on 21q22. 13 as Critical to the Phenotype",
+        "volume": "25",
+        "author": "Pelleri",
+        "year": "2016",
+        "journal-title": "Hum. Mol. Genet."
+      },
+      {
+        "key": "ref_23",
+        "first-page": "296",
+        "article-title": "Family Factors in the Early Development of Children with Down Syndrome",
+        "volume": "25",
+        "author": "Maes",
+        "year": "2003",
+        "journal-title": "J. Early Interv.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/105381510302500405"
+      },
+      {
+        "key": "ref_24",
+        "first-page": "311",
+        "article-title": "Expressive Vocabulary Development in Children with Down Syndrome: A Longitudinal Study",
+        "volume": "14",
+        "author": "Volman",
+        "year": "2017",
+        "journal-title": "J. Policy Pract. Intellect. Disabil.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/jppi.12212"
+      },
+      {
+        "key": "ref_25",
+        "first-page": "174",
+        "article-title": "Gesture Production and Language Development: A Longitudinal Study of Children with Down Syndrome",
+        "volume": "11",
+        "author": "Zampini",
+        "year": "2011",
+        "journal-title": "Gesture",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1075/gest.11.2.04zam"
+      },
+      {
+        "key": "ref_26",
+        "first-page": "26",
+        "article-title": "Language and Communication Development in Down Syndrome",
+        "volume": "13",
+        "author": "Roberts",
+        "year": "2007",
+        "journal-title": "Ment. Retard. Dev. Disabil. Res. Rev.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/mrdd.20136"
+      },
+      {
+        "key": "ref_27",
+        "first-page": "106",
+        "article-title": "Pathways to Language: A Naturalistic Study of Children with Williams Syndrome and Children with Down Syndrome",
+        "volume": "40",
+        "author": "Levy",
+        "year": "2013",
+        "journal-title": "J. Child. Lang.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0305000912000475"
+      },
+      {
+        "key": "ref_28",
+        "first-page": "97",
+        "article-title": "Motor and Cognitive Developmental Profiles in Children with Down Syndrome",
+        "volume": "41",
+        "author": "Kim",
+        "year": "2017",
+        "journal-title": "Ann. Rehabil. Med.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.5535/arm.2017.41.1.97"
+      },
+      {
+        "key": "ref_29",
+        "first-page": "346",
+        "article-title": "A Schedule of Gross Motor Development for Children with Down Syndrome",
+        "volume": "63",
+        "author": "Winders",
+        "year": "2019",
+        "journal-title": "J. Intellect. Disabil. Res.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/jir.12580"
+      },
+      {
+        "key": "ref_30",
+        "first-page": "719",
+        "article-title": "Fine Motor and Self-care Milestones for Individuals with D Own Syndrome Using a R Etrospective C Hart R Eview",
+        "volume": "59",
+        "author": "Frank",
+        "year": "2015",
+        "journal-title": "J. Intellect. Disabil. Res.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/jir.12176"
+      },
+      {
+        "key": "ref_31",
+        "first-page": "621",
+        "article-title": "Functional Performance in Children with Down Syndrome",
+        "volume": "58",
+        "author": "Dolva",
+        "year": "2004",
+        "journal-title": "Am. J. Occup. Ther.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.5014/ajot.58.6.621"
+      },
+      {
+        "key": "ref_32",
+        "first-page": "668",
+        "article-title": "The Role of Early Fine and Gross Motor Development on Later Motor and Cognitive Ability",
+        "volume": "27",
+        "author": "Piek",
+        "year": "2008",
+        "journal-title": "Hum. Mov. Sci.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.humov.2007.11.002"
+      },
+      {
+        "key": "ref_33",
+        "first-page": "1906",
+        "article-title": "Physically Developed and Exploratory Young Infants Contribute to Their Own Long-Term Academic Achievement",
+        "volume": "24",
+        "author": "Bornstein",
+        "year": "2013",
+        "journal-title": "Psychol. Sci.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/0956797613479974"
+      },
+      {
+        "key": "ref_34",
+        "first-page": "25",
+        "article-title": "Infant Motor Development Is Associated with Adult Cognitive Categorisation in a Longitudinal Birth Cohort Study",
+        "volume": "47",
+        "author": "Murray",
+        "year": "2006",
+        "journal-title": "J. Child. Psychol. Psychiatry",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/j.1469-7610.2005.01450.x"
+      },
+      {
+        "key": "ref_35",
+        "first-page": "680",
+        "article-title": "Association of Reading Problems with Speech and Motor Development: Results from a British 1946 Birth Cohort",
+        "volume": "52",
+        "author": "Gaysina",
+        "year": "2010",
+        "journal-title": "Dev. Med. Child. Neurol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/j.1469-8749.2010.03649.x"
+      },
+      {
+        "key": "ref_36",
+        "first-page": "336",
+        "article-title": "Infant Language Development Is Related to the Acquisition of Walking",
+        "volume": "50",
+        "author": "Walle",
+        "year": "2014",
+        "journal-title": "Dev. Psychol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/a0033238"
+      },
+      {
+        "key": "ref_37",
+        "first-page": "367",
+        "article-title": "Early Motor Development and Later Language and Reading Skills in Children at Risk of Familial Dyslexia",
+        "volume": "48",
+        "author": "Viholainen",
+        "year": "2006",
+        "journal-title": "Dev. Med. Child. Neurol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S001216220600079X"
+      },
+      {
+        "key": "ref_38",
+        "first-page": "15",
+        "article-title": "Learning to Walk Changes Infants’ Social Interactions",
+        "volume": "34",
+        "author": "Clearfield",
+        "year": "2011",
+        "journal-title": "Infant Behav. Dev.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.infbeh.2010.04.008"
+      },
+      {
+        "key": "ref_39",
+        "first-page": "960",
+        "article-title": "Infant Social Development across the Transition from Crawling to Walking",
+        "volume": "7",
+        "author": "Walle",
+        "year": "2016",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2016.00960"
+      },
+      {
+        "key": "ref_40",
+        "first-page": "111",
+        "article-title": "Canonical Babbling: A Marker for Earlier Identification of Late Detected Developmental Disorders?",
+        "volume": "6",
+        "author": "Lang",
+        "year": "2019",
+        "journal-title": "Curr. Dev. Disord. Rep.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s40474-019-00166-w"
+      },
+      {
+        "key": "ref_41",
+        "first-page": "935",
+        "article-title": "Observation Method Identifies That a Lack of Canonical Babbling Can Indicate Future Speech and Language Problems",
+        "volume": "106",
+        "author": "Lohmander",
+        "year": "2017",
+        "journal-title": "Acta Paediatr.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/apa.13816"
+      },
+      {
+        "key": "ref_42",
+        "first-page": "320",
+        "article-title": "Motor and Cognitive Development of Children with Down Syndrome: The Effect of Acquisition of Walking Skills on Their Cognitive and Language Abilities",
+        "volume": "41",
+        "author": "Yamauchi",
+        "year": "2019",
+        "journal-title": "Brain Dev.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.braindev.2018.11.008"
+      },
+      {
+        "key": "ref_43",
+        "first-page": "140",
+        "article-title": "Exploratory Behavior and Developmental Skill Acquisition in Infants with Down Syndrome",
+        "volume": "54",
+        "author": "Fidler",
+        "year": "2019",
+        "journal-title": "Infant Behav. Dev.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.infbeh.2019.02.002"
+      },
+      {
+        "key": "ref_44",
+        "first-page": "803",
+        "article-title": "Motor Skills, Cognitive Development and Balance Functions of Children with Down Syndrome",
+        "volume": "20",
+        "author": "Malak",
+        "year": "2013",
+        "journal-title": "Ann. Agric. Environ. Med."
+      },
+      {
+        "key": "ref_45",
+        "first-page": "68",
+        "article-title": "Onset of Speech-like Vocalizations in Infants with Down Syndrome",
+        "volume": "100",
+        "author": "Lynch",
+        "year": "1995",
+        "journal-title": "Am. J. Ment. Retard."
+      },
+      {
+        "key": "ref_46",
+        "first-page": "456",
+        "article-title": "Relations of Motor and Vocal Milestones in Typically Developing Infants and Infants with Down Syndrome",
+        "volume": "100",
+        "author": "Oller",
+        "year": "1996",
+        "journal-title": "Am. J. Ment. Retard. AJMR"
+      },
+      {
+        "key": "ref_47",
+        "unstructured": "Green, E., Stroud, L., Bloomfield, S., Cronje, J., Foxcroft, C., Hunter, K., and Venter, D. (2016). Griffiths Scales of Child Development, Hogrefe Ltd."
+      },
+      {
+        "key": "ref_48",
+        "first-page": "1",
+        "article-title": "Plasma Metabolome and Cognitive Skills in Down Syndrome",
+        "volume": "10",
+        "author": "Antonaros",
+        "year": "2020",
+        "journal-title": "Sci. Rep.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-020-67195-z"
+      },
+      {
+        "key": "ref_49",
+        "first-page": "1",
+        "article-title": "One-Carbon Pathway and Cognitive Skills in Children with Down Syndrome",
+        "volume": "11",
+        "author": "Antonaros",
+        "year": "2021",
+        "journal-title": "Sci. Rep.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-021-83379-7"
+      },
+      {
+        "key": "ref_50",
+        "unstructured": "Wechsler, D. (2012). Wechsler Preschool and Primary Scale of Intelligence, Psychological Corporation. [4th ed.]."
+      },
+      {
+        "key": "ref_51",
+        "unstructured": "Alpern, G.D. (2007). Developmental Profile 3 (DP-3), Western Psychological Services."
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/t15164-000",
+        "unstructured": "Sparrow, S.S., Cicchetti, D.V., and Balla, D.A. (2005). Vineland Adaptive Behavior Scales, AGS Publishing. [2nd ed.]."
+      },
+      {
+        "key": "ref_53",
+        "unstructured": "R Core Team (2020). R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing. Available online: https//www.R-project.org/."
+      },
+      {
+        "key": "ref_54",
+        "first-page": "461",
+        "article-title": "Estimating the Dimension of a Model",
+        "volume": "6",
+        "author": "Schwarz",
+        "year": "1978",
+        "journal-title": "Ann. Stat.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1214/aos/1176344136"
+      },
+      {
+        "key": "ref_55",
+        "first-page": "128",
+        "article-title": "Bayes Factor Design Analysis: Planning for Compelling Evidence",
+        "volume": "25",
+        "author": "Wagenmakers",
+        "year": "2018",
+        "journal-title": "Psychon. Bull. Rev.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3758/s13423-017-1230-y"
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9781139087759",
+        "unstructured": "Lee, M.D., and Wagenmakers, E.-J. (2014). Bayesian Cognitive Modeling: A Practical Course, Cambridge University Press."
+      },
+      {
+        "key": "ref_57",
+        "first-page": "111",
+        "article-title": "Bayesian Model Selection in Social Research",
+        "volume": "25",
+        "author": "Raftery",
+        "year": "1995",
+        "journal-title": "Sociol. Methodol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/271063"
+      },
+      {
+        "key": "ref_58",
+        "first-page": "181",
+        "article-title": "Cognitive Development and Down Syndrome: Age-Related Change on the Stanford-Binet Test",
+        "volume": "116",
+        "author": "Couzens",
+        "year": "2011",
+        "journal-title": "Am. J. Intellect. Dev. Disabil.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1352/1944-7558-116.3.181"
+      },
+      {
+        "key": "ref_59",
+        "first-page": "229",
+        "article-title": "Developing Language in a Developing Body: The Relationship between Motor Development and Language Development",
+        "volume": "37",
+        "author": "Iverson",
+        "year": "2010",
+        "journal-title": "J. Child. Lang.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0305000909990432"
+      },
+      {
+        "key": "ref_60",
+        "first-page": "475",
+        "article-title": "Sit to Talk: Relation between Motor Skills and Language Development in Infancy",
+        "volume": "7",
+        "author": "Libertus",
+        "year": "2016",
+        "journal-title": "Front. Psychol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2016.00475"
+      },
+      {
+        "key": "ref_61",
+        "first-page": "869",
+        "article-title": "Motor Development in 3-month-old Healthy Term-born Infants Is Associated with Cognitive and Behavioural Outcomes at Early School Age",
+        "volume": "56",
+        "author": "Hitzert",
+        "year": "2014",
+        "journal-title": "Dev. Med. Child. Neurol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/dmcn.12468"
+      },
+      {
+        "key": "ref_62",
+        "first-page": "326",
+        "article-title": "Early Infant Neuromotor Assessment Is Associated with Language and Nonverbal Cognitive Function in Toddlers: The Generation R Study",
+        "volume": "34",
+        "author": "Henrichs",
+        "year": "2013",
+        "journal-title": "J. Dev. Behav. Pediatr.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/DBP.0b013e3182961e80"
+      },
+      {
+        "key": "ref_63",
+        "first-page": "453",
+        "article-title": "The Neural Control of Micturition",
+        "volume": "9",
+        "author": "Fowler",
+        "year": "2008",
+        "journal-title": "Nat. Rev. Neurosci.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/nrn2401"
+      },
+      {
+        "key": "ref_64",
+        "first-page": "G304",
+        "article-title": "Cerebral Cortical Representation of External Anal Sphincter Contraction: Effect of Effort",
+        "volume": "286",
+        "author": "Kern",
+        "year": "2004",
+        "journal-title": "Am. J. Physiol. Liver Physiol."
+      },
+      {
+        "key": "ref_65",
+        "first-page": "303",
+        "article-title": "Profiles of Everyday Executive Functioning in Young Children with Down Syndrome",
+        "volume": "119",
+        "author": "Daunhauer",
+        "year": "2014",
+        "journal-title": "Am. J. Intellect. Dev. Disabil.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1352/1944-7558-119.4.303"
+      },
+      {
+        "key": "ref_66",
+        "first-page": "41",
+        "article-title": "Adaptive Behaviour, Executive Function and Employment in Adults with Down Syndrome",
+        "volume": "62",
+        "author": "Tomaszewski",
+        "year": "2018",
+        "journal-title": "J. Intellect. Disabil. Res.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/jir.12450"
+      },
+      {
+        "key": "ref_67",
+        "unstructured": "Bettison, S. (1982). Toilet Training to Independence for the Handicapped: A Manual for Trainers, Charles C Thomas Pub Limited."
+      },
+      {
+        "key": "ref_68",
+        "first-page": "98",
+        "article-title": "Intensive Outpatient Behavioral Treatment of Primary Urinary Incontinence of Children with Autism",
+        "volume": "20",
+        "author": "LeBlanc",
+        "year": "2005",
+        "journal-title": "Focus Autism Other Dev. Disabl.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/10883576050200020601"
+      },
+      {
+        "key": "ref_69",
+        "first-page": "1325",
+        "article-title": "Early intervention toilet training for children with Down syndrome",
+        "volume": "29",
+        "author": "Rogers",
+        "year": "2020",
+        "journal-title": "Br. J. Nurs.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.12968/bjon.2020.29.22.1325"
+      },
+      {
+        "key": "ref_70",
+        "first-page": "304",
+        "article-title": "Reliability of parental recall of developmental milestones",
+        "volume": "10",
+        "author": "Mainemer",
+        "year": "1994",
+        "journal-title": "Pediatr. Neurol.",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/0887-8994(94)90126-0"
+      }
+    ],
+    "container-title": "Brain Sciences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-3425/11/5/655/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 11]
+      ],
+      "date-time": "2025-10-11T06:03:04Z",
+      "timestamp": 1760162584000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2076-3425/11/5/655"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2021, 5, 18]
+      ]
+    },
+    "references-count": 70,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [2021, 5]
+        ]
+      }
+    },
+    "alternative-id": "brainsci11050655",
+    "URL": "https://doi.org/10.3390/brainsci11050655",
+    "relation": {},
+    "ISSN": "2076-3425",
+    "issn-type": [
+      {
+        "value": "2076-3425",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2021, 5, 18]
+      ]
+    }
+  }
+}

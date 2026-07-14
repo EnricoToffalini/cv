@@ -1,0 +1,30 @@
+schema_version: "1.0.0"
+migration_date: "2026-07-14"
+source:
+  original_path: "_CV_2026_Toffalini.pdf"
+  preserved_copy: "source/CV_2026_Toffalini.pdf"
+  original_preserved: true
+  byte_size: 450304
+  sha256: "FC1C1593BCFABD289F66E73263E05A33649BE6DB3384338ACD387C3DCEF1B9A9"
+  copy_sha256: "FC1C1593BCFABD289F66E73263E05A33649BE6DB3384338ACD387C3DCEF1B9A9"
+  pages: 19
+  page_size: "A4 (595.32 x 841.92 pt)"
+  pdf_version: "1.7"
+  tagged: true
+  encrypted: false
+  creator: "Microsoft Word for Microsoft 365"
+  created_at: "2026-02-14 09:24:06 Europe/Rome"
+  source_last_updated: "2026-02-14"
+extraction:
+  method: "pdftotext; OCR not used"
+  encoding: "UTF-8"
+  page_boundaries: "form-feed characters retained"
+  layout_preserved: "migration/extracted-layout.txt"
+  plain_text: "migration/extracted-plain.txt"
+environment:
+  quarto: "1.7.32"
+  r_pipeline: "4.5.1"
+  r_registry_default: "4.3.2 (not used because required packages are absent)"
+  tinytex: "2025"
+  pdf_tools: "MiKTeX pdftotext/pdfinfo"
+  pdf_engine: "LuaLaTeX"

@@ -1,0 +1,508 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 2, 20]
+      ],
+      "date-time": "2026-02-20T17:12:44Z",
+      "timestamp": 1771607564312,
+      "version": "3.50.1"
+    },
+    "reference-count": 48,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "content-domain": {
+      "domain": "www.tandfonline.com",
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Cognition and Emotion",
+    "published-print": {
+      "date-parts": [
+        [2017, 1, 2]
+      ]
+    },
+    "DOI": "10.1080/02699931.2015.1075379",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2015, 8, 28]
+      ],
+      "date-time": "2015-08-28T14:17:14Z",
+      "timestamp": 1440771434000
+    },
+    "page": "33-46",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": "Working memory affects false memory production for emotional events",
+    "prefix": "10.1080",
+    "volume": "31",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Mirandola",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alfonso",
+        "family": "Ciriello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padova, Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [2015, 8, 28]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "volume-title": "Working memory",
+        "author": "Baddeley A. D.",
+        "year": "1986"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-013-0293-x"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF03324690"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2007.09.008"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-7916(94)90063-9"
+      },
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2008.02177.x"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.112.2.284"
+      },
+      {
+        "key": "CIT0008",
+        "volume-title": "Theories of mood and cognition: A user's guidebook",
+        "author": "Clore G. L.",
+        "year": "2001",
+        "first-page": "27"
+      },
+      {
+        "key": "CIT0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/713755761"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00160"
+      },
+      {
+        "key": "CIT0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03203630"
+      },
+      {
+        "key": "CIT0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0017545"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03209405"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210701391634"
+      },
+      {
+        "key": "CIT0015",
+        "volume-title": "Variation in working memory",
+        "author": "Hasher L.",
+        "year": "2007",
+        "first-page": "227"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.544073"
+      },
+      {
+        "key": "CIT0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.783"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930244000480"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015621"
+      },
+      {
+        "key": "CIT0020",
+        "volume-title": "Emotional memory across the adult lifespan",
+        "author": "Kensinger E. A.",
+        "year": "2009"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195800"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.3.4.378"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2005.01.004"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193403"
+      },
+      {
+        "key": "CIT0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602011.2013.775065"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.20.4.554"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ridd.2013.11.004"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.795976"
+      },
+      {
+        "key": "CIT0050",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.130.3.466"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep01375"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930801976663"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03198531"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.27.2.328"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09541440600760396"
+      },
+      {
+        "key": "CIT0051",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210802154626"
+      },
+      {
+        "key": "CIT0034",
+        "author": "Roediger H. L.",
+        "year": "1995",
+        "first-page": "803",
+        "volume": "21",
+        "journal-title": "Journal of Experimental Psychology"
+      },
+      {
+        "key": "CIT0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196177"
+      },
+      {
+        "key": "CIT0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2005.11.003"
+      },
+      {
+        "key": "CIT0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0038039"
+      },
+      {
+        "key": "CIT0038",
+        "volume-title": "Questionario per la Valutazione della Psicopatologia in Adolescenza (Q-PAD) [Questionnaire for the assessment of psychopathology in adolescence]",
+        "author": "Sica C.",
+        "year": "2011"
+      },
+      {
+        "key": "CIT0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2012.741060"
+      },
+      {
+        "key": "CIT0052",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2015.03.004"
+      },
+      {
+        "key": "CIT0040",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2014.11.029"
+      },
+      {
+        "key": "CIT0041",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2014.02.042"
+      },
+      {
+        "key": "CIT0053",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.4.715"
+      },
+      {
+        "key": "CIT0054",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930802338178"
+      },
+      {
+        "key": "CIT0042",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.31.1.76"
+      },
+      {
+        "key": "CIT0043",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.487051"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1080/02699931.2015.1091159",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [2015, 9, 11]
+          ],
+          "date-time": "2015-09-11T00:00:00Z",
+          "timestamp": 1441929600000
+        }
+      }
+    ],
+    "container-title": "Cognition and Emotion",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/02699931.2015.1075379",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2020, 9, 6]
+      ],
+      "date-time": "2020-09-06T16:10:17Z",
+      "timestamp": 1599408617000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/02699931.2015.1075379"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2015, 8, 28]
+      ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [2017, 1, 2]
+        ]
+      }
+    },
+    "alternative-id": "10.1080/02699931.2015.1075379",
+    "URL": "https://doi.org/10.1080/02699931.2015.1075379",
+    "relation": {
+      "correction": [
+        {
+          "id-type": "doi",
+          "id": "10.1080/02699931.2015.1091159",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": ["0269-9931", "1464-0600"],
+    "issn-type": [
+      {
+        "value": "0269-9931",
+        "type": "print"
+      },
+      {
+        "value": "1464-0600",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2015, 8, 28]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement",
+        "group": {}
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pcem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pcem20",
+        "group": {}
+      },
+      {
+        "value": "2015-03-09",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2015-07-15",
+        "order": 1,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2015-07-16",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2015-08-28",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1174 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 28]
+      ],
+      "date-time": "2026-04-28T14:59:35Z",
+      "timestamp": 1777388375654,
+      "version": "3.51.4"
+    },
+    "reference-count": 73,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2020, 11, 4]
+          ],
+          "date-time": "2020-11-04T00:00:00Z",
+          "timestamp": 1604448000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2020, 11, 4]
+          ],
+          "date-time": "2020-11-04T00:00:00Z",
+          "timestamp": 1604448000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "publisher",
+        "award": "164480",
+        "award-info": [
+          {
+            "award-number": "164480"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003407",
+        "name": "Ministero dell’Istruzione, dell’Università e della Ricerca",
+        "doi-asserted-by": "publisher",
+        "award": "Dipartimenti di Eccellenza",
+        "award-info": [
+          {
+            "award-number": "Dipartimenti di Eccellenza"
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003407",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "crossref",
+        "award": null,
+        "award-info": null,
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": "link.springer.com",
+      "crossmark-restriction": false
+    },
+    "short-container-title": "Psychological Research",
+    "published-print": {
+      "date-parts": [
+        [2021, 10]
+      ]
+    },
+    "abstract": "<jats:title>Abstract<\/jats:title><jats:p>Can cognitive load enhance concentration on task-relevant information and help filter out distractors? Most of the prior research in the area of selective attention has focused on visual attention or cross-modal distraction and has yielded controversial results. Here, we studied whether working memory load can facilitate selective attention when both target and distractor stimuli are auditory. We used a letter <jats:italic>n<\/jats:italic>-back task with four levels of working memory load and two levels of distraction: congruent and incongruent distractors. This combination of updating and inhibition tasks allowed us to manipulate working memory load within the selective attention task. Participants sat in front of three loudspeakers and were asked to attend to the letter presented from the central loudspeaker while ignoring that presented from the flanking ones (spoken by a different person), which could be the same letter as the central one (congruent) or a different (incongruent) letter. Their task was to respond whether or not the central letter matched the letter presented <jats:italic>n<\/jats:italic> (0, 1, 2, or 3) trials back. Distraction was measured in terms of the difference in reaction time and accuracy on trials with incongruent versus congruent flankers. We found reduced interference from incongruent flankers in 2- and 3-back conditions compared to 0- and 1-back conditions, whereby higher working memory load almost negated the effect of incongruent flankers. These results suggest that high load on verbal working memory can facilitate inhibition of distractors in the auditory domain rather than make it more difficult as sometimes claimed.<\/jats:p>",
+    "DOI": "10.1007/s00426-020-01437-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2020, 11, 4]
+      ],
+      "date-time": "2020-11-04T16:02:47Z",
+      "timestamp": 1604505767000
+    },
+    "page": "2667-2681",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": "Auditory selective attention under working memory load",
+    "prefix": "10.1007",
+    "volume": "85",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1562-7573",
+        "authenticated-orcid": false,
+        "given": "Rena",
+        "family": "Bayramova",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2004-9341",
+        "authenticated-orcid": false,
+        "given": "Mario",
+        "family": "Bonato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3784-2784",
+        "authenticated-orcid": false,
+        "given": "Massimo",
+        "family": "Grassi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [2020, 11, 4]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1437_CR109",
+        "doi-asserted-by": "publisher",
+        "first-page": "716",
+        "DOI": "10.1109/TAC.1974.1100705",
+        "volume": "19",
+        "author": "H Akaike",
+        "year": "1974",
+        "unstructured": "Akaike, H. (1974). A new look at the statistical model identification. IEEE Transaction on Automatic Control, 19, 716–723. https://doi.org/10.1109/TAC.1974.1100705.",
+        "journal-title": "IEEE Transaction on Automatic Control"
+      },
+      {
+        "key": "1437_CR102",
+        "first-page": "47",
+        "author": "AD Baddeley",
+        "year": "1974",
+        "unstructured": "Baddeley, A. D., & Hitch, G. J. (1974). Working memory.  In G. Bower (Ed.), The psychology of learning and motivation: advances in research and theory (Vol. 8, pp. 47–89). New York: Academic Press.",
+        "volume-title": "The psychology of learning and motivation: advances in research and theory"
+      },
+      {
+        "key": "1437_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "354",
+        "DOI": "10.3389/fnagi.2017.00354",
+        "volume": "9",
+        "author": "S Ballesteros",
+        "year": "2017",
+        "unstructured": "Ballesteros, S., Mayas, J., Prieto, A., Ruiz-Marquez, E., Toril, P., & Reales, J. M. (2017). Effects of video game training on measures of selective attention and working memory in older adults: Results from a randomized controlled trial. Frontiers in Aging Neuroscience, 9, 354. https://doi.org/10.3389/fnagi.2017.00354.",
+        "journal-title": "Frontiers in Aging Neuroscience"
+      },
+      {
+        "key": "1437_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1106",
+        "DOI": "10.1037/0278-7393.30.5.1106",
+        "volume": "30",
+        "author": "CP Beaman",
+        "year": "2004",
+        "unstructured": "Beaman, C. P. (2004). The irrelevant sound phenomenon revisited: What role for working memory capacity? Journal of Experimental Psychology. Learning, Memory, and Cognition, 30(5), 1106–1118. https://doi.org/10.1037/0278-7393.30.5.1106.",
+        "journal-title": "Journal of Experimental Psychology. Learning, Memory, and Cognition",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1119",
+        "DOI": "10.1046/j.1460-9568.2003.02527.x",
+        "volume": "17",
+        "author": "S Berti",
+        "year": "2003",
+        "unstructured": "Berti, S., & Schröger, E. (2003). Working memory controls involuntary attention switching: Evidence from an auditory distraction paradigm. European Journal of Neuroscience, 17(5), 1119–1122. https://doi.org/10.1046/j.1460-9568.2003.02527.x.",
+        "journal-title": "European Journal of Neuroscience",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "680",
+        "DOI": "10.1017/S0140525X13000927",
+        "volume": "36",
+        "author": "M Bonato",
+        "year": "2013",
+        "unstructured": "Bonato, M., Umiltà, C., & Zorzi, M. (2013). Difficulty matters: Unspecific attentional demands as a major determinant of performance highlighted by clinical studies. Behavioural & Brain Sciences, 36, 680–681. https://doi.org/10.1017/S0140525X13000927.",
+        "journal-title": "Behavioural & Brain Sciences"
+      },
+      {
+        "key": "1437_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v080.i01",
+        "volume": "80",
+        "author": "PC Bürkner",
+        "year": "2017",
+        "unstructured": "Bürkner, P. C. (2017). brms: An R package for Bayesian multilevel models using Stan. Journal of Statistical Software, 80(1), 1–28. https://doi.org/10.18637/jss.v080.i01.",
+        "journal-title": "Journal of Statistical Software",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "23",
+        "DOI": "10.1007/s00265-010-1029-6",
+        "volume": "65",
+        "author": "KP Burnham",
+        "year": "2011",
+        "unstructured": "Burnham, K. P., Anderson, D. R., & Huyvaert, K. P. (2011). AIC model selection and multimodel inference in behavioral ecology: Some background, observations, and comparisons. Behavioral Ecology and Sociobiology, 65(1), 23–35. https://doi.org/10.1007/s00265-010-1029-6.",
+        "journal-title": "Behavioral Ecology and Sociobiology",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR8",
+        "first-page": "554",
+        "volume": "91",
+        "author": "JS Chan",
+        "year": "2005",
+        "unstructured": "Chan, J. S., Merrifield, K., & Spence, C. (2005). Auditory spatial attention assessed in a flanker interference task. Acta Acustica United with Acustica, 91(3), 554–563.",
+        "journal-title": "Acta Acustica United with Acustica",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.3758/BF03196169",
+        "volume": "8",
+        "author": "AR Conway",
+        "year": "2001",
+        "unstructured": "Conway, A. R., Cowan, N., & Bunting, M. F. (2001). The cocktail party phenomenon revisited: The importance of working memory capacity. Psychonomic Bulletin & Review, 8(2), 331–335. https://doi.org/10.3758/BF03196169.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1754",
+        "DOI": "10.3758/BF03195936",
+        "volume": "34",
+        "author": "N Cowan",
+        "year": "2006",
+        "unstructured": "Cowan, N., Fristoe, N. M., Elliott, E. M., Brunner, R. P., & Saults, J. S. (2006). Scope of attention, control of attention, and intelligence in children and adults. Memory & Cognition, 34(8), 1754–1768. https://doi.org/10.3758/BF03195936.",
+        "journal-title": "Memory & Cognition",
+        "issue": "8"
+      },
+      {
+        "key": "1437_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2126",
+        "DOI": "10.1080/17470210903023646",
+        "volume": "62",
+        "author": "P Dalton",
+        "year": "2009",
+        "unstructured": "Dalton, P., Santangelo, V., & Spence, C. (2009). The role of working memory in auditory selective attention. Quarterly Journal of Experimental Psychology, 62(11), 2126–2132. https://doi.org/10.1080/17470210903023646.",
+        "journal-title": "Quarterly Journal of Experimental Psychology",
+        "issue": "11"
+      },
+      {
+        "key": "1437_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1803",
+        "DOI": "10.1126/science.1056496",
+        "volume": "291",
+        "author": "JW De Fockert",
+        "year": "2001",
+        "unstructured": "De Fockert, J. W., Rees, G., Frith, C. D., & Lavie, N. (2001). The role of working memory in visual selective attention. Science, 291(5509), 1803–1806. https://doi.org/10.1126/science.1056496.",
+        "journal-title": "Science",
+        "issue": "5509"
+      },
+      {
+        "key": "1437_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1146/annurev-psych-113011-143750",
+        "volume": "64",
+        "author": "A Diamond",
+        "year": "2013",
+        "unstructured": "Diamond, A. (2013). Executive functions. Annual Review of Psychology, 64, 135–168. https://doi.org/10.1146/annurev-psych-113011-143750.",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "1437_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "618",
+        "DOI": "10.1037/a0024978",
+        "volume": "38",
+        "author": "K Dittrich",
+        "year": "2012",
+        "unstructured": "Dittrich, K., & Stahl, C. (2012). Selective impairment of auditory selective attention under concurrent cognitive load. Journal of Experimental Psychology: Human Perception and Performance, 38(3), 618–627. https://doi.org/10.1037/a0024978.",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "143",
+        "DOI": "10.3758/BF03203267",
+        "volume": "16",
+        "author": "BA Eriksen",
+        "year": "1974",
+        "unstructured": "Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143–149. https://doi.org/10.3758/BF03203267.",
+        "journal-title": "Perception & Psychophysics",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "590",
+        "DOI": "10.1162/089892998562997",
+        "volume": "10",
+        "author": "C Escera",
+        "year": "1998",
+        "unstructured": "Escera, C., Alho, K., Winkler, I., & Näätänen, R. (1998). Neural mechanisms of involuntary attention to acoustic novelty and change. Journal of Cognitive Neuroscience, 10(5), 590–604. https://doi.org/10.1162/089892998562997.",
+        "journal-title": "Journal of Cognitive Neuroscience",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "226",
+        "DOI": "10.3758/s13421-014-0461-7",
+        "volume": "43",
+        "author": "JL Foster",
+        "year": "2015",
+        "unstructured": "Foster, J. L., Shipstead, Z., Harrison, T. L., Hicks, K. L., Redick, T. S., & Engle, R. W. (2015). Shortened complex span tasks can reliably measure working memory capacity. Memory & Cognition, 43(2), 226–236. https://doi.org/10.3758/s13421-014-0461-7.",
+        "journal-title": "Memory & Cognition",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1037/0096-3445.133.1.101",
+        "volume": "133",
+        "author": "NP Friedman",
+        "year": "2004",
+        "unstructured": "Friedman, N. P., & Miyake, A. (2004). The relations among inhibition and interference cognitive functions: A latent variable analysis. Journal of Experimental Psychology: General, 133(1), 101–135. https://doi.org/10.1037/0096-3445.133.1.101.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "298",
+        "DOI": "10.1016/j.bandc.2010.08.009",
+        "volume": "74",
+        "author": "BGG Gil-Goméz De Liaño",
+        "year": "2010",
+        "unstructured": "Gil-Goméz De Liaño, B. G. G., Umiltà, C., Stablum, F., Tebaldi, F., & Cantagallo, A. (2010). Attentional distractor interference may be diminished by concurrent working memory load in normal participants and traumatic brain injury patients. Brain and Cognition, 74(3), 298–305. https://doi.org/10.1016/j.bandc.2010.08.009.",
+        "journal-title": "Brain and Cognition",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR105",
+        "doi-asserted-by": "publisher",
+        "first-page": "480",
+        "DOI": "10.1037//0096-3445.121.4.480",
+        "volume": "121",
+        "author": "G Gratton",
+        "year": "1992",
+        "unstructured": "Gratton, G., Coles, M. G., & Donchin, E. (1992). Optimizing the use of information: strategic control of activation of responses. Journal of Experimental Psychology: General, 121(4), 480. https://doi.org/10.1037//0096-3445.121.4.480.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/j.actpsy.2012.11.007",
+        "volume": "142",
+        "author": "MJ Guerreiro",
+        "year": "2013",
+        "unstructured": "Guerreiro, M. J., Murphy, D. R., & Van Gerven, P. W. (2013). Making sense of age-related distractibility: The critical role of sensory modality. Acta Psychologica, 142(2), 184–194. https://doi.org/10.1016/j.actpsy.2012.11.007.",
+        "journal-title": "Acta Psychologica",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "103013",
+        "DOI": "10.1016/j.actpsy.2020.103013",
+        "volume": "203",
+        "author": "I Güldenpenning",
+        "year": "2020",
+        "unstructured": "Güldenpenning, I., Kunde, W., & Weigelt, M. (2020). Cognitive load reduces interference by head fakes in basketball. Acta Psychologica, 203, 103013. https://doi.org/10.1016/j.actpsy.2020.103013.",
+        "journal-title": "Acta Psychologica"
+      },
+      {
+        "key": "1437_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "607",
+        "DOI": "10.1111/sjop.12246",
+        "volume": "56",
+        "author": "N Halin",
+        "year": "2015",
+        "unstructured": "Halin, N., Marsh, J. E., & Sörqvist, P. (2015). Central load reduces peripheral processing: Evidence from incidental memory of background speech. Scandinavian Journal of Psychology, 56(6), 607–612. https://doi.org/10.1111/sjop.12246.",
+        "journal-title": "Scandinavian Journal of Psychology",
+        "issue": "6"
+      },
+      {
+        "key": "1437_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "217",
+        "DOI": "10.1037/0096-3445.136.2.217",
+        "volume": "136",
+        "author": "RP Heitz",
+        "year": "2007",
+        "unstructured": "Heitz, R. P., & Engle, R. W. (2007). Focusing the spotlight: Individual differences in visual attention control. Journal of Experimental Psychology: General, 136(2), 217–240. https://doi.org/10.1037/0096-3445.136.2.217.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "e110989",
+        "DOI": "10.1371/journal.pone.0110989",
+        "volume": "9",
+        "author": "S Huang",
+        "year": "2014",
+        "unstructured": "Huang, S., Rossi, S., Hämäläinen, M., & Ahveninen, J. (2014). Auditory conflict resolution correlates with medial–lateral frontal theta/alpha phase synchrony. PLoS One, 9(10), e110989. https://doi.org/10.1371/journal.pone.0110989.",
+        "journal-title": "PLoS One",
+        "issue": "10"
+      },
+      {
+        "key": "1437_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "295",
+        "DOI": "10.1007/978-1-4419-1210-7_18",
+        "author": "M Ilkowska",
+        "year": "2010",
+        "unstructured": "Ilkowska, M., & Engle, R. W. (2010). Trait and state differences in working memory capacity. In A. Gruszka, G. Matthews, & B. Szymura (Eds.), Handbook of individual differences in cognition (pp. 295–320). New York: Springer. https://doi.org/10.1007/978-1-4419-1210-7_18.",
+        "volume-title": "Handbook of individual differences in cognition"
+      },
+      {
+        "key": "1437_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "614",
+        "DOI": "10.1177/0956797617706086",
+        "volume": "18",
+        "author": "MJ Kane",
+        "year": "2007",
+        "unstructured": "Kane, M. J., Brown, L. E., McVay, J. C., Silvia, P. J., Myin-Germeys, I., & Kwapil, T. R. (2007). For whom the mind wanders, and when: An experience-sampling study of working memory and executive control in daily life. Psychological Science, 18(7), 614–621. https://doi.org/10.1177/0956797617706086.",
+        "journal-title": "Psychological Science",
+        "issue": "7"
+      },
+      {
+        "key": "1437_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1037/0096-3445.132.1.47",
+        "volume": "132",
+        "author": "MJ Kane",
+        "year": "2003",
+        "unstructured": "Kane, M. J., & Engle, R. W. (2003). Working-memory capacity and the control of attention: The contributions of goal neglect, response competition, and task set to Stroop interference. Journal of Experimental Psychology: General, 132(1), 47–70. https://doi.org/10.1037/0096-3445.132.1.47.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "189",
+        "DOI": "10.1037/0096-3445.133.2.189",
+        "volume": "133",
+        "author": "MJ Kane",
+        "year": "2004",
+        "unstructured": "Kane, M. J., Hambrick, D. Z., Tuholski, S. W., Wilhelm, O., Payne, T. W., & Engle, R. W. (2004). The generality of working memory capacity: A latent-variable approach to verbal and visuospatial memory span and reasoning. Journal of Experimental Psychology: General, 133(2), 189–217. https://doi.org/10.1037/0096-3445.133.2.189.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "166",
+        "DOI": "10.1167/9.8.166",
+        "volume": "9",
+        "author": "T Kelley",
+        "year": "2009",
+        "unstructured": "Kelley, T., & Lavie, N. (2009). Working memory load alters response to stimuli in early visual cortex. Journal of Vision, 9(8), 166. https://doi.org/10.1167/9.8.166.",
+        "journal-title": "Journal of Vision",
+        "issue": "8"
+      },
+      {
+        "key": "1437_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "659",
+        "DOI": "10.1093/cercor/bhq139",
+        "volume": "21",
+        "author": "TA Kelley",
+        "year": "2010",
+        "unstructured": "Kelley, T. A., & Lavie, N. (2010). Working memory load modulates distractor competition in primary visual cortex. Cerebral Cortex, 21(3), 659–665. https://doi.org/10.1093/cercor/bhq139.",
+        "journal-title": "Cerebral Cortex",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "16524",
+        "DOI": "10.1073/pnas.0505454102",
+        "volume": "102",
+        "author": "SY Kim",
+        "year": "2005",
+        "unstructured": "Kim, S. Y., Kim, M. S., & Chun, M. M. (2005). Concurrent working memory load can reduce distraction. Proceedings of the National Academy of Sciences, 102(45), 16524–16529. https://doi.org/10.1073/pnas.0505454102.",
+        "journal-title": "Proceedings of the National Academy of Sciences",
+        "issue": "45"
+      },
+      {
+        "key": "1437_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "378",
+        "DOI": "10.3389/fnins.2017.00378",
+        "volume": "11",
+        "author": "NY Kim",
+        "year": "2017",
+        "unstructured": "Kim, N. Y., Wittenberg, E., & Nam, C. S. (2017). Behavioral and neural correlates of executive function: Interplay between inhibition and updating processes. Frontiers in Neuroscience, 11, 378. https://doi.org/10.3389/fnins.2017.00378.",
+        "journal-title": "Frontiers in Neuroscience"
+      },
+      {
+        "key": "1437_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "353",
+        "DOI": "10.1016/j.bandl.2005.01.011",
+        "volume": "95",
+        "author": "JS Laures",
+        "year": "2005",
+        "unstructured": "Laures, J. S. (2005). Reaction time and accuracy in individuals with aphasia during auditory vigilance tasks. Brain and Language, 95(2), 353–357. https://doi.org/10.1016/j.bandl.2005.01.011.",
+        "journal-title": "Brain and Language",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR34",
+        "first-page": "175",
+        "volume": "XVIII",
+        "author": "N Lavie",
+        "year": "2000",
+        "unstructured": "Lavie, N. (2000). Selective attention and cognitive control: Dissociating attentional functions through different types of load. Attention and Performance, XVIII, 175–194.",
+        "journal-title": "Attention and Performance"
+      },
+      {
+        "key": "1437_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.1016/j.tics.2004.12.004",
+        "volume": "9",
+        "author": "N Lavie",
+        "year": "2005",
+        "unstructured": "Lavie, N. (2005). Distracted and confused? Selective attention under load. Trends in Cognitive Sciences, 9(2), 75–82. https://doi.org/10.1016/j.tics.2004.12.004.",
+        "journal-title": "Trends in Cognitive Sciences",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "863",
+        "DOI": "10.1080/13506280500195953",
+        "volume": "14",
+        "author": "N Lavie",
+        "year": "2006",
+        "unstructured": "Lavie, N., & De Fockert, J. (2006). Frontal control of attentional capture in visual search. Visual Cognition, 14(4–8), 863–876. https://doi.org/10.1080/13506280500195953.",
+        "journal-title": "Visual Cognition",
+        "issue": "4–8"
+      },
+      {
+        "key": "1437_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "669",
+        "DOI": "10.3758/BF03196756",
+        "volume": "12",
+        "author": "N Lavie",
+        "year": "2005",
+        "unstructured": "Lavie, N., & De Fockert, J. (2005). The role of working memory in attentional capture. Psychonomic Bulletin & Review, 12(4), 669–674. https://doi.org/10.3758/BF03196756.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "339",
+        "DOI": "10.1037/0096-3445.133.3.339",
+        "volume": "133",
+        "author": "N Lavie",
+        "year": "2004",
+        "unstructured": "Lavie, N., Hirst, A., De Fockert, J. W., & Viding, E. (2004). Load theory of selective attention and cognitive control. Journal of experimental psychology: General, 133(3), 339. https://doi.org/10.1037/0096-3445.133.3.339.",
+        "journal-title": "Journal of experimental psychology: General",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1016/j.biopsycho.2015.10.002",
+        "volume": "112",
+        "author": "M Lisi",
+        "year": "2015",
+        "unstructured": "Lisi, M., Bonato, M., & Zorzi, M. (2015). Pupil dilation reveals top-down attentional load during spatial monitoring. Biological Psychology, 112, 39–45. https://doi.org/10.1016/j.biopsycho.2015.10.002.",
+        "journal-title": "Biological Psychology"
+      },
+      {
+        "key": "1437_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "32",
+        "DOI": "10.1037/0096-3445.107.1.32",
+        "volume": "107",
+        "author": "GD Logan",
+        "year": "1978",
+        "unstructured": "Logan, G. D. (1978). Attention in character-classification tasks: Evidence for the automaticity of component stages. Journal of Experimental Psychology: General, 107(1), 32–63. https://doi.org/10.1037/0096-3445.107.1.32.",
+        "journal-title": "Journal of Experimental Psychology: General",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "502",
+        "DOI": "10.1037/0096-1523.8.4.502",
+        "volume": "8",
+        "author": "GD Logan",
+        "year": "1982",
+        "unstructured": "Logan, G. D., & Zbrodoff, N. J. (1982). Constraints on strategy construction in a speeded discrimination task. Journal of Experimental Psychology: Human Perception and Performance, 8(4), 502–520. https://doi.org/10.1037/0096-1523.8.4.502.",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1780",
+        "DOI": "10.3758/s13414-011-0144-4",
+        "volume": "73",
+        "author": "JS Macdonald",
+        "year": "2011",
+        "unstructured": "Macdonald, J. S., & Lavie, N. (2011). Visual perceptual load induces inattentional deafness. Attention, Perception, & Psychophysics, 73(6), 1780–1789. https://doi.org/10.3758/s13414-011-0144-4.",
+        "journal-title": "Attention, Perception, & Psychophysics",
+        "issue": "6"
+      },
+      {
+        "key": "1437_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "633",
+        "DOI": "10.1080/13803390490919218",
+        "volume": "27",
+        "author": "DP McCabe",
+        "year": "2005",
+        "unstructured": "McCabe, D. P., Robertson, C. L., & Smith, A. D. (2005). Age differences in Stroop interference in working memory. Journal of Clinical and Experimental Neuropsychology, 27(5), 633–644. https://doi.org/10.1080/13803390490919218.",
+        "journal-title": "Journal of Clinical and Experimental Neuropsychology",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9781315372495",
+        "author": "R McElreath",
+        "year": "2016",
+        "unstructured": "McElreath, R. (2016). Statistical rethinking: A Bayesian course with examples in R. Boca Raton: Chapman & Hall/CRC. https://doi.org/10.1201/9781315372495.",
+        "volume-title": "Statistical rethinking: A Bayesian course with examples in R"
+      },
+      {
+        "key": "1437_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.1177/0963721411429458",
+        "volume": "21",
+        "author": "A Miyake",
+        "year": "2012",
+        "unstructured": "Miyake, A., & Friedman, N. P. (2012). The nature and organization of individual differences in executive functions: Four general conclusions. Current Directions in Psychological Science, 21(1), 8–14. https://doi.org/10.1177/0963721411429458.",
+        "journal-title": "Current Directions in Psychological Science",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1316",
+        "DOI": "10.3758/s13423-015-0982-5",
+        "volume": "23",
+        "author": "G Murphy",
+        "year": "2016",
+        "unstructured": "Murphy, G., Groeger, J. A., & Greene, C. M. (2016). Twenty years of load theory—Where are we now, and where should we go next? Psychonomic Bulletin & Review, 23(5), 1316–1340. https://doi.org/10.3758/s13423-015-0982-5.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1062",
+        "DOI": "10.1037/0096-1523.33.5.1062",
+        "volume": "33",
+        "author": "S Park",
+        "year": "2007",
+        "unstructured": "Park, S., Kim, M. S., & Chun, M. M. (2007). Concurrent working memory load can facilitate selective attention: Evidence for specialized load. Journal of Experimental Psychology: Human Perception and Performance, 33(5), 1062. https://doi.org/10.1037/0096-1523.33.5.1062.",
+        "journal-title": "Journal of Experimental Psychology: Human Perception and Performance",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR47",
+        "author": "R Core Team",
+        "year": "2019",
+        "unstructured": "R Core Team. (2019). R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing.",
+        "volume-title": "R: A language and environment for statistical computing"
+      },
+      {
+        "key": "1437_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "713",
+        "DOI": "10.1002/acp.1224",
+        "volume": "20",
+        "author": "TS Redick",
+        "year": "2006",
+        "unstructured": "Redick, T. S., & Engle, R. W. (2006). Working memory capacity and attention network test performance. Applied Cognitive Psychology: The Official Journal of the Society for Applied Research in Memory and Cognition, 20(5), 713–721. https://doi.org/10.1002/acp.1224.",
+        "journal-title": "Applied Cognitive Psychology: The Official Journal of the Society for Applied Research in Memory and Cognition",
+        "issue": "5"
+      },
+      {
+        "key": "1437_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "299",
+        "DOI": "10.1016/j.bbr.2009.08.022",
+        "volume": "205",
+        "author": "R Rodriguez-Jimenez",
+        "year": "2009",
+        "unstructured": "Rodriguez-Jimenez, R., Avila, C., Garcia-Navarro, C., Bagney, A., de Aragon, A. M., Ventura-Campos, N., et al. (2009). Differential dorsolateral prefrontal cortex activation during a verbal n-back task according to sensory modality. Behavioural Brain Research, 205(1), 299–302. https://doi.org/10.1016/j.bbr.2009.08.022.",
+        "journal-title": "Behavioural Brain Research",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "1131",
+        "DOI": "10.1162/jocn.2008.20078",
+        "volume": "20",
+        "author": "I SanMiguel",
+        "year": "2008",
+        "unstructured": "SanMiguel, I., Corral, M.-J., & Escera, C. (2008). When loading working memory reduces distraction: Behavioral and electrophysiological evidence from an auditory-visual distraction paradigm. Journal of Cognitive Neuroscience, 20(7), 1131–1145. https://doi.org/10.1162/jocn.2008.20078.",
+        "journal-title": "Journal of Cognitive Neuroscience",
+        "issue": "7"
+      },
+      {
+        "key": "1437_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1293",
+        "DOI": "10.1111/psyp.12500",
+        "volume": "52",
+        "author": "C Scharinger",
+        "year": "2015",
+        "unstructured": "Scharinger, C., Soutschek, A., Schubert, T., & Gerjets, P. (2015). When flanker meets the n-back: What EEG and pupil dilation data reveal about the interplay between the two central-executive working memory functions inhibition and updating. Psychophysiology, 52(10), 1293–1304. https://doi.org/10.1111/psyp.12500.",
+        "journal-title": "Psychophysiology",
+        "issue": "10"
+      },
+      {
+        "key": "1437_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "6",
+        "DOI": "10.3389/fnhum.2017.00006",
+        "volume": "11",
+        "author": "C Scharinger",
+        "year": "2017",
+        "unstructured": "Scharinger, C., Soutschek, A., Schubert, T., & Gerjets, P. (2017). Comparison of the working memory load in n-back and working memory span tasks by means of EEG frequency band power and P300 amplitude. Frontiers in Human Neuroscience, 11, 6. https://doi.org/10.3389/fnhum.2017.00006.",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "1437_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "128",
+        "DOI": "10.3758/s13423-017-1230-y",
+        "volume": "25",
+        "author": "FD Schönbrodt",
+        "year": "2018",
+        "unstructured": "Schönbrodt, F. D., & Wagenmakers, E.-J. (2018). Bayes factor design analysis: Planning for compelling evidence. Psychonomic Bulletin & Review, 25(1), 128–142. https://doi.org/10.3758/s13423-017-1230-y.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "322",
+        "DOI": "10.1037/met0000061",
+        "volume": "22",
+        "author": "FD Schönbrodt",
+        "year": "2017",
+        "unstructured": "Schönbrodt, F. D., Wagenmakers, E.-J., Zehetleitner, M., & Perugini, M. (2017). Sequential hypothesis testing with Bayes factors: Efficiently testing mean differences. Psychological Methods, 22(2), 322–339. https://doi.org/10.1037/met0000061.",
+        "journal-title": "Psychological Methods",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1006/nimg.1996.0009",
+        "volume": "3",
+        "author": "EH Schumacher",
+        "year": "1996",
+        "unstructured": "Schumacher, E. H., Lauber, E., Awh, E., Jonides, J., Smith, E. E., & Koeppe, R. A. (1996). PET evidence for an amodal verbal working memory system. NeuroImage, 3(2), 79–88. https://doi.org/10.1006/nimg.1996.0009.",
+        "journal-title": "NeuroImage",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "380",
+        "DOI": "10.3389/fnhum.2016.00380",
+        "volume": "10",
+        "author": "SS Simon",
+        "year": "2016",
+        "unstructured": "Simon, S. S., Tusch, E. S., Holcomb, P. J., & Daffner, K. R. (2016). Increasing working memory load reduces processing of cross-modal task-irrelevant stimuli even after controlling for task difficulty and executive capacity. Frontiers in Human Neuroscience, 10, 380. https://doi.org/10.3389/fnhum.2016.00380.",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "1437_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "147",
+        "DOI": "10.1016/S1364-6613(00)01455-8",
+        "volume": "4",
+        "author": "DJ Simons",
+        "year": "2000",
+        "unstructured": "Simons, D. J. (2000). Attentional capture and inattentional blindness. Trends in Cognitive Sciences, 4(4), 147–155. https://doi.org/10.1016/S1364-6613(00)01455-8.",
+        "journal-title": "Trends in Cognitive Sciences",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "221",
+        "DOI": "10.3389/fnhum.2016.00221",
+        "volume": "10",
+        "author": "P Sörqvist",
+        "year": "2016",
+        "unstructured": "Sörqvist, P., Dahlström, Ö., Karlsson, T., & Rönnberg, J. (2016). Concentration: The neural underpinnings of how cognitive load shields against distraction. Frontiers in Human Neuroscience, 10, 221. https://doi.org/10.3389/fnhum.2016.00221.",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "1437_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "267",
+        "DOI": "10.1177/0963721415577356",
+        "volume": "24",
+        "author": "P Sörqvist",
+        "year": "2015",
+        "unstructured": "Sörqvist, P., & Marsh, J. E. (2015). How concentration shields against distraction. Current Directions in Psychological Science, 24(4), 267–272. https://doi.org/10.1177/0963721415577356.",
+        "journal-title": "Current Directions in Psychological Science",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "245",
+        "DOI": "10.3758/s13423-011-0203-9",
+        "volume": "19",
+        "author": "P Sörqvist",
+        "year": "2012",
+        "unstructured": "Sörqvist, P., Nöstl, A., & Halin, N. (2012). Working memory capacity modulates habituation rate: Evidence from a cross-modal auditory distraction paradigm. Psychonomic Bulletin & Review, 19(2), 245–250. https://doi.org/10.3758/s13423-011-0203-9.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "2"
+      },
+      {
+        "key": "1437_CR104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1044/1092-4388(2011/10-0353)",
+        "author": "P Sörqvist",
+        "year": "2012",
+        "unstructured": "Sörqvist, P., & Rönnberg, J. (2012). Episodic long-term memory of spoken discourse masked by speech: what is the role for working memory capacity? Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/1092-4388(2011/10-0353).",
+        "journal-title": "Journal of Speech, Language, and Hearing Research"
+      },
+      {
+        "key": "1437_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "42",
+        "DOI": "10.1002/pchj.47",
+        "volume": "3",
+        "author": "P Sörqvist",
+        "year": "2014",
+        "unstructured": "Sörqvist, P., & Rönnberg, J. (2014). Individual differences in distractibility: An update and a model. PsyCh Journal, 3(1), 42–57. https://doi.org/10.1002/pchj.47.",
+        "journal-title": "PsyCh Journal",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "2147",
+        "DOI": "10.1162/jocn_a_00275",
+        "volume": "24",
+        "author": "P Sörqvist",
+        "year": "2012",
+        "unstructured": "Sörqvist, P., Stenfelt, S., & Rönnberg, J. (2012). Working memory capacity and visual–verbal cognitive load modulate auditory–sensory gating in the brainstem: Toward a unified view of attention. Journal of Cognitive Neuroscience, 24(11), 2147–2154. https://doi.org/10.1162/jocn_a_00275.",
+        "journal-title": "Journal of Cognitive Neuroscience",
+        "issue": "11"
+      },
+      {
+        "key": "1437_CR63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13414-020-02061-8",
+        "author": "C Spence",
+        "year": "2020",
+        "unstructured": "Spence, C. (2020). Extending the study of visual attention to a multisensory world (Charles W. Eriksen Special Issue). Attention, Perception, & Psychophysics. https://doi.org/10.3758/s13414-020-02061-8.",
+        "journal-title": "Attention, Perception, & Psychophysics"
+      },
+      {
+        "key": "1437_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "192",
+        "DOI": "10.3758/BF03206482",
+        "volume": "11",
+        "author": "EJ Wagenmakers",
+        "year": "2004",
+        "unstructured": "Wagenmakers, E. J., & Farrell, S. (2004). AIC model selection using Akaike weights. Psychonomic Bulletin & Review, 11(1), 192–196. https://doi.org/10.3758/BF03206482.",
+        "journal-title": "Psychonomic Bulletin & Review",
+        "issue": "1"
+      },
+      {
+        "key": "1437_CR108",
+        "first-page": "3571",
+        "volume": "11",
+        "author": "S Watanabe",
+        "year": "2010",
+        "unstructured": "Watanabe, S. (2010). Asymptotic equivalence of Bayes cross validation and widely applicable information criterion in singular learning theory. Journal of Machine Learning Research, 11, 3571–3594.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "1437_CR107",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1016/j.cogpsych.2011.08.001",
+        "volume": "63",
+        "author": "CN White",
+        "year": "2011",
+        "unstructured": "White, C. N., Ratcliff, R., & Starns, J. J. (2011). Diffusion models of the flanker task: Discrete versus gradual attentional selection. Cognitive Psychology, 63(4), 210–238. https://doi.org/10.1016/j.cogpsych.2011.08.001.",
+        "journal-title": "Cognitive psychology",
+        "issue": "4"
+      },
+      {
+        "key": "1437_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3389/fpsyg.2013.00433",
+        "volume": "4",
+        "author": "O Wilhelm",
+        "year": "2013",
+        "unstructured": "Wilhelm, O., Hildebrandt, A. H., & Oberauer, K. (2013). What is working memory capacity, and how can we measure it? Frontiers in Psychology, 4(433), 1–22. https://doi.org/10.3389/fpsyg.2013.00433.",
+        "journal-title": "Frontiers in Psychology",
+        "issue": "433"
+      },
+      {
+        "key": "1437_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1111/1467-9280.00339",
+        "volume": "12",
+        "author": "GF Woodman",
+        "year": "2001",
+        "unstructured": "Woodman, G. F., Vogel, E. K., & Luck, S. J. (2001). Visual search remains efficient when visual working memory is full. Psychological Science, 12(3), 219–224. https://doi.org/10.1111/1467-9280.00339.",
+        "journal-title": "Psychological Science",
+        "issue": "3"
+      },
+      {
+        "key": "1437_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "16",
+        "DOI": "10.1097/AUD.0b013e318228036a",
+        "volume": "32",
+        "author": "AA Zekveld",
+        "year": "2011",
+        "unstructured": "Zekveld, A. A., Rudner, M., Johnsrude, I. S., Festen, J. M., van Beek, J. H., & Rönnberg, J. (2011). The influence of semantically related and unrelated text cues on the intelligibility of sentences in noise. Ear and Hearing, 32, 16–25. https://doi.org/10.1097/AUD.0b013e318228036a.",
+        "journal-title": "Ear and Hearing"
+      }
+    ],
+    "container-title": "Psychological Research",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00426-020-01437-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00426-020-01437-7/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00426-020-01437-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2021, 9, 14]
+      ],
+      "date-time": "2021-09-14T17:08:57Z",
+      "timestamp": 1631639337000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00426-020-01437-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2020, 11, 4]
+      ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [2021, 10]
+        ]
+      }
+    },
+    "alternative-id": "1437",
+    "URL": "https://doi.org/10.1007/s00426-020-01437-7",
+    "relation": {},
+    "ISSN": ["0340-0727", "1430-2772"],
+    "issn-type": [
+      {
+        "value": "0340-0727",
+        "type": "print"
+      },
+      {
+        "value": "1430-2772",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2020, 11, 4]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "30 May 2020",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 October 2020",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 November 2020",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Compliance with ethical standards"
+        }
+      },
+      {
+        "value": "The authors have no competing interests to disclose.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "The study was approved by the Ethics Committee of Psychology Research, University of Padova.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "All participants signed an informed consent prior to the experiment.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to participate"
+        }
+      },
+      {
+        "value": "All of the authors listed in the byline have agreed to the byline order and to submission of the manuscript in this form.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      }
+    ]
+  }
+}

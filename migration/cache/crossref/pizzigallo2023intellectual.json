@@ -1,0 +1,718 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 4, 10]
+      ],
+      "date-time": "2026-04-10T20:21:44Z",
+      "timestamp": 1775852504356,
+      "version": "3.50.1"
+    },
+    "reference-count": 56,
+    "publisher": "MDPI AG",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2023, 12, 9]
+          ],
+          "date-time": "2023-12-09T00:00:00Z",
+          "timestamp": 1702080000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": "J. Intell.",
+    "abstract": "<jats:p>Despite growing research on adults with specific learning disabilities (SLDs), evidence concerning their intellectual profile remains scarce. The present study examined the results of the administration of the Wechsler Adult Intelligence Scale—Fourth Edition to 301 adults diagnosed with SLDs and compared them to the results obtained from previous studies with a large sample of children with SLDs. The results showed that: (1) as observed among children, adults with SLDs also presented higher scores in the subtests implying reasoning (associated with the General Ability Index, GAI) and lower scores in the subtests involving working memory and processing speed; (2) the discrepancy between full-scale IQ and the GAI had a good predictive value in discriminating adults with and without SLDs; (3) the four-factor hierarchical structure of intelligence proposed for the general adult population held for adults with SLDs as well, even though there were substantial differences in the loadings and a five-factor structure could be more appropriate; (4) similarities as well as strong differences were present between adults and children with SLDs. In adults, scores on subtests were generally lower, particularly in working memory and processing speed. However, in some cases, scores were equal or even higher (as in the “Similarity” subtest) among adults, meaning that the discrepancy between the full scale and the GAI was accentuated.<\/jats:p>",
+    "DOI": "10.3390/jintelligence11120223",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2023, 12, 11]
+      ],
+      "date-time": "2023-12-11T06:56:00Z",
+      "timestamp": 1702277760000
+    },
+    "page": "223",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "The Intellectual Profile of Adults with Specific Learning Disabilities",
+    "prefix": "10.3390",
+    "volume": "11",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0002-6540-3161",
+        "authenticated-orcid": false,
+        "given": "Eleonora",
+        "family": "Pizzigallo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35122 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cesare",
+        "family": "Cornoldi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35122 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Serafino",
+        "family": "Buono",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Oasi Research Institute—IRCCS, 94018 Troina, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Santina",
+        "family": "Città",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Oasi Research Institute—IRCCS, 94018 Troina, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Viola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35122 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Psychology, University of Padua, 35122 Padova, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [2023, 12, 9]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1016/j.jecp.2009.11.003",
+        "article-title": "Investigating the predictive roles of working memory and IQ in academic attainment",
+        "volume": "106",
+        "author": "Alloway",
+        "year": "2010",
+        "journal-title": "Journal of Experimental Child Psychology"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1177/00222194020350040301",
+        "article-title": "The Swedish WAIS-R factor structure and cognitive profiles for adults with dyslexia",
+        "volume": "35",
+        "author": "Alm",
+        "year": "2002",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "ref_3",
+        "unstructured": "Biondi, Massimo (2013). Diagnostic and Statistical Manual of Mental Disorders, Raffaello Cortina. [5th ed.]."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v067.i01",
+        "article-title": "Fitting linear mixed-effects models using lme4",
+        "volume": "67",
+        "author": "Bates",
+        "year": "2015",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "874",
+        "DOI": "10.1177/2167702617708629",
+        "article-title": "Commentary on “strengths and weaknesses in the intellectual profile of different subtypes of specific learning disorder” (Toffalini et al., 2017)",
+        "volume": "5",
+        "author": "Beaujean",
+        "year": "2017",
+        "journal-title": "Clinical Psychological Science"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "78",
+        "DOI": "10.1016/j.ijpsycho.2013.03.005",
+        "article-title": "Characteristics of cognitive deficits and writing skills of Polish adults with developmental dyslexia",
+        "volume": "93",
+        "author": "Bogdanowicz",
+        "year": "2014",
+        "journal-title": "International Journal of Psychophysiology"
+      },
+      {
+        "key": "ref_7",
+        "unstructured": "Bynner, John, and Parsons, Samantha (2006). New Light on Literacy and Numeracy, National Research and Development Centre for Adult Literacy and Numeracy."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1007/s11881-013-0088-6",
+        "article-title": "An exploratory factor analysis of the cognitive functioning of first-year bachelor students with dyslexia",
+        "volume": "64",
+        "author": "Callens",
+        "year": "2014",
+        "journal-title": "Annals of Dyslexia"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1177/00222194211037061",
+        "article-title": "Difficulties of young adults with dyslexia in reading and writing numbers",
+        "volume": "55",
+        "author": "Cornoldi",
+        "year": "2022",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "2224",
+        "DOI": "10.1016/j.ridd.2014.05.013",
+        "article-title": "Differences in the intellectual profile of children with intellectual vs. learning disability",
+        "volume": "35",
+        "author": "Cornoldi",
+        "year": "2014",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1177/00222194060390060301",
+        "article-title": "Suicidality, school dropout and reading problems among adolescents",
+        "volume": "39",
+        "author": "Daniel",
+        "year": "2006",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.3390/youth3010023",
+        "article-title": "Exploratory and Descriptive Comparison Using the WAIS-IV and LSC-SUA of the Cognitive Profile of Italian University Students with Reading Comprehension Disorder (RCD) vs. Decoding Difficulties—Dyslexia",
+        "volume": "3",
+        "author": "Carpinelli",
+        "year": "2023",
+        "journal-title": "Youth"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1177/0022219411426858",
+        "article-title": "The impact of learning disabilities on adulthood: A review of the evidenced-based literature for research and practice in adult education",
+        "volume": "45",
+        "author": "Gerber",
+        "year": "2012",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1016/j.intell.2015.07.002",
+        "article-title": "The structure of intelligence in children with specific learning disabilities is different as compared to typically development children",
+        "volume": "52",
+        "author": "Cornoldi",
+        "year": "2015",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.intell.2017.01.014",
+        "article-title": "Intelligence measures as diagnostic tools for children with specific learning disabilities",
+        "volume": "61",
+        "author": "Toffalini",
+        "year": "2017",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "101380",
+        "DOI": "10.1016/j.intell.2019.101380",
+        "article-title": "Lumpers vs. splitters: Intelligence in children with specific learning disorders",
+        "volume": "76",
+        "author": "Pastore",
+        "year": "2019",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.3922/j.psns.2014.4.14",
+        "article-title": "Cognitive profiles on the WAIS-III intelligence test in Brazilian adults with dyslexia",
+        "volume": "7",
+        "author": "Mecca",
+        "year": "2014",
+        "journal-title": "Psychology & Neuroscience"
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/dys.306",
+        "unstructured": "Gunnel Ingesson (2006). Stability of IQ measures in teenagers and young adults with developmental dyslexia. Dyslexia, 12, 81–95."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1111/1467-9817.00017",
+        "article-title": "Reading and spelling impairments in undergraduate students with developmental dyslexia",
+        "volume": "20",
+        "author": "Hanley",
+        "year": "1997",
+        "journal-title": "Journal of Research in Reading"
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1348/000709902158801",
+        "article-title": "Cognitive assessment of dyslexic students in higher education",
+        "volume": "72",
+        "author": "Hatcher",
+        "year": "2002",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.31234/osf.io/6aqhp",
+        "unstructured": "Holden, LaTasha R., and Tanenbaum, Gabriel J. (2023). Modern Assessments of Intelligence Must Be Fair and Equitable. Journal of Intelligence, 11."
+      },
+      {
+        "key": "ref_22",
+        "unstructured": "Istituto Superiore di Sanità (ISS) (2011). Consensus Conference: Disturbi Specifici dell’Apprendimento [National consensus conference on learning disability], Istituto Superiore di Sanità."
+      },
+      {
+        "key": "ref_23",
+        "unstructured": "Jöreskog, Karl G., and Sörbom, Dag (1993). LISREL 8: Structural Equation Modeling with the SIMPLIS Command Language, Scientific Software International."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1002/dys.364",
+        "article-title": "Phonological and orthographic spelling in high functioning adult dyslexia",
+        "volume": "15",
+        "author": "Kemp",
+        "year": "2009",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "763",
+        "DOI": "10.1111/j.1469-8749.1991.tb14960.x",
+        "article-title": "Neuropsychological deficits in adults with dyslexia",
+        "volume": "33",
+        "author": "Kinsbourne",
+        "year": "1991",
+        "journal-title": "Developmental Medicine & Child Neurology"
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "511",
+        "DOI": "10.1177/0022219409345013",
+        "article-title": "Adult dyslexia and attention deficit disorder in Finland—Project DyAdd: WAIS-III cognitive profiles",
+        "volume": "42",
+        "author": "Laasonen",
+        "year": "2009",
+        "journal-title": "Journal of Learning Disabilities"
+      },
+      {
+        "key": "ref_27",
+        "unstructured": "Law [Legge] 170/2010 (Gazzetta Ufficiale, 2010). (8 ottobre 2010, n. 170). Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico (New Norms for the School Environment of Cases with a Specific Learning Disorder), Gazzetta Ufficiale."
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "575",
+        "DOI": "10.1080/02796015.1997.12085887",
+        "article-title": "WAIS-R profile analysis for college students with learning disabilities",
+        "volume": "26",
+        "author": "Maller",
+        "year": "1997",
+        "journal-title": "School Psychology Review"
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1111/j.1469-7610.2009.02079.x",
+        "article-title": "Persistence of literacy problems: Spelling in adolescence and at mid-life",
+        "volume": "50",
+        "author": "Maughan",
+        "year": "2009",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.intell.2008.08.004",
+        "article-title": "CHC theory and the human cognitive abilities project: Standing on the shoulders of the giants of psychometric intelligence research",
+        "volume": "37",
+        "author": "McGrew",
+        "year": "2009",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "ref_31",
+        "unstructured": "Montesano, Lorena, Valenti, Antonella, and Cornoldi, Cesare (2020). Studenti Universitari e Giovani Adulti con Disturbo Specifico dell’apprendimento. Nuova Batteria per Studenti Universitari e Adulti LSC-SUA. (University Students and Young Adults with a Specific Learning Disorder. Battery LSC-SUA Reading, Writing and Calculation), Erickson."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1002/dys.1477",
+        "article-title": "Developmental dyslexia in adults: Behavioural manifestations and cognitive correlates",
+        "volume": "20",
+        "author": "Hulme",
+        "year": "2014",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "ref_33",
+        "unstructured": "Orsini, Arturo, and Pezzuti, Lina (2013). Contributo alla taratura italiana (16–69 anni), Giunti O.S."
+      },
+      {
+        "key": "ref_34",
+        "unstructured": "Orsini, Arturo, and Pezzuti, Lina (2015). Contributo alla taratura italiana (70–90 anni), Giunti O.S."
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "first-page": "310",
+        "DOI": "10.1080/02699206.2020.1780322",
+        "article-title": "Spelling errors reveal underlying sequential and spatial processing deficits in adults with dyslexia",
+        "volume": "35",
+        "author": "Peter",
+        "year": "2021",
+        "journal-title": "Clinical Linguistics & Phonetics"
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1111/1467-9817.00021",
+        "article-title": "Issues in the assessment of developmental dyslexia in adults: Theoretical and applied perspectives",
+        "volume": "20",
+        "author": "Rack",
+        "year": "1997",
+        "journal-title": "Journal of Research in Reading"
+      },
+      {
+        "key": "ref_37",
+        "unstructured": "Raven, John Carlyle (1938). Progressive Matrices: A Perceptual Test of Intelligence, H.K. Lewis."
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1002/dys.431",
+        "article-title": "Which Tasks Best Discriminate between Dyslexic University Students and Controls in a Transparent Language?",
+        "volume": "17",
+        "author": "Re",
+        "year": "2011",
+        "journal-title": "Dyslexia"
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1007/s11881-020-00205-x",
+        "article-title": "Reading and reading-related skills in adults with dyslexia from different orthographic systems: A review and meta-analysis",
+        "volume": "70",
+        "author": "Reis",
+        "year": "2020",
+        "journal-title": "Annals of Dyslexia"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1186/1471-2105-12-77",
+        "article-title": "pROC: An open-source package for R and S+ to analyze and compare ROC curves",
+        "volume": "12",
+        "author": "Robin",
+        "year": "2011",
+        "journal-title": "BMC Bioinformatics"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v048.i02",
+        "article-title": "Lavaan: An R Package for Structural Equation Modeling",
+        "volume": "48",
+        "author": "Rosseel",
+        "year": "2012",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "ref_42",
+        "unstructured": "Sartori, Giuseppe, Job, Remo, and Tressoldi, Patrizio E. (2007). DDE-2 Batteria per la valutazione della dislessia e della disortografia evolutiva–2 [Battery for the Assessment of Developmental Dyslexia and Dysortographia], Organizzazioni Speciali."
+      },
+      {
+        "key": "ref_43",
+        "unstructured": "Sistema Nazionale Linee Guida dell’istituto Superiore di Sanità (SNLG ISS) (2023, May 12). Linea Guida sulla gestione dei Disturbi Specifici dell’Apprendimento. Available online: https://snlg.iss.it/wp-content/uploads/2022/03/LG-389-AIP_DSA.pdf."
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1111/1467-9817.00018",
+        "article-title": "Phonological processing skills of dyslexic students in higher education: A preliminary report",
+        "volume": "20",
+        "author": "Snowling",
+        "year": "1997",
+        "journal-title": "Journal of Research in Reading"
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "1362",
+        "DOI": "10.3102/0034654309350931",
+        "article-title": "Reading disabilities in adults: A selective meta-analysis of the literature",
+        "volume": "79",
+        "author": "Swanson",
+        "year": "2009",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "first-page": "878",
+        "DOI": "10.1177/2167702617720716",
+        "article-title": "Pros and cons of using intelligence batteries for the study of clinical populations: A response to Beaujean 2017",
+        "volume": "5",
+        "author": "Toffalini",
+        "year": "2017a",
+        "journal-title": "Clinical Psychological Science"
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1177/2167702616672038",
+        "article-title": "Strengths and weaknesses in the intellectual profile of different subtypes of specific learning disorder",
+        "volume": "5",
+        "author": "Toffalini",
+        "year": "2017b",
+        "journal-title": "Clinical Psychological Science"
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.intell.2017.04.006",
+        "article-title": "Einstein and Dyslexia: Is Giftedness More Frequent in Children with a Specific Learning Disorder than in Typically Developing Children?",
+        "volume": "62",
+        "author": "Toffalini",
+        "year": "2017c",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "2211",
+        "DOI": "10.1016/j.ridd.2013.04.005",
+        "article-title": "Impaired short-term memory for order in adults with dyslexia",
+        "volume": "34",
+        "author": "Trecy",
+        "year": "2013",
+        "journal-title": "Research in Developmental Disabilities"
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0196903",
+        "DOI": "10.1371/journal.pone.0196903",
+        "article-title": "Simulation of dyslexia. How literacy and cognitive skills can help distinguish college students with dyslexia from malingerers",
+        "volume": "13",
+        "author": "Bree",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/brainsci12030373",
+        "unstructured": "Vigna, Giulia, Ghidoni, Enrico, Burgio, Francesca, Danesin, Laura, Angelini, Damiano, Benavides-Varela, Silvia, and Semenza, Carlo (2022). Dyscalculia in early adulthood: Implications for numerical activities of daily living. Brain Sciences, 12."
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/t15174-000",
+        "unstructured": "Wechsler, David (2004). WISC-IV. Wechsler Intelligence Scale for Children, Pearson Assessment. [4th ed.]."
+      },
+      {
+        "key": "ref_53",
+        "unstructured": "Wechsler, David (2008). WAIS-IV. Administration and Scoring Manual, Pearson."
+      },
+      {
+        "key": "ref_54",
+        "unstructured": "Wechsler, David (2014). WISC-V. Wechsler Intelligence Scale for Children, Pearson. [5th ed.]."
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1016/j.lindif.2014.11.017",
+        "article-title": "Dyscalculia and dyslexia in adults: Cognitive bases of comorbidity",
+        "volume": "37",
+        "author": "Wilson",
+        "year": "2015",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "ref_56",
+        "unstructured": "Kemali, Dargut (1993). The ICD-10 Classification of Mental and Behavioural Disorders: Clinical Descriptions and Diagnostic Guidelines, Masson."
+      }
+    ],
+    "container-title": "Journal of Intelligence",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2079-3200/11/12/223/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 10, 10]
+      ],
+      "date-time": "2025-10-10T21:36:07Z",
+      "timestamp": 1760132167000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2079-3200/11/12/223"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2023, 12, 9]
+      ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [2023, 12]
+        ]
+      }
+    },
+    "alternative-id": "jintelligence11120223",
+    "URL": "https://doi.org/10.3390/jintelligence11120223",
+    "relation": {},
+    "ISSN": "2079-3200",
+    "issn-type": [
+      {
+        "value": "2079-3200",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2023, 12, 9]
+      ]
+    }
+  }
+}

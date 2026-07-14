@@ -1,0 +1,1388 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [2026, 6, 4]
+      ],
+      "date-time": "2026-06-04T09:02:12Z",
+      "timestamp": 1780563732155,
+      "version": "3.54.1"
+    },
+    "reference-count": 99,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [2025, 8, 1]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 8, 1]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [2025, 5, 15]
+          ],
+          "date-time": "2025-05-15T00:00:00Z",
+          "timestamp": 1747267200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100024370",
+        "name": "MIUR",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100024370",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100021856",
+        "name": "Ministero dell'Università e della Ricerca",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100021856",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007165",
+        "name": "University of Missouri",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100007165",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": "Learning and Individual Differences",
+    "published-print": {
+      "date-parts": [
+        [2025, 8]
+      ]
+    },
+    "DOI": "10.1016/j.lindif.2025.102726",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [2025, 6, 19]
+      ],
+      "date-time": "2025-06-19T02:37:27Z",
+      "timestamp": 1750300647000
+    },
+    "page": "102726",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "C",
+    "title": "Exploring the mediating role of academic anxiety in mathematics and reading performance among boys and girls: A comprehensive study of Italian fifth graders",
+    "prefix": "10.1016",
+    "volume": "122",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4556-3179",
+        "authenticated-orcid": false,
+        "given": "Sara",
+        "family": "Caviola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1992-6271",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Giofrè",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8920-5330",
+        "authenticated-orcid": false,
+        "given": "Tommaso",
+        "family": "Feraco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1404-5133",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Toffalini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1145-8642",
+        "authenticated-orcid": false,
+        "given": "Katie",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3029-6343",
+        "authenticated-orcid": false,
+        "given": "David C.",
+        "family": "Geary",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "385",
+        "DOI": "10.1016/j.lindif.2011.12.004",
+        "article-title": "Reciprocal relationships between math self-concept and math anxiety",
+        "volume": "22",
+        "author": "Ahmed",
+        "year": "2012",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "522",
+        "DOI": "10.1177/0013164405282461",
+        "article-title": "Academic expectations stress inventory",
+        "volume": "66",
+        "author": "Ang",
+        "year": "2006",
+        "journal-title": "Educational and Psychological Measurement"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.lindif.2025.102726_bb3000",
+        "doi-asserted-by": "crossref",
+        "first-page": "1246",
+        "DOI": "10.1177/09567976241271330",
+        "article-title": "The gender-equality paradox in intraindividual academic strengths: A cross-temporal analysis",
+        "volume": "35",
+        "author": "Balducci",
+        "year": "2024",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1037/bul0000307",
+        "article-title": "A meta-analysis of the relation between math anxiety and math achievement",
+        "volume": "147",
+        "author": "Barroso",
+        "year": "2021",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "7923",
+        "DOI": "10.1038/s41598-024-58408-w",
+        "article-title": "Effectiveness of stress arousal reappraisal and stress-is-enhancing mindset interventions on task performance outcomes: A meta-analysis of randomized controlled trials",
+        "volume": "14",
+        "author": "Bosshard",
+        "year": "2024",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1051",
+        "DOI": "10.1007/s10648-020-09585-3",
+        "article-title": "Activity achievement emotions and academic performance: A Meta-analysis",
+        "volume": "33",
+        "author": "Camacho-Morles",
+        "year": "2021",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb1600",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1006/ceps.2001.1094",
+        "article-title": "Cognitive test anxiety and academic performance",
+        "volume": "27",
+        "author": "Cassady",
+        "year": "2002",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.33009/fsop_jpss129806",
+        "article-title": "Early assessment of cognitive skills, self-regulated learning skills, and attitudes toward education predict university success at graduation",
+        "volume": "1",
+        "author": "Cassady",
+        "year": "2022",
+        "journal-title": "Journal of Postsecondary Student Success"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1007/s10648-021-09618-5",
+        "article-title": "Math performance and academic anxiety forms, from sociodemographic to cognitive aspects: A meta-analysis on 906,311 participants",
+        "volume": "34",
+        "author": "Caviola",
+        "year": "2022",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1037/apl0000266",
+        "article-title": "Understanding the dark and bright sides of anxiety: A theory of workplace anxiety",
+        "volume": "103",
+        "author": "Cheng",
+        "year": "2018",
+        "journal-title": "Journal of Applied Psychology"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.lindif.2025.102726_bb0060",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/sciadv.aay1062",
+        "article-title": "Calculated avoidance: Math anxiety predicts math avoidance in effort-based decision-making",
+        "volume": "5",
+        "author": "Choe",
+        "year": "2019",
+        "journal-title": "Science Advances"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0065",
+        "author": "Cizek",
+        "year": "2006",
+        "series-title": "Addressing test anxiety in a high-stakes environment: Strategies for classroom and schools"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0070",
+        "first-page": "113",
+        "volume": "52",
+        "author": "Deieso",
+        "year": "2018",
+        "series-title": "Mathematics anxiety: Its assessment, determinants and remedies"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.intell.2017.11.007",
+        "article-title": "Sex differences in academic strengths contribute to gender segregation in education and occupation: A longitudinal examination of 167,776 individuals",
+        "volume": "67",
+        "author": "Dekhtyar",
+        "year": "2018",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1027/1016-9040.14.2.168",
+        "article-title": "Anxiety, processing efficiency, and cognitive performance",
+        "volume": "14",
+        "author": "Derakshan",
+        "year": "2009",
+        "journal-title": "European Psychologist"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.lindif.2025.102726_bb0085",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0218921",
+        "article-title": "Working memory, negative affect and personal assets: How do they relate to mathematics and reading literacy?",
+        "volume": "14",
+        "author": "Donolato",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1111/mbe.12251",
+        "article-title": "Going beyond mathematics anxiety in primary and middle school students: The role of ego-resiliency in mathematics",
+        "volume": "14",
+        "author": "Donolato",
+        "year": "2020",
+        "journal-title": "Mind, Brain, and Education"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.lindif.2018.09.008",
+        "article-title": "Academic competence and achievement goals: Self-pressure and disruptive behaviors as mediators",
+        "volume": "68",
+        "author": "Duchesne",
+        "year": "2018",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1037/0022-0663.98.2.382",
+        "article-title": "Task values and ability beliefs as predictors of high school literacy choices: A developmental analysis",
+        "volume": "98",
+        "author": "Durik",
+        "year": "2006",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1016/j.learninstruc.2005.07.006",
+        "article-title": "Emotional experiences during learning: Multiple, situated and dynamic",
+        "volume": "15",
+        "author": "Efklides",
+        "year": "2005",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb2400",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1037/a0018053",
+        "article-title": "Cross-national patterns of gender differences in mathematics: A meta-analysis",
+        "volume": "136",
+        "author": "Else-Quest",
+        "year": "2010",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.lindif.2025.102726_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "409",
+        "DOI": "10.1080/02699939208409696",
+        "article-title": "Anxiety and performance: The processing efficiency theory",
+        "volume": "6",
+        "author": "Eysenck",
+        "year": "1992",
+        "journal-title": "Cognition & Emotion"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1037/1528-3542.7.2.336",
+        "article-title": "Anxiety and cognitive performance: Attentional control theory",
+        "volume": "7",
+        "author": "Eysenck",
+        "year": "2007",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1177/0963721416672463",
+        "article-title": "The math anxiety-performance link",
+        "volume": "26",
+        "author": "Foley",
+        "year": "2017",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1016/j.paid.2011.09.012",
+        "article-title": "Emotional self-efficacy moderates anxiety-related impairments in math performance in elementary school-age youth",
+        "volume": "52",
+        "author": "Galla",
+        "year": "2012",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb1000",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2016.01181",
+        "article-title": "The development and validation of a revised version of the math anxiety scale for young children",
+        "volume": "7",
+        "author": "Ganley",
+        "year": "2016",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.lindif.2025.102726_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "1447",
+        "DOI": "10.1037/edu0000355",
+        "article-title": "Sex differences in mathematics anxiety and attitudes: Concurrent and longitudinal relations to mathematical competence",
+        "volume": "111",
+        "author": "Geary",
+        "year": "2019",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1037/edu0000763",
+        "article-title": "Sex differences in developmental pathways to mathematical competence",
+        "volume": "115",
+        "author": "Geary",
+        "year": "2023",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "2543",
+        "DOI": "10.1007/s10648-022-09705-1",
+        "article-title": "The impasse on gender differences in intelligence: A meta-analysis on WISC batteries",
+        "volume": "34",
+        "author": "Giofrè",
+        "year": "2022",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0155",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2020.101467",
+        "article-title": "A population level analysis of the gender gap in mathematics: Results on over 13 million children using the INVALSI dataset",
+        "volume": "81",
+        "author": "Giofrè",
+        "year": "2020",
+        "journal-title": "Intelligence"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0165",
+        "first-page": "192",
+        "article-title": "Emotion and achievement in the classroom",
+        "author": "Goetz",
+        "year": "2013",
+        "series-title": "International guide to student achievement"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.lindif.2015.01.008",
+        "article-title": "Expectancy-value in mathematics, gender and socioeconomic background as predictors of achievement and aspirations: A multi-cohort study",
+        "volume": "37",
+        "author": "Guo",
+        "year": "2015",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb1700",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1023/A:1009027516424",
+        "article-title": "Smarter sex: A critical review of sex differences in intelligence",
+        "volume": "12",
+        "author": "Halpern",
+        "year": "2000",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1111/bjep.12366",
+        "article-title": "When anxiety becomes my propeller: Mental toughness moderates the relation between academic anxiety and academic avoidance",
+        "volume": "91",
+        "author": "Hasty",
+        "year": "2021",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "issue": "5220",
+        "key": "10.1016/j.lindif.2025.102726_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1126/science.7604277",
+        "article-title": "Sex differences in mental test scores, variability, and numbers of high-scoring individuals",
+        "volume": "269",
+        "author": "Hedges",
+        "year": "1995",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb1500",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.3102/00346543058001047",
+        "article-title": "Correlates, causes, effects, and treatment of test anxiety",
+        "volume": "58",
+        "author": "Hembree",
+        "year": "1988",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.lindif.2016.02.006",
+        "article-title": "Maths anxiety in primary and secondary school students: Gender differences, developmental changes and anxiety specificity",
+        "volume": "48",
+        "author": "Hill",
+        "year": "2016",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0200",
+        "first-page": "55",
+        "article-title": "The developmental psychopathology of depression",
+        "author": "Huberty",
+        "year": "2012",
+        "series-title": "Anxiety and depression in children and adolescents"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1037/0021-9010.78.2.250",
+        "article-title": "Utility of predicting group membership and the role of spatial visualization in becoming an engineer, physical scientist, or artist",
+        "volume": "78",
+        "author": "Humphreys",
+        "year": "1993",
+        "journal-title": "Journal of Applied Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb2500",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/cdev.13044",
+        "article-title": "More similar than different: Gender differences in children's basic numerical skills are the exception not the rule",
+        "volume": "90",
+        "author": "Hutchison",
+        "year": "2019",
+        "journal-title": "Child Development"
+      },
+      {
+        "issue": "5888",
+        "key": "10.1016/j.lindif.2025.102726_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1126/science.1160364",
+        "article-title": "Gender similarities characterize math performance",
+        "volume": "321",
+        "author": "Hyde",
+        "year": "2008",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0220",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.coemr.2022.100378",
+        "article-title": "The glucocorticoid footprint on the memory engram",
+        "volume": "25",
+        "author": "Jeanneteau",
+        "year": "2022",
+        "journal-title": "Current Opinion in Endocrine and Metabolic Research"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0230",
+        "first-page": "5",
+        "article-title": "Sex differences in lexical and grammatical development in Croatian",
+        "author": "Kovačević",
+        "year": "2007",
+        "series-title": "Proceedings from the first European network meeting on the communicative development inventories"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "975",
+        "DOI": "10.2466/pr0.1967.20.3.975",
+        "article-title": "Cognitive and emotional components of test anxiety: A distinction and some initial data",
+        "volume": "20",
+        "author": "Liebert",
+        "year": "1967",
+        "journal-title": "Psychological Reports"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1007/s10648-006-9028-x",
+        "article-title": "Emotion research in education: Theoretical and methodological perspectives on the integration of affect, motivation, and cognition",
+        "volume": "18",
+        "author": "Linnenbrink",
+        "year": "2006",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.cedpsych.2010.11.004",
+        "article-title": "Students’ emotions and academic engagement: Introduction to the special issue",
+        "volume": "36",
+        "author": "Linnenbrink-Garcia",
+        "year": "2011",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0250",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.learninstruc.2018.08.002",
+        "article-title": "Beyond cold technology: A systematic review and meta-analysis on emotions in technology-based learning environments",
+        "volume": "70",
+        "author": "Loderer",
+        "year": "2020",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "404",
+        "DOI": "10.1177/0734282913520595",
+        "article-title": "The test anxiety measure for adolescents (TAMA): Examination of the reliability and validity of the scores of a new multidimensional measure of test anxiety for middle and high school students",
+        "volume": "32",
+        "author": "Lowe",
+        "year": "2014",
+        "journal-title": "Journal of Psychoeducational Assessment"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1016/j.bandc.2007.02.007",
+        "article-title": "The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition",
+        "volume": "65",
+        "author": "Lupien",
+        "year": "2007",
+        "journal-title": "Brain and Cognition"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb1800",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1016/j.intell.2009.01.002",
+        "article-title": "National IQs predict educational attainment in math, reading and science across 56 nations",
+        "volume": "37",
+        "author": "Lynn",
+        "year": "2009",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1016/j.adolescence.2003.11.003",
+        "article-title": "The causal ordering of mathematics anxiety and mathematics achievement: A longitudinal panel analysis",
+        "volume": "27",
+        "author": "Ma",
+        "year": "2004",
+        "journal-title": "Journal of Adolescence"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "698",
+        "DOI": "10.1037/dev0000209",
+        "article-title": "Reading self-perceived ability, enjoyment and achievement: A genetically informative study of their reciprocal links over time",
+        "volume": "53",
+        "author": "Malanchini",
+        "year": "2017",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.1037/h0062855",
+        "article-title": "A study of anxiety and learning",
+        "volume": "47",
+        "author": "Mandler",
+        "year": "1952",
+        "journal-title": "The Journal of Abnormal and Social Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "328",
+        "DOI": "10.1111/j.1467-9817.2010.01481.x",
+        "article-title": "Gender differences in reading motivation: Does sex or gender identity provide a better account?",
+        "volume": "35",
+        "author": "McGeown",
+        "year": "2012",
+        "journal-title": "Journal of Research in Reading"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.lindif.2025.102726_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "736",
+        "DOI": "10.1016/j.lindif.2011.09.005",
+        "article-title": "Role of academic self-efficacy in moderating the relation between task importance and test anxiety",
+        "volume": "21",
+        "author": "Nie",
+        "year": "2011",
+        "journal-title": "Learning and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0305",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0166-4115(00)80010-2",
+        "unstructured": "Pekrun, R. (2000). A social cognitive, control-value theory of achievement emotions. In Heckhausen, J. (Ed.), Motivational psychology of human development. Oxford, UK: Elsevier."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1007/s10648-006-9029-9",
+        "article-title": "The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice",
+        "volume": "18",
+        "author": "Pekrun",
+        "year": "2006",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "1653",
+        "DOI": "10.1111/cdev.12704",
+        "article-title": "Achievement emotions and academic performance: Longitudinal models of reciprocal effects",
+        "volume": "88",
+        "author": "Pekrun",
+        "year": "2017",
+        "journal-title": "Child Development"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "1653",
+        "DOI": "10.1111/cdev.12704",
+        "article-title": "Achievement emotions and academic performance: Longitudinal models of reciprocal effects",
+        "volume": "88",
+        "author": "Pekrun",
+        "year": "2017",
+        "journal-title": "Child Development"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0325",
+        "first-page": "1",
+        "article-title": "Introduction to emotions in education",
+        "author": "Pekrun",
+        "year": "2014",
+        "series-title": "International handbook of emotions in education"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0330",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.learninstruc.2022.101664",
+        "article-title": "Research on situated motivation and emotion: Progress and open problems",
+        "volume": "81",
+        "author": "Pekrun",
+        "year": "2022",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "May 2022",
+        "key": "10.1016/j.lindif.2025.102726_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "101626",
+        "DOI": "10.1016/j.learninstruc.2022.101626",
+        "article-title": "School grades and students’ emotions: Longitudinal models of within-person reciprocal effects",
+        "volume": "83",
+        "author": "Pekrun",
+        "year": "2023",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0340",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.learninstruc.2022.101626",
+        "article-title": "School grades and students’ emotions: Longitudinal models of within-person reciprocal effects",
+        "volume": "83",
+        "author": "Pekrun",
+        "year": "2023",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1111/j.1751-9004.2010.00259.x",
+        "article-title": "Achievement emotions: A control-value approach",
+        "volume": "4",
+        "author": "Pekrun",
+        "year": "2010",
+        "journal-title": "Social and Personality Psychology Compass"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1080/13632750802027713",
+        "article-title": "Deconstructing test anxiety",
+        "volume": "13",
+        "author": "Putwain",
+        "year": "2008",
+        "journal-title": "Emotional and Behavioural Difficulties"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/j.learninstruc.2017.08.004",
+        "article-title": "Reciprocal relations between students’ academic enjoyment, boredom, and achievement over time",
+        "volume": "54",
+        "author": "Putwain",
+        "year": "2018",
+        "journal-title": "Learning and Instruction"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1080/01443410903328866",
+        "article-title": "Do cognitive distortions mediate the test anxiety–examination performance relationship?",
+        "volume": "30",
+        "author": "Putwain",
+        "year": "2010",
+        "journal-title": "Educational Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.lindif.2025.102726_bb0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "1150",
+        "DOI": "10.1007/s10608-021-10211-x",
+        "article-title": "Does test anxiety predispose poor school-related wellbeing and enhanced risk of emotional disorders?",
+        "volume": "45",
+        "author": "Putwain",
+        "year": "2021",
+        "journal-title": "Cognitive Therapy and Research"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.jsp.2021.08.001",
+        "article-title": "Test anxiety, anxiety disorders, and school-related wellbeing: Manifestations of the same or different constructs?",
+        "volume": "88",
+        "author": "Putwain",
+        "year": "2021",
+        "journal-title": "Journal of School Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1027/1015-5759/a000604",
+        "article-title": "The development and validation of a new multidimensional test anxiety scale (MTAS)",
+        "volume": "37",
+        "author": "Putwain",
+        "year": "2021",
+        "journal-title": "European Journal of Psychological Assessment"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1007/s11858-022-01390-2",
+        "article-title": "Anxiety in the mathematics classroom: Reciprocal relations with control and value, and relations with subsequent achievement",
+        "volume": "55",
+        "author": "Putwain",
+        "year": "2023",
+        "journal-title": "ZDM Mathematics Education"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0390",
+        "author": "R Core Team",
+        "year": "2023",
+        "series-title": "R: A language and environment for statistical computing"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0395",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/2332858418756052",
+        "article-title": "Teacher math anxiety relates to adolescent students’ math achievement",
+        "volume": "4",
+        "author": "Ramirez",
+        "year": "2018",
+        "journal-title": "AERA Open"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.lindif.2025.102726_bb1900",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0039904",
+        "article-title": "Gender, culture, and sex-typed cognitive abilities",
+        "volume": "7",
+        "author": "Reilly",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb2200",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1037/edu0000012",
+        "article-title": "Sex differences in mathematics and science achievement: A meta-analysis of National Assessment of educational Progress assessments",
+        "volume": "107",
+        "author": "Reilly",
+        "year": "2015",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb2000",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1016/j.intell.2015.12.004",
+        "article-title": "Sex and sex-role differences in specific cognitive abilities",
+        "volume": "54",
+        "author": "Reilly",
+        "year": "2016",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1037/amp0000356",
+        "article-title": "Gender differences in reading and writing achievement: Evidence from the National Assessment of educational Progress (NAEP)",
+        "volume": "74",
+        "author": "Reilly",
+        "year": "2019",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/j.jsp.2023.02.003",
+        "article-title": "Test anxiety in primary school children: A 20-year systematic review and meta-analysis",
+        "volume": "98",
+        "author": "Robson",
+        "year": "2023",
+        "journal-title": "Journal of School Psychology"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0415",
+        "author": "Schutz",
+        "year": "2007",
+        "series-title": "Emotion in education"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1080/08917779108248762",
+        "article-title": "Anxiety and academic performance: A meta-analysis of findings",
+        "volume": "4",
+        "author": "Seipp",
+        "year": "1991",
+        "journal-title": "Anxiety Research"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0425",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0231381",
+        "article-title": "The role of cognitive and non-cognitive factors in mathematics achievement: The importance of the quality of the student-teacher relationship in middle school",
+        "volume": "15",
+        "author": "Semeraro",
+        "year": "2020",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb1100",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1111/bjep.12151",
+        "article-title": "Math anxiety and its relationship with basic arithmetic skills among primary school children",
+        "volume": "87",
+        "author": "Sorvo",
+        "year": "2017",
+        "journal-title": "British Journal of Educational Psychology"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb1400",
+        "first-page": "317",
+        "article-title": "The nature and treatment of test anxiety",
+        "author": "Spielberger",
+        "year": "1976",
+        "series-title": "Emotions and anxiety: New concepts, methods, and applications"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb2100",
+        "first-page": "42",
+        "article-title": "Gender differences on eighty- six nationally standardized aptitude and achievement tests",
+        "author": "Stanley",
+        "year": "1992",
+        "series-title": "Talent development"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1371/journal.pone.0153857",
+        "article-title": "Countries with higher levels of gender equality show larger national sex differences in mathematics anxiety and relatively lower parental mathematics valuation for girls",
+        "volume": "11",
+        "author": "Stoet",
+        "year": "2016",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb2600",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0057988",
+        "article-title": "Sex differences in mathematics and reading achievement are inversely related: Within- and across-nation assessment of 10 years of PISA data",
+        "volume": "8",
+        "author": "Stoet",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1177/0956797617741719",
+        "article-title": "The gender-equality paradox in science, technology, engineering, and mathematics education",
+        "volume": "29",
+        "author": "Stoet",
+        "year": "2018",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0445",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.intell.2020.101453",
+        "article-title": "Sex-specific academic ability and attitude patterns in students across developed nations",
+        "volume": "81",
+        "author": "Stoet",
+        "year": "2020",
+        "journal-title": "Intelligence"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb1200",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1080/10986065.2021.1882363",
+        "article-title": "Exploring the nature of math anxiety in young children: Intensity, prevalence, reasons",
+        "volume": "24",
+        "author": "Szczygieł",
+        "year": "2022",
+        "journal-title": "Mathematical Thinking and Learning"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lindif.2025.102726_bb0450",
+        "first-page": "41",
+        "article-title": "Test anxiety: Prevalence, effects, and interventions for elementary school students",
+        "volume": "3",
+        "author": "Talbot",
+        "year": "2016",
+        "journal-title": "James Madison Undergraduate Research Journal"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lindif.2025.102726_bb0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1080/1045988X.2011.633285",
+        "article-title": "Test anxiety and high-stakes test performance between school settings: Implications for educators",
+        "volume": "56",
+        "author": "von der Embse",
+        "year": "2012",
+        "journal-title": "Preventing School Failure"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1016/j.jad.2017.11.048",
+        "article-title": "Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review",
+        "volume": "227",
+        "author": "von der Embse",
+        "year": "2018",
+        "journal-title": "Journal of Affective Disorders"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lindif.2025.102726_bb0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1080/15377903.2014.888529",
+        "article-title": "High-stakes accountability: Student anxiety and large-scale testing",
+        "volume": "30",
+        "author": "von der Embse",
+        "year": "2014",
+        "journal-title": "Journal of Applied School Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lindif.2025.102726_bb2300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1174",
+        "DOI": "10.1037/a0036620",
+        "article-title": "Gender differences in scholastic achievement: A meta-analysis",
+        "volume": "140",
+        "author": "Voyer",
+        "year": "2014",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0470",
+        "first-page": "9",
+        "article-title": "Children’s achievement motivation in school",
+        "author": "Wigfield",
+        "year": "2015",
+        "series-title": "The routledge international handbook of social psychology of the classroom"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0475",
+        "author": "World Economic Forum"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb1300",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2012.00162",
+        "article-title": "Math anxiety in second and third graders and its relation to mathematics achievement",
+        "volume": "3",
+        "author": "Wu",
+        "year": "2012",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lindif.2025.102726_bb0480",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1002/cne.920180503",
+        "article-title": "The relation of strength of stimulus to rapidity of habit-formation",
+        "volume": "18",
+        "author": "Yerkes",
+        "year": "1908",
+        "journal-title": "Journal of Comparative Neurology and Psychology"
+      },
+      {
+        "key": "10.1016/j.lindif.2025.102726_bb0485",
+        "unstructured": "Zeidner, M. (1998). An introduction to the domain of test anxiety. Test anxiety: The state of the art, Plenum, New York."
+      }
+    ],
+    "container-title": "Learning and Individual Differences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1041608025001025?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1041608025001025?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [2025, 7, 31]
+      ],
+      "date-time": "2025-07-31T22:58:20Z",
+      "timestamp": 1754002700000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1041608025001025"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [2025, 8]
+      ]
+    },
+    "references-count": 99,
+    "alternative-id": "S1041608025001025",
+    "URL": "https://doi.org/10.1016/j.lindif.2025.102726",
+    "relation": {},
+    "ISSN": "1041-6080",
+    "issn-type": [
+      {
+        "value": "1041-6080",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [2025, 8]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Exploring the mediating role of academic anxiety in mathematics and reading performance among boys and girls: A comprehensive study of Italian fifth graders",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Learning and Individual Differences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.lindif.2025.102726",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Author(s). Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102726"
+  }
+}

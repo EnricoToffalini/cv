@@ -1,0 +1,11 @@
+project:
+  type: default
+  render:
+    - cv.qmd
+
+execute:
+  freeze: false
+  cache: false
+
+language:
+  title-block-published: "Updated"
