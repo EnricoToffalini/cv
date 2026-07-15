@@ -1,7 +1,6 @@
 schema_version: "1.0.0"
 source:
   last_updated: "2026-02-14"
-  source_pdf: "source/CV_2026_Toffalini.pdf"
 
 person:
   given_name: "Enrico"

@@ -217,8 +217,14 @@ render_teaching <- function(cv, data, mode) {
       row <- as.list(row)
       role <- localized_value(row, "role", cv$lang)
       program <- localized_value(row, "program", cv$lang)
-      hours <- if (nzchar(row_text(row, "hours_per_year"))) paste0(row_text(row, "hours_per_year"), " ", t_cv(cv$translations, cv$lang, if (length(strsplit(row_text(row, "academic_years"), ";", fixed = TRUE)[[1]]) > 1L) "hours_per_year" else "hours")) else ""
-      cv_entry(row_text(row, "academic_years"), paste0(
+      academic_years <- strsplit(row_text(row, "academic_years"), ";", fixed = TRUE)[[1]]
+      academic_years <- trimws(academic_years[nzchar(trimws(academic_years))])
+      n_years <- length(academic_years)
+      date <- if (n_years > 1L) paste0(substr(academic_years[1], 1L, 4L), "–", substr(academic_years[n_years], 1L, 4L)) else academic_years
+      hours <- if (nzchar(row_text(row, "hours_per_year"))) paste0(row_text(row, "hours_per_year"), " ", t_cv(cv$translations, cv$lang, if (n_years > 1L) "hours_per_year" else "hours")) else ""
+      duration <- if (n_years > 1L) t_cv(cv$translations, cv$lang, "teaching_academic_years", years = n_years) else ""
+      if (nzchar(hours) && nzchar(duration)) hours <- paste0(hours, " (", duration, ")") else hours <- paste(nonempty(hours, duration), collapse = "")
+      cv_entry(date, paste0(
         "**", role, ": ", row_text(row, "course_title_original"), "**  \n",
         paste(nonempty(program, row_text(row, "institution_original"), hours, localized_value(row, "description", cv$lang)), collapse = " · ")
       ))
@@ -255,7 +261,7 @@ render_presentations <- function(cv, data) {
       authors <- format_person_list(strsplit(row_text(row, "authors"), ";", fixed = TRUE)[[1]])
       event <- presentation_event(row_text(row, "event_original"))
       type <- t_cv(cv$translations, cv$lang, paste0("presentation_types.", row_text(row, "presentation_type")))
-      md_div(paste0(authors, " (", format_cv_date(row$date, cv$lang, cv$translations), "). **", row_text(row, "title_original"), ".** ", type, ": ", event, "."), "presentation")
+      paste0("- ", authors, " (", format_cv_date(row$date, cv$lang, cv$translations), "). **", row_text(row, "title_original"), ".** ", type, ": ", event, ".")
     })
     blocks <- c(blocks, paste0("### ", year, "\n\n", paste(entries, collapse = "\n")))
   }
