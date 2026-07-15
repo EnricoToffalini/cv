@@ -64,6 +64,23 @@ assemble_static_site <- function(root = ".") {
   dir.create(site_pdf_dir, recursive = TRUE, showWarnings = FALSE)
   pdfs <- list.files(pdf_dir, pattern = "^cv-(it|en)-(full|short)[.]pdf$", full.names = TRUE)
   if (length(pdfs)) file.copy(pdfs, site_pdf_dir, overwrite = TRUE)
+
+  # Quarto's automatically generated "Other Formats" link cannot infer the
+  # separately rendered PDF filename, so it otherwise points back to the HTML.
+  html_files <- list.files(html_dir, pattern = "^(index|cv-(it|en)-(full|short))[.]html$", full.names = TRUE)
+  for (html_file in html_files) {
+    name <- basename(html_file)
+    variant <- if (identical(name, "index.html")) "en-full" else sub("^cv-(it|en)-(full|short)[.]html$", "\\1-\\2", name)
+    pdf_href <- paste0("pdf/cv-", variant, ".pdf")
+    contents <- paste(readLines(html_file, warn = FALSE, encoding = "UTF-8"), collapse = "\n")
+    contents <- gsub(
+      '(<div class="quarto-alternate-formats">.*?<a href=")[^"]+("[^>]*>.*?</a>)',
+      paste0("\\1", pdf_href, "\\2"),
+      contents,
+      perl = TRUE
+    )
+    writeLines(contents, html_file, useBytes = TRUE)
+  }
   invisible(TRUE)
 }
 
