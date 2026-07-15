@@ -1,4 +1,6 @@
 ---
+filters:
+  - filters/cv-layout.lua
 params:
   lang: it
   level: full

@@ -1,120 +1,69 @@
-$ink: #20262c;
-$muted: #5a626a;
-$accent: #176b70;
-$link: #8b3048;
-$rule: #cfd8d9;
+$ink: #1f1f1f;
+$muted: #5b6570;
+$accent: #17365d;
+$link: #1f5f99;
+$rule: #7f8c99;
+$light: #d9eaf7;
 
 body {
   color: $ink;
-  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 0.96rem;
-  line-height: 1.4;
+  line-height: 1.32;
   max-width: 980px;
   margin: 0 auto;
   padding: 2rem 2.4rem 3rem;
 }
 
-a {
-  color: $link;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-}
+a { color: $link; text-decoration-thickness: 0.06em; text-underline-offset: 2px; }
 
 .cv-header {
+  align-items: start;
   border-bottom: 2px solid $accent;
-  margin-bottom: 1.3rem;
+  display: grid;
+  gap: 1.4rem;
+  grid-template-columns: minmax(0, 1fr) 7.2rem;
+  margin-bottom: 1.35rem;
   padding-bottom: 0.9rem;
 }
 
-.cv-header h1 {
-  color: $ink;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 2.35rem;
-  font-weight: 650;
-  letter-spacing: 0;
-  line-height: 1.05;
-  margin: 0 0 0.45rem;
-}
+.cv-name { color: $accent; font-size: 2.05rem; font-weight: 650; line-height: 1.05; margin: 0 0 0.45rem; }
+.cv-details p { margin: 0.08rem 0; }
+.cv-photo { border: 1px solid $rule; border-radius: 2px; display: block; height: 7.2rem; object-fit: cover; width: 7.2rem; }
+.updated, .gdpr { color: $muted; font-size: 0.82rem; }
+.cv-variants { display: block; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 0.78rem; margin-top: 0.45rem; }
 
-.updated,
-.gdpr {
-  color: $muted;
-  font-size: 0.82rem;
-}
+h2 { border-bottom: 2px solid #111; color: #111; font-size: 1.22rem; font-weight: 650; margin: 1.45rem 0 0.72rem; padding-bottom: 0.18rem; }
+h3 { color: $accent; font-size: 1.02rem; font-weight: 700; margin: 1rem 0 0.35rem; }
 
-h2 {
-  border-bottom: 1px solid $rule;
-  color: $accent;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.28rem;
-  font-weight: 650;
-  letter-spacing: 0;
-  margin: 1.55rem 0 0.72rem;
-  padding-bottom: 0.2rem;
-}
-
-h3 {
-  color: $ink;
-  font-size: 1rem;
-  font-weight: 700;
-  letter-spacing: 0;
-  margin: 1rem 0 0.45rem;
-}
-
-.cv-entry,
-.publication,
-.presentation {
+.cv-entry {
   break-inside: avoid;
-  margin: 0 0 0.58rem;
+  column-gap: 1rem;
+  display: grid;
+  grid-template-columns: minmax(7.8rem, 9.5rem) minmax(0, 1fr);
+  margin: 0.2rem 0 0.72rem;
 }
+.cv-date { font-weight: 600; }
+.cv-body p:first-child { margin-top: 0; }
+.publication, .presentation { break-inside: avoid; }
+.publication { margin: 0 0 0.58rem; padding-left: 1.25rem; text-indent: -1.25rem; }
+.presentation { margin-bottom: 0.42rem; }
+p { margin: 0.25rem 0 0.55rem; }
+ul { margin: 0.3rem 0 0.7rem; padding-left: 1.25rem; }
+hr { border: 0; border-top: 1px solid $rule; margin-top: 1.5rem; }
 
-.publication {
-  padding-left: 1.25rem;
-  text-indent: -1.25rem;
-}
-
-.presentation {
-  margin-bottom: 0.42rem;
-}
-
-p {
-  margin: 0.25rem 0 0.55rem;
-}
-
-ul {
-  margin: 0.3rem 0 0.7rem;
-  padding-left: 1.25rem;
-}
-
-hr {
-  border: 0;
-  border-top: 1px solid $rule;
-  margin-top: 1.5rem;
-}
+.os-badges { display: inline-flex; flex-wrap: wrap; gap: 0.18rem; margin-left: 0.28rem; vertical-align: baseline; }
+.os-badge { background: $light; border: 1px solid $rule; border-radius: 0.18rem; color: $accent; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 0.67rem; font-weight: 650; letter-spacing: 0.01em; padding: 0.05rem 0.22rem; text-decoration: none; white-space: nowrap; }
 
 @media (max-width: 650px) {
-  body {
-    padding: 1.25rem 1rem 2rem;
-  }
-
-  .cv-header h1 {
-    font-size: 2rem;
-  }
+  body { padding: 1.25rem 1rem 2rem; }
+  .cv-header { grid-template-columns: 1fr; }
+  .cv-photo { grid-row: 1; }
+  .cv-entry { grid-template-columns: 1fr; row-gap: 0.15rem; }
 }
 
 @media print {
-  body {
-    font-size: 9.5pt;
-    max-width: none;
-    padding: 0;
-  }
-
-  a {
-    color: $ink;
-  }
-
-  h2,
-  h3 {
-    break-after: avoid;
-  }
+  body { font-size: 9.5pt; max-width: none; padding: 0; }
+  a { color: $ink; }
+  h2, h3 { break-after: avoid; }
 }

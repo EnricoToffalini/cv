@@ -2,7 +2,7 @@ canonical_files <- function() {
   c(
     "data/profile.yml", "data/positions.csv", "data/education.csv", "data/grants.csv",
     "data/teaching.csv", "data/service.csv", "data/presentations.csv", "data/outreach.csv",
-    "data/publications.bib", "config/variants.yml", "config/allowed_values.yml",
+    "data/publications.bib", "data/OPEN_SCIENCE_BADGES.md", "config/variants.yml", "config/allowed_values.yml",
     "i18n/it.yml", "i18n/en.yml", "cv.qmd"
   )
 }
@@ -192,6 +192,8 @@ validate_outputs <- function(root = ".", require_all = FALSE) {
   for (path in html) {
     text <- paste(readLines(path, warn = FALSE, encoding = "UTF-8"), collapse = "\n")
     cleaned <- gsub("XXXI{0,3} Congresso", "", text)
+    # Embedded binary resources may coincidentally contain strings such as "NA".
+    cleaned <- gsub('data:image/[^;]+;base64,[^"]+', "", cleaned, perl = TRUE)
     if (!grepl("Enrico Toffalini", text, fixed = TRUE)) errors <- c(errors, paste(basename(path), "does not contain the name"))
     if (grepl("\\b(?:NA|NULL|TODO|XXX)\\b", cleaned, perl = TRUE)) errors <- c(errors, paste(basename(path), "contains a forbidden placeholder"))
     if (grepl("Execution halted|Error in|Quitting from lines", text)) errors <- c(errors, paste(basename(path), "contains a rendering error"))

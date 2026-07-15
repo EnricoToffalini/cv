@@ -2,6 +2,26 @@ md_div <- function(content, class_name) {
   paste0("::: {.", class_name, "}\n", content, "\n:::\n")
 }
 
+cv_entry <- function(date, body) {
+  paste0(
+    "::: {.cv-entry}\n",
+    "::: {.cv-date}\n", date, "\n:::\n",
+    "::: {.cv-body}\n", body, "\n:::\n",
+    ":::\n"
+  )
+}
+
+render_variant_navigation <- function(cv) {
+  items <- c(
+    markdown_link("EN full", "index.html"),
+    markdown_link("EN short", "cv-en-short.html"),
+    markdown_link("IT full", "cv-it-full.html"),
+    markdown_link("IT short", "cv-it-short.html"),
+    markdown_link("PDF", paste0("pdf/cv-", cv$lang, "-", cv$level, ".pdf"))
+  )
+  paste0("[", paste(items, collapse = " · "), "]{.cv-variants}\n")
+}
+
 section_markdown <- function(cv, key, body) {
   if (is_blank(body)) return("")
   title <- t_cv(cv$translations, cv$lang, paste0("sections.", key))
@@ -21,11 +41,16 @@ render_header <- function(cv) {
   )
   updated <- format_cv_date(profile$source$last_updated, cv$lang, cv$translations)
   content <- paste0(
-    "# ", name, "\n\n",
+    "::: {.cv-identity}\n",
+    "::: {.cv-name}\n", name, "\n:::\n",
+    "::: {.cv-details}\n",
     "**", title, "**  \n",
     affiliation, "  \n",
-    markdown_link(person$email, paste0("mailto:", person$email)), " · ", paste(links, collapse = " · "), "  \n",
-    "[", t_cv(cv$translations, cv$lang, "updated"), ": ", updated, "]{.updated}"
+    person$email, " · ", paste(links, collapse = " · "), "  \n",
+    "[", t_cv(cv$translations, cv$lang, "updated"), ": ", updated, "]{.updated}\n",
+    render_variant_navigation(cv),
+    ":::\n:::\n",
+    "![](imgs/profile.jpg){.cv-photo}\n"
   )
   md_div(content, "cv-header")
 }
@@ -44,12 +69,11 @@ render_positions <- function(cv, data) {
     supervisors <- row_text(row, "supervisors")
     detail <- paste(nonempty(department, regime, place), collapse = " · ")
     extra <- nonempty(description, if (nzchar(supervisors)) paste0(t_cv(cv$translations, cv$lang, "supervisor"), ": ", gsub(";", ", ", supervisors, fixed = TRUE)) else "")
-    md_div(paste0(
-      "**", date, "**  \n",
+    cv_entry(date, paste0(
       "**", role, "**", if (nzchar(organization)) paste0(", ", organization) else "", "  \n",
       if (nzchar(detail)) paste0(detail, "  \n") else "",
       paste(extra, collapse = "  \n")
-    ), "cv-entry")
+    ))
   })
   paste(entries, collapse = "\n")
 }
@@ -67,11 +91,10 @@ render_education <- function(cv, data) {
       if (nzchar(row_text(row, "supervisor"))) paste0(t_cv(cv$translations, cv$lang, "supervisor"), ": ", row_text(row, "supervisor")) else "",
       if (nzchar(row_text(row, "co_supervisor"))) paste0(t_cv(cv$translations, cv$lang, "co_supervisor"), ": ", row_text(row, "co_supervisor")) else ""
     )
-    md_div(paste0(
-      "**", format_cv_date(row$award_date, cv$lang, cv$translations), "**  \n",
+    cv_entry(format_cv_date(row$award_date, cv$lang, cv$translations), paste0(
       "**", degree, if (nzchar(field)) paste0(" in ", field) else "", "**, ", row_text(row, "institution_original"), "  \n",
       paste(extras, collapse = " · ")
-    ), "cv-entry")
+    ))
   })
   paste(entries, collapse = "\n")
 }
@@ -119,12 +142,11 @@ render_grants <- function(cv, data) {
     amount <- if (nzchar(row_text(row, "amount_eur"))) paste0(t_cv(cv$translations, cv$lang, amount_key), ": ", format_euro(row$amount_eur, cv$lang)) else ""
     date <- format_date_range(row$start_date, row$end_date, row$current, cv$lang, cv$translations)
     codes <- nonempty(if (nzchar(row_text(row, "code"))) paste0("code ", row_text(row, "code")) else "", if (nzchar(row_text(row, "cup"))) paste0("CUP ", row_text(row, "cup")) else "")
-    md_div(paste0(
+    cv_entry(date, paste0(
       "**", row_text(row, "project_title_original"), "**  \n",
       row_text(row, "scheme_original"), " (", row_text(row, "call_year"), ") · ", t_cv(cv$translations, cv$lang, role_key),
-      if (nzchar(date)) paste0(" · ", date) else "", "  \n",
       paste(nonempty(paste(codes, collapse = " · "), amount), collapse = " · ")
-    ), "cv-entry")
+    ))
   })
   paste(entries, collapse = "\n")
 }
@@ -140,7 +162,7 @@ render_service <- function(cv, data) {
     if (nzchar(row_text(row, "url"))) title <- markdown_link(title, row_text(row, "url"))
     details <- nonempty(row_text(row, "organization_original"), row_text(row, "location"), description,
       if (nzchar(row_text(row, "count"))) paste0(t_cv(cv$translations, cv$lang, "count"), ": ", row_text(row, "count")) else "")
-    md_div(paste0(if (nzchar(date)) paste0("**", date, "**  \n") else "", "**", role, "** – ", title, "  \n", paste(details, collapse = " · ")), "cv-entry")
+    cv_entry(date, paste0("**", role, "** – ", title, "  \n", paste(details, collapse = " · ")))
   })
   paste(entries, collapse = "\n")
 }
@@ -187,11 +209,10 @@ render_teaching <- function(cv, data, mode) {
       role <- localized_value(row, "role", cv$lang)
       program <- localized_value(row, "program", cv$lang)
       hours <- if (nzchar(row_text(row, "hours_per_year"))) paste0(row_text(row, "hours_per_year"), " ", t_cv(cv$translations, cv$lang, if (length(strsplit(row_text(row, "academic_years"), ";", fixed = TRUE)[[1]]) > 1L) "hours_per_year" else "hours")) else ""
-      md_div(paste0(
-        "**", row_text(row, "academic_years"), "**  \n",
+      cv_entry(row_text(row, "academic_years"), paste0(
         "**", role, ": ", row_text(row, "course_title_original"), "**  \n",
         paste(nonempty(program, row_text(row, "institution_original"), hours, localized_value(row, "description", cv$lang)), collapse = " · ")
-      ), "cv-entry")
+      ))
     })
     blocks <- c(blocks, paste0("### ", t_cv(cv$translations, cv$lang, paste0("sections.teaching_", category)), "\n\n", paste(entries, collapse = "\n")))
   }
@@ -240,11 +261,10 @@ render_outreach <- function(cv, data) {
     role <- localized_value(row, "role", cv$lang)
     title <- row_text(row, "title_original")
     if (nzchar(row_text(row, "url"))) title <- markdown_link(title, row_text(row, "url"))
-    md_div(paste0(
-      "**", date, "**  \n",
+    cv_entry(date, paste0(
       "**", role, " – ", title, "**  \n",
       paste(nonempty(row_text(row, "organization_original"), row_text(row, "location"), localized_value(row, "description", cv$lang)), collapse = " · ")
-    ), "cv-entry")
+    ))
   })
   paste(entries, collapse = "\n")
 }

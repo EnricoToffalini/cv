@@ -53,6 +53,20 @@ render_variant <- function(lang, level, format = c("html", "pdf"), root = ".") {
   invisible(TRUE)
 }
 
+assemble_static_site <- function(root = ".") {
+  html_dir <- file.path(root, "dist", "html")
+  pdf_dir <- file.path(root, "dist", "pdf")
+  index_source <- file.path(html_dir, "cv-en-full.html")
+  if (!file.exists(index_source)) stop("Cannot create site homepage: cv-en-full.html is missing", call. = FALSE)
+  file.copy(index_source, file.path(html_dir, "index.html"), overwrite = TRUE)
+
+  site_pdf_dir <- file.path(html_dir, "pdf")
+  dir.create(site_pdf_dir, recursive = TRUE, showWarnings = FALSE)
+  pdfs <- list.files(pdf_dir, pattern = "^cv-(it|en)-(full|short)[.]pdf$", full.names = TRUE)
+  if (length(pdfs)) file.copy(pdfs, site_pdf_dir, overwrite = TRUE)
+  invisible(TRUE)
+}
+
 parse_cli_args <- function(args) {
   result <- list()
   i <- 1L

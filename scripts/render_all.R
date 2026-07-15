@@ -8,4 +8,5 @@ targets <- if (identical(format, "both")) c("html", "pdf") else format
 for (lang in c("it", "en")) {
   for (level in c("full", "short")) render_variant(lang, level, targets)
 }
+if ("html" %in% targets) assemble_static_site()
 message("Generated all requested CV variants in dist/html and dist/pdf.")

@@ -26,6 +26,14 @@ read_publications <- function(path = file.path("data", "publications.bib")) {
       eid = field("eid"),
       doi = normalize_doi(field("doi")),
       url = field("url"),
+      preregistered = as_cv_flag(field("preregistered")),
+      preregistration_url = field("preregistrationurl"),
+      open_data = as_cv_flag(field("opendata")),
+      data_url = field("dataurl"),
+      open_materials = as_cv_flag(field("openmaterials")),
+      materials_url = field("materialsurl"),
+      open_code = as_cv_flag(field("opencode")),
+      code_url = field("codeurl"),
       keywords = field("keywords"),
       source_page = suppressWarnings(as.integer(field("sourcepage"))),
       review_status = field("reviewstatus"),
@@ -43,6 +51,24 @@ read_publications <- function(path = file.path("data", "publications.bib")) {
   publications <- publications[order(as.integer(publications$year), publications$citekey, decreasing = TRUE), , drop = FALSE]
   rownames(publications) <- NULL
   publications
+}
+
+open_science_badges <- function(row) {
+  specs <- list(
+    preregistered = c("Preregistered", "preregistration_url"),
+    open_data = c("Open Data", "data_url"),
+    open_materials = c("Open Materials", "materials_url"),
+    open_code = c("Open Code", "code_url")
+  )
+  badges <- vapply(names(specs), function(flag) {
+    if (!isTRUE(row[[flag]])) return("")
+    label <- specs[[flag]][[1]]
+    url <- row_text(row, specs[[flag]][[2]])
+    if (nzchar(url)) paste0("[", label, "](", url, "){.os-badge}") else paste0("[", label, "]{.os-badge}")
+  }, character(1))
+  badges <- badges[nzchar(badges)]
+  if (!length(badges)) return("")
+  paste0(" [", paste(badges, collapse = " "), "]{.os-badges}")
 }
 
 format_publication <- function(row) {
@@ -69,7 +95,7 @@ format_publication <- function(row) {
   doi <- row_text(row, "doi")
   doi_text <- if (nzchar(doi)) markdown_link(paste0("doi:", doi), paste0("https://doi.org/", doi)) else ""
   paste0(authors, " (", year, "). ", title, ". ", venue_text,
-    if (nzchar(venue_text)) "." else "", if (nzchar(doi_text)) paste0(" ", doi_text, ".") else "")
+    if (nzchar(venue_text)) "." else "", if (nzchar(doi_text)) paste0(" ", doi_text, ".") else "", open_science_badges(row))
 }
 
 validate_bibliography <- function(publications) {
@@ -85,6 +111,15 @@ validate_bibliography <- function(publications) {
   if (any(required_missing)) errors <- c(errors, paste("Publication missing author/title/year:", paste(publications$citekey[required_missing], collapse = ", ")))
   known_categories <- c("journal_international", "journal_italian", "book_chapter", "editorial")
   if (any(!publications$category %in% known_categories)) errors <- c(errors, "Unknown publication category")
+  badge_urls <- c(preregistered = "preregistration_url", open_data = "data_url", open_materials = "materials_url", open_code = "code_url")
+  for (i in seq_len(nrow(publications))) {
+    row <- as.list(publications[i, , drop = FALSE])
+    for (flag in names(badge_urls)) {
+      url <- row_text(row, badge_urls[[flag]])
+      if (nzchar(url) && !isTRUE(row[[flag]])) errors <- c(errors, paste("Open-science URL without active", flag, "badge for", publications$citekey[[i]]))
+      if (nzchar(url) && !grepl("^https?://[^[:space:]]+$", url)) errors <- c(errors, paste("Invalid open-science URL for", publications$citekey[[i]], ":", url))
+    }
+  }
   if (any(!nzchar(publications$doi))) warnings <- c(warnings, paste(sum(!nzchar(publications$doi)), "publications have no DOI"))
   list(errors = errors, warnings = warnings)
 }

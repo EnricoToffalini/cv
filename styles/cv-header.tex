@@ -4,3 +4,21 @@
 \widowpenalty=10000
 \clubpenalty=10000
 \displaywidowpenalty=10000
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{array}
+\definecolor{cvblue}{HTML}{17365D}
+\newcommand{\cvheader}[3]{%
+  \noindent\begin{minipage}[t]{0.76\linewidth}
+  {\fontsize{21}{23}\selectfont\bfseries #1\par}
+  \vspace{3pt}#2
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.18\linewidth}\raggedleft
+  \includegraphics[width=\linewidth,height=3.1cm,keepaspectratio]{#3}
+  \end{minipage}\par\vspace{5pt}\hrule height 1.2pt\vspace{8pt}
+}
+\newcommand{\cvitemblock}[2]{%
+  \noindent\begin{tabular}{@{}p{3.0cm}@{\hspace{0.65cm}}l@{}}
+  \textbf{#1} & \begin{minipage}[t]{\dimexpr\linewidth-3.65cm\relax}#2\end{minipage}\\[3pt]
+  \end{tabular}\par
+}
