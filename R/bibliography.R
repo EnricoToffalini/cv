@@ -53,21 +53,30 @@ read_publications <- function(path = file.path("data", "publications.bib")) {
   publications
 }
 
-open_science_badges <- function(row) {
-  specs <- list(
-    preregistered = c("Preregistered", "preregistration_url"),
-    open_data = c("Open Data", "data_url"),
-    open_materials = c("Open Materials", "materials_url"),
-    open_code = c("Open Code", "code_url")
+open_science_badge_specs <- function() {
+  list(
+    preregistered = list(label = "Preregistered", url_field = "preregistration_url", image = "preregistered.png"),
+    open_data = list(label = "Open Data", url_field = "data_url", image = "open-data.png"),
+    open_materials = list(label = "Open Materials", url_field = "materials_url", image = "open-materials.png"),
+    open_code = list(label = "Open Code", url_field = "code_url", image = "open-code.png")
   )
+}
+
+open_science_badges <- function(row) {
+  specs <- open_science_badge_specs()
   badges <- vapply(names(specs), function(flag) {
     if (!isTRUE(row[[flag]])) return("")
-    label <- specs[[flag]][[1]]
-    url <- row_text(row, specs[[flag]][[2]])
+    label <- specs[[flag]]$label
+    url <- row_text(row, specs[[flag]]$url_field)
+    if (is_latex_cv()) {
+      image <- paste0("\\includegraphics[height=1.15em]{imgs/", specs[[flag]]$image, "}")
+      return(if (nzchar(url)) paste0("\\href{", url, "}{", image, "}") else image)
+    }
     if (nzchar(url)) paste0("[", label, "](", url, "){.os-badge}") else paste0("[", label, "]{.os-badge}")
   }, character(1))
   badges <- badges[nzchar(badges)]
   if (!length(badges)) return("")
+  if (is_latex_cv()) return(paste0("\\hspace{0.25em}", paste(badges, collapse = "\\hspace{0.10em}")))
   paste0(" [", paste(badges, collapse = " "), "]{.os-badges}")
 }
 
@@ -111,11 +120,11 @@ validate_bibliography <- function(publications) {
   if (any(required_missing)) errors <- c(errors, paste("Publication missing author/title/year:", paste(publications$citekey[required_missing], collapse = ", ")))
   known_categories <- c("journal_international", "journal_italian", "book_chapter", "editorial")
   if (any(!publications$category %in% known_categories)) errors <- c(errors, "Unknown publication category")
-  badge_urls <- c(preregistered = "preregistration_url", open_data = "data_url", open_materials = "materials_url", open_code = "code_url")
+  badge_specs <- open_science_badge_specs()
   for (i in seq_len(nrow(publications))) {
     row <- as.list(publications[i, , drop = FALSE])
-    for (flag in names(badge_urls)) {
-      url <- row_text(row, badge_urls[[flag]])
+    for (flag in names(badge_specs)) {
+      url <- row_text(row, badge_specs[[flag]]$url_field)
       if (nzchar(url) && !isTRUE(row[[flag]])) errors <- c(errors, paste("Open-science URL without active", flag, "badge for", publications$citekey[[i]]))
       if (nzchar(url) && !grepl("^https?://[^[:space:]]+$", url)) errors <- c(errors, paste("Invalid open-science URL for", publications$citekey[[i]], ":", url))
     }

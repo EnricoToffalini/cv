@@ -176,7 +176,16 @@ render_publications <- function(cv, data, mode) {
     subset <- data[data$category == group, , drop = FALSE]
     if (!nrow(subset)) next
     title <- t_cv(cv$translations, cv$lang, paste0("sections.", group))
-    entries <- apply(subset, 1L, function(row) md_div(format_publication(as.list(row)), "publication"))
+    entries <- vapply(seq_len(nrow(subset)), function(index) {
+      publication <- format_publication(as.list(subset[index, , drop = FALSE]))
+      if (!is_latex_cv()) return(md_div(publication, "publication"))
+      paste0(
+        "::: {.cv-publication}\n",
+        "::: {.cv-pub-number}\n", index, "\n:::\n\n",
+        "::: {.cv-pub-text}\n", publication, "\n:::\n",
+        ":::\n"
+      )
+    }, character(1))
     blocks <- c(blocks, paste0("### ", title, "\n\n", paste(entries, collapse = "\n")))
   }
   paste0(note, paste(blocks, collapse = "\n\n"))

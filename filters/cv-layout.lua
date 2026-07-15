@@ -34,5 +34,10 @@ function Div(el)
     local body = blocks_to_latex(child_div(el, "cv-body").content)
     return pandoc.RawBlock("latex", string.format("\\cvitemblock{%s}{%s}", date, body))
   end
+  if has_class(el, "cv-publication") then
+    local number = blocks_to_latex(child_div(el, "cv-pub-number").content)
+    local text = blocks_to_latex(child_div(el, "cv-pub-text").content)
+    return pandoc.RawBlock("latex", string.format("\\cvpublication{%s}{%s}", number, text))
+  end
   return nil
 end

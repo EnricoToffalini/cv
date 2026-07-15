@@ -11,6 +11,14 @@ as_cv_flag <- function(x) {
   toupper(trimws(as.character(x))) %in% c("TRUE", "T", "1", "YES")
 }
 
+is_latex_cv <- function() {
+  knitr::is_latex_output()
+}
+
+is_html_cv <- function() {
+  knitr::is_html_output()
+}
+
 as_cv_number <- function(x) {
   x <- trimws(as.character(x))
   x[!nzchar(x)] <- NA_character_

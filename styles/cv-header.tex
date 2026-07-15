@@ -18,7 +18,12 @@
   \end{minipage}\par\vspace{5pt}\hrule height 1.2pt\vspace{8pt}
 }
 \newcommand{\cvitemblock}[2]{%
-  \noindent\begin{tabular}{@{}p{3.0cm}@{\hspace{0.65cm}}l@{}}
-  \textbf{#1} & \begin{minipage}[t]{\dimexpr\linewidth-3.65cm\relax}#2\end{minipage}\\[3pt]
-  \end{tabular}\par
+  \noindent\begin{minipage}[t]{3.0cm}\raggedright\textbf{#1}\end{minipage}%
+  \hspace{0.65cm}%
+  \begin{minipage}[t]{\dimexpr\linewidth-3.65cm\relax}#2\end{minipage}\par\vspace{5pt}
+}
+\newcommand{\cvpublication}[2]{%
+  \noindent\begin{minipage}[t]{0.72cm}\raggedleft #1.\end{minipage}%
+  \hspace{0.33cm}%
+  \begin{minipage}[t]{\dimexpr\linewidth-1.05cm\relax}#2\end{minipage}\par\vspace{4pt}
 }
