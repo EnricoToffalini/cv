@@ -32,6 +32,7 @@ a { color: $link; text-decoration-thickness: 0.06em; text-underline-offset: 2px;
 .cv-photo { border: 1px solid $rule; border-radius: 2px; display: block; height: 7.2rem; object-fit: cover; width: 7.2rem; }
 .updated, .gdpr { color: $muted; font-size: 0.82rem; }
 .cv-variants { display: block; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 0.78rem; margin-top: 0.45rem; }
+.cv-language-flag { height: 0.72em; vertical-align: -0.05em; width: auto; }
 
 h2 { border-bottom: 2px solid #111; color: #111; font-size: 1.22rem; font-weight: 650; margin: 1.45rem 0 0.72rem; padding-bottom: 0.18rem; }
 h3 { color: $accent; font-size: 1.02rem; font-weight: 700; margin: 1rem 0 0.35rem; }

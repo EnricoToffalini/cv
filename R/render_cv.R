@@ -12,11 +12,15 @@ cv_entry <- function(date, body) {
 }
 
 render_variant_navigation <- function(cv) {
+  language_flag <- function(lang) {
+    if (is_latex_cv()) return(toupper(lang))
+    paste0("![", toupper(lang), "](imgs/", lang, ".png){.cv-language-flag}")
+  }
   items <- c(
-    markdown_link("EN full", "index.html"),
-    markdown_link("EN short", "cv-en-short.html"),
-    markdown_link("IT full", "cv-it-full.html"),
-    markdown_link("IT short", "cv-it-short.html"),
+    markdown_link(paste(language_flag("en"), "full"), "index.html"),
+    markdown_link(paste(language_flag("en"), "short"), "cv-en-short.html"),
+    markdown_link(paste(language_flag("it"), "full"), "cv-it-full.html"),
+    markdown_link(paste(language_flag("it"), "short"), "cv-it-short.html"),
     markdown_link("PDF", paste0("pdf/cv-", cv$lang, "-", cv$level, ".pdf"))
   )
   paste0("[", paste(items, collapse = " · "), "]{.cv-variants}\n")
@@ -35,7 +39,7 @@ render_header <- function(cv) {
   title <- person$title[[cv$lang]]
   affiliation <- paste(profile$affiliation$department[[cv$lang]], profile$affiliation$organization[[cv$lang]], sep = ", ")
   links <- c(
-    markdown_link("Web", profile$links$homepage),
+    markdown_link(t_cv(cv$translations, cv$lang, "website"), profile$links$homepage),
     markdown_link("GitHub", profile$links$github),
     markdown_link(t_cv(cv$translations, cv$lang, "slides_available"), profile$links$slides)
   )
